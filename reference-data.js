@@ -3663,6 +3663,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Historical Books Section Quiz",
+      kicker: "Section",
+      summary: "Checks the Old Testament historical books as a connected story of land, leaders, monarchy, division, exile, and return.",
+      detail: "This quiz helps a beginner see Joshua through Esther as more than separate narratives. The section tracks Israel's life in the land, the rise and fall of kings, covenant failure, and God's preservation of hope.",
+      start: "Take this after the Torah/Pentateuch section quiz and after skimming Joshua through Esther at a high level.",
+      tags: ["historical books", "section", "Old Testament"],
+      questions: [
+        {
+          prompt: "What books are usually included in the Old Testament historical books?",
+          answer: "Joshua, Judges, Ruth, 1 Samuel, 2 Samuel, 1 Kings, 2 Kings, 1 Chronicles, 2 Chronicles, Ezra, Nehemiah, and Esther.",
+        },
+        {
+          prompt: "What major movement does this section trace?",
+          answer: "It traces Israel entering the land, living under judges and kings, splitting into kingdoms, going into exile, and beginning to return.",
+        },
+        {
+          prompt: "Why is this section important for the rest of the Bible?",
+          answer: "It shows the consequences of covenant faithfulness and failure and prepares the ground for the prophets and later hope for restoration.",
+        },
+      ],
+    },
+    {
       title: "Genesis Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Genesis as the opening of the Bible's story.",
