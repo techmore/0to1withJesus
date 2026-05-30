@@ -72,6 +72,24 @@ export function renderGroupedResources(items) {
     .join("");
 }
 
+export function renderStarterResources(items) {
+  const picks = items.filter((item) => item.featured);
+  if (!picks.length) return "";
+
+  return `
+    <section class="resource-group">
+      <div class="section-heading section-heading-wide">
+        <p class="eyebrow">Start here</p>
+        <h2>Best beginner resources</h2>
+        <p>These are the safest first picks if you want a short on-ramp before diving into the larger library.</p>
+      </div>
+      <div class="grid grid-3">
+        ${picks.map(resourceCard).join("")}
+      </div>
+    </section>
+  `;
+}
+
 export function poetryCard(item) {
   const scriptureMarkup = item.scripture
     .map((passage) => `<span class="pill">${escapeHtml(passage)}</span>`)

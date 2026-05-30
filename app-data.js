@@ -233,6 +233,7 @@ export const resources = [
   {
     title: "BibleProject",
     category: "video",
+    featured: true,
     copy: "Clear Bible overviews, reading plans, classes, and guides that help you see Scripture as one story pointing to Jesus.",
       tags: ["Video", "Course", "Bible"],
     links: [
@@ -243,6 +244,7 @@ export const resources = [
   {
     title: "Mere Christianity",
     category: "books",
+    featured: true,
     copy: "A classic first book for understanding the basic claims of Christianity in clear, thoughtful language.",
     tags: ["Book", "Starter"],
     links: [
@@ -263,6 +265,7 @@ export const resources = [
   {
     title: "Bible translation comparison",
     category: "tool",
+    featured: true,
     copy: "Compare a passage in several translations to see meaning, wording, and tone side by side.",
     tags: ["Tool", "Bible"],
     links: [
@@ -333,6 +336,7 @@ export const resources = [
   {
     title: "The Bible in a Year with Fr. Mike Schmitz",
     category: "audio",
+    featured: true,
     copy: "A 365-episode listening path through the Catholic Bible with Scripture readings, brief commentary, and prayer. Best used as a replacement habit for scrolling.",
     tags: ["Audio", "Scripture", "Daily"],
     links: [
