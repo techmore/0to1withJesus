@@ -1,16 +1,10 @@
-import { sections, poetryWorks, drawerTopics } from './app-data.js';
-import { poetryCard, renderSection, glossaryCard } from './app-view.js';
+import { sections, drawerTopics } from './app-data.js';
+import { renderSection, glossaryCard } from './app-view.js';
 import { setupGlossary, setupGlossaryLinks } from './app-glossary.js';
 import { setupFirstPath, setupStaticLightbulbs } from './app-path.js';
 import { setupResources } from './app-resources.js';
 import { setupTabs, setupGuideDrawer } from './app-ui.js';
-
-function setupPoetry() {
-  const grid = document.getElementById("poetry-grid");
-  if (!grid) return;
-
-  grid.innerHTML = poetryWorks.map(poetryCard).join("");
-}
+import { setupPoetry } from './app-poetry.js';
 
 function bootstrapApp() {
   renderSection("overview-grid", sections.overview);
