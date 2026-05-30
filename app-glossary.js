@@ -1,4 +1,4 @@
-import { glossaryTerms } from './app-data.js';
+import { glossaryTerms } from './glossary-data.js';
 import { glossaryCard } from './app-view.js';
 
 export function setupGlossary() {

@@ -290,69 +290,6 @@ export const firstSevenDays = [
   },
 ];
 
-export const glossaryTerms = [
-  {
-    term: "Gospel",
-    short: "Good news centered on Jesus.",
-    definition: "The announcement that God has acted through Jesus' life, death, and resurrection to bring forgiveness, reconciliation, and new life.",
-  },
-  {
-    term: "Messiah",
-    short: "God's promised king.",
-    definition: "The anointed one promised in Israel's story. Christians believe Jesus is the Messiah who fulfills God's promises.",
-  },
-  {
-    term: "Grace",
-    short: "Gift, not earning.",
-    definition: "God's generous favor toward people who cannot repair themselves or earn his love by performance.",
-  },
-  {
-    term: "Faith",
-    short: "Trusting allegiance.",
-    definition: "More than agreeing with facts. Faith means trusting Jesus and learning to follow him with your life.",
-  },
-  {
-    term: "Repentance",
-    short: "Turning toward God.",
-    definition: "A change of direction: telling the truth, turning from sin, and moving toward God.",
-  },
-  {
-    term: "Sin",
-    short: "The rupture Jesus heals.",
-    definition: "Human rebellion, corruption, and failure that separates people from God, harms others, and distorts the self.",
-  },
-  {
-    term: "Kingdom of God",
-    short: "God's reign arriving.",
-    definition: "God's rule and renewal breaking into the world through Jesus, calling people into a new way of life.",
-  },
-  {
-    term: "Disciple",
-    short: "A learner who follows.",
-    definition: "Someone who learns from Jesus, follows his way, and becomes shaped by his teaching and life.",
-  },
-  {
-    term: "Resurrection",
-    short: "Jesus raised from death.",
-    definition: "The Christian claim that Jesus was bodily raised from the dead, defeating death and beginning new creation.",
-  },
-  {
-    term: "Sabbath",
-    short: "A rhythm of rest.",
-    definition: "A biblical rhythm of stopping, resting, worshiping, and remembering that life is received from God.",
-  },
-  {
-    term: "Prayer",
-    short: "Honest attention to God.",
-    definition: "Speaking and listening to God with gratitude, confession, requests, trust, and worship.",
-  },
-  {
-    term: "Church",
-    short: "The people of Jesus.",
-    definition: "Not only a building. The church is the community of people gathered around Jesus as Lord.",
-  },
-];
-
 export const drawerTopics = {
   john: {
     kicker: "Why John?",
