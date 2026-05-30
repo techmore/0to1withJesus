@@ -3685,6 +3685,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Biblical Novellas Section Quiz",
+      kicker: "Section",
+      summary: "Checks the short narrative books that show God's hidden providence in ordinary and dangerous places.",
+      detail: "This quiz helps a beginner see Ruth, Esther, Jonah, and similar short narratives as compact stories with big theological purpose: loyalty, providence, courage, mercy, and surprising inclusion.",
+      start: "Take this after the historical books section quiz and after skimming the short narrative books as a group.",
+      tags: ["biblical novellas", "section", "Old Testament"],
+      questions: [
+        {
+          prompt: "What books are often treated as biblical novellas or short narrative books?",
+          answer: "Ruth, Esther, Jonah, and sometimes similar short narrative works depending on the grouping used.",
+        },
+        {
+          prompt: "What do these books often emphasize?",
+          answer: "They emphasize providence, covenant loyalty, courage, mercy, and God's care in ordinary or politically tense situations.",
+        },
+        {
+          prompt: "Why are these stories important even though they are short?",
+          answer: "They show how God works through hidden circumstances, faithful people, and surprising reversals to preserve his purposes.",
+        },
+      ],
+    },
+    {
       title: "Genesis Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Genesis as the opening of the Bible's story.",
