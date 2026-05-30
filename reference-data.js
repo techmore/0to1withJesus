@@ -3817,6 +3817,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Catholic Letters Section Quiz",
+      kicker: "Section",
+      summary: "Checks the shorter New Testament letters that speak across the churches.",
+      detail: "This quiz helps a beginner see James, Peter, John, and Jude as a shared section that emphasizes faithful living, endurance under pressure, warning against false teaching, love, and hope.",
+      start: "Take this after the letters section quiz and after skimming James through Jude as a group.",
+      tags: ["Catholic Letters", "section", "New Testament"],
+      questions: [
+        {
+          prompt: "Which books are usually grouped as the Catholic Letters?",
+          answer: "James, 1 Peter, 2 Peter, 1 John, 2 John, 3 John, and Jude.",
+        },
+        {
+          prompt: "What kinds of themes do these letters often emphasize?",
+          answer: "Faithful living, endurance, holiness, love, warning against false teaching, and hope in Christ's return.",
+        },
+        {
+          prompt: "Why are these letters useful for beginners?",
+          answer: "They show how the gospel shapes everyday conduct, suffering, community life, and discernment across the churches.",
+        },
+      ],
+    },
+    {
       title: "Genesis Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Genesis as the opening of the Bible's story.",
