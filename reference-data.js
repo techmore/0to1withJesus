@@ -3641,6 +3641,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis Book Quiz",
+      kicker: "Book",
+      summary: "A whole-book check for Genesis as the opening of the Bible's story.",
+      detail: "This quiz helps a beginner see Genesis as more than a pile of origin stories. It introduces creation, fall, promise, covenant, patriarchs, blessing, family tension, and the move toward Exodus.",
+      start: "Take this after reading Genesis 1-50 or after a broad sweep through the opening story.",
+      tags: ["Genesis", "book", "beginnings"],
+      questions: [
+        {
+          prompt: "What big themes open Genesis?",
+          answer: "Creation, goodness, human vocation, temptation, sin, promise, and the start of God's rescue story.",
+        },
+        {
+          prompt: "Which promise to Abraham helps drive the rest of the Bible?",
+          answer: "God promises Abraham descendants, land, blessing, and a covenant relationship that will bless the nations.",
+        },
+        {
+          prompt: "How does Genesis end?",
+          answer: "It ends with Joseph and his family in Egypt, setting the stage for Exodus and Israel's slavery and rescue.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
