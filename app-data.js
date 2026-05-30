@@ -1,5 +1,5 @@
 import { amazonSearch, youtubeSearch } from './link-helpers.js';
-import { escapeHtml, glossaryLinks } from './render-utils.js';
+import { glossaryLinks } from './render-utils.js';
 
 export const sections = {
   overview: [

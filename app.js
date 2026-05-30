@@ -1,6 +1,4 @@
-import { amazonSearch, youtubeSearch } from './link-helpers.js';
 import { sections, poetryWorks, resources, drawerTopics } from './app-data.js';
-import { escapeHtml, glossaryLinks } from './render-utils.js';
 import { poetryCard, renderSection, renderGroupedResources, renderStarterResources, glossaryCard } from './app-view.js';
 import { setupGlossary, setupGlossaryLinks } from './app-glossary.js';
 import { setupFirstPath, setupStaticLightbulbs } from './app-path.js';
