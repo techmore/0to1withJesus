@@ -3979,6 +3979,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Romans Book Quiz",
+      kicker: "Book",
+      summary: "A whole-book check for Romans as Paul's clearest explanation of sin, grace, faith, and new life in Christ.",
+      detail: "This quiz helps a beginner see Romans' shape: everyone needs grace, justification is God's gift, believers are united with Christ, and transformed living follows the gospel.",
+      start: "Take this after Acts if you want Paul's main argument in a broad, beginner-friendly form.",
+      tags: ["Romans", "Paul", "book"],
+      questions: [
+        {
+          prompt: "What is Romans mainly explaining?",
+          answer: "Romans explains how God saves sinners by grace through faith in Jesus Christ.",
+        },
+        {
+          prompt: "What problem does Romans say all people share?",
+          answer: "All people are under sin and need God's righteousness rather than their own effort.",
+        },
+        {
+          prompt: "What does Romans say new life should look like?",
+          answer: "New life should look like transformed living, renewed minds, love, humility, and service to God and others.",
+        },
+      ],
+    },
+    {
       title: "Romans and Ephesians Doctrine Quiz",
       kicker: "Books",
       summary: "Checks grace, faith, church, unity, and new life in Christ.",
