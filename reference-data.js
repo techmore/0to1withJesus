@@ -3795,6 +3795,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Letters Section Quiz",
+      kicker: "Section",
+      summary: "Checks the New Testament letters as real pastoral communication that teaches doctrine, correction, and formation.",
+      detail: "This quiz helps a beginner see the letters as a connected section of instruction for churches and leaders. The letters explain the gospel, shape community life, address problems, and call believers to endurance and holiness.",
+      start: "Take this after Acts and after browsing the Paul’s Churches material and the Letters to Churches overview.",
+      tags: ["letters", "section", "New Testament"],
+      questions: [
+        {
+          prompt: "What are the New Testament letters for?",
+          answer: "They are real pastoral messages that teach, correct, encourage, and form churches and believers in the gospel.",
+        },
+        {
+          prompt: "Why should letters not be read as isolated theology quotes?",
+          answer: "They were written to actual communities facing specific problems, questions, and pressures.",
+        },
+        {
+          prompt: "What kinds of themes do the letters often address?",
+          answer: "Grace, faith, holiness, unity, leadership, suffering, hope, worship, and practical Christian living.",
+        },
+      ],
+    },
+    {
       title: "Genesis Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Genesis as the opening of the Bible's story.",
