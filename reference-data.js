@@ -4001,6 +4001,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Ephesians Book Quiz",
+      kicker: "Book",
+      summary: "A whole-book check for Ephesians as Paul's letter about identity in Christ, unity, the church, and standing firm.",
+      detail: "This quiz helps a beginner see Ephesians' shape: God blesses believers in Christ, tears down dividing walls, builds one new people, and calls the church to live wisely and stand strong.",
+      start: "Take this after Romans if you want Paul's teaching on the church in a broad, beginner-friendly form.",
+      tags: ["Ephesians", "Paul", "book"],
+      questions: [
+        {
+          prompt: "What major identity phrase keeps appearing in Ephesians?",
+          answer: "In Christ.",
+        },
+        {
+          prompt: "What does Ephesians say God is doing through the church?",
+          answer: "God is forming one new people in Christ, uniting Jews and Gentiles, and displaying his wisdom through the church.",
+        },
+        {
+          prompt: "What does Ephesians say believers should do at the end of the letter?",
+          answer: "Put on God's armor, stand firm, and live wisely in the Lord.",
+        },
+      ],
+    },
+    {
       title: "Romans and Ephesians Doctrine Quiz",
       kicker: "Books",
       summary: "Checks grace, faith, church, unity, and new life in Christ.",

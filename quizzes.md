@@ -173,11 +173,10 @@ Each chapter gets:
 
 ## Suggested Rollout
 
-1. Current `reference.js` bank now covers starter quizzes plus a second layer for vocabulary, worship/Temple terms, Genesis/Exodus people, kings and prophets, women of the Bible, Old Testament timeline, New Testament timeline, biblical geography, Gospels, Acts, Paul's churches, prophets/exile, wisdom/prayer, and Revelation/new creation. Genesis, Exodus, Matthew, Mark, Luke, Acts, John, and Romans book coverage have now started too.
-2. Add book-level quizzes next: Ephesians.
-3. Add section quizzes for Old Testament groupings and New Testament groupings.
-4. Add chapter-level quizzes only after book quizzes are solid, starting with John, Luke, Acts, Romans, Genesis, and Exodus.
-5. Move to a generated data file if the quiz bank gets too large for `reference.js`.
+1. Current `reference.js` bank now covers starter quizzes plus a second layer for vocabulary, worship/Temple terms, Genesis/Exodus people, kings and prophets, women of the Bible, Old Testament timeline, New Testament timeline, biblical geography, Gospels, Acts, Paul's churches, prophets/exile, wisdom/prayer, and Revelation/new creation. Genesis, Exodus, Matthew, Mark, Luke, Acts, John, Romans, and Ephesians book coverage have now started too.
+2. Add section quizzes for Old Testament groupings and New Testament groupings.
+3. Add chapter-level quizzes only after book quizzes are solid, starting with John, Luke, Acts, Romans, Genesis, and Exodus.
+4. Move to a generated data file if the quiz bank gets too large for `reference.js`.
 
 ## Data Structure Target
 
