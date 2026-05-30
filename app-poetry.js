@@ -1,4 +1,4 @@
-import { poetryWorks } from './app-data.js';
+import { poetryWorks } from './poetry-data.js';
 import { poetryCard } from './app-view.js';
 
 export function setupPoetry() {
