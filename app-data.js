@@ -1,5 +1,5 @@
 import { amazonSearch, youtubeSearch } from './link-helpers.js';
-import { escapeHtml } from './render-utils.js';
+import { escapeHtml, glossaryLinks } from './render-utils.js';
 
 export const sections = {
   overview: [
@@ -518,19 +518,6 @@ export const glossaryTerms = [
     definition: "Not only a building. The church is the community of people gathered around Jesus as Lord.",
   },
 ];
-
-function glossaryLinks(terms) {
-  const links = terms
-    .map((term) => `<button class="glossary-link" type="button" data-glossary-term="${escapeHtml(term)}">${escapeHtml(term)}</button>`)
-    .join("");
-
-  return `
-    <div class="drawer-glossary-links" aria-label="Related glossary terms">
-      <span>Related words</span>
-      <div>${links}</div>
-    </div>
-  `;
-}
 
 export const drawerTopics = {
   john: {
