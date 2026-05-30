@@ -23,6 +23,9 @@ Open `index.html` directly or serve the folder with a simple static server:
 python3 -m http.server 8000
 ```
 
+If you prefer shortcuts, `make test` runs the verification suite and `make serve` starts the
+static server.
+
 The project pins Node 20 in `.nvmrc` and the `engines` field in `package.json`, so use that
 runtime for local verification when possible.
 
