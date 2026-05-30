@@ -1,5 +1,5 @@
 import { escapeHtml } from './render-utils.js';
-import { resourceGroups, resourceStarterSection } from './app-data.js';
+import { resourceGroups, resourceStarterSection } from './resource-data.js';
 
 function searchText(item) {
   return [item.title, item.copy, ...(item.tags || []), ...(item.links || []).map((link) => link.label)]

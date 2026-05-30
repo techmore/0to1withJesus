@@ -1,4 +1,4 @@
-import { resources } from './app-data.js';
+import { resources } from './resource-data.js';
 import { renderGroupedResources, renderResourceFilters, renderStarterResources } from './app-view.js';
 
 function setupResourceFilters() {
