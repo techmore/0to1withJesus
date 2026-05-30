@@ -36,6 +36,12 @@ npm test
 Pushes and pull requests run the same `npm test` suite through GitHub Actions. If that check fails,
 fix the local test suite first and then push again.
 
+## Roadmap note
+
+The roadmap page uses a browser import map that loads React and React Flow from `esm.sh`. The local
+verification scripts confirm the HTML shell and script wiring, but the interactive flow itself still
+depends on the browser resolving those remote modules.
+
 ## Deploy
 
 Push to GitHub and enable GitHub Pages from the repository settings. The site is static and does not require a build step.
