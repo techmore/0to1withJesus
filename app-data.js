@@ -393,6 +393,126 @@ export const resources = [
       { label: "Amazon editions", href: amazonSearch("Dante Divine Comedy translation notes") },
     ],
   },
+  {
+    title: "Yale Old Testament course",
+    category: "course",
+    copy: "Christine Hayes' Introduction to the Old Testament is a widely respected academic gateway to the Hebrew Bible, especially for historical-critical context.",
+    tags: ["Course", "Old Testament", "Academic"],
+    links: [
+      { label: "YouTube lecture", href: "https://www.youtube.com/watch?v=mo-YL-lv3RY" },
+      { label: "YaleCourses channel", href: "https://www.youtube.com/@YaleCourses" },
+    ],
+  },
+  {
+    title: "Yale New Testament history and literature",
+    category: "course",
+    copy: "Dale B. Martin's New Testament course offers rigorous historical study of early Christianity and the New Testament in context.",
+    tags: ["Course", "New Testament", "Academic"],
+    links: [
+      { label: "YouTube playlist", href: "https://www.youtube.com/playlist?list=PL279CFA55C51E75E0" },
+      { label: "YaleCourses channel", href: "https://www.youtube.com/@YaleCourses" },
+    ],
+  },
+  {
+    title: "Harvard Hebrew Bible",
+    category: "course",
+    copy: "Shaye J. D. Cohen's Hebrew Bible lectures are useful for seeing major books and themes through the lens of modern scholarship and ancient interpretation.",
+    tags: ["Course", "Hebrew Bible", "Academic"],
+    links: [
+      { label: "Lecture video", href: "https://www.youtube.com/watch?v=Y-lw-_nf_NM" },
+      { label: "Harvard online", href: "https://online-learning.harvard.edu/" },
+    ],
+  },
+  {
+    title: "Yale Divinity Bible study series",
+    category: "video",
+    copy: "Focused Bible study lectures by Yale scholars, useful for targeted deep dives on books like Revelation and other difficult texts.",
+    tags: ["Video", "Bible Study", "Academic"],
+    links: [
+      { label: "Playlist", href: "https://www.youtube.com/playlist?list=PLBAB8086DE927F07F" },
+      { label: "Yale Divinity School", href: "https://divinity.yale.edu/" },
+    ],
+  },
+  {
+    title: "Bart D. Ehrman lectures and podcast",
+    category: "video",
+    copy: "High-volume critical scholarship on textual criticism, the historical Jesus, the origins of Christianity, and individual New Testament books.",
+    tags: ["Video", "Podcast", "Academic"],
+    links: [
+      { label: "YouTube channel", href: "https://www.youtube.com/user/bartdehrman" },
+      { label: "Podcast / site", href: "https://ehrmanblog.org/" },
+    ],
+  },
+  {
+    title: "N. T. Wright lectures and courses",
+    category: "video",
+    copy: "Deep dives into Paul, Jesus, the kingdom of God, and the broader biblical narrative from a leading New Testament scholar.",
+    tags: ["Video", "NT Wright", "Academic"],
+    links: [
+      { label: "NT Wright Online", href: "https://www.youtube.com/c/NTWrightOnline" },
+      { label: "N. T. Wright page", href: "https://ntwrightpage.com/" },
+    ],
+  },
+  {
+    title: "BibleProject",
+    category: "video",
+    copy: "Outstanding animated overviews, podcasts, and thematic series for big-picture understanding of the Bible.",
+    tags: ["Video", "Bible", "Overview"],
+    links: [
+      { label: "YouTube channel", href: "https://www.youtube.com/channel/UCVfwlh9XpX2Y_tQfjeln9QA" },
+      { label: "Website", href: "https://bibleproject.com/" },
+    ],
+  },
+  {
+    title: "The Master's Seminary and other evangelical seminary courses",
+    category: "course",
+    copy: "Conservative but detailed teaching resources for verse-by-verse exegesis and biblical theology.",
+    tags: ["Course", "Seminary", "Bible"],
+    links: [
+      { label: "The Master's Seminary", href: "https://www.tms.edu/" },
+      { label: "TMS YouTube", href: "https://www.youtube.com/@TheMastersSeminary" },
+    ],
+  },
+  {
+    title: "DiscipleDojo",
+    category: "video",
+    copy: "Practical study Bible reviews, scholar interviews, book studies, and jargon explanations that bridge academic and church audiences.",
+    tags: ["Video", "Study", "Bible"],
+    links: [
+      { label: "YouTube channel", href: "https://www.youtube.com/@DiscipleDojo" },
+      { label: "Website", href: "https://discipledojo.com/" },
+    ],
+  },
+  {
+    title: "Michael S. Heiser legacy content",
+    category: "video",
+    copy: "Legacy lectures on the unseen realm, divine council, and the Deuteronomy 32 worldview for readers who want a scholarly but accessible angle.",
+    tags: ["Video", "Legacy", "Bible"],
+    links: [
+      { label: "YouTube search", href: youtubeSearch("Michael Heiser unseen realm lecture") },
+      { label: "Website archive", href: "https://drmsh.com/" },
+    ],
+  },
+  {
+    title: "Carmen Joy Imes",
+    category: "video",
+    copy: "Shorter but insightful Old Testament themes, especially helpful for covenant, identity, and Exodus-related material.",
+    tags: ["Video", "Old Testament", "Academic"],
+    links: [
+      { label: "YouTube search", href: youtubeSearch("Carmen Joy Imes Old Testament lecture") },
+      { label: "Website", href: "https://www.carmenjoyimes.com/" },
+    ],
+  },
+  {
+    title: "Israel Institute of Biblical Studies",
+    category: "course",
+    copy: "Hebrew language and text-focused deep dives for readers who want original-language and context-oriented study.",
+    tags: ["Course", "Hebrew", "Bible"],
+    links: [
+      { label: "Website", href: "https://israelbiblicalstudies.com/" },
+      { label: "Courses", href: "https://israelbiblicalstudies.com/course-catalog/" },
+    ],
+  },
 ];
 
 export const firstSevenDays = [
