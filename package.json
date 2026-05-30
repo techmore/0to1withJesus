@@ -3,6 +3,6 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "test": "node smoke-test.mjs && node page-verify.mjs"
+    "test": "node smoke-test.mjs && node page-verify.mjs && node http-smoke.mjs"
   }
 }
