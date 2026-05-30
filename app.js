@@ -1,58 +1,14 @@
 import { amazonSearch, youtubeSearch } from './link-helpers.js';
-import { sections, poetryWorks, resources, firstSevenDays, glossaryTerms, drawerTopics } from './app-data.js';
+import { sections, poetryWorks, resources, firstSevenDays, drawerTopics } from './app-data.js';
 import { escapeHtml, glossaryLinks } from './render-utils.js';
 import { resourceCard, poetryCard, renderSection, glossaryCard, firstDayCard, lightbulbIcon } from './app-view.js';
+import { setupGlossary, setupGlossaryLinks } from './app-glossary.js';
 
 function setupPoetry() {
   const grid = document.getElementById("poetry-grid");
   if (!grid) return;
 
   grid.innerHTML = poetryWorks.map(poetryCard).join("");
-}
-
-function setupGlossary() {
-  const grid = document.getElementById("glossary-grid");
-  const search = document.getElementById("glossary-search");
-
-  if (!grid) return;
-
-  grid.innerHTML = glossaryTerms.map(glossaryCard).join("");
-
-  const cards = [...grid.querySelectorAll(".glossary-card")];
-  const apply = () => {
-    const query = (search?.value || "").trim().toLowerCase();
-    cards.forEach((card) => {
-      const text = card.dataset.glossarySearch || "";
-      card.style.display = !query || text.includes(query) ? "" : "none";
-    });
-  };
-
-  search?.addEventListener("input", apply);
-}
-
-function setupGlossaryLinks() {
-  document.addEventListener("click", (event) => {
-    const link = event.target.closest("[data-glossary-term]");
-    if (!link) return;
-
-    const search = document.getElementById("glossary-search");
-    const glossary = document.getElementById("glossary");
-    const closeButton = document.querySelector("[data-drawer-close]");
-
-    if (!glossary || !search) {
-      window.location.href = "./reference.html#vocabulary";
-      return;
-    }
-
-    closeButton?.click();
-
-    window.setTimeout(() => {
-      search.value = link.dataset.glossaryTerm || "";
-      search.dispatchEvent(new Event("input", { bubbles: true }));
-      glossary?.scrollIntoView({ behavior: "smooth", block: "start" });
-      search?.focus();
-    }, 220);
-  });
 }
 
 function setupStaticLightbulbs() {
