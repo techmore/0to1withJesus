@@ -4155,6 +4155,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 1 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Israel's oppression in Egypt and the beginning of the rescue setting.",
+      detail: "This quiz helps a beginner see Exodus 1 as the setup for deliverance: a new king, oppression, fear, and the survival of God's people under pressure.",
+      start: "Take this after reading Exodus 1 carefully and noticing the repeated language of growth and oppression.",
+      tags: ["Exodus 1", "chapter", "slavery"],
+      questions: [
+        {
+          prompt: "What changes in Egypt at the beginning of Exodus 1?",
+          answer: "A new king arises who does not know Joseph and begins oppressing Israel.",
+        },
+        {
+          prompt: "How do the Israelites respond to oppression?",
+          answer: "They keep multiplying, and the Pharaoh tries to control them through fear and forced labor.",
+        },
+        {
+          prompt: "Why is Exodus 1 important for the rest of the book?",
+          answer: "It sets up the need for rescue and shows the stage on which God's deliverance will happen.",
+        },
+      ],
+    },
+    {
       title: "Luke and Acts Bridge Quiz",
       kicker: "Books",
       summary: "Checks how Luke's Gospel connects to the early church story in Acts.",
