@@ -4243,6 +4243,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 5 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the first confrontation with Pharaoh and the worsening burden on Israel.",
+      detail: "This quiz helps a beginner see Exodus 5 as the chapter where obedience seems to make things worse at first. It focuses on Pharaoh's refusal, the increased labor, and the people's discouragement.",
+      start: "Take this after reading Exodus 5 carefully and noticing how the outcome feels like a setback before deliverance.",
+      tags: ["Exodus 5", "chapter", "Pharaoh"],
+      questions: [
+        {
+          prompt: "What happens when Moses and Aaron first confront Pharaoh?",
+          answer: "Pharaoh refuses to let Israel go and responds by increasing their burdens.",
+        },
+        {
+          prompt: "How do the Israelite leaders respond to the new burden?",
+          answer: "They are discouraged because the demand for bricks and the workload get worse.",
+        },
+        {
+          prompt: "Why is Exodus 5 important in the rescue story?",
+          answer: "It shows that God's mission can face immediate resistance before deliverance becomes visible.",
+        },
+      ],
+    },
+    {
       title: "Luke and Acts Bridge Quiz",
       kicker: "Books",
       summary: "Checks how Luke's Gospel connects to the early church story in Acts.",
