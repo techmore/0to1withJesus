@@ -3759,6 +3759,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Mark Book Quiz",
+      kicker: "Book",
+      summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
+      detail: "This quiz helps a beginner see Mark's shape: Jesus acts with authority, people struggle to understand him, the cross comes into focus, and discipleship means following him in faith and service.",
+      start: "Take this after the Gospel of Matthew if you want to compare Mark's shorter, faster presentation of Jesus.",
+      tags: ["Mark", "Gospel", "book"],
+      questions: [
+        {
+          prompt: "What makes Mark feel different from the other Gospels?",
+          answer: "Mark moves quickly through events and emphasizes action, urgency, and opposition.",
+        },
+        {
+          prompt: "What key question does Mark press about Jesus' identity?",
+          answer: "Mark asks who Jesus is and shows that his authority, miracles, and suffering reveal him as the Son of God and the suffering Messiah.",
+        },
+        {
+          prompt: "What does Mark highlight about discipleship?",
+          answer: "Mark shows that discipleship means following Jesus, learning from him, and accepting the way of the cross rather than seeking status.",
+        },
+      ],
+    },
+    {
       title: "John 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the opening claims about Jesus as the Word, light, and Son.",
