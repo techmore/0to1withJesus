@@ -3839,6 +3839,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Revelation Section Quiz",
+      kicker: "Section",
+      summary: "Checks Revelation as the final New Testament section of worship, witness, judgment, and new creation.",
+      detail: "This quiz helps a beginner see Revelation as a book of unveiled reality and hope for churches under pressure. It focuses on worship, endurance, symbolic vision, judgment on evil, and God's final renewal of creation.",
+      start: "Take this after the Revelation and New Creation quiz and after skimming Revelation as a whole.",
+      tags: ["Revelation", "section", "New Testament"],
+      questions: [
+        {
+          prompt: "What is Revelation mainly trying to do?",
+          answer: "Revelation unveils reality from God's perspective and strengthens churches to worship, endure, and remain faithful.",
+        },
+        {
+          prompt: "What major themes run through Revelation?",
+          answer: "Worship, witness, judgment on evil, endurance under pressure, Jesus' victory, and the promise of new creation.",
+        },
+        {
+          prompt: "Why is Revelation important for beginners?",
+          answer: "It helps readers see the Bible's story ending in God's final victory, justice, and renewed presence with his people.",
+        },
+      ],
+    },
+    {
       title: "Genesis Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Genesis as the opening of the Bible's story.",
