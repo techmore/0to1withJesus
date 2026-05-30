@@ -5,9 +5,15 @@ Static GitHub Pages site for a beginner-friendly, comprehensive guide to Jesus, 
 ## Pages
 
 - `index.html` for the home hub and resource library
-- `reference.html` for terms, people, combined location/timeline context, and quizzes
-- `roadmap.html` for the dedicated mastery tree and long-form learning path
+- `reference.html` for vocabulary, people, locations, timeline, Christian traditions, and quizzes
+- `roadmap.html` for the interactive mastery tree and long-form learning path
 - `quizzes.md` for quiz coverage planning, canon/chapter inventory, and source references
+
+## Reference experience
+
+The reference browser keeps one search active across every section. Section tabs show live match
+counts so readers can see whether a person, place, doctrine, timeline event, or quiz set is relevant
+before switching views.
 
 ## Local preview
 
@@ -15,6 +21,14 @@ Open `index.html` directly or serve the folder with a simple static server:
 
 ```bash
 python3 -m http.server 8000
+```
+
+## Verify
+
+Run the smoke and page checks with:
+
+```bash
+npm test
 ```
 
 ## Deploy
