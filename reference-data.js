@@ -3773,6 +3773,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Acts Section Quiz",
+      kicker: "Section",
+      summary: "Checks Acts as the story of Spirit-empowered witness moving from Jerusalem toward the nations.",
+      detail: "This quiz helps a beginner see Acts as the bridge from Jesus' ministry to the early church's mission. It focuses on Pentecost, public witness, boundary crossing, church formation, and the spread of the gospel.",
+      start: "Take this after the Acts mission quiz or after skimming Acts as a whole.",
+      tags: ["Acts", "section", "New Testament"],
+      questions: [
+        {
+          prompt: "What is Acts mainly about?",
+          answer: "Acts tells how the risen Jesus continues his work through the Holy Spirit and the witness of the church.",
+        },
+        {
+          prompt: "What movement pattern shapes Acts?",
+          answer: "The witness begins in Jerusalem and moves outward through Judea, Samaria, and toward the nations.",
+        },
+        {
+          prompt: "Why is Pentecost a major turning point?",
+          answer: "Pentecost marks the Spirit's empowering presence and the public launch of the church's witness.",
+        },
+      ],
+    },
+    {
       title: "Genesis Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Genesis as the opening of the Bible's story.",
