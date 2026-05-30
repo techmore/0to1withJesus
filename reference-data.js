@@ -3957,6 +3957,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "John Book Quiz",
+      kicker: "Book",
+      summary: "A whole-book check for John as the Gospel of belief, signs, glory, and life in Jesus' name.",
+      detail: "This quiz helps a beginner see John's shape: the Word becomes flesh, signs point to Jesus' identity, conflict grows, the cross reveals glory, and resurrection opens new life.",
+      start: "Take this after the Gospel of Luke if you want the broad sweep before the chapter-level John quizzes.",
+      tags: ["John", "Gospel", "book"],
+      questions: [
+        {
+          prompt: "What is John trying to help readers do?",
+          answer: "John wants readers to believe that Jesus is the Messiah, the Son of God, and to have life in his name.",
+        },
+        {
+          prompt: "Why are signs important in John?",
+          answer: "The signs reveal Jesus' identity and invite belief, but they also expose misunderstanding and division.",
+        },
+        {
+          prompt: "How does John present the cross and resurrection?",
+          answer: "John presents them as the revelation of Jesus' glory, victory, and the source of life for believers.",
+        },
+      ],
+    },
+    {
       title: "Romans and Ephesians Doctrine Quiz",
       kicker: "Books",
       summary: "Checks grace, faith, church, unity, and new life in Christ.",
