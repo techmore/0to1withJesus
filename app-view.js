@@ -1,4 +1,5 @@
 import { escapeHtml } from './render-utils.js';
+import { resourceGroups } from './app-data.js';
 
 function searchText(item) {
   return [item.title, item.copy, ...(item.tags || []), ...(item.links || []).map((link) => link.label)]
@@ -32,22 +33,7 @@ export function resourceCard(item) {
   `;
 }
 
-function resourceSectionLabel(category) {
-  const labels = {
-    video: "Video",
-    books: "Books",
-    course: "Courses",
-    scholarly: "Scholarly",
-    audio: "Audio",
-    tool: "Tools",
-    general: "General",
-  };
-
-  return labels[category] || category;
-}
-
 export function renderGroupedResources(items) {
-  const order = ["video", "books", "course", "scholarly", "audio", "tool", "general"];
   const grouped = new Map();
 
   items.forEach((item) => {
@@ -56,16 +42,16 @@ export function renderGroupedResources(items) {
     grouped.get(category).push(item);
   });
 
-  return order
-    .filter((category) => grouped.has(category))
-    .map((category) => `
+  return resourceGroups
+    .filter(({ key }) => grouped.has(key))
+    .map(({ key, label }) => `
       <section class="resource-group">
         <div class="section-heading section-heading-wide">
-          <p class="eyebrow">${escapeHtml(resourceSectionLabel(category))}</p>
-          <h2>${escapeHtml(resourceSectionLabel(category))}</h2>
+          <p class="eyebrow">${escapeHtml(label)}</p>
+          <h2>${escapeHtml(label)}</h2>
         </div>
         <div class="grid grid-3">
-          ${grouped.get(category).map(resourceCard).join("")}
+          ${grouped.get(key).map(resourceCard).join("")}
         </div>
       </section>
     `)

@@ -519,6 +519,16 @@ export const resources = [
   },
 ];
 
+export const resourceGroups = [
+  { key: "video", label: "Video" },
+  { key: "books", label: "Books" },
+  { key: "course", label: "Courses" },
+  { key: "scholarly", label: "Scholarly" },
+  { key: "audio", label: "Audio" },
+  { key: "tool", label: "Tools" },
+  { key: "general", label: "General" },
+];
+
 export const firstSevenDays = [
   {
     day: 1,
