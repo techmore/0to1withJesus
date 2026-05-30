@@ -1,4 +1,4 @@
-import { sections, drawerTopics } from './app-data.js';
+import { sections } from './app-data.js';
 import { renderSection, glossaryCard } from './app-view.js';
 import { setupGlossary, setupGlossaryLinks } from './app-glossary.js';
 import { setupFirstPath, setupStaticLightbulbs } from './app-path.js';
