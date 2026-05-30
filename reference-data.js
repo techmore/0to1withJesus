@@ -4177,6 +4177,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 2 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Moses' rescue as a baby, his early identity, and the move toward exile in Midian.",
+      detail: "This quiz helps a beginner see Exodus 2 as the chapter where Moses enters the story through hidden protection, compassion, conflict, and flight. It sets up his calling without flattening the tension.",
+      start: "Take this after reading Exodus 2 carefully and noticing how the chapter links rescue, justice, and exile.",
+      tags: ["Exodus 2", "chapter", "Moses"],
+      questions: [
+        {
+          prompt: "How is Moses rescued as a baby?",
+          answer: "His mother places him in a basket on the Nile, and Pharaoh's daughter takes him in.",
+        },
+        {
+          prompt: "What does Moses do when he sees injustice?",
+          answer: "He defends an oppressed Hebrew by striking down an Egyptian, then later has to flee.",
+        },
+        {
+          prompt: "Where does Moses go after fleeing Egypt?",
+          answer: "He goes to Midian, where he begins a new stage of waiting before God's calling.",
+        },
+      ],
+    },
+    {
       title: "Luke and Acts Bridge Quiz",
       kicker: "Books",
       summary: "Checks how Luke's Gospel connects to the early church story in Acts.",
