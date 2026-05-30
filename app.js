@@ -743,6 +743,14 @@ const drawerTopics = {
             daily provision, forgiveness, and deliverance from evil.
           </p>
         </article>
+        <article class="drawer-resource">
+          <span class="pill">Scripture</span>
+          <h4>Approved prayer patterns</h4>
+          <p>
+            The Bible gives good forms for prayer: praise, confession, lament, thanksgiving, request,
+            and intercession. The Psalms and apostolic prayers are a safe place to begin.
+          </p>
+        </article>
       </div>
 
       <div class="drawer-section drawer-note">

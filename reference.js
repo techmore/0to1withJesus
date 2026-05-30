@@ -953,6 +953,14 @@ const referenceData = {
       tags: ["prayer", "priesthood", "Jesus"],
     },
     {
+      title: "Approved Prayers",
+      kicker: "Scripture-shaped prayer",
+      summary: "Biblical prayers and prayer patterns that give beginners healthy language for praying.",
+      detail: "The Bible approves many kinds of prayer: praise, confession, lament, thanksgiving, request, and intercession. The Lord's Prayer, the Psalms, and the apostolic prayers in the letters give beginners a good pattern for praying with honesty and trust.",
+      start: "Use this when you want prayer forms that stay close to Scripture instead of becoming vague or performative.",
+      tags: ["prayer", "Psalms", "Jesus"],
+    },
+    {
       title: "Mediator",
       kicker: "One who stands between",
       summary: "Someone who represents and reconciles parties who are separated.",
@@ -3581,6 +3589,36 @@ const referenceData = {
   ],
   quizzes: [
     {
+      title: "Bible Organization Starter Quiz",
+      kicker: "Whole Bible",
+      summary: "A beginner-friendly overview of the Old and New Testaments, book order, and major Bible groupings.",
+      detail: "Use this first if someone needs a map of the Bible before they start reading. It covers the two testaments, the main book groups, where books sit in the story, and how to find passages with more confidence.",
+      start: "Take this before jumping into a book-specific quiz so the Bible feels organized instead of random.",
+      tags: ["whole Bible", "beginner", "overview"],
+      questions: [
+        {
+          prompt: "What are the two main divisions of the Christian Bible?",
+          answer: "The Old Testament and the New Testament.",
+        },
+        {
+          prompt: "What does the Old Testament mainly tell the story of?",
+          answer: "It tells the story of creation, Israel, the covenant, the law, the promised land, kings, prophets, exile, and hope for restoration.",
+        },
+        {
+          prompt: "What does the New Testament mainly tell the story of?",
+          answer: "It tells the story of Jesus, the start of the church, the spread of the gospel, and the life of God's people in light of Christ.",
+        },
+        {
+          prompt: "What are the main book groups in the Bible, in broad order?",
+          answer: "Law or Torah, historical books, wisdom and poetry, prophets, Gospels, Acts, letters, and Revelation.",
+        },
+        {
+          prompt: "Why is it helpful to know where a book sits in the Bible story?",
+          answer: "Because it helps you know the setting, the people, the covenant stage, and whether the passage is before Jesus, during his ministry, or after the resurrection.",
+        },
+      ],
+    },
+    {
       title: "Bible Sections Foundation Quiz",
       kicker: "Whole Bible",
       summary: "Checks whether the major sections of the Bible are starting to make sense.",
@@ -3599,6 +3637,36 @@ const referenceData = {
         {
           prompt: "Why do Acts and the letters make more sense after the Gospels?",
           answer: "Acts shows the movement after Jesus' resurrection, and the letters explain how early Christians understood and lived the gospel.",
+        },
+      ],
+    },
+    {
+      title: "Prayer and Approved Prayers Quiz",
+      kicker: "Prayer",
+      summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
+      detail: "Use this when someone needs help praying without sounding fake or getting lost. It focuses on the Lord's Prayer, Psalms, confession, lament, thanksgiving, request, and intercession.",
+      start: "Take this alongside the prayer panel and after reading Matthew 6:9-13 and a few Psalms.",
+      tags: ["prayer", "Psalms", "Jesus"],
+      questions: [
+        {
+          prompt: "What is a healthy starting point for beginner prayer?",
+          answer: "Honest words to God: gratitude, confession, request, and trust.",
+        },
+        {
+          prompt: "Which prayer did Jesus teach his disciples as a model?",
+          answer: "The Lord's Prayer.",
+        },
+        {
+          prompt: "What kinds of prayer are common and approved in the Bible?",
+          answer: "Praise, lament, confession, thanksgiving, request, and intercession.",
+        },
+        {
+          prompt: "Why are the Psalms useful for prayer?",
+          answer: "They give Scripture-shaped language for worship, grief, trust, repentance, and hope.",
+        },
+        {
+          prompt: "What is intercession?",
+          answer: "Praying on behalf of someone else.",
         },
       ],
     },
