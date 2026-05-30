@@ -4199,6 +4199,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 3 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the burning bush, God's name, and Moses' calling to return to Egypt.",
+      detail: "This quiz helps a beginner see Exodus 3 as the chapter where rescue begins to take shape through revelation. God's holiness, compassion, and self-identification are central before Moses is sent back to Pharaoh.",
+      start: "Take this after reading Exodus 3 carefully and noticing how the chapter moves from wilderness to mission.",
+      tags: ["Exodus 3", "chapter", "burning bush"],
+      questions: [
+        {
+          prompt: "Where does God meet Moses in Exodus 3?",
+          answer: "At the burning bush on holy ground in the wilderness.",
+        },
+        {
+          prompt: "What does God reveal about his concern for Israel?",
+          answer: "God says he has seen their affliction, heard their cry, and will deliver them.",
+        },
+        {
+          prompt: "What does God tell Moses to do?",
+          answer: "Go back to Egypt and confront Pharaoh as the one sent by God.",
+        },
+      ],
+    },
+    {
       title: "Luke and Acts Bridge Quiz",
       kicker: "Books",
       summary: "Checks how Luke's Gospel connects to the early church story in Acts.",
