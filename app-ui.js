@@ -1,4 +1,4 @@
-import { drawerTopics } from './app-data.js';
+import { drawerTopics } from './drawer-data.js';
 
 export function setupTabs() {
   const tabs = [...document.querySelectorAll("[data-tab]")];

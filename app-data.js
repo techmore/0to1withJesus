@@ -1,6 +1,5 @@
 import { amazonSearch } from './link-helpers.js';
 import { glossaryLinks } from './render-utils.js';
-
 export const sections = {
   overview: [
     {
