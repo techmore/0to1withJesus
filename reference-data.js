@@ -3781,6 +3781,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Luke Book Quiz",
+      kicker: "Book",
+      summary: "A whole-book check for Luke as the Gospel of the Spirit, outsiders, prayer, and salvation for all kinds of people.",
+      detail: "This quiz helps a beginner see Luke's shape: Jesus brings good news to the poor, outsiders, and the hurting; prayer and the Spirit matter throughout; and the story opens into Acts.",
+      start: "Take this after the Gospel of Mark if you want to see Luke's wider social and salvation focus.",
+      tags: ["Luke", "Gospel", "book"],
+      questions: [
+        {
+          prompt: "What makes Luke distinct among the Gospels?",
+          answer: "Luke emphasizes the Holy Spirit, prayer, compassion for outsiders, and the reach of salvation to many kinds of people.",
+        },
+        {
+          prompt: "What kind of people does Luke especially highlight?",
+          answer: "Luke highlights the poor, sinners, women, Gentiles, Samaritans, the sick, and people others might overlook.",
+        },
+        {
+          prompt: "How does Luke prepare for Acts?",
+          answer: "Luke ends by pointing toward Jesus' ascension and the continuing work of God that Acts will carry forward through the church.",
+        },
+      ],
+    },
+    {
       title: "John 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the opening claims about Jesus as the Word, light, and Son.",
