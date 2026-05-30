@@ -3641,6 +3641,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Torah/Pentateuch Section Quiz",
+      kicker: "Section",
+      summary: "Checks the first major Old Testament section: Genesis through Deuteronomy.",
+      detail: "This quiz helps a beginner see the Torah as a connected story of creation, promise, rescue, covenant, law, and wilderness formation rather than five separate books.",
+      start: "Take this after the Bible Sections Foundation Quiz or after reading Genesis through Deuteronomy at a high level.",
+      tags: ["Torah", "Pentateuch", "section"],
+      questions: [
+        {
+          prompt: "What books are included in the Torah or Pentateuch?",
+          answer: "Genesis, Exodus, Leviticus, Numbers, and Deuteronomy.",
+        },
+        {
+          prompt: "What big story does the Torah tell?",
+          answer: "It tells the story of creation, human failure, promise, rescue from Egypt, covenant, law, and preparation to enter the land.",
+        },
+        {
+          prompt: "Why is the Torah foundational for the rest of the Bible?",
+          answer: "It establishes the creation story, covenant pattern, God's holiness, and the people's identity that later books build on.",
+        },
+      ],
+    },
+    {
       title: "Genesis Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Genesis as the opening of the Bible's story.",
