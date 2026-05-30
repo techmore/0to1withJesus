@@ -4133,6 +4133,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 1 Quiz",
+      kicker: "Chapter",
+      summary: "Checks creation, order, image-bearing, blessing, and the goodness of the first chapter of Scripture.",
+      detail: "This quiz helps a beginner read Genesis 1 as theology, not just poetry or science debate. It focuses on God's creative speech, ordered goodness, humanity's calling, and the repeated claim that creation is good.",
+      start: "Take this after reading Genesis 1 carefully and noticing the sequence of days.",
+      tags: ["Genesis 1", "chapter", "creation"],
+      questions: [
+        {
+          prompt: "What is God doing in Genesis 1?",
+          answer: "God is creating, ordering, and blessing the world by his word.",
+        },
+        {
+          prompt: "What is one central statement about humanity in this chapter?",
+          answer: "Humans are made in the image of God.",
+        },
+        {
+          prompt: "What repeated verdict matters most in Genesis 1?",
+          answer: "God sees that creation is good.",
+        },
+      ],
+    },
+    {
       title: "Luke and Acts Bridge Quiz",
       kicker: "Books",
       summary: "Checks how Luke's Gospel connects to the early church story in Acts.",
