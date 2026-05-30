@@ -3737,6 +3737,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew Book Quiz",
+      kicker: "Book",
+      summary: "A whole-book check for Matthew as the Gospel of fulfillment, kingdom, and discipleship.",
+      detail: "This quiz helps a beginner see Matthew's shape: Jesus fulfills Scripture, announces the kingdom, teaches disciples, confronts hypocrisy, and sends his followers out.",
+      start: "Take this after the Gospel of John if you want to see another Gospel shaped by fulfillment and teaching.",
+      tags: ["Matthew", "Gospel", "book"],
+      questions: [
+        {
+          prompt: "What major theme does Matthew use to connect Jesus with the Old Testament?",
+          answer: "Matthew emphasizes fulfillment: Jesus fulfills Scripture, promise, and Israel's hope.",
+        },
+        {
+          prompt: "What kind of teaching is central in Matthew?",
+          answer: "Matthew presents Jesus as a teacher of the kingdom who forms disciples through sermons, parables, and commands.",
+        },
+        {
+          prompt: "What does Matthew highlight at the end of the Gospel?",
+          answer: "Matthew highlights Jesus' authority and the commission for his followers to make disciples of all nations.",
+        },
+      ],
+    },
+    {
       title: "John 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the opening claims about Jesus as the Word, light, and Son.",
