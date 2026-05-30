@@ -3935,6 +3935,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Acts Book Quiz",
+      kicker: "Book",
+      summary: "A whole-book check for Acts as the story of the Spirit-empowered church expanding from Jerusalem outward.",
+      detail: "This quiz helps a beginner see Acts' shape: the risen Jesus sends his witnesses, the Spirit empowers the church, the gospel crosses barriers, and the mission moves outward.",
+      start: "Take this after Luke and after Acts 1-2 if you want the broad sweep before finer mission details.",
+      tags: ["Acts", "book", "mission"],
+      questions: [
+        {
+          prompt: "What is Acts mainly about?",
+          answer: "Acts tells how the risen Jesus continues his work through the Holy Spirit and the witness of the church.",
+        },
+        {
+          prompt: "What pattern shapes the movement of Acts?",
+          answer: "The gospel moves outward from Jerusalem to Judea, Samaria, and the ends of the earth.",
+        },
+        {
+          prompt: "Why is the Holy Spirit so important in Acts?",
+          answer: "The Spirit empowers witness, forms the church, and guides the expansion of the gospel across barriers.",
+        },
+      ],
+    },
+    {
       title: "Romans and Ephesians Doctrine Quiz",
       kicker: "Books",
       summary: "Checks grace, faith, church, unity, and new life in Christ.",
