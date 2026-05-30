@@ -6,6 +6,6 @@
     "node": ">=20 <21"
   },
   "scripts": {
-    "test": "node smoke-test.mjs && node page-verify.mjs && node http-smoke.mjs"
+    "test": "node smoke-test.mjs && node page-verify.mjs && node data-verify.mjs && node http-smoke.mjs"
   }
 }
