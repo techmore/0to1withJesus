@@ -3751,6 +3751,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Gospels Section Quiz",
+      kicker: "Section",
+      summary: "Checks the four Gospels as one witness with four distinct angles on Jesus.",
+      detail: "This quiz helps a beginner see Matthew, Mark, Luke, and John together as a unified portrait of Jesus that includes kingdom, action, compassion, signs, cross, resurrection, and call to discipleship.",
+      start: "Take this after reading the Gospel overview quiz and after skimming Matthew, Mark, Luke, and John as a group.",
+      tags: ["Gospels", "section", "New Testament"],
+      questions: [
+        {
+          prompt: "Why do we have four Gospels instead of one merged account?",
+          answer: "Each Gospel gives a faithful witness with its own emphasis, audience, and theological focus.",
+        },
+        {
+          prompt: "What do the four Gospels together center on?",
+          answer: "They center on Jesus' identity, teaching, miracles, death, resurrection, and call to follow him.",
+        },
+        {
+          prompt: "How do the Gospels differ in emphasis?",
+          answer: "Matthew stresses fulfillment and kingdom teaching, Mark emphasizes action and suffering, Luke highlights the Spirit and outsiders, and John focuses on signs and belief.",
+        },
+      ],
+    },
+    {
       title: "Genesis Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Genesis as the opening of the Bible's story.",
