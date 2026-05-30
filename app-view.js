@@ -76,6 +76,13 @@ export function renderStarterResources(items) {
   `;
 }
 
+export function renderResourceFilters() {
+  return `
+    <button class="chip is-active" data-filter="all">All</button>
+    ${resourceGroups.map(({ key, label }) => `<button class="chip" data-filter="${escapeHtml(key)}">${escapeHtml(label)}</button>`).join("")}
+  `;
+}
+
 export function poetryCard(item) {
   const scriptureMarkup = item.scripture
     .map((passage) => `<span class="pill">${escapeHtml(passage)}</span>`)

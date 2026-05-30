@@ -1,5 +1,5 @@
 import { sections, poetryWorks, resources, drawerTopics } from './app-data.js';
-import { poetryCard, renderSection, renderGroupedResources, renderStarterResources, glossaryCard } from './app-view.js';
+import { poetryCard, renderSection, renderGroupedResources, renderStarterResources, renderResourceFilters, glossaryCard } from './app-view.js';
 import { setupGlossary, setupGlossaryLinks } from './app-glossary.js';
 import { setupFirstPath, setupStaticLightbulbs } from './app-path.js';
 
@@ -130,6 +130,11 @@ function bootstrapApp() {
   const resourceGrid = document.getElementById("resource-grid");
   if (resourceGrid) {
     resourceGrid.innerHTML = `${renderStarterResources(resources)}${renderGroupedResources(resources)}`;
+  }
+
+  const resourceChips = document.querySelector(".resource-toolbar .chips");
+  if (resourceChips) {
+    resourceChips.innerHTML = renderResourceFilters();
   }
 
   setupTabs();
