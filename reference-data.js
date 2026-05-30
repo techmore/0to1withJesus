@@ -3663,6 +3663,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus Book Quiz",
+      kicker: "Book",
+      summary: "A whole-book check for Exodus as the Bible's great rescue story.",
+      detail: "This quiz helps a beginner see Exodus as the defining rescue memory of the Old Testament. It covers slavery, Moses, plagues, Passover, the sea, Sinai, covenant, and worship.",
+      start: "Take this after Genesis so the move from promise to rescue stays connected.",
+      tags: ["Exodus", "book", "rescue"],
+      questions: [
+        {
+          prompt: "What problem opens Exodus?",
+          answer: "Israel is enslaved in Egypt and cries out for rescue.",
+        },
+        {
+          prompt: "What central event shows God rescuing his people?",
+          answer: "The Exodus itself: God delivers Israel out of slavery through signs, judgment, and passage through the sea.",
+        },
+        {
+          prompt: "Why is Sinai important in Exodus?",
+          answer: "Sinai is where God gives covenant law and forms Israel as his people after rescue.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
