@@ -395,7 +395,7 @@ export const resources = [
   },
   {
     title: "Yale Old Testament course",
-    category: "course",
+    category: "scholarly",
     copy: "Christine Hayes' Introduction to the Old Testament is a widely respected academic gateway to the Hebrew Bible, especially for historical-critical context.",
     tags: ["Course", "Old Testament", "Academic"],
     links: [
@@ -405,7 +405,7 @@ export const resources = [
   },
   {
     title: "Yale New Testament history and literature",
-    category: "course",
+    category: "scholarly",
     copy: "Dale B. Martin's New Testament course offers rigorous historical study of early Christianity and the New Testament in context.",
     tags: ["Course", "New Testament", "Academic"],
     links: [
@@ -415,7 +415,7 @@ export const resources = [
   },
   {
     title: "Harvard Hebrew Bible",
-    category: "course",
+    category: "scholarly",
     copy: "Shaye J. D. Cohen's Hebrew Bible lectures are useful for seeing major books and themes through the lens of modern scholarship and ancient interpretation.",
     tags: ["Course", "Hebrew Bible", "Academic"],
     links: [
@@ -425,7 +425,7 @@ export const resources = [
   },
   {
     title: "Yale Divinity Bible study series",
-    category: "video",
+    category: "scholarly",
     copy: "Focused Bible study lectures by Yale scholars, useful for targeted deep dives on books like Revelation and other difficult texts.",
     tags: ["Video", "Bible Study", "Academic"],
     links: [
@@ -435,7 +435,7 @@ export const resources = [
   },
   {
     title: "Bart D. Ehrman lectures and podcast",
-    category: "video",
+    category: "scholarly",
     copy: "High-volume critical scholarship on textual criticism, the historical Jesus, the origins of Christianity, and individual New Testament books.",
     tags: ["Video", "Podcast", "Academic"],
     links: [
@@ -445,7 +445,7 @@ export const resources = [
   },
   {
     title: "N. T. Wright lectures and courses",
-    category: "video",
+    category: "scholarly",
     copy: "Deep dives into Paul, Jesus, the kingdom of God, and the broader biblical narrative from a leading New Testament scholar.",
     tags: ["Video", "NT Wright", "Academic"],
     links: [
@@ -455,7 +455,7 @@ export const resources = [
   },
   {
     title: "BibleProject",
-    category: "video",
+    category: "scholarly",
     copy: "Outstanding animated overviews, podcasts, and thematic series for big-picture understanding of the Bible.",
     tags: ["Video", "Bible", "Overview"],
     links: [
@@ -465,7 +465,7 @@ export const resources = [
   },
   {
     title: "The Master's Seminary and other evangelical seminary courses",
-    category: "course",
+    category: "scholarly",
     copy: "Conservative but detailed teaching resources for verse-by-verse exegesis and biblical theology.",
     tags: ["Course", "Seminary", "Bible"],
     links: [
@@ -475,7 +475,7 @@ export const resources = [
   },
   {
     title: "DiscipleDojo",
-    category: "video",
+    category: "scholarly",
     copy: "Practical study Bible reviews, scholar interviews, book studies, and jargon explanations that bridge academic and church audiences.",
     tags: ["Video", "Study", "Bible"],
     links: [
@@ -485,7 +485,7 @@ export const resources = [
   },
   {
     title: "Michael S. Heiser legacy content",
-    category: "video",
+    category: "scholarly",
     copy: "Legacy lectures on the unseen realm, divine council, and the Deuteronomy 32 worldview for readers who want a scholarly but accessible angle.",
     tags: ["Video", "Legacy", "Bible"],
     links: [
@@ -495,7 +495,7 @@ export const resources = [
   },
   {
     title: "Carmen Joy Imes",
-    category: "video",
+    category: "scholarly",
     copy: "Shorter but insightful Old Testament themes, especially helpful for covenant, identity, and Exodus-related material.",
     tags: ["Video", "Old Testament", "Academic"],
     links: [
@@ -505,7 +505,7 @@ export const resources = [
   },
   {
     title: "Israel Institute of Biblical Studies",
-    category: "course",
+    category: "scholarly",
     copy: "Hebrew language and text-focused deep dives for readers who want original-language and context-oriented study.",
     tags: ["Course", "Hebrew", "Bible"],
     links: [

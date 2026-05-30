@@ -37,6 +37,7 @@ function resourceSectionLabel(category) {
     video: "Video",
     books: "Books",
     course: "Courses",
+    scholarly: "Scholarly",
     audio: "Audio",
     tool: "Tools",
     general: "General",
@@ -46,7 +47,7 @@ function resourceSectionLabel(category) {
 }
 
 export function renderGroupedResources(items) {
-  const order = ["video", "books", "course", "audio", "tool", "general"];
+  const order = ["video", "books", "course", "scholarly", "audio", "tool", "general"];
   const grouped = new Map();
 
   items.forEach((item) => {
