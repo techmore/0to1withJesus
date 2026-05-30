@@ -1,4 +1,5 @@
 import { referenceData } from './reference-data.js';
+import { escapeHtml } from './render-utils.js';
 
 
 const tabLabels = {
@@ -33,15 +34,6 @@ const state = {
   quizSize: "25",
   randomQuiz: [],
 };
-
-function escapeHtml(text) {
-  return String(text)
-    .replaceAll("&", "&amp;")
-    .replaceAll("<", "&lt;")
-    .replaceAll(">", "&gt;")
-    .replaceAll('"', "&quot;")
-    .replaceAll("'", "&#39;");
-}
 
 function searchable(item) {
   return [

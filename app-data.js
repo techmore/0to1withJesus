@@ -1,4 +1,5 @@
 import { amazonSearch, youtubeSearch } from './link-helpers.js';
+import { escapeHtml } from './render-utils.js';
 
 export const sections = {
   overview: [
@@ -529,15 +530,6 @@ function glossaryLinks(terms) {
       <div>${links}</div>
     </div>
   `;
-}
-
-function escapeHtml(text) {
-  return String(text)
-    .replaceAll("&", "&amp;")
-    .replaceAll("<", "&lt;")
-    .replaceAll(">", "&gt;")
-    .replaceAll('"', "&quot;")
-    .replaceAll("'", "&#39;");
 }
 
 export const drawerTopics = {

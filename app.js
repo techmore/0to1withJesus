@@ -1,5 +1,6 @@
 import { amazonSearch, youtubeSearch } from './link-helpers.js';
 import { sections, poetryWorks, resources, firstSevenDays, glossaryTerms, drawerTopics } from './app-data.js';
+import { escapeHtml } from './render-utils.js';
 
 function resourceCard(item) {
   const category = item.category || "general";
@@ -57,15 +58,6 @@ function searchText(item) {
   return [item.title, item.copy, ...(item.tags || []), ...(item.links || []).map((link) => link.label)]
     .join(" ")
     .toLowerCase();
-}
-
-function escapeHtml(text) {
-  return text
-    .replaceAll("&", "&amp;")
-    .replaceAll("<", "&lt;")
-    .replaceAll(">", "&gt;")
-    .replaceAll('"', "&quot;")
-    .replaceAll("'", "&#39;");
 }
 
 function renderSection(id, items) {
