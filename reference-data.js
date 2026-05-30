@@ -3729,6 +3729,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Prophets Section Quiz",
+      kicker: "Section",
+      summary: "Checks the Old Testament prophets as a connected voice of warning, covenant lawsuit, judgment, and hope.",
+      detail: "This quiz helps a beginner see the prophetic books as more than prediction charts. The prophets confront idolatry, call for justice, interpret exile, and announce hope for restoration and renewal.",
+      start: "Take this after the wisdom books section quiz and after skimming the prophets as a group.",
+      tags: ["prophets", "section", "Old Testament"],
+      questions: [
+        {
+          prompt: "What kinds of things do the prophets do?",
+          answer: "They confront sin and idolatry, call for justice, warn of judgment, interpret current events through covenant faithfulness, and announce hope.",
+        },
+        {
+          prompt: "Why are the prophets more than future predictors?",
+          answer: "They speak to the present covenant situation of God's people, not just distant future events.",
+        },
+        {
+          prompt: "What themes often run through the prophetic books?",
+          answer: "Holiness, justice, covenant warning, exile, repentance, restoration, and the coming hope of God's renewed rule.",
+        },
+      ],
+    },
+    {
       title: "Genesis Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Genesis as the opening of the Bible's story.",
