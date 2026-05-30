@@ -1,4 +1,4 @@
-import { sections } from './app-data.js';
+import { sections } from './section-data.js';
 import { renderSection } from './app-view.js';
 import { setupGlossary, setupGlossaryLinks } from './app-glossary.js';
 import { setupFirstPath, setupStaticLightbulbs } from './app-path.js';
