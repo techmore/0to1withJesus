@@ -4221,6 +4221,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 4 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Moses' reluctance, God's signs, and the return toward Egypt.",
+      detail: "This quiz helps a beginner see Exodus 4 as the chapter where God answers Moses' hesitation with signs, support, and clear command. It also keeps the personal and covenant tension in view.",
+      start: "Take this after reading Exodus 4 carefully and noticing the signs, objections, and family scene.",
+      tags: ["Exodus 4", "chapter", "Moses"],
+      questions: [
+        {
+          prompt: "What concerns does Moses raise in Exodus 4?",
+          answer: "He worries that people will not believe him and that he is not capable enough.",
+        },
+        {
+          prompt: "What signs does God give Moses?",
+          answer: "God gives signs like the staff, the hand, and water turned to blood to confirm the message.",
+        },
+        {
+          prompt: "What does Moses do at the end of the chapter?",
+          answer: "He begins the journey back toward Egypt to carry out God's mission.",
+        },
+      ],
+    },
+    {
       title: "Luke and Acts Bridge Quiz",
       kicker: "Books",
       summary: "Checks how Luke's Gospel connects to the early church story in Acts.",
