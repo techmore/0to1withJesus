@@ -148,67 +148,6 @@ export const sections = {
   ],
 };
 
-export const firstSevenDays = [
-  {
-    day: 1,
-    reading: "John 1",
-    focus: "Jesus as the Word, light, and Son of God.",
-    question: "Who does John say Jesus is?",
-    readHref: "https://www.biblegateway.com/passage/?search=John+1&version=NIV",
-    listenHref: "https://www.biblegateway.com/audio/purevoice/niv/John.1",
-  },
-  {
-    day: 2,
-    reading: "John 2-3",
-    focus: "Signs, new birth, belief, and God's love for the world.",
-    question: "What does Jesus say a person needs?",
-    readHref: "https://www.biblegateway.com/passage/?search=John+2-3&version=NIV",
-    listenHref: "https://www.biblegateway.com/audio/purevoice/niv/John.2",
-  },
-  {
-    day: 3,
-    reading: "John 4",
-    focus: "Jesus meets outsiders and offers living water.",
-    question: "Who does Jesus welcome?",
-    readHref: "https://www.biblegateway.com/passage/?search=John+4&version=NIV",
-    listenHref: "https://www.biblegateway.com/audio/purevoice/niv/John.4",
-  },
-  {
-    day: 4,
-    reading: "John 5-6",
-    focus: "Authority, signs, hunger, and the bread of life.",
-    question: "What are people looking for from Jesus?",
-    readHref: "https://www.biblegateway.com/passage/?search=John+5-6&version=NIV",
-    listenHref: "https://www.biblegateway.com/audio/purevoice/niv/John.5",
-  },
-  {
-    day: 5,
-    reading: "John 7-10",
-    focus: "Conflict, identity, light, truth, and the good shepherd.",
-    question: "Why do people divide over Jesus?",
-    readHref: "https://www.biblegateway.com/passage/?search=John+7-10&version=NIV",
-    listenHref: "https://www.biblegateway.com/audio/purevoice/niv/John.7",
-  },
-  {
-    day: 6,
-    reading: "John 11-17",
-    focus: "Resurrection, love, service, prayer, and final teaching.",
-    question: "What does Jesus promise his followers?",
-    readHref: "https://www.biblegateway.com/passage/?search=John+11-17&version=NIV",
-    listenHref: "https://www.biblegateway.com/audio/purevoice/niv/John.11",
-  },
-  {
-    day: 7,
-    reading: "John 18-21",
-    focus: "The cross, resurrection, restoration, and a moment to rest.",
-    question: "What does Jesus accomplish?",
-    readHref: "https://www.biblegateway.com/passage/?search=John+18-21&version=NIV",
-    listenHref: "https://www.biblegateway.com/audio/purevoice/niv/John.18",
-    note: "After seven days, pause. Rest is part of the path, not a failure to study.",
-    drawerTopic: "sabbath",
-  },
-];
-
 export const drawerTopics = {
   john: {
     kicker: "Why John?",

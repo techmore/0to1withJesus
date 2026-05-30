@@ -1,4 +1,4 @@
-import { firstSevenDays } from './app-data.js';
+import { firstSevenDays } from './first-path-data.js';
 import { firstDayCard, lightbulbIcon } from './app-view.js';
 
 export function setupStaticLightbulbs() {
