@@ -32,6 +32,45 @@ export function resourceCard(item) {
   `;
 }
 
+function resourceSectionLabel(category) {
+  const labels = {
+    video: "Video",
+    books: "Books",
+    course: "Courses",
+    audio: "Audio",
+    tool: "Tools",
+    general: "General",
+  };
+
+  return labels[category] || category;
+}
+
+export function renderGroupedResources(items) {
+  const order = ["video", "books", "course", "audio", "tool", "general"];
+  const grouped = new Map();
+
+  items.forEach((item) => {
+    const category = item.category || "general";
+    if (!grouped.has(category)) grouped.set(category, []);
+    grouped.get(category).push(item);
+  });
+
+  return order
+    .filter((category) => grouped.has(category))
+    .map((category) => `
+      <section class="resource-group">
+        <div class="section-heading section-heading-wide">
+          <p class="eyebrow">${escapeHtml(resourceSectionLabel(category))}</p>
+          <h2>${escapeHtml(resourceSectionLabel(category))}</h2>
+        </div>
+        <div class="grid grid-3">
+          ${grouped.get(category).map(resourceCard).join("")}
+        </div>
+      </section>
+    `)
+    .join("");
+}
+
 export function poetryCard(item) {
   const scriptureMarkup = item.scripture
     .map((passage) => `<span class="pill">${escapeHtml(passage)}</span>`)

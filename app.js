@@ -1,7 +1,7 @@
 import { amazonSearch, youtubeSearch } from './link-helpers.js';
 import { sections, poetryWorks, resources, drawerTopics } from './app-data.js';
 import { escapeHtml, glossaryLinks } from './render-utils.js';
-import { resourceCard, poetryCard, renderSection, glossaryCard } from './app-view.js';
+import { poetryCard, renderSection, renderGroupedResources, glossaryCard } from './app-view.js';
 import { setupGlossary, setupGlossaryLinks } from './app-glossary.js';
 import { setupFirstPath, setupStaticLightbulbs } from './app-path.js';
 
@@ -131,7 +131,7 @@ function bootstrapApp() {
 
   const resourceGrid = document.getElementById("resource-grid");
   if (resourceGrid) {
-    resourceGrid.innerHTML = resources.map(resourceCard).join("");
+    resourceGrid.innerHTML = renderGroupedResources(resources);
   }
 
   setupTabs();
