@@ -3707,6 +3707,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Wisdom Books Section Quiz",
+      kicker: "Section",
+      summary: "Checks the Old Testament wisdom books as a connected group of prayer, suffering, praise, practical wisdom, and reflection.",
+      detail: "This quiz helps a beginner see Job, Psalms, Proverbs, Ecclesiastes, and Song of Songs as a literary and spiritual cluster that teaches how to speak to God, live wisely, and wrestle honestly with life.",
+      start: "Take this after the biblical novellas section quiz and after skimming the wisdom books as a group.",
+      tags: ["wisdom books", "section", "Old Testament"],
+      questions: [
+        {
+          prompt: "Which books are usually grouped as Old Testament wisdom books?",
+          answer: "Job, Psalms, Proverbs, Ecclesiastes, and Song of Songs.",
+        },
+        {
+          prompt: "What kinds of questions do wisdom books often ask?",
+          answer: "They ask about suffering, praise, fear of the Lord, daily choices, meaning, love, grief, and how to pray honestly.",
+        },
+        {
+          prompt: "Why are wisdom books important for beginners?",
+          answer: "They teach how to live faithfully and speak truthfully to God when life is joyful, confusing, painful, or ordinary.",
+        },
+      ],
+    },
+    {
       title: "Genesis Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Genesis as the opening of the Bible's story.",
