@@ -1,5 +1,5 @@
 import { escapeHtml } from './render-utils.js';
-import { resourceGroups } from './app-data.js';
+import { resourceGroups, resourceStarterSection } from './app-data.js';
 
 function searchText(item) {
   return [item.title, item.copy, ...(item.tags || []), ...(item.links || []).map((link) => link.label)]
@@ -65,9 +65,9 @@ export function renderStarterResources(items) {
   return `
     <section class="resource-group">
       <div class="section-heading section-heading-wide">
-        <p class="eyebrow">Start here</p>
-        <h2>Best beginner resources</h2>
-        <p>These are the safest first picks if you want a short on-ramp before diving into the larger library.</p>
+        <p class="eyebrow">${escapeHtml(resourceStarterSection.eyebrow)}</p>
+        <h2>${escapeHtml(resourceStarterSection.title)}</h2>
+        <p>${escapeHtml(resourceStarterSection.copy)}</p>
       </div>
       <div class="grid grid-3">
         ${picks.map(resourceCard).join("")}

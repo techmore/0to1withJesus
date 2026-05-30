@@ -529,6 +529,12 @@ export const resourceGroups = [
   { key: "general", label: "General" },
 ];
 
+export const resourceStarterSection = {
+  eyebrow: "Start here",
+  title: "Best beginner resources",
+  copy: "These are the safest first picks if you want a short on-ramp before diving into the larger library.",
+};
+
 export const firstSevenDays = [
   {
     day: 1,
