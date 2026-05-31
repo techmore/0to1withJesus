@@ -15011,6 +15011,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 112 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where settled insight becomes calm discernment.",
+      detail: "This quiz helps a beginner see Matthew 112 as the chapter where insight starts to settle into calm discernment.",
+      start: "Take this after reading Matthew 112 carefully and noticing how insight becomes discernment.",
+      tags: ["Matthew 112", "chapter", "discernment"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 112?",
+          answer: "The chapter emphasizes insight that is becoming calm discernment.",
+        },
+        {
+          prompt: "What does calm discernment look like here?",
+          answer: "It means noticing what matters and choosing wisely without haste.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 111?",
+          answer: "It shows that settled insight should become calm discernment.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
