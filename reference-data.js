@@ -5125,6 +5125,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 2 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Moses is born, grows up, and flees to Midian.",
+      detail: "This quiz helps a beginner see Exodus 2 as the chapter where God preserves Moses and quietly prepares the deliverer.",
+      start: "Take this after reading Exodus 2 carefully and noticing the basket, the rescue from the Nile, and the burning anger over oppression.",
+      tags: ["Exodus 2", "chapter", "moses"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Exodus 2?",
+          answer: "The chapter emphasizes Moses' preservation, his early life, and his flight to Midian.",
+        },
+        {
+          prompt: "How does Moses end up in Midian in Exodus 2?",
+          answer: "He kills an Egyptian who is beating a Hebrew and then flees when the matter is exposed.",
+        },
+        {
+          prompt: "Why does Exodus 2 matter after Exodus 1?",
+          answer: "It introduces Moses, the one through whom God will later rescue Israel.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
