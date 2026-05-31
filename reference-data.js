@@ -10647,6 +10647,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Chronicles 8 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter that summarizes Solomon's building projects and organization.",
+      detail: "This quiz helps a beginner see 2 Chronicles 8 as a summary of Solomon's achievements, labor, and administration.",
+      start: "Take this after 2 Chronicles 7 when you want to continue the chapter-by-chapter reading.",
+      tags: ["2 Chronicles 8", "chapter", "Solomon"],
+      questions: [
+        {
+          prompt: "What does 2 Chronicles 8 emphasize about Solomon?",
+          answer: "His building projects and organization.",
+        },
+        {
+          prompt: "How is Solomon's kingdom described?",
+          answer: "As well ordered and strengthened.",
+        },
+        {
+          prompt: "Why does 2 Chronicles 8 matter?",
+          answer: "It shows the kingdom and temple system continuing to grow under Solomon.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
