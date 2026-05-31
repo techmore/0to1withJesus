@@ -6511,6 +6511,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Numbers 25 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Israel falls into idolatry and Phinehas stops the plague.",
+      detail: "This quiz helps a beginner see Numbers 25 as the chapter where covenant unfaithfulness is answered by zealous action and judgment.",
+      start: "Take this after reading Numbers 25 carefully and noticing the idolatry, the plague, and Phinehas' action.",
+      tags: ["Numbers 25", "chapter", "idolatry"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Numbers 25?",
+          answer: "The chapter emphasizes Israel's idolatry and the stopping of the plague.",
+        },
+        {
+          prompt: "Who acts decisively in Numbers 25?",
+          answer: "Phinehas acts zealously and stops the plague.",
+        },
+        {
+          prompt: "Why does Numbers 25 matter after Numbers 24?",
+          answer: "It shows how Israel's story moves from blessing oracles to another serious failure in holiness.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
