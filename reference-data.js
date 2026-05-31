@@ -13933,6 +13933,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 63 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where confident direction becomes steady movement.",
+      detail: "This quiz helps a beginner see Matthew 63 as the chapter where direction starts turning into action.",
+      start: "Take this after reading Matthew 63 carefully and noticing how direction becomes movement.",
+      tags: ["Matthew 63", "chapter", "movement"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 63?",
+          answer: "The chapter emphasizes direction that is now turning into steady movement.",
+        },
+        {
+          prompt: "What does steady movement look like here?",
+          answer: "It means taking the next step and continuing without losing direction.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 62?",
+          answer: "It shows that confident direction should lead to actual movement.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
