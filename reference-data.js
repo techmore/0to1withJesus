@@ -6819,6 +6819,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Deuteronomy 2 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Israel is told how to pass by some nations and begin conquering others.",
+      detail: "This quiz helps a beginner see Deuteronomy 2 as a chapter about careful movement, divine direction, and respect for land boundaries.",
+      start: "Take this after reading Deuteronomy 2 carefully and noticing the instructions about Edom, Moab, and the advance toward Sihon.",
+      tags: ["Deuteronomy 2", "chapter", "journey"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Deuteronomy 2?",
+          answer: "The chapter emphasizes Israel's continued journey and God's instructions about which lands to avoid or engage.",
+        },
+        {
+          prompt: "Which peoples are specifically told not to be provoked at first?",
+          answer: "Edom, Moab, and Ammon are treated as peoples whose lands Israel is not to seize at this stage.",
+        },
+        {
+          prompt: "Why does Deuteronomy 2 matter?",
+          answer: "It shows that Israel's advance in the land is guided by God's timing and boundaries, not by impulse.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
