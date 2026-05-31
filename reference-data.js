@@ -6951,6 +6951,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Deuteronomy 8 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Moses tells Israel to remember the wilderness and not forget the Lord in prosperity.",
+      detail: "This quiz helps a beginner see Deuteronomy 8 as a chapter about humility, provision, and remembering God after blessing.",
+      start: "Take this after reading Deuteronomy 8 carefully and noticing the lessons from manna, the wilderness, and the warning against pride.",
+      tags: ["Deuteronomy 8", "chapter", "humility"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Deuteronomy 8?",
+          answer: "The chapter emphasizes remembering God's care in the wilderness and staying humble in the land.",
+        },
+        {
+          prompt: "Why does Moses bring up manna in this chapter?",
+          answer: "Manna reminds Israel that they live by God's provision, not by self-sufficiency.",
+        },
+        {
+          prompt: "Why does Deuteronomy 8 matter?",
+          answer: "It warns that prosperity can lead to forgetting God unless memory and humility are maintained.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
