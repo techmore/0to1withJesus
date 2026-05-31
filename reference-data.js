@@ -5331,6 +5331,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 150 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where steadfast witness becomes resilient hope.",
+      detail: "This quiz helps a beginner see Matthew 150 as the chapter where witness settles into a hopeful resilience that keeps trusting Jesus.",
+      start: "Take this after reading Matthew 150 carefully and noticing how witness becomes resilient hope.",
+      tags: ["Matthew 150", "chapter", "hope"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 150?",
+          answer: "The chapter emphasizes resilient hope that keeps trusting Jesus.",
+        },
+        {
+          prompt: "What does resilient hope look like here?",
+          answer: "It means holding on to Jesus with steady confidence even when the path is difficult.",
+        },
+        {
+          prompt: "Why does this matter after Matthew 149?",
+          answer: "It shows that steadfast witness can grow into resilient hope.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
