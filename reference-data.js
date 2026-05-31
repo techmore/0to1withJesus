@@ -14791,6 +14791,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 102 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where calm determination becomes settled purpose.",
+      detail: "This quiz helps a beginner see Matthew 102 as the chapter where determination starts to settle into settled purpose.",
+      start: "Take this after reading Matthew 102 carefully and noticing how determination becomes purpose.",
+      tags: ["Matthew 102", "chapter", "purpose"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 102?",
+          answer: "The chapter emphasizes determination that is becoming settled purpose.",
+        },
+        {
+          prompt: "What does settled purpose look like here?",
+          answer: "It means knowing what to do and continuing with confidence.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 101?",
+          answer: "It shows that calm determination should become settled purpose.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
