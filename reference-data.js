@@ -4441,6 +4441,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Luke 20 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Jesus' authority, the parable of the tenants, and questions about resurrection.",
+      detail: "This quiz helps a beginner see Luke 20 as the chapter where Jesus is challenged and answers with wisdom and authority.",
+      start: "Take this after reading Luke 20 carefully and noticing the confrontation in the temple.",
+      tags: ["Luke 20", "chapter", "authority"],
+      questions: [
+        {
+          prompt: "What question do the leaders ask Jesus at the start of the chapter?",
+          answer: "They ask by what authority he does these things.",
+        },
+        {
+          prompt: "What does the parable of the tenants warn about?",
+          answer: "It warns that rejecting God's messengers leads to judgment.",
+        },
+        {
+          prompt: "How does Jesus answer the resurrection trap question?",
+          answer: "He says the dead are raised and God is God of the living.",
+        },
+      ],
+    },
+    {
       title: "John 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the opening claims about Jesus as the Word, light, and Son.",
