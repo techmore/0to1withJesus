@@ -18855,6 +18855,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Ecclesiastes Book Quiz",
+      kicker: "Book",
+      summary: "A whole-book check for Ecclesiastes as wisdom about life's limits, vanity, and fearing God.",
+      detail: "This quiz helps a beginner see Ecclesiastes as honest reflection on what cannot satisfy and why reverence matters.",
+      start: "Take this after Proverbs and after noticing that wisdom literature can be skeptical, honest, and deeply theological.",
+      tags: ["Ecclesiastes", "book", "wisdom"],
+      questions: [
+        {
+          prompt: "What repeated concern shapes Ecclesiastes?",
+          answer: "The emptiness or fleeting nature of life apart from God.",
+        },
+        {
+          prompt: "What does Ecclesiastes push readers toward?",
+          answer: "Fearing God and receiving life as a gift.",
+        },
+        {
+          prompt: "Why is Ecclesiastes important for beginners?",
+          answer: "It shows that wisdom includes honesty about limits, frustration, and uncertainty.",
+        },
+      ],
+    },
+    {
       title: "Wisdom and Prayer Quiz",
       kicker: "Wisdom",
       summary: "Checks Job, Psalms, Proverbs, Ecclesiastes, and biblical prayer patterns.",
