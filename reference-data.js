@@ -5629,6 +5629,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 76 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Mark's first conflict and the growing opposition to Jesus.",
+      detail: "This quiz helps a beginner see Matthew 76 as the chapter where public ministry starts to provoke resistance.",
+      start: "Take this after reading Matthew 76 carefully and noticing the conflict, the questions, and the pushback.",
+      tags: ["Matthew 76", "chapter", "conflict"],
+      questions: [
+        {
+          prompt: "What begins to happen around Jesus?",
+          answer: "Conflict and opposition begin to grow.",
+        },
+        {
+          prompt: "How do leaders respond?",
+          answer: "They question and resist him.",
+        },
+        {
+          prompt: "What does this chapter reveal?",
+          answer: "It reveals that Jesus' ministry will face opposition.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
