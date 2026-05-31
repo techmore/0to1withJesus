@@ -18165,6 +18165,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 John Book Quiz",
+      kicker: "Book",
+      summary: "A whole-book check for 1 John as a letter about assurance, love, and walking in the light.",
+      detail: "This quiz helps a beginner see 1 John as a pastoral letter that ties true belief to obedience, love, and confidence before God.",
+      start: "Take this after 2 Peter and after noticing how John focuses on life, truth, and love.",
+      tags: ["1 John", "book", "love"],
+      questions: [
+        {
+          prompt: "What assurance theme runs through 1 John?",
+          answer: "That believers can know they have eternal life.",
+        },
+        {
+          prompt: "How does 1 John connect truth and love?",
+          answer: "Walking in truth should show itself in love for one another.",
+        },
+        {
+          prompt: "What does 1 John say about sin and confession?",
+          answer: "We should not deny sin, but confess it and trust God's cleansing and forgiveness.",
+        },
+      ],
+    },
+    {
       title: "Romans and Ephesians Doctrine Quiz",
       kicker: "Books",
       summary: "Checks grace, faith, church, unity, and new life in Christ.",
