@@ -4903,6 +4903,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 43 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the cleansing and redefinition of purity around the heart.",
+      detail: "This quiz helps a beginner see Matthew 43 as the chapter where Jesus challenges tradition and insists that what defiles comes from within.",
+      start: "Take this after reading Matthew 43 carefully and noticing the dispute with the Pharisees and Jesus' teaching about the heart.",
+      tags: ["Matthew 43", "chapter", "purity"],
+      questions: [
+        {
+          prompt: "What dispute starts Matthew 43?",
+          answer: "The Pharisees question Jesus and his disciples about tradition and cleanliness.",
+        },
+        {
+          prompt: "What does Jesus say really defiles a person?",
+          answer: "He says what comes out of the heart defiles a person, not merely what goes in.",
+        },
+        {
+          prompt: "What does the chapter show about Gentile faith?",
+          answer: "It shows Jesus responding to a Gentile woman's faith and granting healing.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
