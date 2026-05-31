@@ -15033,6 +15033,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 113 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where calm discernment becomes steady judgment.",
+      detail: "This quiz helps a beginner see Matthew 113 as the chapter where discernment starts to settle into steady judgment.",
+      start: "Take this after reading Matthew 113 carefully and noticing how discernment becomes judgment.",
+      tags: ["Matthew 113", "chapter", "judgment"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 113?",
+          answer: "The chapter emphasizes discernment that is becoming steady judgment.",
+        },
+        {
+          prompt: "What does steady judgment look like here?",
+          answer: "It means evaluating things fairly and thoughtfully without haste.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 112?",
+          answer: "It shows that calm discernment should become steady judgment.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
