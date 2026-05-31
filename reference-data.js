@@ -4441,6 +4441,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 15 Quiz",
+      kicker: "Chapter",
+      summary: "Checks God's covenant promise, Abram's faith, and the cutting of the covenant.",
+      detail: "This quiz helps a beginner see Genesis 15 as the chapter where God confirms his promise to Abram through a covenant and a dramatic sign.",
+      start: "Take this after reading Genesis 15 carefully and noticing the stars, the promise, and the covenant ritual.",
+      tags: ["Genesis 15", "chapter", "covenant"],
+      questions: [
+        {
+          prompt: "What does God promise Abram in Genesis 15?",
+          answer: "God promises descendants as numerous as the stars and grants Abram righteousness by faith.",
+        },
+        {
+          prompt: "What happens in the covenant ceremony?",
+          answer: "Animals are cut in two and God symbolically passes through the pieces.",
+        },
+        {
+          prompt: "Why is Genesis 15 important?",
+          answer: "It shows that God's promise rests on his own faithfulness and not Abram's strength.",
+        },
+      ],
+    },
+    {
       title: "Exodus 1 Quiz",
       kicker: "Chapter",
       summary: "Checks Israel's oppression in Egypt and the beginning of the rescue setting.",
