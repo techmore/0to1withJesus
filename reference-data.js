@@ -4883,6 +4883,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 42 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Joseph's brothers come to Egypt for grain and face their guilt.",
+      detail: "This quiz helps a beginner see Genesis 42 as the chapter where the brothers are tested and Joseph begins to reveal their old sin back to them.",
+      start: "Take this after reading Genesis 42 carefully and noticing the trip to Egypt, the hidden identity, and the conversation about Benjamin.",
+      tags: ["Genesis 42", "chapter", "joseph"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Genesis 42?",
+          answer: "The chapter emphasizes Joseph's brothers traveling to Egypt for grain and being tested by him.",
+        },
+        {
+          prompt: "Why does Joseph speak harshly to his brothers in Genesis 42?",
+          answer: "He wants to test them and bring their guilt about Joseph into the open.",
+        },
+        {
+          prompt: "Why does Genesis 42 matter after Genesis 41?",
+          answer: "It moves the story from Joseph's rise to power into the reconciliation process with his brothers.",
+        },
+      ],
+    },
+    {
       title: "Exodus Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Exodus as the Bible's great rescue story.",
