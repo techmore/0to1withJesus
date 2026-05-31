@@ -5961,6 +5961,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 40 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where the tabernacle is set up and God's glory fills it.",
+      detail: "This quiz helps a beginner see Exodus 40 as the final chapter where the completed tabernacle becomes the place of divine presence.",
+      start: "Take this after reading Exodus 40 carefully and noticing the setup, the anointing, and the cloud of glory.",
+      tags: ["Exodus 40", "chapter", "glory"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Exodus 40?",
+          answer: "The chapter emphasizes setting up the tabernacle and God's glory filling it.",
+        },
+        {
+          prompt: "What happens when the tabernacle is completed in Exodus 40?",
+          answer: "The cloud covers the tent and the glory of the Lord fills the tabernacle.",
+        },
+        {
+          prompt: "Why does Exodus 40 matter after Exodus 39?",
+          answer: "It shows the finished tabernacle becoming the dwelling place of God's presence.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
