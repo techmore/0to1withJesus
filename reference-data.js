@@ -9987,6 +9987,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Chronicles 8 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter that continues the genealogies with Benjamin's family line.",
+      detail: "This quiz helps a beginner see 1 Chronicles 8 as a detailed record of Benjamin's descendants and the families tied to that tribe.",
+      start: "Take this after 1 Chronicles 7 when you want to continue the book chapter by chapter.",
+      tags: ["1 Chronicles 8", "chapter", "Benjamin"],
+      questions: [
+        {
+          prompt: "Which tribe is central in 1 Chronicles 8?",
+          answer: "Benjamin.",
+        },
+        {
+          prompt: "What kind of content fills the chapter?",
+          answer: "Genealogical family records.",
+        },
+        {
+          prompt: "Why does 1 Chronicles 8 matter?",
+          answer: "It continues tracing the tribes and families of Israel.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
