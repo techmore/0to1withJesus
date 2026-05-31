@@ -5255,6 +5255,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 59 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the feeding of the crowd and Jesus' compassion for bodily need.",
+      detail: "This quiz helps a beginner see Matthew 59 as the chapter where Jesus provides food for a large crowd and continues to care for ordinary needs.",
+      start: "Take this after reading Matthew 59 carefully and noticing the provision, the basketfuls left over, and the crowd's response.",
+      tags: ["Matthew 59", "chapter", "feeding"],
+      questions: [
+        {
+          prompt: "What miracle happens for the crowd?",
+          answer: "Jesus feeds the crowd with a few loaves and fishes.",
+        },
+        {
+          prompt: "What is left over?",
+          answer: "There are basketfuls of leftovers after everyone eats.",
+        },
+        {
+          prompt: "What does this show about Jesus?",
+          answer: "It shows his compassion and power to provide.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
