@@ -10581,6 +10581,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Chronicles 5 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where the ark is brought into the temple.",
+      detail: "This quiz helps a beginner see 2 Chronicles 5 as the joyful dedication moment when the ark is placed in the new temple.",
+      start: "Take this after 2 Chronicles 4 when you want to continue the chapter-by-chapter reading.",
+      tags: ["2 Chronicles 5", "chapter", "ark"],
+      questions: [
+        {
+          prompt: "What is brought into the temple in 2 Chronicles 5?",
+          answer: "The ark of the covenant.",
+        },
+        {
+          prompt: "What happens when the ark is brought in?",
+          answer: "The temple is filled with God's glory.",
+        },
+        {
+          prompt: "Why does 2 Chronicles 5 matter?",
+          answer: "It marks the temple's dedication with God's presence.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
