@@ -13713,6 +13713,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 53 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where sustained proclamation becomes settled teaching.",
+      detail: "This quiz helps a beginner see Matthew 53 as the chapter where witness starts to settle into clear teaching.",
+      start: "Take this after reading Matthew 53 carefully and noticing how proclamation becomes teaching.",
+      tags: ["Matthew 53", "chapter", "teaching"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 53?",
+          answer: "The chapter emphasizes proclamation that is becoming settled teaching.",
+        },
+        {
+          prompt: "What does settled teaching look like here?",
+          answer: "It means the message is being stated clearly and consistently.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 52?",
+          answer: "It shows that ongoing witness can become stable instruction.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
