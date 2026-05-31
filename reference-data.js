@@ -12701,6 +12701,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Joel Book Quiz",
+      kicker: "Book",
+      summary: "A whole-book check for Joel as a prophet of repentance, judgment, and Spirit-outpouring hope.",
+      detail: "This quiz helps a beginner see Joel as a book that moves from crisis and warning to renewal and God's Spirit being poured out.",
+      start: "Take this after Hosea and after noticing the prophets call for repentance and promise restoration.",
+      tags: ["Joel", "book", "repentance"],
+      questions: [
+        {
+          prompt: "What crisis imagery shapes Joel?",
+          answer: "A devastating locust plague and the call to mourn.",
+        },
+        {
+          prompt: "What response does Joel call for?",
+          answer: "Repentance and turning back to God.",
+        },
+        {
+          prompt: "What future hope does Joel emphasize?",
+          answer: "God's Spirit poured out on all kinds of people.",
+        },
+      ],
+    },
+    {
       title: "Gospel of John Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for John's main claims about Jesus.",
