@@ -4749,6 +4749,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 29 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Jacob's arrival in Haran, his marriages, and the start of rivalry in his family.",
+      detail: "This quiz helps a beginner see Genesis 29 as the chapter where Jacob reaches Laban's household, works for Rachel, and is deceived into marrying Leah first, beginning a long family rivalry.",
+      start: "Take this after reading Genesis 29 carefully and noticing how labor, marriage, and sibling tension all intertwine.",
+      tags: ["Genesis 29", "chapter", "Rachel"],
+      questions: [
+        {
+          prompt: "What does Jacob do to marry Rachel?",
+          answer: "He works for Laban for seven years, but Laban deceives him into marrying Leah first.",
+        },
+        {
+          prompt: "What tension begins in Jacob's family in Genesis 29?",
+          answer: "Leah and Rachel become rivals in marriage and childbearing.",
+        },
+        {
+          prompt: "Why is Genesis 29 important?",
+          answer: "It shows Jacob entering the next stage of the promise story while his own family becomes divided and complicated.",
+        },
+      ],
+    },
+    {
       title: "Exodus 1 Quiz",
       kicker: "Chapter",
       summary: "Checks Israel's oppression in Egypt and the beginning of the rescue setting.",
