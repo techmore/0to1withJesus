@@ -9481,6 +9481,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Kings 11 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Joash is preserved and crowned while Athaliah falls.",
+      detail: "This quiz helps a beginner see 2 Kings 11 as a chapter of rescue, hidden preservation, and a rightful king restored.",
+      start: "Take this after 2 Kings 10 when you want to continue the book chapter by chapter.",
+      tags: ["2 Kings 11", "chapter", "Joash"],
+      questions: [
+        {
+          prompt: "Who is preserved in 2 Kings 11?",
+          answer: "Joash.",
+        },
+        {
+          prompt: "What happens to Athaliah?",
+          answer: "She falls and is removed from power.",
+        },
+        {
+          prompt: "Why does 2 Kings 11 matter?",
+          answer: "It shows God's protection of David's line through hidden preservation.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
