@@ -5257,6 +5257,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 8 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where the plagues of frogs, gnats, and flies intensify Pharaoh's pressure.",
+      detail: "This quiz helps a beginner see Exodus 8 as the chapter where God keeps pressing Pharaoh through signs while he keeps hardening his heart.",
+      start: "Take this after reading Exodus 8 carefully and noticing the frogs, the gnats, the flies, and the land of Goshen being spared.",
+      tags: ["Exodus 8", "chapter", "plagues"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Exodus 8?",
+          answer: "The chapter emphasizes the escalating plagues and Pharaoh's repeated refusal to obey.",
+        },
+        {
+          prompt: "Which plague is associated with the land of Goshen being spared in Exodus 8?",
+          answer: "The plague of flies.",
+        },
+        {
+          prompt: "Why does Exodus 8 matter after Exodus 7?",
+          answer: "It shows the conflict intensifying while Pharaoh still refuses to submit to God.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
