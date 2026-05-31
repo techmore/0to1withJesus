@@ -6255,6 +6255,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 111 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where quiet confidence becomes steady assurance.",
+      detail: "This quiz helps a beginner see Matthew 111 as the chapter where Jesus turns quiet confidence into steady assurance that can hold firm in uncertainty.",
+      start: "Take this after reading Matthew 111 carefully and noticing how confidence can become assurance.",
+      tags: ["Matthew 111", "chapter", "assurance"],
+      questions: [
+        {
+          prompt: "What does quiet confidence become?",
+          answer: "It becomes steady assurance.",
+        },
+        {
+          prompt: "What does Jesus keep giving his followers?",
+          answer: "He keeps giving them assurance that rests in his faithfulness.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how confidence can mature into assurance.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
