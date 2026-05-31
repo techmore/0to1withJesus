@@ -7389,6 +7389,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Acts 27 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the voyage to Rome and Paul's warning about the coming storm.",
+      detail: "This quiz helps a beginner see Acts 27 as the chapter where Paul sails as a prisoner, warns the crew, and survives a violent storm at sea.",
+      start: "Take this after reading Acts 27 carefully and noticing the shipwreck narrative and Paul's calm leadership.",
+      tags: ["Acts 27", "chapter", "shipwreck"],
+      questions: [
+        {
+          prompt: "Where is Paul being taken in Acts 27?",
+          answer: "He is being taken by ship toward Rome as a prisoner.",
+        },
+        {
+          prompt: "What warning does Paul give during the voyage?",
+          answer: "He warns that the voyage will bring loss and danger if they continue.",
+        },
+        {
+          prompt: "What major danger does the ship face?",
+          answer: "A violent storm threatens the ship and everyone on board.",
+        },
+      ],
+    },
+    {
       title: "Acts Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Acts as the story of the Spirit-empowered church expanding from Jerusalem outward.",
