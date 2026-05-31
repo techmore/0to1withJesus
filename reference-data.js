@@ -10163,6 +10163,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Chronicles 16 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter with David's psalm of thanksgiving before the ark.",
+      detail: "This quiz helps a beginner see 1 Chronicles 16 as a celebration of worship, praise, and a call to remember God's works.",
+      start: "Take this after 1 Chronicles 15 when you want to continue the book chapter by chapter.",
+      tags: ["1 Chronicles 16", "chapter", "praise"],
+      questions: [
+        {
+          prompt: "What does David do when the ark arrives in 1 Chronicles 16?",
+          answer: "He offers thanks and praise to God.",
+        },
+        {
+          prompt: "What does the chapter emphasize?",
+          answer: "Remembering God's deeds and worshiping him.",
+        },
+        {
+          prompt: "Why does 1 Chronicles 16 matter?",
+          answer: "It centers the king and the people on thanksgiving and praise.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
