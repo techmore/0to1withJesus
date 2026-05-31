@@ -7399,6 +7399,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 152 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where steady perseverance becomes hopeful confidence.",
+      detail: "This quiz helps a beginner see Matthew 152 as the chapter where Jesus gives his people a calm confidence that does not depend on easy circumstances.",
+      start: "Take this after reading Matthew 152 carefully and noticing how perseverance can become confidence.",
+      tags: ["Matthew 152", "chapter", "confidence"],
+      questions: [
+        {
+          prompt: "What does steady perseverance become?",
+          answer: "It becomes hopeful confidence.",
+        },
+        {
+          prompt: "What does Jesus keep building in them?",
+          answer: "He keeps building trust that can hold under strain.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how endurance can settle into assurance.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
