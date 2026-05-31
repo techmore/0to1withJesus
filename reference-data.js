@@ -10361,6 +10361,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Chronicles 25 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter that organizes the musicians and singers.",
+      detail: "This quiz helps a beginner see 1 Chronicles 25 as David's ordering of musical worship for the temple.",
+      start: "Take this after 1 Chronicles 24 when you want to continue the book chapter by chapter.",
+      tags: ["1 Chronicles 25", "chapter", "music"],
+      questions: [
+        {
+          prompt: "Who is organized in 1 Chronicles 25?",
+          answer: "The musicians and singers.",
+        },
+        {
+          prompt: "What is their role?",
+          answer: "To serve in worship through music.",
+        },
+        {
+          prompt: "Why does 1 Chronicles 25 matter?",
+          answer: "It shows worship being carefully ordered for the temple.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
