@@ -6357,6 +6357,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Numbers 18 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where priestly and Levitical responsibilities are clarified.",
+      detail: "This quiz helps a beginner see Numbers 18 as the chapter that sorts out who serves where and how the holy gifts are handled.",
+      start: "Take this after reading Numbers 18 carefully and noticing the priestly duties, the Levites' support, and the holy offerings.",
+      tags: ["Numbers 18", "chapter", "priests"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Numbers 18?",
+          answer: "The chapter emphasizes the duties of the priests and Levites and the handling of holy offerings.",
+        },
+        {
+          prompt: "What is given to the Levites in Numbers 18?",
+          answer: "They receive the tithe as their support for service.",
+        },
+        {
+          prompt: "Why does Numbers 18 matter after Numbers 17?",
+          answer: "It explains the practical responsibilities that follow God's confirmation of priestly leadership.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
