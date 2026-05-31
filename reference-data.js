@@ -4859,6 +4859,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 41 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the explanation of the parables and the hidden treasure of God's kingdom.",
+      detail: "This quiz helps a beginner see Matthew 41 as the chapter where Jesus explains the meaning of his parables to disciples and says the kingdom is worth everything.",
+      start: "Take this after reading Matthew 41 carefully and noticing the explanations and the call to value the kingdom above all else.",
+      tags: ["Matthew 41", "chapter", "parables"],
+      questions: [
+        {
+          prompt: "What does Jesus explain to his disciples in Matthew 41?",
+          answer: "He explains the meaning of the parables to those who are willing to listen.",
+        },
+        {
+          prompt: "What does the hidden treasure parable teach?",
+          answer: "It teaches that finding the kingdom is worth giving up everything else.",
+        },
+        {
+          prompt: "What do the net and sorting imagery teach?",
+          answer: "They teach that there will be a final separation at the end of the age.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
