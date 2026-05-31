@@ -7545,6 +7545,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Joshua Book Quiz",
+      kicker: "Book",
+      summary: "A whole-book check for Joshua as Israel enters the land and begins to settle it.",
+      detail: "This quiz helps a beginner see Joshua as the story of crossing the Jordan, conquering the land, and learning that God keeps his promises.",
+      start: "Take this after Deuteronomy so the move from wilderness preparation to land entry feels clear.",
+      tags: ["Joshua", "book", "land"],
+      questions: [
+        {
+          prompt: "What major movement does Joshua describe?",
+          answer: "Joshua describes Israel entering and taking possession of the promised land.",
+        },
+        {
+          prompt: "Why does Joshua matter after Deuteronomy?",
+          answer: "It shows the next stage of God's promise after Moses' leadership ends.",
+        },
+        {
+          prompt: "What recurring theme should a beginner notice in Joshua?",
+          answer: "God keeps his promises and calls Israel to trust and obey him in the land.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
