@@ -5917,6 +5917,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 38 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where the altar, basin, and courtyard are completed.",
+      detail: "This quiz helps a beginner see Exodus 38 as the chapter where the tabernacle's outer worship space is finished and accounted for.",
+      start: "Take this after reading Exodus 38 carefully and noticing the bronze altar, the basin, and the courtyard measurements.",
+      tags: ["Exodus 38", "chapter", "courtyard"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Exodus 38?",
+          answer: "The chapter emphasizes the completion of the altar, basin, and courtyard.",
+        },
+        {
+          prompt: "What is especially detailed in Exodus 38 besides the altar and basin?",
+          answer: "The chapter gives the measurements and materials for the courtyard.",
+        },
+        {
+          prompt: "Why does Exodus 38 matter after Exodus 37?",
+          answer: "It completes the tabernacle's outer area and shows careful obedience in the construction.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
