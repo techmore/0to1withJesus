@@ -4375,6 +4375,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 19 Quiz",
+      kicker: "Chapter",
+      summary: "Checks divorce teaching, children, wealth, and the cost of following Jesus.",
+      detail: "This quiz helps a beginner see Matthew 19 as the chapter where Jesus answers hard questions about marriage, receives children, and challenges the rich young man.",
+      start: "Take this after reading Matthew 19 carefully and noticing the movement from law questions to discipleship.",
+      tags: ["Matthew 19", "chapter", "marriage"],
+      questions: [
+        {
+          prompt: "What question about marriage do the Pharisees ask Jesus?",
+          answer: "They ask whether it is lawful to divorce one's wife for any cause.",
+        },
+        {
+          prompt: "How does Jesus respond to the children brought to him?",
+          answer: "He welcomes them and says the kingdom belongs to such as these.",
+        },
+        {
+          prompt: "What does Jesus tell the rich young man to do?",
+          answer: "He tells him to sell what he has, give to the poor, and follow him.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
