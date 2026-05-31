@@ -9041,6 +9041,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Samuel 15 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Absalom wins hearts and David flees Jerusalem.",
+      detail: "This quiz helps a beginner see 2 Samuel 15 as a chapter of rebellion, betrayal, and David's painful departure from the city.",
+      start: "Take this after 2 Samuel 14 when you want to see Absalom's rebellion begin.",
+      tags: ["2 Samuel 15", "chapter", "David"],
+      questions: [
+        {
+          prompt: "What does Absalom do in 2 Samuel 15?",
+          answer: "He wins the hearts of Israel and stages a rebellion.",
+        },
+        {
+          prompt: "What does David do when the rebellion grows?",
+          answer: "He flees Jerusalem.",
+        },
+        {
+          prompt: "Why does 2 Samuel 15 matter?",
+          answer: "It shows the kingdom being shaken by Absalom's rebellion and David's humility in exile.",
+        },
+      ],
+    },
+    {
       title: "1 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where Hannah prays for a son and Samuel's story begins.",
