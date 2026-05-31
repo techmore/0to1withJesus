@@ -7941,6 +7941,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Joshua 18 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where the rest of the land is surveyed and the remaining tribes prepare to receive their inheritance.",
+      detail: "This quiz helps a beginner see Joshua 18 as a planning chapter that moves the nation toward settled life in the promised land.",
+      start: "Take this after reading Joshua 18 carefully and noticing the survey of the land and the tribes still waiting for their portions.",
+      tags: ["Joshua 18", "chapter", "survey"],
+      questions: [
+        {
+          prompt: "What happens in Joshua 18?",
+          answer: "The remaining land is surveyed and prepared for division.",
+        },
+        {
+          prompt: "Why is the chapter important?",
+          answer: "It helps Israel move from conquest toward settled inheritance.",
+        },
+        {
+          prompt: "Why does Joshua 18 matter?",
+          answer: "It shows that God's people must organize and receive the land God has given them.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
