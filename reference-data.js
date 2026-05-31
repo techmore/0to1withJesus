@@ -6905,6 +6905,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 134 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where deep formation becomes steady witness.",
+      detail: "This quiz helps a beginner see Matthew 134 as the chapter where Jesus keeps turning inner change into a life that points outward.",
+      start: "Take this after reading Matthew 134 carefully and noticing how formation can become witness.",
+      tags: ["Matthew 134", "chapter", "witness"],
+      questions: [
+        {
+          prompt: "What does deep formation become?",
+          answer: "It becomes steady witness.",
+        },
+        {
+          prompt: "What does Jesus keep pointing outward?",
+          answer: "He keeps pointing life outward.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how inner change can be visible to others.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
