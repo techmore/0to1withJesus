@@ -12679,6 +12679,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Hosea Book Quiz",
+      kicker: "Book",
+      summary: "A whole-book check for Hosea as a prophet of covenant love, judgment, and mercy.",
+      detail: "This quiz helps a beginner see Hosea as a shocking picture of Israel's unfaithfulness and God's stubborn, healing love.",
+      start: "Take this after Daniel and after noticing the prophets often use marriage and covenant language.",
+      tags: ["Hosea", "book", "prophets"],
+      questions: [
+        {
+          prompt: "What picture does Hosea use for Israel's sin?",
+          answer: "Unfaithful covenant love, pictured through Hosea's marriage story.",
+        },
+        {
+          prompt: "What does Hosea emphasize about God?",
+          answer: "God's steadfast love and his desire to heal and restore.",
+        },
+        {
+          prompt: "Why is Hosea important for beginners?",
+          answer: "It shows judgment and mercy together in a vivid prophetic drama.",
+        },
+      ],
+    },
+    {
       title: "Gospel of John Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for John's main claims about Jesus.",
