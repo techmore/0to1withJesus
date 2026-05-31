@@ -6995,6 +6995,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Deuteronomy 10 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Moses recounts the renewed tablets, the ark, and the call to circumcise the heart.",
+      detail: "This quiz helps a beginner see Deuteronomy 10 as a chapter about restored covenant, reverent service, and inward transformation.",
+      start: "Take this after reading Deuteronomy 10 carefully and noticing the new tablets, the ark, and the call to fear the Lord.",
+      tags: ["Deuteronomy 10", "chapter", "heart"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Deuteronomy 10?",
+          answer: "The chapter emphasizes God's renewed covenant gift and the call to wholehearted reverence.",
+        },
+        {
+          prompt: "What surprising image does Moses use for obedience?",
+          answer: "He calls Israel to circumcise their hearts, pointing to inward change.",
+        },
+        {
+          prompt: "Why does Deuteronomy 10 matter?",
+          answer: "It shows that covenant faithfulness is not just external rule-keeping but inward devotion to God.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
