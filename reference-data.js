@@ -4287,6 +4287,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "John 13 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the foot washing, the new commandment, and Jesus' knowledge of betrayal.",
+      detail: "This quiz helps a beginner see John 13 as the chapter where Jesus demonstrates servant love and prepares the disciples for the shock of betrayal and departure.",
+      start: "Take this after reading John 13 carefully and noticing how action and instruction go together.",
+      tags: ["John 13", "chapter", "service"],
+      questions: [
+        {
+          prompt: "What surprising action does Jesus take with the disciples' feet?",
+          answer: "Jesus washes the disciples' feet.",
+        },
+        {
+          prompt: "What new command does Jesus give?",
+          answer: "He commands them to love one another as he has loved them.",
+        },
+        {
+          prompt: "What does Jesus say about betrayal in this chapter?",
+          answer: "He identifies Judas as the one who will betray him.",
+        },
+      ],
+    },
+    {
       title: "John 18-21 Quiz",
       kicker: "Chapters",
       summary: "Checks the arrest, trial, cross, resurrection, and Peter's restoration.",
