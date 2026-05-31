@@ -7171,6 +7171,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Deuteronomy 18 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Moses teaches about priests, Levites, and the coming prophet like him.",
+      detail: "This quiz helps a beginner see Deuteronomy 18 as a chapter about true guidance, forbidden occult practices, and hope for a future prophet.",
+      start: "Take this after reading Deuteronomy 18 carefully and noticing the role of priests and the promise of a prophet like Moses.",
+      tags: ["Deuteronomy 18", "chapter", "prophet"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Deuteronomy 18?",
+          answer: "The chapter emphasizes proper spiritual leadership and the promise of a prophet like Moses.",
+        },
+        {
+          prompt: "What should Israel avoid in this chapter?",
+          answer: "Israel should avoid occult practices like divination and sorcery.",
+        },
+        {
+          prompt: "Why does Deuteronomy 18 matter?",
+          answer: "It points toward God's trustworthy word and hope for true guidance instead of deceptive power.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
