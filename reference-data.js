@@ -8139,6 +8139,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Judges 2 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where the Lord's messenger warns Israel and the generation after Joshua forgets the Lord.",
+      detail: "This quiz helps a beginner see Judges 2 as the setup for the cycle of rebellion that drives the rest of the book.",
+      start: "Take this after Judges 1 when you want to see why the book's troubles begin to deepen.",
+      tags: ["Judges 2", "chapter", "warning"],
+      questions: [
+        {
+          prompt: "What warning appears in Judges 2?",
+          answer: "Israel is warned not to make covenants with the inhabitants of the land.",
+        },
+        {
+          prompt: "What does the next generation do?",
+          answer: "They forget the Lord and turn to other gods.",
+        },
+        {
+          prompt: "Why does Judges 2 matter?",
+          answer: "It explains the spiritual decline that leads to the repeated cycles in Judges.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
