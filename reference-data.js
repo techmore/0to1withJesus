@@ -9635,6 +9635,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Kings 18 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Hezekiah trusts God and begins reform in Judah.",
+      detail: "This quiz helps a beginner see 2 Kings 18 as a hopeful chapter where faithfulness and courage stand against Assyria.",
+      start: "Take this after 2 Kings 17 when you want to continue the book chapter by chapter.",
+      tags: ["2 Kings 18", "chapter", "Hezekiah"],
+      questions: [
+        {
+          prompt: "Who is king in Judah in 2 Kings 18?",
+          answer: "Hezekiah.",
+        },
+        {
+          prompt: "What does Hezekiah do differently?",
+          answer: "He trusts God and begins reform.",
+        },
+        {
+          prompt: "Why does 2 Kings 18 matter?",
+          answer: "It shows a faithful response in Judah even after the north has fallen.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
