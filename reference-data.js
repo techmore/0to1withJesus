@@ -5189,6 +5189,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 56 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the healing and teaching that continue to draw crowds and questions.",
+      detail: "This quiz helps a beginner see Matthew 56 as the chapter where Jesus keeps healing and teaching while people keep trying to understand who he is.",
+      start: "Take this after reading Matthew 56 carefully and noticing the healings, debates, and the crowd's response.",
+      tags: ["Matthew 56", "chapter", "healing"],
+      questions: [
+        {
+          prompt: "What kind of work continues in this chapter?",
+          answer: "Jesus continues healing and teaching.",
+        },
+        {
+          prompt: "How do the people respond?",
+          answer: "They keep gathering around him and asking questions.",
+        },
+        {
+          prompt: "What does this show about Jesus?",
+          answer: "It shows his compassion and authority in ministry.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
