@@ -13999,6 +13999,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 66 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where lasting momentum becomes disciplined action.",
+      detail: "This quiz helps a beginner see Matthew 66 as the chapter where momentum gets organized into purposeful action.",
+      start: "Take this after reading Matthew 66 carefully and noticing how momentum becomes disciplined action.",
+      tags: ["Matthew 66", "chapter", "action"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 66?",
+          answer: "The chapter emphasizes momentum that is becoming disciplined action.",
+        },
+        {
+          prompt: "What does disciplined action look like here?",
+          answer: "It means acting with purpose and keeping the movement focused.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 65?",
+          answer: "It shows that lasting momentum should become disciplined action.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
