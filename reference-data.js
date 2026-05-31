@@ -5697,6 +5697,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 28 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where the priestly garments are described in detail.",
+      detail: "This quiz helps a beginner see Exodus 28 as the chapter that sets apart Aaron and his sons for priestly service.",
+      start: "Take this after reading Exodus 28 carefully and noticing the garments, the breastpiece, and the holiness language.",
+      tags: ["Exodus 28", "chapter", "priests"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Exodus 28?",
+          answer: "The chapter emphasizes the priestly garments and Aaron's set-apart role.",
+        },
+        {
+          prompt: "What items are especially highlighted in Exodus 28?",
+          answer: "The chapter highlights the garments, breastpiece, and other priestly clothing.",
+        },
+        {
+          prompt: "Why does Exodus 28 matter after Exodus 27?",
+          answer: "It adds the priestly role that will serve in the tabernacle worship described earlier.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
