@@ -4111,6 +4111,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 7 Quiz",
+      kicker: "Chapter",
+      summary: "Checks judgment, asking the Father, the narrow way, and building on the rock.",
+      detail: "This quiz helps a beginner see Matthew 7 as the chapter where Jesus warns against hypocrisy, invites trust, and ends the Sermon on the Mount with a choice.",
+      start: "Take this after reading Matthew 7 carefully and noticing the close of the Sermon on the Mount.",
+      tags: ["Matthew 7", "chapter", "judgment"],
+      questions: [
+        {
+          prompt: "What does Jesus warn against at the start of Matthew 7?",
+          answer: "He warns against judging hypocritically.",
+        },
+        {
+          prompt: "What invitation does Jesus give about prayer and seeking?",
+          answer: "He tells people to ask, seek, and knock, trusting the Father to give good gifts.",
+        },
+        {
+          prompt: "What is the final image in the chapter?",
+          answer: "The wise person builds on the rock by hearing Jesus' words and doing them.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
