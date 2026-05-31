@@ -4529,6 +4529,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 26 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the plot against Jesus, the anointing, the Last Supper, and Gethsemane.",
+      detail: "This quiz helps a beginner see Matthew 26 as the chapter where Jesus moves toward the cross, the meal, betrayal, and arrest.",
+      start: "Take this after reading Matthew 26 carefully and noticing the plotting, the covenant meal, and the prayer in the garden.",
+      tags: ["Matthew 26", "chapter", "passion"],
+      questions: [
+        {
+          prompt: "What happens at the beginning of Matthew 26?",
+          answer: "The leaders plot to arrest Jesus and kill him.",
+        },
+        {
+          prompt: "What does Jesus say about the bread and cup at the Last Supper?",
+          answer: "He identifies them with his body and blood of the covenant.",
+        },
+        {
+          prompt: "What does Jesus do in Gethsemane?",
+          answer: "He prays in anguish, submits to the Father's will, and is arrested after Judas' betrayal.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
