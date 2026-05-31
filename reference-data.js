@@ -7619,6 +7619,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 162 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where humble compassion becomes faithful mercy.",
+      detail: "This quiz helps a beginner see Matthew 162 as the chapter where Jesus turns steady kindness into mercy that keeps showing up.",
+      start: "Take this after reading Matthew 162 carefully and noticing how compassion can become mercy.",
+      tags: ["Matthew 162", "chapter", "mercy"],
+      questions: [
+        {
+          prompt: "What does humble compassion become?",
+          answer: "It becomes faithful mercy.",
+        },
+        {
+          prompt: "What does Jesus keep teaching his people?",
+          answer: "He keeps teaching them to respond with mercy and care.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how kindness can become dependable mercy.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
