@@ -10141,6 +10141,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Chronicles 15 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where the ark is brought up the right way.",
+      detail: "This quiz helps a beginner see 1 Chronicles 15 as David's corrected and careful effort to bring the ark to Jerusalem with proper worship.",
+      start: "Take this after 1 Chronicles 14 when you want to continue the book chapter by chapter.",
+      tags: ["1 Chronicles 15", "chapter", "ark"],
+      questions: [
+        {
+          prompt: "What does David do in 1 Chronicles 15?",
+          answer: "He brings the ark to Jerusalem properly.",
+        },
+        {
+          prompt: "What is emphasized about the process?",
+          answer: "Careful obedience and worship.",
+        },
+        {
+          prompt: "Why does 1 Chronicles 15 matter?",
+          answer: "It shows the ark being moved with the right reverence.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
