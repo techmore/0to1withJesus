@@ -6885,6 +6885,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Deuteronomy 5 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where the Ten Commandments are repeated for the new generation.",
+      detail: "This quiz helps a beginner see Deuteronomy 5 as a chapter about hearing God's covenant words again and responding with reverence.",
+      start: "Take this after reading Deuteronomy 5 carefully and noticing the repetition of the Ten Commandments and the people's fear at Sinai.",
+      tags: ["Deuteronomy 5", "chapter", "commandments"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Deuteronomy 5?",
+          answer: "The chapter emphasizes the Ten Commandments being restated for Israel.",
+        },
+        {
+          prompt: "Why does Moses repeat the commandments here?",
+          answer: "He repeats them so the new generation will hear, remember, and obey the covenant words.",
+        },
+        {
+          prompt: "What response does the people show at Sinai?",
+          answer: "They fear God's holiness and ask Moses to speak for them.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
