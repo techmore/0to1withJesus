@@ -14307,6 +14307,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 80 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where calm resolve becomes steady commitment.",
+      detail: "This quiz helps a beginner see Matthew 80 as the chapter where resolve starts to settle into steady commitment.",
+      start: "Take this after reading Matthew 80 carefully and noticing how resolve becomes commitment.",
+      tags: ["Matthew 80", "chapter", "commitment"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 80?",
+          answer: "The chapter emphasizes resolve that is becoming steady commitment.",
+        },
+        {
+          prompt: "What does steady commitment look like here?",
+          answer: "It means staying with the task and not giving up when it is hard.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 79?",
+          answer: "It shows that calm resolve should become steady commitment.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
