@@ -7751,6 +7751,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 168 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where quiet assurance becomes durable peace.",
+      detail: "This quiz helps a beginner see Matthew 168 as the chapter where Jesus gives a confidence that settles into peace and stays there.",
+      start: "Take this after reading Matthew 168 carefully and noticing how assurance can become peace.",
+      tags: ["Matthew 168", "chapter", "peace"],
+      questions: [
+        {
+          prompt: "What does quiet assurance become?",
+          answer: "It becomes durable peace.",
+        },
+        {
+          prompt: "What does Jesus keep giving his people?",
+          answer: "He keeps giving them calm in his presence.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how confidence can settle into peace.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
