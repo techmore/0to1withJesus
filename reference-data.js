@@ -4685,6 +4685,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 33 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Jacob meets Esau again and the brothers are reconciled.",
+      detail: "This quiz helps a beginner see Genesis 33 as the chapter where fear gives way to peace and Jacob settles briefly in the land.",
+      start: "Take this after reading Genesis 33 carefully and noticing the bowing, the embrace, and the decision to separate again.",
+      tags: ["Genesis 33", "chapter", "esau"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Genesis 33?",
+          answer: "The chapter emphasizes Jacob's reunion with Esau and their reconciliation.",
+        },
+        {
+          prompt: "How does Esau respond when he meets Jacob?",
+          answer: "Esau runs to meet Jacob, embraces him, and they weep together.",
+        },
+        {
+          prompt: "Why does Genesis 33 matter after Genesis 32?",
+          answer: "It shows the feared confrontation turning into peace after Jacob's encounter with God.",
+        },
+      ],
+    },
+    {
       title: "Exodus Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Exodus as the Bible's great rescue story.",
