@@ -4759,6 +4759,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 120 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where patient awe becomes calm listening.",
+      detail: "This quiz helps a beginner see Matthew 120 as the chapter where Jesus turns awe into calm listening that can stay open and attentive.",
+      start: "Take this after reading Matthew 120 carefully and noticing how awe can become listening.",
+      tags: ["Matthew 120", "chapter", "listening"],
+      questions: [
+        {
+          prompt: "What does patient awe become?",
+          answer: "It becomes calm listening.",
+        },
+        {
+          prompt: "What does Jesus keep teaching his followers?",
+          answer: "He keeps teaching them to listen with patience and openness.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how awe can open into listening.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
