@@ -6707,6 +6707,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 125 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where durable community becomes a shared pattern of faith.",
+      detail: "This quiz helps a beginner see Matthew 125 as the chapter where Jesus keeps turning belonging into a repeatable way of life.",
+      start: "Take this after reading Matthew 125 carefully and noticing how community can become a pattern of faith.",
+      tags: ["Matthew 125", "chapter", "faith"],
+      questions: [
+        {
+          prompt: "What does durable community become?",
+          answer: "It becomes a shared pattern of faith.",
+        },
+        {
+          prompt: "What does Jesus keep reinforcing?",
+          answer: "He keeps reinforcing a repeatable way of life.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how belonging can shape daily practice.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
