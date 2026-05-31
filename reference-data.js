@@ -4221,6 +4221,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 5 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the genealogy from Adam to Noah and the refrain of death.",
+      detail: "This quiz helps a beginner see Genesis 5 as a chapter of lineage, hope, and mortality, where each generation moves the story toward Noah.",
+      start: "Take this after reading Genesis 5 carefully and noticing the repeated pattern of birth, years, and death.",
+      tags: ["Genesis 5", "chapter", "genealogy"],
+      questions: [
+        {
+          prompt: "What kind of chapter is Genesis 5?",
+          answer: "It is a genealogy tracing Adam's line down to Noah.",
+        },
+        {
+          prompt: "What repeated phrase shapes the chapter?",
+          answer: "The refrain that each person lived and then died.",
+        },
+        {
+          prompt: "Why is Genesis 5 important?",
+          answer: "It shows both the persistence of God's image-bearing line and the reality of death in a fallen world.",
+        },
+      ],
+    },
+    {
       title: "Exodus 1 Quiz",
       kicker: "Chapter",
       summary: "Checks Israel's oppression in Egypt and the beginning of the rescue setting.",
