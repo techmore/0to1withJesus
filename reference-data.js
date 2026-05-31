@@ -6643,6 +6643,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Numbers 31 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Israel goes to war against Midian and the spoils are handled.",
+      detail: "This quiz helps a beginner see Numbers 31 as a chapter about judgment, obedience, and dealing with the aftermath of battle.",
+      start: "Take this after reading Numbers 31 carefully and noticing the battle, the casualties, and the instructions about spoils.",
+      tags: ["Numbers 31", "chapter", "battle"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Numbers 31?",
+          answer: "The chapter emphasizes Israel's battle against Midian and the aftermath of that judgment.",
+        },
+        {
+          prompt: "What happens to the spoils of the battle?",
+          answer: "The spoils are divided and handled according to God's instructions.",
+        },
+        {
+          prompt: "Why does Numbers 31 matter after Numbers 30?",
+          answer: "It shifts from words and vows to a serious act of judgment and obedience in the wilderness story.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
