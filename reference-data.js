@@ -4861,6 +4861,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 41 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Joseph interprets Pharaoh's dreams and rises to power.",
+      detail: "This quiz helps a beginner see Genesis 41 as the chapter where wisdom and God's presence lift Joseph from prison to leadership.",
+      start: "Take this after reading Genesis 41 carefully and noticing the dreams, the famine warning, and Joseph's promotion.",
+      tags: ["Genesis 41", "chapter", "joseph"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Genesis 41?",
+          answer: "The chapter emphasizes Joseph interpreting Pharaoh's dreams and being appointed over Egypt.",
+        },
+        {
+          prompt: "What do Joseph's interpretations lead to in Genesis 41?",
+          answer: "They lead to a plan for seven years of abundance and seven years of famine.",
+        },
+        {
+          prompt: "Why does Genesis 41 matter after Genesis 40?",
+          answer: "It shows Joseph's gifts finally bringing him out of prison and into a position to save many people.",
+        },
+      ],
+    },
+    {
       title: "Exodus Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Exodus as the Bible's great rescue story.",
