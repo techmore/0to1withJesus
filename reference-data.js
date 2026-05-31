@@ -4927,6 +4927,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 44 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Judah offers himself for Benjamin and Joseph's test reaches its peak.",
+      detail: "This quiz helps a beginner see Genesis 44 as the chapter where Judah shows sacrificial love and the family faces a decisive moment.",
+      start: "Take this after reading Genesis 44 carefully and noticing the silver cup, the accusation, and Judah's plea.",
+      tags: ["Genesis 44", "chapter", "judah"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Genesis 44?",
+          answer: "The chapter emphasizes Joseph's final test of his brothers and Judah's willingness to take Benjamin's place.",
+        },
+        {
+          prompt: "How does Judah respond in Genesis 44?",
+          answer: "He offers himself in place of Benjamin to spare his father grief.",
+        },
+        {
+          prompt: "Why does Genesis 44 matter after Genesis 43?",
+          answer: "It proves that Judah's heart has changed and prepares the way for Joseph to reveal himself.",
+        },
+      ],
+    },
+    {
       title: "Exodus Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Exodus as the Bible's great rescue story.",
