@@ -8073,6 +8073,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Joshua 24 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Joshua renews the covenant and calls Israel to choose whom they will serve.",
+      detail: "This quiz helps a beginner see Joshua 24 as the book's closing call to remember God's faithfulness and respond with commitment.",
+      start: "Take this after reading Joshua 24 carefully and noticing the covenant renewal and Joshua's famous challenge.",
+      tags: ["Joshua 24", "chapter", "covenant"],
+      questions: [
+        {
+          prompt: "What does Joshua ask the people to do in Joshua 24?",
+          answer: "He asks them to choose whom they will serve.",
+        },
+        {
+          prompt: "What major event happens in the chapter?",
+          answer: "The covenant is renewed at Shechem.",
+        },
+        {
+          prompt: "Why does Joshua 24 matter?",
+          answer: "It ends the book by calling God's people to remember his works and serve him faithfully.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
