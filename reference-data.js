@@ -8997,6 +8997,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Samuel 13 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Amnon abuses Tamar and David's family begins to unravel.",
+      detail: "This quiz helps a beginner see 2 Samuel 13 as the chapter where sin inside David's house brings pain and division.",
+      start: "Take this after 2 Samuel 12 when you want to see the consequences move into David's family.",
+      tags: ["2 Samuel 13", "chapter", "David"],
+      questions: [
+        {
+          prompt: "What terrible thing happens in 2 Samuel 13?",
+          answer: "Amnon abuses Tamar.",
+        },
+        {
+          prompt: "What does the chapter show about David's house?",
+          answer: "It shows growing shame, anger, and division within the family.",
+        },
+        {
+          prompt: "Why does 2 Samuel 13 matter?",
+          answer: "It shows the painful fallout of sin inside David's own household.",
+        },
+      ],
+    },
+    {
       title: "1 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where Hannah prays for a son and Samuel's story begins.",
