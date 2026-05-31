@@ -7465,6 +7465,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 155 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where patient resilience becomes lasting hope.",
+      detail: "This quiz helps a beginner see Matthew 155 as the chapter where Jesus keeps hope alive through long obedience.",
+      start: "Take this after reading Matthew 155 carefully and noticing how resilience can become hope.",
+      tags: ["Matthew 155", "chapter", "hope"],
+      questions: [
+        {
+          prompt: "What does patient resilience become?",
+          answer: "It becomes lasting hope.",
+        },
+        {
+          prompt: "What does Jesus keep nurturing?",
+          answer: "He keeps nurturing confidence in his steady care.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how endurance can open into hope.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
