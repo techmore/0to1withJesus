@@ -14989,6 +14989,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 111 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where patient clarity becomes settled insight.",
+      detail: "This quiz helps a beginner see Matthew 111 as the chapter where clarity starts to settle into insight.",
+      start: "Take this after reading Matthew 111 carefully and noticing how clarity becomes insight.",
+      tags: ["Matthew 111", "chapter", "insight"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 111?",
+          answer: "The chapter emphasizes clarity that is becoming settled insight.",
+        },
+        {
+          prompt: "What does settled insight look like here?",
+          answer: "It means understanding things clearly and holding that understanding steadily.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 110?",
+          answer: "It shows that patient clarity should become settled insight.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
