@@ -8953,6 +8953,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Kings 10 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where the queen of Sheba visits Solomon and his wealth is displayed.",
+      detail: "This quiz helps a beginner see 1 Kings 10 as the height of Solomon's fame, wisdom, and wealth among the nations.",
+      start: "Take this after 1 Kings 9 when you want to continue the book chapter by chapter.",
+      tags: ["1 Kings 10", "chapter", "Solomon"],
+      questions: [
+        {
+          prompt: "Who visits Solomon in 1 Kings 10?",
+          answer: "The queen of Sheba.",
+        },
+        {
+          prompt: "What is she impressed by?",
+          answer: "Solomon's wisdom and wealth.",
+        },
+        {
+          prompt: "Why does 1 Kings 10 matter?",
+          answer: "It shows the height of Solomon's fame and the glory of his kingdom.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
