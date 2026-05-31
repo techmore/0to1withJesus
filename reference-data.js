@@ -6971,6 +6971,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Acts 8 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the spread of the gospel into Samaria and the Ethiopian's conversion.",
+      detail: "This quiz helps a beginner see Acts 8 as the chapter where persecution spreads the church and the gospel crosses new boundaries.",
+      start: "Take this after reading Acts 8 carefully and noticing the gospel moving outward under pressure.",
+      tags: ["Acts 8", "chapter", "Samaria"],
+      questions: [
+        {
+          prompt: "What happens after persecution breaks out in Jerusalem?",
+          answer: "Believers are scattered and the gospel spreads to Samaria and beyond.",
+        },
+        {
+          prompt: "Who does Philip meet on the road?",
+          answer: "He meets the Ethiopian eunuch.",
+        },
+        {
+          prompt: "What is the result of Philip's encounter?",
+          answer: "The Ethiopian believes, is baptized, and goes on his way rejoicing.",
+        },
+      ],
+    },
+    {
       title: "Acts Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Acts as the story of the Spirit-empowered church expanding from Jerusalem outward.",
