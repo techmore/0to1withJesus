@@ -4485,6 +4485,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 16 Quiz",
+      kicker: "Chapter",
+      summary: "Checks manna, daily dependence, and Sabbath rhythms in the wilderness.",
+      detail: "This quiz helps a beginner see Exodus 16 as the chapter where God teaches Israel to trust him day by day. It focuses on bread from heaven, complaint, provision, and the shape of Sabbath rest.",
+      start: "Take this after reading Exodus 16 carefully and noticing the repeated patterns of complaint and provision.",
+      tags: ["Exodus 16", "chapter", "manna"],
+      questions: [
+        {
+          prompt: "What food does God provide in Exodus 16?",
+          answer: "Manna, bread from heaven, along with quail in the evening.",
+        },
+        {
+          prompt: "What lesson does the manna teach?",
+          answer: "God's people must depend on him daily instead of storing control for themselves.",
+        },
+        {
+          prompt: "What weekly rhythm is introduced here?",
+          answer: "The Sabbath pattern of gathering and resting.",
+        },
+      ],
+    },
+    {
       title: "Luke and Acts Bridge Quiz",
       kicker: "Books",
       summary: "Checks how Luke's Gospel connects to the early church story in Acts.",
