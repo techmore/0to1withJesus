@@ -7311,6 +7311,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 148 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where a steady witness becomes joyful invitation.",
+      detail: "This quiz helps a beginner see Matthew 148 as the chapter where Jesus turns a witness-shaped community into one that can welcome others into the same life.",
+      start: "Take this after reading Matthew 148 carefully and noticing how witness can become invitation.",
+      tags: ["Matthew 148", "chapter", "invitation"],
+      questions: [
+        {
+          prompt: "What does a steady witness become?",
+          answer: "It becomes joyful invitation.",
+        },
+        {
+          prompt: "What does Jesus keep opening?",
+          answer: "He keeps opening the community outward to others.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how witness can welcome people in.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
