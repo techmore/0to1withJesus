@@ -8975,6 +8975,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Samuel 13 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Saul waits for Samuel, grows impatient, and makes a serious mistake.",
+      detail: "This quiz helps a beginner see 1 Samuel 13 as the chapter where Saul's kingdom starts to show weakness because he does not wait for the Lord's word.",
+      start: "Take this after 1 Samuel 12 when you want to see the first major crack in Saul's rule.",
+      tags: ["1 Samuel 13", "chapter", "Saul"],
+      questions: [
+        {
+          prompt: "What mistake does Saul make in 1 Samuel 13?",
+          answer: "He offers the sacrifice instead of waiting for Samuel.",
+        },
+        {
+          prompt: "Why is Saul's action serious?",
+          answer: "He acts without obeying God's command and shows impatience and fear.",
+        },
+        {
+          prompt: "Why does 1 Samuel 13 matter?",
+          answer: "It shows that Saul's kingship is already unstable because he will not wait on the Lord.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
