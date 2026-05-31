@@ -4179,6 +4179,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 10 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the nations chapter, where the table of peoples spreads out across the earth.",
+      detail: "This quiz helps a beginner see Genesis 10 as the chapter that traces the descendants of Noah and shows the world filling out into nations.",
+      start: "Take this after reading Genesis 10 carefully and noticing how the families of Noah branch into peoples and lands.",
+      tags: ["Genesis 10", "chapter", "nations"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Genesis 10?",
+          answer: "The chapter traces the descendants of Noah into the nations of the earth.",
+        },
+        {
+          prompt: "Why is Genesis 10 often called the table of nations?",
+          answer: "Because it lists the peoples, lands, and languages that spread from Noah's sons.",
+        },
+        {
+          prompt: "Why does Genesis 10 matter after Genesis 9?",
+          answer: "It shows how the post-flood world expands into the nations that fill the earth.",
+        },
+      ],
+    },
+    {
       title: "Exodus Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Exodus as the Bible's great rescue story.",
