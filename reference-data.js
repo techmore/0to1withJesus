@@ -4353,6 +4353,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Luke 16 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the parable of the shrewd manager and Jesus' teaching on wealth.",
+      detail: "This quiz helps a beginner see Luke 16 as the chapter where Jesus warns about serving money and calls for faithful use of resources.",
+      start: "Take this after reading Luke 16 carefully and noticing the stories about stewardship and riches.",
+      tags: ["Luke 16", "chapter", "wealth"],
+      questions: [
+        {
+          prompt: "What lesson does Jesus draw from the shrewd manager?",
+          answer: "He urges people to use worldly resources wisely and faithfully.",
+        },
+        {
+          prompt: "What warning does Jesus give about serving two masters?",
+          answer: "No one can serve both God and money.",
+        },
+        {
+          prompt: "What contrast does Jesus make about wealth and the kingdom?",
+          answer: "Earthly wealth is temporary, but faithfulness matters before God.",
+        },
+      ],
+    },
+    {
       title: "John 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the opening claims about Jesus as the Word, light, and Son.",
