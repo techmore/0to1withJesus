@@ -11241,6 +11241,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Chronicles 35 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Josiah celebrates Passover and keeps the festival.",
+      detail: "This quiz helps a beginner see 2 Chronicles 35 as a high point of worship under Josiah, with Passover kept according to the law.",
+      start: "Take this after 2 Chronicles 34 when you want to continue the chapter-by-chapter reading.",
+      tags: ["2 Chronicles 35", "chapter", "Josiah"],
+      questions: [
+        {
+          prompt: "What does Josiah organize in 2 Chronicles 35?",
+          answer: "A great Passover celebration.",
+        },
+        {
+          prompt: "What makes the chapter stand out?",
+          answer: "The Passover is kept with unusual care and joy.",
+        },
+        {
+          prompt: "Why does 2 Chronicles 35 matter?",
+          answer: "It shows worship and obedience at a high point in Josiah's reign.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
