@@ -7655,6 +7655,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Joshua 5 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Israel is consecrated and celebrates Passover before continuing into the land.",
+      detail: "This quiz helps a beginner see Joshua 5 as the chapter of renewed covenant life, where God prepares his people for what comes next.",
+      start: "Take this after reading Joshua 5 carefully and noticing the circumcision, the Passover, and Joshua's encounter with the commander of the Lord's army.",
+      tags: ["Joshua 5", "chapter", "Passover"],
+      questions: [
+        {
+          prompt: "What happens to Israel in Joshua 5?",
+          answer: "The people are circumcised and then celebrate Passover.",
+        },
+        {
+          prompt: "Who meets Joshua near Jericho?",
+          answer: "The commander of the Lord's army.",
+        },
+        {
+          prompt: "Why does Joshua 5 matter?",
+          answer: "It shows that Israel must be set apart and reminded of God's saving work before the conquest continues.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
