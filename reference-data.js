@@ -6387,6 +6387,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 107 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where durable patience becomes quiet endurance.",
+      detail: "This quiz helps a beginner see Matthew 107 as the chapter where Jesus turns patient waiting into quiet endurance that can keep going without noise.",
+      start: "Take this after reading Matthew 107 carefully and noticing how patience can become endurance.",
+      tags: ["Matthew 107", "chapter", "endurance"],
+      questions: [
+        {
+          prompt: "What does durable patience become?",
+          answer: "It becomes quiet endurance.",
+        },
+        {
+          prompt: "What does Jesus keep building in his followers?",
+          answer: "He keeps building a steady ability to continue faithfully.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how patience can grow into endurance.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
