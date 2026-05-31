@@ -11087,6 +11087,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Chronicles 28 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Ahaz leads Judah into deep unfaithfulness.",
+      detail: "This quiz helps a beginner see 2 Chronicles 28 as a dark warning about idolatry, defeat, and the need to return to the Lord.",
+      start: "Take this after 2 Chronicles 27 when you want to continue the chapter-by-chapter reading.",
+      tags: ["2 Chronicles 28", "chapter", "Ahaz"],
+      questions: [
+        {
+          prompt: "What kind of king is Ahaz in 2 Chronicles 28?",
+          answer: "A king who turns to idols and leads Judah astray.",
+        },
+        {
+          prompt: "What happens to Judah because of his choices?",
+          answer: "They suffer defeat and humiliation.",
+        },
+        {
+          prompt: "Why does 2 Chronicles 28 matter?",
+          answer: "It warns about the cost of abandoning the Lord.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
