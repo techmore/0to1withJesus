@@ -6883,6 +6883,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 133 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where steady habit becomes deep formation.",
+      detail: "This quiz helps a beginner see Matthew 133 as the chapter where Jesus keeps turning a rhythm into something that shapes a person deeply.",
+      start: "Take this after reading Matthew 133 carefully and noticing how habit can become formation.",
+      tags: ["Matthew 133", "chapter", "formation"],
+      questions: [
+        {
+          prompt: "What does steady habit become?",
+          answer: "It becomes deep formation.",
+        },
+        {
+          prompt: "What does Jesus keep shaping?",
+          answer: "He keeps shaping a person deeply.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how practice can form character.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
