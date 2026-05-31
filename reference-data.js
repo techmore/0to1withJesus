@@ -7985,6 +7985,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Joshua 20 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter that sets apart cities of refuge for those who accidentally kill someone.",
+      detail: "This quiz helps a beginner see Joshua 20 as a mercy chapter that protects justice and gives room for careful judgment.",
+      start: "Take this after reading Joshua 20 carefully and noticing the cities of refuge and their purpose.",
+      tags: ["Joshua 20", "chapter", "refuge"],
+      questions: [
+        {
+          prompt: "What are the cities of refuge for?",
+          answer: "They provide protection for someone who killed another person unintentionally.",
+        },
+        {
+          prompt: "Why were these cities important?",
+          answer: "They helped Israel practice justice without rushing to revenge.",
+        },
+        {
+          prompt: "Why does Joshua 20 matter?",
+          answer: "It shows that God's law includes mercy, order, and protection for life.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
