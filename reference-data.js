@@ -4971,6 +4971,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 46 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Jacob's family goes down to Egypt and God reassures him there.",
+      detail: "This quiz helps a beginner see Genesis 46 as the chapter where the whole family begins the move to Egypt under God's promise.",
+      start: "Take this after reading Genesis 46 carefully and noticing the journey, the list of names, and God's word to Jacob.",
+      tags: ["Genesis 46", "chapter", "jacob"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Genesis 46?",
+          answer: "The chapter emphasizes Jacob's family going to Egypt and God reassuring Jacob in a vision.",
+        },
+        {
+          prompt: "What does God tell Jacob in Genesis 46?",
+          answer: "God tells him not to fear going down to Egypt because he will make him a great nation there.",
+        },
+        {
+          prompt: "Why does Genesis 46 matter after Genesis 45?",
+          answer: "It shows the family actually moving to Egypt, where God's preservation plan continues.",
+        },
+      ],
+    },
+    {
       title: "Exodus Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Exodus as the Bible's great rescue story.",
