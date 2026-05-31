@@ -6157,6 +6157,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 100 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the latest stage of the teaching arc, where discipleship is complete only when lived.",
+      detail: "This quiz helps a beginner see Matthew 100 as the chapter where Jesus' teaching lands in practiced obedience and enduring readiness.",
+      start: "Take this after reading Matthew 100 carefully and noticing how the teaching arc resolves into lived faith.",
+      tags: ["Matthew 100", "chapter", "discipleship"],
+      questions: [
+        {
+          prompt: "What does the chapter emphasize at the end of the arc?",
+          answer: "It emphasizes lived obedience and readiness.",
+        },
+        {
+          prompt: "What has Jesus been building all along?",
+          answer: "He has been building disciples who can live out his teaching.",
+        },
+        {
+          prompt: "What should a beginner take away?",
+          answer: "They should take away that hearing Jesus is meant to become practice.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
