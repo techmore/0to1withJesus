@@ -10845,6 +10845,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Chronicles 17 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Jehoshaphat seeks the Lord and strengthens Judah.",
+      detail: "This quiz helps a beginner see 2 Chronicles 17 as the beginning of a wiser and more godly reign under Jehoshaphat.",
+      start: "Take this after 2 Chronicles 16 when you want to continue the chapter-by-chapter reading.",
+      tags: ["2 Chronicles 17", "chapter", "Jehoshaphat"],
+      questions: [
+        {
+          prompt: "What does Jehoshaphat do in 2 Chronicles 17?",
+          answer: "He seeks the Lord and strengthens Judah.",
+        },
+        {
+          prompt: "How does the chapter describe his rule?",
+          answer: "As a time of peace and instruction from the law.",
+        },
+        {
+          prompt: "Why does 2 Chronicles 17 matter?",
+          answer: "It shows a king leading the nation toward faithfulness.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
