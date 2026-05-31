@@ -10449,6 +10449,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Chronicles 29 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter that ends 1 Chronicles with gifts, praise, and Solomon's coronation.",
+      detail: "This quiz helps a beginner see 1 Chronicles 29 as the joyful close of David's reign, marked by generous giving and worship.",
+      start: "Take this after 1 Chronicles 28 when you want to finish the book chapter by chapter.",
+      tags: ["1 Chronicles 29", "chapter", "David"],
+      questions: [
+        {
+          prompt: "What do the people do in 1 Chronicles 29?",
+          answer: "They give gifts for the temple.",
+        },
+        {
+          prompt: "How does David respond?",
+          answer: "He offers praise and prayer to God.",
+        },
+        {
+          prompt: "Why does 1 Chronicles 29 matter?",
+          answer: "It closes David's reign with worship and Solomon's rise.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
