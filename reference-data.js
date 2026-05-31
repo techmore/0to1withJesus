@@ -6277,6 +6277,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 112 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where steady assurance becomes patient trust.",
+      detail: "This quiz helps a beginner see Matthew 112 as the chapter where Jesus turns assurance into patient trust that can wait without grasping.",
+      start: "Take this after reading Matthew 112 carefully and noticing how assurance can become trust.",
+      tags: ["Matthew 112", "chapter", "trust"],
+      questions: [
+        {
+          prompt: "What does steady assurance become?",
+          answer: "It becomes patient trust.",
+        },
+        {
+          prompt: "What does Jesus keep shaping in his followers?",
+          answer: "He keeps shaping people who can wait on him without anxiety.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how assurance can soften into trust.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
