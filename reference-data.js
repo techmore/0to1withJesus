@@ -10251,6 +10251,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Chronicles 20 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter that records more victories and the defeat of giants.",
+      detail: "This quiz helps a beginner see 1 Chronicles 20 as a continuing account of David's triumphs and the strength God gives his people.",
+      start: "Take this after 1 Chronicles 19 when you want to continue the book chapter by chapter.",
+      tags: ["1 Chronicles 20", "chapter", "David"],
+      questions: [
+        {
+          prompt: "What kind of events fill 1 Chronicles 20?",
+          answer: "More battles and victories for David's forces.",
+        },
+        {
+          prompt: "What notable foes are mentioned?",
+          answer: "Giants and the Philistines.",
+        },
+        {
+          prompt: "Why does 1 Chronicles 20 matter?",
+          answer: "It shows God giving David continued victory over enemies.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
