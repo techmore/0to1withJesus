@@ -7831,6 +7831,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Joshua 13 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Joshua is told what remains to be conquered and how the land will be divided.",
+      detail: "This quiz helps a beginner see Joshua 13 as a transition chapter that looks back on the conquest and forward to inheritance.",
+      start: "Take this after reading Joshua 13 carefully and noticing the remaining land, the inheritance sections, and the tribes on the east side.",
+      tags: ["Joshua 13", "chapter", "inheritance"],
+      questions: [
+        {
+          prompt: "What is Joshua 13 mainly about?",
+          answer: "It describes the land still to be taken and the land to be allotted.",
+        },
+        {
+          prompt: "What does this chapter show about Joshua's work?",
+          answer: "It shows that much of the conquest is done, but there is still land to divide among the tribes.",
+        },
+        {
+          prompt: "Why does Joshua 13 matter?",
+          answer: "It marks the shift from conquest to inheritance and reminds readers that God's promises keep unfolding.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
