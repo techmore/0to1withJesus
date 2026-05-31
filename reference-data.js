@@ -5805,6 +5805,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 84 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the arrest and trial movement, where silence, justice, and courage come into focus.",
+      detail: "This quiz helps a beginner see Matthew 84 as the chapter where Jesus faces wrongful accusation and remains steady under pressure.",
+      start: "Take this after reading Matthew 84 carefully and noticing how Jesus responds before authorities.",
+      tags: ["Matthew 84", "chapter", "trial"],
+      questions: [
+        {
+          prompt: "What situation does Jesus face?",
+          answer: "He faces arrest and trial before authorities.",
+        },
+        {
+          prompt: "How does Jesus respond?",
+          answer: "He responds with steady resolve and limited defense.",
+        },
+        {
+          prompt: "What does the chapter highlight?",
+          answer: "It highlights courage, injustice, and Jesus' calm obedience.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
