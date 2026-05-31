@@ -6137,6 +6137,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Numbers 8 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where the lamps are arranged and the Levites are purified for service.",
+      detail: "This quiz helps a beginner see Numbers 8 as the chapter that joins light, cleansing, and the dedication of the Levites.",
+      start: "Take this after reading Numbers 8 carefully and noticing the lampstand, the purification rites, and the Levites' service.",
+      tags: ["Numbers 8", "chapter", "levites"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Numbers 8?",
+          answer: "The chapter emphasizes the lampstand and the cleansing and dedication of the Levites.",
+        },
+        {
+          prompt: "What does the chapter say about the Levites?",
+          answer: "They are purified and dedicated to serve the Lord.",
+        },
+        {
+          prompt: "Why does Numbers 8 matter after Numbers 7?",
+          answer: "It moves from dedication offerings to the actual setting apart of the Levites for service.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
