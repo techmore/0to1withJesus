@@ -8931,6 +8931,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Samuel 10 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where David's servants face insult and Israel's army goes to battle.",
+      detail: "This quiz helps a beginner see 2 Samuel 10 as a chapter of conflict where honor is insulted and war follows.",
+      start: "Take this after 2 Samuel 9 when you want to see the next conflict in David's reign.",
+      tags: ["2 Samuel 10", "chapter", "David"],
+      questions: [
+        {
+          prompt: "What causes conflict in 2 Samuel 10?",
+          answer: "The king of Ammon humiliates David's servants.",
+        },
+        {
+          prompt: "What does Israel do in response?",
+          answer: "They prepare for battle and fight against the Ammonites and their allies.",
+        },
+        {
+          prompt: "Why does 2 Samuel 10 matter?",
+          answer: "It shows how insult and shame lead to war during David's reign.",
+        },
+      ],
+    },
+    {
       title: "1 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where Hannah prays for a son and Samuel's story begins.",
