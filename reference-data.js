@@ -6531,6 +6531,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 117 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where voice becomes a clearer invitation.",
+      detail: "This quiz helps a beginner see Matthew 117 as the chapter where Jesus keeps making witness sound like invitation.",
+      start: "Take this after reading Matthew 117 carefully and noticing how testimony opens doors.",
+      tags: ["Matthew 117", "chapter", "invitation"],
+      questions: [
+        {
+          prompt: "What does a settled voice become?",
+          answer: "It becomes a clearer invitation.",
+        },
+        {
+          prompt: "What does Jesus keep doing?",
+          answer: "He keeps making witness welcoming and clear.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how testimony can invite response.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
