@@ -6421,6 +6421,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 112 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where character is stress-tested and clarified.",
+      detail: "This quiz helps a beginner see Matthew 112 as the chapter where Jesus keeps revealing what formed character looks like under stress.",
+      start: "Take this after reading Matthew 112 carefully and noticing how character is clarified under pressure.",
+      tags: ["Matthew 112", "chapter", "stress"],
+      questions: [
+        {
+          prompt: "What happens to character here?",
+          answer: "It is stress-tested and clarified.",
+        },
+        {
+          prompt: "What does Jesus keep revealing?",
+          answer: "He keeps revealing true formed character.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how pressure shows what has really been formed.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
