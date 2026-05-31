@@ -6069,6 +6069,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 96 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next turn, where perseverance and obedience remain central.",
+      detail: "This quiz helps a beginner see Matthew 96 as the chapter where Jesus keeps forming disciples who persevere and obey.",
+      start: "Take this after reading Matthew 96 carefully and noticing the emphasis on staying faithful over time.",
+      tags: ["Matthew 96", "chapter", "perseverance"],
+      questions: [
+        {
+          prompt: "What quality is emphasized?",
+          answer: "Perseverance is emphasized.",
+        },
+        {
+          prompt: "What response does Jesus want?",
+          answer: "He wants steady obedience.",
+        },
+        {
+          prompt: "What should a beginner look for?",
+          answer: "They should look for how long-term faithfulness is built.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
