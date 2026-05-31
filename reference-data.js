@@ -4639,6 +4639,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 31 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the calling of the first disciples, healing, and the spread of Jesus' fame.",
+      detail: "This quiz helps a beginner see Matthew 31 as the chapter where Jesus begins gathering followers and showing his authority in action.",
+      start: "Take this after reading Matthew 31 carefully and noticing the call, the sermons, and the first healings.",
+      tags: ["Matthew 31", "chapter", "calling"],
+      questions: [
+        {
+          prompt: "Who does Jesus call first in Matthew 31?",
+          answer: "He calls fishermen to follow him and become fishers of people.",
+        },
+        {
+          prompt: "What does Jesus do as he teaches and ministers?",
+          answer: "He teaches in the synagogues, proclaims the kingdom, and heals diseases and afflictions.",
+        },
+        {
+          prompt: "What happens to Jesus' fame in the region?",
+          answer: "His fame spreads as crowds bring the sick and afflicted to him.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
