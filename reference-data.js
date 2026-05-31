@@ -7443,6 +7443,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 154 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where quiet courage becomes patient resilience.",
+      detail: "This quiz helps a beginner see Matthew 154 as the chapter where Jesus teaches his people to stay steady when progress feels slow.",
+      start: "Take this after reading Matthew 154 carefully and noticing how courage can become resilience.",
+      tags: ["Matthew 154", "chapter", "resilience"],
+      questions: [
+        {
+          prompt: "What does quiet courage become?",
+          answer: "It becomes patient resilience.",
+        },
+        {
+          prompt: "What does Jesus keep forming in his people?",
+          answer: "He keeps forming the ability to endure faithfully.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how courage can settle into steady endurance.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
