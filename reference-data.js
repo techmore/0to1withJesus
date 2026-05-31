@@ -9657,6 +9657,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Kings 19 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Hezekiah prays and God rescues Jerusalem from Assyria.",
+      detail: "This quiz helps a beginner see 2 Kings 19 as a chapter of prayer, deliverance, and God's power to save.",
+      start: "Take this after 2 Kings 18 when you want to continue the book chapter by chapter.",
+      tags: ["2 Kings 19", "chapter", "Hezekiah"],
+      questions: [
+        {
+          prompt: "What does Hezekiah do in 2 Kings 19?",
+          answer: "He prays to the Lord.",
+        },
+        {
+          prompt: "What does God do?",
+          answer: "He rescues Jerusalem from Assyria.",
+        },
+        {
+          prompt: "Why does 2 Kings 19 matter?",
+          answer: "It shows God answering faith with deliverance.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
