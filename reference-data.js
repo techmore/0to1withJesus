@@ -11065,6 +11065,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Chronicles 27 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Jotham reigns faithfully and becomes strong.",
+      detail: "This quiz helps a beginner see 2 Chronicles 27 as a brief but positive reign shaped by steady obedience.",
+      start: "Take this after 2 Chronicles 26 when you want to continue the chapter-by-chapter reading.",
+      tags: ["2 Chronicles 27", "chapter", "Jotham"],
+      questions: [
+        {
+          prompt: "How is Jotham described in 2 Chronicles 27?",
+          answer: "He does what is right in the eyes of the Lord.",
+        },
+        {
+          prompt: "What happens during his reign?",
+          answer: "He becomes mighty because he ordered his ways before the Lord.",
+        },
+        {
+          prompt: "Why does 2 Chronicles 27 matter?",
+          answer: "It shows the strength that comes from walking faithfully with God.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
