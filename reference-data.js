@@ -4155,6 +4155,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Luke 7 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the centurion's faith, the widow's son, and Jesus' response to John the Baptist.",
+      detail: "This quiz helps a beginner see Luke 7 as the chapter where Jesus' authority, compassion, and identity are highlighted through healing, raising the dead, and answering questions.",
+      start: "Take this after reading Luke 7 carefully and noticing the repeated contrasts between faith and doubt.",
+      tags: ["Luke 7", "chapter", "faith"],
+      questions: [
+        {
+          prompt: "Whose faith amazes Jesus in Luke 7?",
+          answer: "A Roman centurion's faith amazes Jesus.",
+        },
+        {
+          prompt: "Who does Jesus raise from the dead in this chapter?",
+          answer: "Jesus raises the widow's son at Nain.",
+        },
+        {
+          prompt: "How does Jesus answer John the Baptist's question?",
+          answer: "He points to his works of healing and good news as evidence of his identity.",
+        },
+      ],
+    },
+    {
       title: "John 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the opening claims about Jesus as the Word, light, and Son.",
