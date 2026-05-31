@@ -18033,6 +18033,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Thessalonians Book Quiz",
+      kicker: "Book",
+      summary: "A whole-book check for 1 Thessalonians as Paul's letter of encouragement, holiness, and hope in Jesus' return.",
+      detail: "This quiz helps a beginner see 1 Thessalonians as a warm letter to a young church that needs reassurance, moral formation, and hope about the future.",
+      start: "Take this after Acts 15-16 or after seeing why Paul stayed connected to Thessalonian believers.",
+      tags: ["1 Thessalonians", "Paul", "book"],
+      questions: [
+        {
+          prompt: "What encouraging tone shapes 1 Thessalonians?",
+          answer: "Paul thanks God for the church and encourages them in faith and love.",
+        },
+        {
+          prompt: "What does the letter say about holiness?",
+          answer: "God's will is for believers to live holy lives.",
+        },
+        {
+          prompt: "What hope does 1 Thessalonians emphasize at the end?",
+          answer: "The return of the Lord and the resurrection hope connected to it.",
+        },
+      ],
+    },
+    {
       title: "Romans and Ephesians Doctrine Quiz",
       kicker: "Books",
       summary: "Checks grace, faith, church, unity, and new life in Christ.",
