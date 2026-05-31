@@ -4949,6 +4949,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 45 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Joseph reveals himself and forgives his brothers.",
+      detail: "This quiz helps a beginner see Genesis 45 as the chapter where grief turns to reunion and God's purpose becomes explicit.",
+      start: "Take this after reading Genesis 45 carefully and noticing the revelation, the tears, and the invitation to Egypt.",
+      tags: ["Genesis 45", "chapter", "joseph"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Genesis 45?",
+          answer: "The chapter emphasizes Joseph revealing himself to his brothers and forgiving them.",
+        },
+        {
+          prompt: "What does Joseph tell his brothers about God's role in Genesis 45?",
+          answer: "He says God sent him ahead to preserve life.",
+        },
+        {
+          prompt: "Why does Genesis 45 matter after Genesis 44?",
+          answer: "It resolves the brothers' test and turns the family toward reconciliation and survival in Egypt.",
+        },
+      ],
+    },
+    {
       title: "Exodus Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Exodus as the Bible's great rescue story.",
