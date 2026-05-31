@@ -4617,6 +4617,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 30 Quiz",
+      kicker: "Chapter",
+      summary: "Checks John the Baptist, Jesus' baptism, and the beginning of public ministry.",
+      detail: "This quiz helps a beginner see Matthew 30 as the chapter where preparation gives way to Jesus' public mission and the Spirit's affirmation.",
+      start: "Take this after reading Matthew 30 carefully and noticing the wilderness preaching, baptism, and temptation.",
+      tags: ["Matthew 30", "chapter", "baptism"],
+      questions: [
+        {
+          prompt: "What does John the Baptist call people to do?",
+          answer: "He calls them to repent because the kingdom of heaven is at hand.",
+        },
+        {
+          prompt: "What happens when Jesus is baptized?",
+          answer: "The heavens open, the Spirit descends, and the Father declares his pleasure in Jesus.",
+        },
+        {
+          prompt: "What happens in the wilderness after the baptism?",
+          answer: "Jesus is tempted by the devil and remains faithful.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
