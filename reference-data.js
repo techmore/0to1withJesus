@@ -7763,6 +7763,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Romans 13 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Paul's teaching about governing authorities, love, and living awake.",
+      detail: "This quiz helps a beginner see Romans 13 as the chapter where Paul applies gospel life to public order and neighbor love.",
+      start: "Take this after reading Romans 13 carefully and noticing Paul's call to love and wakefulness.",
+      tags: ["Romans 13", "chapter", "love"],
+      questions: [
+        {
+          prompt: "What does Paul say about authorities?",
+          answer: "He says governing authorities are established by God to maintain order.",
+        },
+        {
+          prompt: "What fulfills the law in this chapter?",
+          answer: "Love fulfills the law.",
+        },
+        {
+          prompt: "What image does Paul use for how believers should live?",
+          answer: "He tells them to wake up and put on the Lord Jesus Christ.",
+        },
+      ],
+    },
+    {
       title: "Ephesians Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Ephesians as Paul's letter about identity in Christ, unity, the church, and standing firm.",
