@@ -10229,6 +10229,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Chronicles 19 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter that records David's conflict with the Ammonites and Arameans.",
+      detail: "This quiz helps a beginner see 1 Chronicles 19 as another account of conflict where God gives David victory over his enemies.",
+      start: "Take this after 1 Chronicles 18 when you want to continue the book chapter by chapter.",
+      tags: ["1 Chronicles 19", "chapter", "David"],
+      questions: [
+        {
+          prompt: "Who opposes David in 1 Chronicles 19?",
+          answer: "The Ammonites and the Arameans.",
+        },
+        {
+          prompt: "What is the outcome of the conflict?",
+          answer: "David's forces are victorious with God's help.",
+        },
+        {
+          prompt: "Why does 1 Chronicles 19 matter?",
+          answer: "It continues the story of God establishing David's kingdom.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
