@@ -4817,6 +4817,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 39 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Joseph serves faithfully in Potiphar's house and resists temptation.",
+      detail: "This quiz helps a beginner see Genesis 39 as the chapter where Joseph's integrity is tested in Egypt and God remains with him.",
+      start: "Take this after reading Genesis 39 carefully and noticing Joseph's work, Potiphar's wife, and the prison.",
+      tags: ["Genesis 39", "chapter", "joseph"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Genesis 39?",
+          answer: "The chapter emphasizes Joseph's faithfulness, his temptation, and his unjust imprisonment.",
+        },
+        {
+          prompt: "How does Joseph respond to temptation in Genesis 39?",
+          answer: "He refuses Potiphar's wife's advances and runs away.",
+        },
+        {
+          prompt: "Why does Genesis 39 matter after Genesis 38?",
+          answer: "It returns to Joseph's story and shows God still blessing him even in hardship.",
+        },
+      ],
+    },
+    {
       title: "Exodus Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Exodus as the Bible's great rescue story.",
