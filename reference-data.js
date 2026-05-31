@@ -9349,6 +9349,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Kings 5 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Naaman is healed and learns to obey God's word simply.",
+      detail: "This quiz helps a beginner see 2 Kings 5 as a story of healing, humility, and God's mercy toward outsiders.",
+      start: "Take this after 2 Kings 4 when you want to continue the book chapter by chapter.",
+      tags: ["2 Kings 5", "chapter", "Elisha"],
+      questions: [
+        {
+          prompt: "Who is healed in 2 Kings 5?",
+          answer: "Naaman.",
+        },
+        {
+          prompt: "What does Naaman have to do to be healed?",
+          answer: "Wash in the Jordan River.",
+        },
+        {
+          prompt: "Why does 2 Kings 5 matter?",
+          answer: "It shows that God's mercy and healing come through humble obedience.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
