@@ -5299,6 +5299,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 61 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the final healing and teaching moments before the Gospel of Matthew ends.",
+      detail: "This quiz helps a beginner see Matthew 61 as the chapter where Jesus' ministry is still drawing people in and preparing for the close of the story.",
+      start: "Take this after reading Matthew 61 carefully and noticing the final healings, questions, and crowd responses.",
+      tags: ["Matthew 61", "chapter", "ministry"],
+      questions: [
+        {
+          prompt: "What continues in this chapter?",
+          answer: "Jesus continues healing and teaching.",
+        },
+        {
+          prompt: "What is the atmosphere around Jesus?",
+          answer: "Crowds keep gathering and listening closely.",
+        },
+        {
+          prompt: "What does this chapter set up?",
+          answer: "It sets up the closing section of Matthew's story.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
