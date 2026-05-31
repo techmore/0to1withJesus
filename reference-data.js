@@ -4397,6 +4397,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 20 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the workers in the vineyard, the third passion prediction, and service instead of status.",
+      detail: "This quiz helps a beginner see Matthew 20 as the chapter where Jesus overturns status expectations and teaches that greatness means serving.",
+      start: "Take this after reading Matthew 20 carefully and noticing the parable, the journey to Jerusalem, and the request for honor.",
+      tags: ["Matthew 20", "chapter", "service"],
+      questions: [
+        {
+          prompt: "What point does Jesus make in the parable of the workers in the vineyard?",
+          answer: "He shows that God's generosity is not based on human calculations of fairness.",
+        },
+        {
+          prompt: "What does Jesus predict will happen to him in Jerusalem?",
+          answer: "He says he will be delivered over, mocked, flogged, crucified, and raised.",
+        },
+        {
+          prompt: "What does Jesus say about greatness?",
+          answer: "He says that whoever wants to be great must be a servant, and the Son of Man came to serve and give his life as a ransom.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
