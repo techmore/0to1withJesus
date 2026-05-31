@@ -5617,6 +5617,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 163 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where stable faith becomes patient trust.",
+      detail: "This quiz helps a beginner see Matthew 163 as the chapter where faith settles into patient trust in Jesus.",
+      start: "Take this after reading Matthew 163 carefully and noticing how faith becomes trust.",
+      tags: ["Matthew 163", "chapter", "trust"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 163?",
+          answer: "The chapter emphasizes patient trust in following Jesus.",
+        },
+        {
+          prompt: "What does patient trust look like here?",
+          answer: "It means leaning on Jesus steadily and without hurry.",
+        },
+        {
+          prompt: "Why does this matter after Matthew 162?",
+          answer: "It shows that stable faith can become patient trust.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
