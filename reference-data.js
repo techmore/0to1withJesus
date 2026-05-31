@@ -5925,6 +5925,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 177 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where grounded trust becomes steady assurance.",
+      detail: "This quiz helps a beginner see Matthew 177 as the chapter where trust settles into steady assurance with Jesus.",
+      start: "Take this after reading Matthew 177 carefully and noticing how trust becomes assurance.",
+      tags: ["Matthew 177", "chapter", "assurance"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 177?",
+          answer: "The chapter emphasizes steady assurance in following Jesus.",
+        },
+        {
+          prompt: "What does steady assurance look like here?",
+          answer: "It means being settled and certain in Jesus without wavering.",
+        },
+        {
+          prompt: "Why does this matter after Matthew 176?",
+          answer: "It shows that grounded trust can become steady assurance.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
