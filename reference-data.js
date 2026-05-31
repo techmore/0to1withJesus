@@ -7611,6 +7611,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Joshua 3 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Israel crosses the Jordan on dry ground as the Lord confirms Joshua's leadership.",
+      detail: "This quiz helps a beginner see Joshua 3 as the chapter where God makes a way for his people and marks the start of their entrance into the land.",
+      start: "Take this after reading Joshua 3 carefully and noticing the ark, the priests, and the stopped waters.",
+      tags: ["Joshua 3", "chapter", "Jordan"],
+      questions: [
+        {
+          prompt: "What happens in Joshua 3?",
+          answer: "Israel crosses the Jordan River on dry ground.",
+        },
+        {
+          prompt: "What important sign goes before the people?",
+          answer: "The ark of the covenant goes ahead of them.",
+        },
+        {
+          prompt: "Why does Joshua 3 matter?",
+          answer: "It shows that God is with Joshua and makes a way for Israel to enter the land.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
