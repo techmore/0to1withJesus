@@ -5947,6 +5947,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 178 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where steady assurance becomes quiet confidence.",
+      detail: "This quiz helps a beginner see Matthew 178 as the chapter where assurance settles into quiet confidence with Jesus.",
+      start: "Take this after reading Matthew 178 carefully and noticing how assurance becomes confidence.",
+      tags: ["Matthew 178", "chapter", "confidence"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 178?",
+          answer: "The chapter emphasizes quiet confidence in following Jesus.",
+        },
+        {
+          prompt: "What does quiet confidence look like here?",
+          answer: "It means trusting Jesus with calm certainty and no need to prove yourself.",
+        },
+        {
+          prompt: "Why does this matter after Matthew 177?",
+          answer: "It shows that steady assurance can become quiet confidence.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
