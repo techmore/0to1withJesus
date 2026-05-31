@@ -6299,6 +6299,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 103 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where steady discernment becomes calm understanding.",
+      detail: "This quiz helps a beginner see Matthew 103 as the chapter where Jesus turns clear discernment into calm understanding that can hold a situation together.",
+      start: "Take this after reading Matthew 103 carefully and noticing how discernment can become understanding.",
+      tags: ["Matthew 103", "chapter", "understanding"],
+      questions: [
+        {
+          prompt: "What does steady discernment become?",
+          answer: "It becomes calm understanding.",
+        },
+        {
+          prompt: "What does Jesus keep forming in his followers?",
+          answer: "He keeps forming people who can understand with patience and clarity.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how discernment can settle into understanding.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
