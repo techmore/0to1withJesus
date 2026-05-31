@@ -6863,6 +6863,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Deuteronomy 4 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Moses calls Israel to obey, remember, and avoid idolatry.",
+      detail: "This quiz helps a beginner see Deuteronomy 4 as a chapter about covenant memory, wise obedience, and the danger of worshiping images.",
+      start: "Take this after reading Deuteronomy 4 carefully and noticing the call to keep God's statutes and remember what happened at Horeb.",
+      tags: ["Deuteronomy 4", "chapter", "obedience"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Deuteronomy 4?",
+          answer: "The chapter emphasizes obeying God's commands and remembering God's acts.",
+        },
+        {
+          prompt: "What danger does Moses warn against in Deuteronomy 4?",
+          answer: "He warns against idolatry, especially making and worshiping images.",
+        },
+        {
+          prompt: "Why does Deuteronomy 4 matter?",
+          answer: "It teaches Israel that faithful obedience and memory are essential to life in the land.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
