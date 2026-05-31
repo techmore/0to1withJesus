@@ -4375,6 +4375,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "John 17 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Jesus' prayer for himself, the disciples, and future believers.",
+      detail: "This quiz helps a beginner see John 17 as the prayer chapter where Jesus asks for glory, prays for protection and unity, and includes future believers in his care.",
+      start: "Take this after reading John 17 carefully and noticing the repeated themes of glory, unity, and protection.",
+      tags: ["John 17", "chapter", "prayer"],
+      questions: [
+        {
+          prompt: "Who does Jesus pray for in John 17?",
+          answer: "He prays for himself, his disciples, and those who will believe later.",
+        },
+        {
+          prompt: "What does Jesus ask for his followers?",
+          answer: "He asks for their protection, unity, and sanctification in the truth.",
+        },
+        {
+          prompt: "What theme connects the whole prayer?",
+          answer: "The prayer centers on glory and shared fellowship with the Father and the Son.",
+        },
+      ],
+    },
+    {
       title: "John 18-21 Quiz",
       kicker: "Chapters",
       summary: "Checks the arrest, trial, cross, resurrection, and Peter's restoration.",
