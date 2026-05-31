@@ -6311,6 +6311,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 107 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where tested habits become steadier commitment.",
+      detail: "This quiz helps a beginner see Matthew 107 as the chapter where Jesus turns tested practice into durable commitment.",
+      start: "Take this after reading Matthew 107 carefully and noticing how pressure hardens into conviction.",
+      tags: ["Matthew 107", "chapter", "commitment"],
+      questions: [
+        {
+          prompt: "What do tested habits become?",
+          answer: "They become steadier commitment.",
+        },
+        {
+          prompt: "What does Jesus keep developing?",
+          answer: "He keeps developing durable discipleship.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how pressure can deepen conviction.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
