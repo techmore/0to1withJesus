@@ -5551,6 +5551,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 160 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where calm perseverance becomes steadfast patience.",
+      detail: "This quiz helps a beginner see Matthew 160 as the chapter where perseverance settles into steadfast patience with Jesus.",
+      start: "Take this after reading Matthew 160 carefully and noticing how perseverance becomes patience.",
+      tags: ["Matthew 160", "chapter", "patience"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 160?",
+          answer: "The chapter emphasizes steadfast patience in following Jesus.",
+        },
+        {
+          prompt: "What does steadfast patience look like here?",
+          answer: "It means waiting on Jesus without losing trust or focus.",
+        },
+        {
+          prompt: "Why does this matter after Matthew 159?",
+          answer: "It shows that calm perseverance can deepen into steadfast patience.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
