@@ -4375,6 +4375,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 12 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Abram's call, the promise of land and blessing, and the beginning of the patriarchal story.",
+      detail: "This quiz helps a beginner see Genesis 12 as the chapter where God calls Abram to leave, promises blessing, and begins the story that will shape Israel.",
+      start: "Take this after reading Genesis 12 carefully and noticing the call to leave, the promise, and the altar-building.",
+      tags: ["Genesis 12", "chapter", "Abraham"],
+      questions: [
+        {
+          prompt: "What does God ask Abram to do?",
+          answer: "Leave his country, kindred, and father's house and go to the land God will show him.",
+        },
+        {
+          prompt: "What promise does God make to Abram?",
+          answer: "God promises to make him a great nation, bless him, and bless all the families of the earth through him.",
+        },
+        {
+          prompt: "Why is Genesis 12 important?",
+          answer: "It launches the Abraham story and introduces the promise that will carry through the rest of Scripture.",
+        },
+      ],
+    },
+    {
       title: "Exodus 1 Quiz",
       kicker: "Chapter",
       summary: "Checks Israel's oppression in Egypt and the beginning of the rescue setting.",
