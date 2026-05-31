@@ -10757,6 +10757,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Chronicles 13 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Abijah and Judah face Jeroboam in battle.",
+      detail: "This quiz helps a beginner see 2 Chronicles 13 as a battle account that stresses trust in the Lord and the legitimacy of David's line.",
+      start: "Take this after 2 Chronicles 12 when you want to continue the chapter-by-chapter reading.",
+      tags: ["2 Chronicles 13", "chapter", "Abijah"],
+      questions: [
+        {
+          prompt: "Who leads Judah in 2 Chronicles 13?",
+          answer: "Abijah.",
+        },
+        {
+          prompt: "What does Abijah emphasize in his speech?",
+          answer: "Trusting the Lord and the covenant with David.",
+        },
+        {
+          prompt: "Why does 2 Chronicles 13 matter?",
+          answer: "It shows Judah relying on God against Jeroboam.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
