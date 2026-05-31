@@ -5265,6 +5265,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 147 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where gracious steadiness becomes faithful patience.",
+      detail: "This quiz helps a beginner see Matthew 147 as the chapter where dependable faith learns to wait without losing heart.",
+      start: "Take this after reading Matthew 147 carefully and noticing how steadiness can wait.",
+      tags: ["Matthew 147", "chapter", "patience"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 147?",
+          answer: "The chapter emphasizes patient faithfulness that does not rush or collapse.",
+        },
+        {
+          prompt: "What does faithful patience look like here?",
+          answer: "It means waiting with trust while still staying obedient.",
+        },
+        {
+          prompt: "Why does this matter after Matthew 146?",
+          answer: "It shows that gracious steadiness can mature into patient faithfulness.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
