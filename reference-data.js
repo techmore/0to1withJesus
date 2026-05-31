@@ -19420,5 +19420,27 @@ export const referenceData = {
         },
       ],
     },
+    {
+      title: "Revelation Book Quiz",
+      kicker: "Book",
+      summary: "A whole-book check for Revelation as the unveiling of Jesus' victory and the hope of new creation.",
+      detail: "This quiz helps a beginner see Revelation as worshipful vision, faithful witness, judgment on evil, and the promise that God makes all things new.",
+      start: "Take this after the Revelation and New Creation quiz or alongside it as a broader book-level review.",
+      tags: ["Revelation", "book", "new creation"],
+      questions: [
+        {
+          prompt: "What does Revelation unveil?",
+          answer: "Jesus' victory, God's judgment, and the hope of new creation.",
+        },
+        {
+          prompt: "What should readers notice besides symbols and beasts?",
+          answer: "Worship, faithful witness, endurance, and the triumph of the Lamb.",
+        },
+        {
+          prompt: "Why is Revelation important for beginners?",
+          answer: "It gives hope that evil will not win and God's new world will come.",
+        },
+      ],
+    },
   ],
 };
