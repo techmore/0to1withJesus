@@ -6663,6 +6663,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 123 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where open invitation becomes shared movement.",
+      detail: "This quiz helps a beginner see Matthew 123 as the chapter where Jesus keeps turning invitation into a way of moving together.",
+      start: "Take this after reading Matthew 123 carefully and noticing how invitation can become shared movement.",
+      tags: ["Matthew 123", "chapter", "movement"],
+      questions: [
+        {
+          prompt: "What does open invitation become?",
+          answer: "It becomes shared movement.",
+        },
+        {
+          prompt: "What does Jesus keep forming?",
+          answer: "He keeps forming a way of moving together.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how invitation can turn into collective action.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
