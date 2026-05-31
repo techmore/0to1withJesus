@@ -8777,6 +8777,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Samuel 4 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Israel loses the ark and Eli's family faces judgment.",
+      detail: "This quiz helps a beginner see 1 Samuel 4 as a sobering chapter about presumption, defeat, and the seriousness of God's holiness.",
+      start: "Take this after 1 Samuel 3 when you want to see the consequences of Israel's disobedience.",
+      tags: ["1 Samuel 4", "chapter", "ark"],
+      questions: [
+        {
+          prompt: "What happens in 1 Samuel 4?",
+          answer: "Israel is defeated and the ark is captured by the Philistines.",
+        },
+        {
+          prompt: "What happens to Eli's family in the chapter?",
+          answer: "Eli's sons die and Eli dies after hearing the news.",
+        },
+        {
+          prompt: "Why does 1 Samuel 4 matter?",
+          answer: "It shows that God's presence is not something to treat lightly or manipulate.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
