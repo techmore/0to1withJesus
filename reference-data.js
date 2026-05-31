@@ -9767,6 +9767,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Kings 24 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Judah's final collapse begins and Babylon rises against it.",
+      detail: "This quiz helps a beginner see 2 Kings 24 as the beginning of Judah's fall into exile.",
+      start: "Take this after 2 Kings 23 when you want to continue the book chapter by chapter.",
+      tags: ["2 Kings 24", "chapter", "Judah"],
+      questions: [
+        {
+          prompt: "What happens to Judah in 2 Kings 24?",
+          answer: "It begins to collapse under Babylon.",
+        },
+        {
+          prompt: "What does the chapter show about the kingdom?",
+          answer: "Its decline is now unavoidable.",
+        },
+        {
+          prompt: "Why does 2 Kings 24 matter?",
+          answer: "It marks the beginning of Judah's final fall into exile.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
