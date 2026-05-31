@@ -18011,6 +18011,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Colossians Book Quiz",
+      kicker: "Book",
+      summary: "A whole-book check for Colossians as Paul's letter about Christ's supremacy and fullness.",
+      detail: "This quiz helps a beginner see Colossians as a letter that puts Jesus at the center over every power, teaching, and spiritual distraction.",
+      start: "Take this after hearing how Colossae connects to Paul's ministry and the wider letters.",
+      tags: ["Colossians", "Paul", "book"],
+      questions: [
+        {
+          prompt: "What is one major theme of Colossians?",
+          answer: "Christ is supreme and sufficient.",
+        },
+        {
+          prompt: "What warning does Paul give about false teaching?",
+          answer: "Do not be taken captive by teachings that move people away from Christ.",
+        },
+        {
+          prompt: "How does Colossians connect doctrine and daily life?",
+          answer: "It says believers should set their minds on Christ and live out new identity in their relationships and conduct.",
+        },
+      ],
+    },
+    {
       title: "Romans and Ephesians Doctrine Quiz",
       kicker: "Books",
       summary: "Checks grace, faith, church, unity, and new life in Christ.",
