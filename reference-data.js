@@ -4089,6 +4089,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Luke 4 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Jesus' temptation, Nazareth sermon, and the Spirit's mission.",
+      detail: "This quiz helps a beginner see Luke 4 as the chapter where Jesus resists temptation and then announces good news for the poor, captives, and oppressed.",
+      start: "Take this after reading Luke 4 carefully and noticing how Scripture and mission frame the chapter.",
+      tags: ["Luke 4", "chapter", "Nazareth"],
+      questions: [
+        {
+          prompt: "Where is Jesus tempted at the start of Luke 4?",
+          answer: "Jesus is tempted in the wilderness by the devil.",
+        },
+        {
+          prompt: "What passage does Jesus read in Nazareth?",
+          answer: "He reads a passage about the Spirit anointing him to bring good news and freedom.",
+        },
+        {
+          prompt: "How do people respond in the synagogue?",
+          answer: "They are first amazed, then angry, and they try to drive him out.",
+        },
+      ],
+    },
+    {
       title: "John 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the opening claims about Jesus as the Word, light, and Son.",
