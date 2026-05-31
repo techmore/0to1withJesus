@@ -9107,6 +9107,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Samuel 18 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Absalom dies and David grieves for his son.",
+      detail: "This quiz helps a beginner see 2 Samuel 18 as a chapter of battle, tragedy, and David's deep sorrow.",
+      start: "Take this after 2 Samuel 17 when you want to see the rebellion come to its tragic end.",
+      tags: ["2 Samuel 18", "chapter", "David"],
+      questions: [
+        {
+          prompt: "What happens to Absalom in 2 Samuel 18?",
+          answer: "He dies in battle.",
+        },
+        {
+          prompt: "How does David respond to the news?",
+          answer: "He mourns deeply for Absalom.",
+        },
+        {
+          prompt: "Why does 2 Samuel 18 matter?",
+          answer: "It shows the sorrow and cost of rebellion in David's family and kingdom.",
+        },
+      ],
+    },
+    {
       title: "1 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where Hannah prays for a son and Samuel's story begins.",
