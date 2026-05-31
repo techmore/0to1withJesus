@@ -5959,6 +5959,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 91 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the continued conflict, where teachings and challenges keep sharpening the story.",
+      detail: "This quiz helps a beginner see Matthew 91 as the chapter where Jesus continues to teach while opposition and misunderstanding grow.",
+      start: "Take this after reading Matthew 91 carefully and noticing the escalating pressure around Jesus.",
+      tags: ["Matthew 91", "chapter", "opposition"],
+      questions: [
+        {
+          prompt: "What keeps increasing in the chapter?",
+          answer: "Opposition and misunderstanding keep increasing.",
+        },
+        {
+          prompt: "What does Jesus keep doing?",
+          answer: "He keeps teaching with authority.",
+        },
+        {
+          prompt: "What should a beginner watch for?",
+          answer: "They should watch for how conflict sharpens the meaning of Jesus' words.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
