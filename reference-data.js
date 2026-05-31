@@ -7641,6 +7641,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 163 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where faithful mercy becomes steady grace.",
+      detail: "This quiz helps a beginner see Matthew 163 as the chapter where Jesus keeps mercy moving into a grace that can be trusted.",
+      start: "Take this after reading Matthew 163 carefully and noticing how mercy can become grace.",
+      tags: ["Matthew 163", "chapter", "grace"],
+      questions: [
+        {
+          prompt: "What does faithful mercy become?",
+          answer: "It becomes steady grace.",
+        },
+        {
+          prompt: "What does Jesus keep showing his people?",
+          answer: "He keeps showing generous kindness that does not run out.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how mercy can open into generosity.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
