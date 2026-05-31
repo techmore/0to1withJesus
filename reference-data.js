@@ -13405,6 +13405,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 39 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where steady resolve becomes patient endurance.",
+      detail: "This quiz helps a beginner see Matthew 39 as the chapter where resolve has to last over time.",
+      start: "Take this after reading Matthew 39 carefully and noticing how resolve turns into endurance.",
+      tags: ["Matthew 39", "chapter", "endurance"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 39?",
+          answer: "The chapter emphasizes resolve that is sustained over time.",
+        },
+        {
+          prompt: "What does patient endurance look like here?",
+          answer: "It means keeping steady even when the path is slow or difficult.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 38?",
+          answer: "It shows that firm resolve must be able to endure.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
