@@ -7201,6 +7201,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 143 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where steady leadership becomes shared direction.",
+      detail: "This quiz helps a beginner see Matthew 143 as the chapter where Jesus keeps turning calm guidance into a path that others can walk together.",
+      start: "Take this after reading Matthew 143 carefully and noticing how leadership can become shared direction.",
+      tags: ["Matthew 143", "chapter", "direction"],
+      questions: [
+        {
+          prompt: "What does steady leadership become?",
+          answer: "It becomes shared direction.",
+        },
+        {
+          prompt: "What does Jesus keep creating?",
+          answer: "He keeps creating a path people can walk together.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how leadership can help a group move forward.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
