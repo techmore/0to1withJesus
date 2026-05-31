@@ -14593,6 +14593,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 93 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where settled patience becomes quiet endurance.",
+      detail: "This quiz helps a beginner see Matthew 93 as the chapter where patience starts to settle into quiet endurance.",
+      start: "Take this after reading Matthew 93 carefully and noticing how patience becomes endurance.",
+      tags: ["Matthew 93", "chapter", "endurance"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 93?",
+          answer: "The chapter emphasizes patience that is becoming quiet endurance.",
+        },
+        {
+          prompt: "What does quiet endurance look like here?",
+          answer: "It means continuing faithfully without drawing attention to itself.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 92?",
+          answer: "It shows that settled patience should become quiet endurance.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
