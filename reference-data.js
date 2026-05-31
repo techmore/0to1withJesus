@@ -14021,6 +14021,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 67 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where disciplined action becomes steady discipline.",
+      detail: "This quiz helps a beginner see Matthew 67 as the chapter where action settles into a dependable discipline.",
+      start: "Take this after reading Matthew 67 carefully and noticing how action becomes discipline.",
+      tags: ["Matthew 67", "chapter", "discipline"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 67?",
+          answer: "The chapter emphasizes action that is becoming steady discipline.",
+        },
+        {
+          prompt: "What does steady discipline look like here?",
+          answer: "It means keeping purposeful action going in a reliable way.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 66?",
+          answer: "It shows that disciplined action should become steady discipline.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
