@@ -6025,6 +6025,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 94 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next turn in the teaching sequence, where mercy and responsibility stay linked.",
+      detail: "This quiz helps a beginner see Matthew 94 as the chapter where Jesus keeps joining compassion with the call to live faithfully.",
+      start: "Take this after reading Matthew 94 carefully and noticing how mercy and responsibility appear together.",
+      tags: ["Matthew 94", "chapter", "mercy"],
+      questions: [
+        {
+          prompt: "What two themes stay linked?",
+          answer: "Mercy and responsibility stay linked.",
+        },
+        {
+          prompt: "How does Jesus guide his listeners?",
+          answer: "He guides them toward compassionate obedience.",
+        },
+        {
+          prompt: "What should a beginner look for?",
+          answer: "They should look for how kindness and duty stay together in Jesus' teaching.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
