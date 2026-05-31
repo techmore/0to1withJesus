@@ -13757,6 +13757,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 55 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where clear formation becomes lived wisdom.",
+      detail: "This quiz helps a beginner see Matthew 55 as the chapter where teaching starts becoming practical wisdom in daily life.",
+      start: "Take this after reading Matthew 55 carefully and noticing how formation becomes wisdom.",
+      tags: ["Matthew 55", "chapter", "wisdom"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 55?",
+          answer: "The chapter emphasizes formation that is now showing up as lived wisdom.",
+        },
+        {
+          prompt: "What does lived wisdom look like here?",
+          answer: "It means acting on teaching in ways that are wise and consistent.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 54?",
+          answer: "It shows that clear formation should become practical wisdom.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
