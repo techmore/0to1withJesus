@@ -4201,6 +4201,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 11 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the tower chapter, where languages divide and the story narrows to Abram.",
+      detail: "This quiz helps a beginner see Genesis 11 as the chapter where human pride meets confusion and God moves the story toward one family.",
+      start: "Take this after reading Genesis 11 carefully and noticing the tower, the languages, and the shift to Abram.",
+      tags: ["Genesis 11", "chapter", "tower-of-babel"],
+      questions: [
+        {
+          prompt: "What happens at the tower of Babel in Genesis 11?",
+          answer: "People build a tower in pride, and God confuses their language.",
+        },
+        {
+          prompt: "How does Genesis 11 end?",
+          answer: "It traces the genealogy to Abram, narrowing the story toward God's promise.",
+        },
+        {
+          prompt: "Why does Genesis 11 matter after Genesis 10?",
+          answer: "It moves from the spread of nations to the scattering of languages and the call of Abram.",
+        },
+      ],
+    },
+    {
       title: "Exodus Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Exodus as the Bible's great rescue story.",
