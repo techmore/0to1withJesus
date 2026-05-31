@@ -5565,6 +5565,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 22 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where restitution and responsibility are worked out in detail.",
+      detail: "This quiz helps a beginner see Exodus 22 as the chapter where covenant justice reaches into everyday dealings with neighbors.",
+      start: "Take this after reading Exodus 22 carefully and noticing the laws about theft, borrowing, social justice, and care for the vulnerable.",
+      tags: ["Exodus 22", "chapter", "restitution"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Exodus 22?",
+          answer: "The chapter emphasizes restitution and fair responsibility in community life.",
+        },
+        {
+          prompt: "What kinds of situations does Exodus 22 cover?",
+          answer: "It covers theft, borrowing, social justice, and care for the vulnerable.",
+        },
+        {
+          prompt: "Why does Exodus 22 matter after Exodus 21?",
+          answer: "It continues applying God's covenant law to ordinary life among the people.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
