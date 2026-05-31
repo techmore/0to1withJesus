@@ -5903,6 +5903,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 176 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where quiet confidence becomes grounded trust.",
+      detail: "This quiz helps a beginner see Matthew 176 as the chapter where confidence settles into grounded trust with Jesus.",
+      start: "Take this after reading Matthew 176 carefully and noticing how confidence becomes trust.",
+      tags: ["Matthew 176", "chapter", "trust"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 176?",
+          answer: "The chapter emphasizes grounded trust in following Jesus.",
+        },
+        {
+          prompt: "What does grounded trust look like here?",
+          answer: "It means depending on Jesus in a way that is stable and real.",
+        },
+        {
+          prompt: "Why does this matter after Matthew 175?",
+          answer: "It shows that quiet confidence can become grounded trust.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
