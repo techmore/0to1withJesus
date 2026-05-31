@@ -8733,6 +8733,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Kings Book Quiz",
+      kicker: "Book",
+      summary: "Checks the big picture of 1 Kings as Solomon's reign, the divided kingdom, and the rise of prophets like Elijah.",
+      detail: "This quiz helps a beginner see 1 Kings as the book where Israel moves from Solomon's glory into division, idolatry, and prophetic confrontation.",
+      start: "Take this after the 2 Samuel overview when you want to continue the kingdom story.",
+      tags: ["1 Kings", "book", "Solomon"],
+      questions: [
+        {
+          prompt: "What is 1 Kings mainly about?",
+          answer: "Solomon's reign, the division of the kingdom, and the conflict between idolatry and faithfulness.",
+        },
+        {
+          prompt: "Which prophet is especially prominent in 1 Kings?",
+          answer: "Elijah.",
+        },
+        {
+          prompt: "Why does 1 Kings matter?",
+          answer: "It shows the kingdom splitting and God's word confronting unfaithfulness through the prophets.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
