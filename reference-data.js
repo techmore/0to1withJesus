@@ -5431,6 +5431,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 67 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the first teaching moments and the spread of Jesus' reputation.",
+      detail: "This quiz helps a beginner see Matthew 67 as the chapter where Jesus begins teaching with authority and people start hearing about him widely.",
+      start: "Take this after reading Matthew 67 carefully and noticing the teaching, the reactions, and the growing attention.",
+      tags: ["Matthew 67", "chapter", "teaching"],
+      questions: [
+        {
+          prompt: "What does Jesus do in this chapter?",
+          answer: "He teaches with authority.",
+        },
+        {
+          prompt: "How do people respond?",
+          answer: "They hear about him and spread the news.",
+        },
+        {
+          prompt: "What does the chapter emphasize?",
+          answer: "It emphasizes the growing reach of Jesus' ministry.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
