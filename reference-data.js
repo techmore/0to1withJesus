@@ -4485,6 +4485,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Luke 22 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the Last Supper, betrayal, prayer, and Jesus' arrest.",
+      detail: "This quiz helps a beginner see Luke 22 as the chapter where Jesus prepares his disciples for the cross and is handed over.",
+      start: "Take this after reading Luke 22 carefully and noticing the meal, the warning, and the garden.",
+      tags: ["Luke 22", "chapter", "last supper"],
+      questions: [
+        {
+          prompt: "What happens at the Last Supper in Luke 22?",
+          answer: "Jesus institutes the cup and bread as part of the new covenant meal.",
+        },
+        {
+          prompt: "What warning does Jesus give to Peter?",
+          answer: "He warns that Peter will deny him before the rooster crows.",
+        },
+        {
+          prompt: "Where is Jesus arrested?",
+          answer: "He is arrested in the garden after praying.",
+        },
+      ],
+    },
+    {
       title: "John 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the opening claims about Jesus as the Word, light, and Son.",
