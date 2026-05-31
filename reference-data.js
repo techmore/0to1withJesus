@@ -6929,6 +6929,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Deuteronomy 7 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Israel is warned not to make covenants with the nations in the land.",
+      detail: "This quiz helps a beginner see Deuteronomy 7 as a chapter about covenant loyalty, holiness, and the danger of divided worship.",
+      start: "Take this after reading Deuteronomy 7 carefully and noticing the warning against compromise and the call to remember God's love.",
+      tags: ["Deuteronomy 7", "chapter", "covenant"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Deuteronomy 7?",
+          answer: "The chapter emphasizes Israel's need to stay loyal to the Lord and avoid covenant compromise.",
+        },
+        {
+          prompt: "Why does Moses warn against making alliances with the nations?",
+          answer: "He warns that such alliances could lead Israel into idolatry and away from faithfulness.",
+        },
+        {
+          prompt: "Why does Deuteronomy 7 matter?",
+          answer: "It shows that love for God includes rejecting idols and trusting his chosen, covenant love.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
