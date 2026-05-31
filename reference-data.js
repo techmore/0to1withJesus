@@ -13735,6 +13735,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 54 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where settled teaching becomes clear formation.",
+      detail: "This quiz helps a beginner see Matthew 54 as the chapter where instruction starts shaping life in a clearer way.",
+      start: "Take this after reading Matthew 54 carefully and noticing how teaching forms people.",
+      tags: ["Matthew 54", "chapter", "formation"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 54?",
+          answer: "The chapter emphasizes teaching that actively forms a person's life.",
+        },
+        {
+          prompt: "What does clear formation look like here?",
+          answer: "It means the instruction is shaping habits and direction in a visible way.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 53?",
+          answer: "It shows that settled teaching should begin to shape character and practice.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
