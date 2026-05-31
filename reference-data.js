@@ -14747,6 +14747,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 100 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where thoughtful focus becomes steady resolve.",
+      detail: "This quiz helps a beginner see Matthew 100 as the chapter where focus starts to settle into steady resolve.",
+      start: "Take this after reading Matthew 100 carefully and noticing how focus becomes resolve.",
+      tags: ["Matthew 100", "chapter", "resolve"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 100?",
+          answer: "The chapter emphasizes focus that is becoming steady resolve.",
+        },
+        {
+          prompt: "What does steady resolve look like here?",
+          answer: "It means staying committed with clear purpose and no wavering.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 99?",
+          answer: "It shows that thoughtful focus should become steady resolve.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
