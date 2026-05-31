@@ -7807,6 +7807,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Romans 15 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Paul's call to mutual encouragement, unity, and mission-minded hope.",
+      detail: "This quiz helps a beginner see Romans 15 as the chapter where Paul urges strong believers to bear with the weak and points to his mission plans.",
+      start: "Take this after reading Romans 15 carefully and noticing Paul's focus on unity and the spread of the gospel.",
+      tags: ["Romans 15", "chapter", "unity"],
+      questions: [
+        {
+          prompt: "How should the strong treat the weak in this chapter?",
+          answer: "The strong should bear with the weak and seek to please their neighbors for their good.",
+        },
+        {
+          prompt: "What does Paul say about hope?",
+          answer: "God gives hope, endurance, and encouragement through the Scriptures and the Spirit.",
+        },
+        {
+          prompt: "What mission plan does Paul describe?",
+          answer: "He plans to go to Spain after visiting believers and receiving support for the journey.",
+        },
+      ],
+    },
+    {
       title: "Ephesians Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Ephesians as Paul's letter about identity in Christ, unity, the church, and standing firm.",
