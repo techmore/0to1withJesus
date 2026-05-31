@@ -8183,6 +8183,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Judges 4 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Deborah and Barak lead Israel against Sisera.",
+      detail: "This quiz helps a beginner see Judges 4 as a rescue chapter that highlights courage, faith, and God's deliverance through unexpected people.",
+      start: "Take this after Judges 3 when you want to see another example of the judge-deliverer pattern.",
+      tags: ["Judges 4", "chapter", "Deborah"],
+      questions: [
+        {
+          prompt: "Who are the key leaders in Judges 4?",
+          answer: "Deborah and Barak.",
+        },
+        {
+          prompt: "Who is the enemy in the chapter?",
+          answer: "Sisera, the commander of the Canaanite army.",
+        },
+        {
+          prompt: "Why does Judges 4 matter?",
+          answer: "It shows that God can use faithful leaders and surprising circumstances to rescue his people.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
