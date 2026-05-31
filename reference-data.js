@@ -7169,6 +7169,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Acts 17 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the mission in Thessalonica, Berea, and Athens.",
+      detail: "This quiz helps a beginner see Acts 17 as the chapter where Paul argues from Scripture and engages the wider Greek world.",
+      start: "Take this after reading Acts 17 carefully and noticing the different responses in each city.",
+      tags: ["Acts 17", "chapter", "Athens"],
+      questions: [
+        {
+          prompt: "What happens in Berea?",
+          answer: "The Bereans examine the Scriptures eagerly to see whether Paul's message is true.",
+        },
+        {
+          prompt: "What does Paul do in Athens?",
+          answer: "He speaks about the unknown God and proclaims Jesus and the resurrection.",
+        },
+        {
+          prompt: "How do people respond in Athens?",
+          answer: "Some mock, some delay, and some believe.",
+        },
+      ],
+    },
+    {
       title: "Acts Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Acts as the story of the Spirit-empowered church expanding from Jerusalem outward.",
