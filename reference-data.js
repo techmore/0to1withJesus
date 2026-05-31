@@ -6255,6 +6255,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 108 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where quiet endurance becomes stable courage.",
+      detail: "This quiz helps a beginner see Matthew 108 as the chapter where Jesus turns hidden endurance into stable courage that can face pressure without panic.",
+      start: "Take this after reading Matthew 108 carefully and noticing how endurance can become courage.",
+      tags: ["Matthew 108", "chapter", "courage"],
+      questions: [
+        {
+          prompt: "What does quiet endurance become?",
+          answer: "It becomes stable courage.",
+        },
+        {
+          prompt: "What does Jesus keep giving his followers?",
+          answer: "He keeps giving them calm strength for pressure.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how endurance can turn into courage.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
