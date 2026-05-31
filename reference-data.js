@@ -4463,6 +4463,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 23 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Jesus' warnings against hypocrisy and his lament over Jerusalem.",
+      detail: "This quiz helps a beginner see Matthew 23 as the chapter where Jesus publicly condemns false leadership and calls for humble faithfulness.",
+      start: "Take this after reading Matthew 23 carefully and noticing the seven woes and the lament.",
+      tags: ["Matthew 23", "chapter", "hypocrisy"],
+      questions: [
+        {
+          prompt: "What does Jesus warn the crowds not to imitate?",
+          answer: "He warns them not to imitate the scribes and Pharisees' hypocrisy and love of status.",
+        },
+        {
+          prompt: "What series of warnings does Jesus pronounce in this chapter?",
+          answer: "He pronounces woes against the scribes and Pharisees for hypocrisy, greed, and neglecting justice and mercy.",
+        },
+        {
+          prompt: "How does Jesus end the chapter?",
+          answer: "He laments over Jerusalem and its refusal to be gathered like a hen gathers her chicks.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
