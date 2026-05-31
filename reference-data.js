@@ -12833,6 +12833,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Habakkuk Book Quiz",
+      kicker: "Book",
+      summary: "A whole-book check for Habakkuk as a dialogue of honest questions and trust.",
+      detail: "This quiz helps a beginner see Habakkuk as a prophetic conversation where confusion turns into worship and trust.",
+      start: "Take this after Nahum and after noticing that prophets can argue honestly with God.",
+      tags: ["Habakkuk", "book", "faith"],
+      questions: [
+        {
+          prompt: "What does Habakkuk do in the book?",
+          answer: "He brings hard questions and waits for God's answer.",
+        },
+        {
+          prompt: "What key line from Habakkuk is often remembered?",
+          answer: "The righteous shall live by faith.",
+        },
+        {
+          prompt: "Why is Habakkuk important for beginners?",
+          answer: "It models honest lament that ends in trust and rejoicing.",
+        },
+      ],
+    },
+    {
       title: "Gospel of John Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for John's main claims about Jesus.",
