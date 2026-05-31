@@ -10911,6 +10911,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Chronicles 20 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Jehoshaphat prays before the battle and God gives victory.",
+      detail: "This quiz helps a beginner see 2 Chronicles 20 as a picture of trusting God in crisis and praising him after deliverance.",
+      start: "Take this after 2 Chronicles 19 when you want to continue the chapter-by-chapter reading.",
+      tags: ["2 Chronicles 20", "chapter", "Jehoshaphat"],
+      questions: [
+        {
+          prompt: "What does Jehoshaphat do when enemies come in 2 Chronicles 20?",
+          answer: "He prays and seeks the Lord.",
+        },
+        {
+          prompt: "How does God give victory?",
+          answer: "He fights for Judah and defeats the enemies.",
+        },
+        {
+          prompt: "Why does 2 Chronicles 20 matter?",
+          answer: "It shows that the battle belongs to the Lord.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
