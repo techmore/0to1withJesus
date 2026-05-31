@@ -9173,6 +9173,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Kings 20 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where God gives Ahab victory over Aram and then pronounces judgment.",
+      detail: "This quiz helps a beginner see 1 Kings 20 as a chapter showing both God's mercy and the seriousness of disobedience.",
+      start: "Take this after 1 Kings 19 when you want to continue the book chapter by chapter.",
+      tags: ["1 Kings 20", "chapter", "Ahab"],
+      questions: [
+        {
+          prompt: "Who does Ahab fight in 1 Kings 20?",
+          answer: "The king of Aram.",
+        },
+        {
+          prompt: "How does the chapter end for Ahab?",
+          answer: "God gives victory but then pronounces judgment because of his disobedience.",
+        },
+        {
+          prompt: "Why does 1 Kings 20 matter?",
+          answer: "It shows both God's help and the consequences of ignoring his word.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
