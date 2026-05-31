@@ -5829,6 +5829,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 34 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where the covenant is renewed and God's character is proclaimed.",
+      detail: "This quiz helps a beginner see Exodus 34 as the chapter where mercy, holiness, and renewed covenant identity come together.",
+      start: "Take this after reading Exodus 34 carefully and noticing the new tablets, the Lord's name, and the shining face of Moses.",
+      tags: ["Exodus 34", "chapter", "covenant"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Exodus 34?",
+          answer: "The chapter emphasizes covenant renewal and God's character.",
+        },
+        {
+          prompt: "What does God reveal about himself in Exodus 34?",
+          answer: "He reveals his mercy, grace, patience, and justice.",
+        },
+        {
+          prompt: "Why does Exodus 34 matter after Exodus 33?",
+          answer: "It answers Moses' plea by renewing the covenant and showing God's gracious character.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
