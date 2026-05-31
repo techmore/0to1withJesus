@@ -6225,6 +6225,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Numbers 12 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Miriam and Aaron challenge Moses and the Lord defends his servant.",
+      detail: "This quiz helps a beginner see Numbers 12 as the chapter that deals with jealousy, leadership, and God's vindication.",
+      start: "Take this after reading Numbers 12 carefully and noticing the conflict with Miriam and Aaron and the healing of Miriam.",
+      tags: ["Numbers 12", "chapter", "leadership"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Numbers 12?",
+          answer: "The chapter emphasizes the challenge to Moses' leadership and God's defense of him.",
+        },
+        {
+          prompt: "What happens to Miriam in Numbers 12?",
+          answer: "She is struck with leprosy and then healed after Moses intercedes.",
+        },
+        {
+          prompt: "Why does Numbers 12 matter after Numbers 11?",
+          answer: "It shows that Israel's internal struggles now include conflict over leadership as well as complaint.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
