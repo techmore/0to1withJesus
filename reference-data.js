@@ -8733,6 +8733,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Samuel 2 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Hannah praises the Lord and Eli's family is warned.",
+      detail: "This quiz helps a beginner see 1 Samuel 2 as a chapter of praise, warning, and the contrast between faithful worship and corruption.",
+      start: "Take this after 1 Samuel 1 when you want to follow Hannah's response and the early contrast in the story.",
+      tags: ["1 Samuel 2", "chapter", "Hannah"],
+      questions: [
+        {
+          prompt: "What does Hannah do in 1 Samuel 2?",
+          answer: "She praises the Lord in a song of thanksgiving.",
+        },
+        {
+          prompt: "What warning is given in the chapter?",
+          answer: "Eli's family is warned because of their sin.",
+        },
+        {
+          prompt: "Why does 1 Samuel 2 matter?",
+          answer: "It shows the Lord exalting the humble and opposing corruption.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
