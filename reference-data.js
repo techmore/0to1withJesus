@@ -4771,6 +4771,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 37 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the sending of the twelve and the call to fearless witness.",
+      detail: "This quiz helps a beginner see Matthew 37 as the chapter where Jesus sends disciples out and tells them what faithful mission looks like.",
+      start: "Take this after reading Matthew 37 carefully and noticing the instructions, warnings, and encouragements.",
+      tags: ["Matthew 37", "chapter", "mission"],
+      questions: [
+        {
+          prompt: "What authority and mission does Jesus give the twelve?",
+          answer: "He gives them authority to heal and sends them to proclaim the kingdom.",
+        },
+        {
+          prompt: "What warnings does Jesus give about their mission?",
+          answer: "He warns them about opposition, persecution, and the cost of following him.",
+        },
+        {
+          prompt: "What encouragement does Jesus offer?",
+          answer: "He tells them not to fear and to trust God, who values them and will care for them.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
