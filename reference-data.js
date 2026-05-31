@@ -4309,6 +4309,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "John 14 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the promised home, Jesus as the way, and the gift of peace.",
+      detail: "This quiz helps a beginner see John 14 as the chapter where Jesus comforts his disciples with promises about the Father's house, his own identity, and the Spirit's help.",
+      start: "Take this after reading John 14 carefully and noticing the shift from trouble to comfort.",
+      tags: ["John 14", "chapter", "peace"],
+      questions: [
+        {
+          prompt: "What promise does Jesus make about the future home of his followers?",
+          answer: "Jesus says he is going to prepare a place in the Father's house.",
+        },
+        {
+          prompt: "How does Jesus describe himself in this chapter?",
+          answer: "He says he is the way, the truth, and the life.",
+        },
+        {
+          prompt: "What gift does Jesus leave with the disciples?",
+          answer: "He gives them his peace and promises the help of the Spirit.",
+        },
+      ],
+    },
+    {
       title: "John 18-21 Quiz",
       kicker: "Chapters",
       summary: "Checks the arrest, trial, cross, resurrection, and Peter's restoration.",
