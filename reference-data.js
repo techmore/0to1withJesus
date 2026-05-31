@@ -5915,6 +5915,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 89 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the opening movement of the next section, where Jesus' identity is pressed in fresh ways.",
+      detail: "This quiz helps a beginner see Matthew 89 as the chapter where the story turns toward the next major phase and keeps asking who Jesus is.",
+      start: "Take this after reading Matthew 89 carefully and noticing the transition into the new section.",
+      tags: ["Matthew 89", "chapter", "transition"],
+      questions: [
+        {
+          prompt: "What kind of shift does the chapter make?",
+          answer: "It shifts into the next major movement of the story.",
+        },
+        {
+          prompt: "What question remains important?",
+          answer: "The question of Jesus' identity remains central.",
+        },
+        {
+          prompt: "What should a beginner watch for?",
+          answer: "They should watch for how the narrative sets up the next section.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
