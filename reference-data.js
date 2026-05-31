@@ -14395,6 +14395,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 84 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where steadfast patience becomes calm persistence.",
+      detail: "This quiz helps a beginner see Matthew 84 as the chapter where patience starts to settle into calm persistence.",
+      start: "Take this after reading Matthew 84 carefully and noticing how patience becomes persistence.",
+      tags: ["Matthew 84", "chapter", "persistence"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 84?",
+          answer: "The chapter emphasizes patience that is becoming calm persistence.",
+        },
+        {
+          prompt: "What does calm persistence look like here?",
+          answer: "It means keeping on steadily without irritation or hurry.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 83?",
+          answer: "It shows that steadfast patience should become calm persistence.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
