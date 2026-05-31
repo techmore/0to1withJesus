@@ -5177,6 +5177,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 143 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where steadfast clarity becomes humble boldness.",
+      detail: "This quiz helps a beginner see Matthew 143 as the chapter where clear faith speaks with humility and courage together.",
+      start: "Take this after reading Matthew 143 carefully and noticing how clarity and boldness meet.",
+      tags: ["Matthew 143", "chapter", "boldness"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 143?",
+          answer: "The chapter emphasizes bold speech that stays humble and rooted in faith.",
+        },
+        {
+          prompt: "What does humble boldness look like here?",
+          answer: "It means speaking clearly about Jesus without pride or fear.",
+        },
+        {
+          prompt: "Why does this matter after Matthew 142?",
+          answer: "It shows that clarity of faith can become humble boldness.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
