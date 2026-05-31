@@ -6685,6 +6685,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 124 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where shared movement becomes durable community.",
+      detail: "This quiz helps a beginner see Matthew 124 as the chapter where Jesus keeps turning collective action into a steady way of belonging.",
+      start: "Take this after reading Matthew 124 carefully and noticing how movement can become community.",
+      tags: ["Matthew 124", "chapter", "community"],
+      questions: [
+        {
+          prompt: "What does shared movement become?",
+          answer: "It becomes durable community.",
+        },
+        {
+          prompt: "What does Jesus keep forming?",
+          answer: "He keeps forming a steady way of belonging.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how collective action can become lasting fellowship.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
