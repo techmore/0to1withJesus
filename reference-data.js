@@ -4025,6 +4025,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 3 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the fall chapter, where temptation, disobedience, and consequence enter the story.",
+      detail: "This quiz helps a beginner see Genesis 3 as the chapter where the serpent tempts, humans disobey, and God speaks judgment and promise.",
+      start: "Take this after reading Genesis 3 carefully and noticing how the story moves from trust to brokenness.",
+      tags: ["Genesis 3", "chapter", "fall"],
+      questions: [
+        {
+          prompt: "What happens in Genesis 3?",
+          answer: "The serpent tempts the humans, they disobey God, and sin enters the story.",
+        },
+        {
+          prompt: "What consequences follow the disobedience?",
+          answer: "Shame, blame, pain, broken relationships, and exile from the garden follow.",
+        },
+        {
+          prompt: "Why does Genesis 3 matter for the Bible's story?",
+          answer: "It explains the human problem that God's rescue plan will address.",
+        },
+      ],
+    },
+    {
       title: "Exodus Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Exodus as the Bible's great rescue story.",
