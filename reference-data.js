@@ -4507,6 +4507,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Luke 23 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Jesus' trial, crucifixion, and burial.",
+      detail: "This quiz helps a beginner see Luke 23 as the chapter where Jesus is condemned, suffers, and is laid in the tomb.",
+      start: "Take this after reading Luke 23 carefully and noticing the movement from courtroom to cross to tomb.",
+      tags: ["Luke 23", "chapter", "crucifixion"],
+      questions: [
+        {
+          prompt: "Who is sent to question Jesus during his trial?",
+          answer: "Pilate and Herod are involved in questioning and judging him.",
+        },
+        {
+          prompt: "What does Jesus say to the repentant criminal?",
+          answer: "He promises the man will be with him in paradise.",
+        },
+        {
+          prompt: "What happens after Jesus dies?",
+          answer: "His body is taken down and laid in a tomb.",
+        },
+      ],
+    },
+    {
       title: "John 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the opening claims about Jesus as the Word, light, and Son.",
