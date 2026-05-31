@@ -16551,6 +16551,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Mark 1 Quiz",
+      kicker: "Chapter",
+      summary: "Checks John the Baptist, Jesus' baptism, the temptation, and the beginning of Jesus' ministry in Galilee.",
+      detail: "This quiz helps a beginner see Mark 1 as the chapter where the good news begins with preparation, baptism, wilderness testing, and early authority.",
+      start: "Take this after the Mark book overview if you want to begin Mark's chapter-by-chapter story.",
+      tags: ["Mark 1", "chapter", "beginning"],
+      questions: [
+        {
+          prompt: "Who prepares the way in Mark 1?",
+          answer: "John the Baptist prepares the way by calling people to repentance.",
+        },
+        {
+          prompt: "What happens when Jesus is baptized?",
+          answer: "The Spirit descends and the Father's voice identifies Jesus as his beloved Son.",
+        },
+        {
+          prompt: "What happens immediately after the temptation?",
+          answer: "Jesus begins preaching in Galilee and calling the first disciples.",
+        },
+      ],
+    },
+    {
       title: "Luke Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Luke as the Gospel of the Spirit, outsiders, prayer, and salvation for all kinds of people.",
