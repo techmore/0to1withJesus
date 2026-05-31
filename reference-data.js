@@ -7501,6 +7501,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Deuteronomy 33 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Moses blesses the tribes before his death.",
+      detail: "This quiz helps a beginner see Deuteronomy 33 as a chapter about blessing, tribe-by-tribe memory, and Moses' final words of favor.",
+      start: "Take this after reading Deuteronomy 33 carefully and noticing the blessings spoken over the tribes.",
+      tags: ["Deuteronomy 33", "chapter", "blessing"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Deuteronomy 33?",
+          answer: "The chapter emphasizes Moses' blessings over the tribes of Israel.",
+        },
+        {
+          prompt: "Why are the tribal blessings important?",
+          answer: "They speak hope and identity over Israel as they prepare for life in the land.",
+        },
+        {
+          prompt: "Why does Deuteronomy 33 matter?",
+          answer: "It closes Moses' life with blessing and a final look at God's future care for the tribes.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
