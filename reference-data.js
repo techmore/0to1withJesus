@@ -14373,6 +14373,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 83 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where quiet endurance becomes steadfast patience.",
+      detail: "This quiz helps a beginner see Matthew 83 as the chapter where endurance starts to settle into steadfast patience.",
+      start: "Take this after reading Matthew 83 carefully and noticing how endurance becomes patience.",
+      tags: ["Matthew 83", "chapter", "patience"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 83?",
+          answer: "The chapter emphasizes endurance that is becoming steadfast patience.",
+        },
+        {
+          prompt: "What does steadfast patience look like here?",
+          answer: "It means waiting and continuing without becoming restless.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 82?",
+          answer: "It shows that quiet endurance should become steadfast patience.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
