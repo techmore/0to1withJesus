@@ -12723,6 +12723,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Amos Book Quiz",
+      kicker: "Book",
+      summary: "A whole-book check for Amos as a prophet of justice, worship, and the day of the Lord.",
+      detail: "This quiz helps a beginner see Amos as a sharp prophetic book that refuses to separate worship from justice and compassion.",
+      start: "Take this after Joel and after noticing the prophets often confront social injustice and false religion together.",
+      tags: ["Amos", "book", "justice"],
+      questions: [
+        {
+          prompt: "What major issue does Amos confront?",
+          answer: "Injustice, oppression, and empty worship in Israel.",
+        },
+        {
+          prompt: "What famous line summarizes Amos' ethical vision?",
+          answer: "Let justice roll down like waters and righteousness like an ever-flowing stream.",
+        },
+        {
+          prompt: "Why is Amos important for beginners?",
+          answer: "It shows that God cares about worship and justice together, not separately.",
+        },
+      ],
+    },
+    {
       title: "Gospel of John Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for John's main claims about Jesus.",
