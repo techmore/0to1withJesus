@@ -8975,6 +8975,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Samuel 12 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Nathan confronts David and David repents.",
+      detail: "This quiz helps a beginner see 2 Samuel 12 as the chapter where sin is exposed, repentance begins, and consequences are named.",
+      start: "Take this after 2 Samuel 11 when you want to see David confronted by God's word.",
+      tags: ["2 Samuel 12", "chapter", "David"],
+      questions: [
+        {
+          prompt: "Who confronts David in 2 Samuel 12?",
+          answer: "Nathan the prophet.",
+        },
+        {
+          prompt: "How does David respond when confronted?",
+          answer: "He confesses, repents, and asks God for mercy.",
+        },
+        {
+          prompt: "Why does 2 Samuel 12 matter?",
+          answer: "It shows the power of prophetic rebuke and the beginning of David's repentance.",
+        },
+      ],
+    },
+    {
       title: "1 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where Hannah prays for a son and Samuel's story begins.",
