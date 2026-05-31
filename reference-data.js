@@ -6927,6 +6927,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 135 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where steady witness becomes lasting influence.",
+      detail: "This quiz helps a beginner see Matthew 135 as the chapter where Jesus keeps turning visible change into a life that shapes others over time.",
+      start: "Take this after reading Matthew 135 carefully and noticing how witness can become influence.",
+      tags: ["Matthew 135", "chapter", "influence"],
+      questions: [
+        {
+          prompt: "What does steady witness become?",
+          answer: "It becomes lasting influence.",
+        },
+        {
+          prompt: "What does Jesus keep shaping?",
+          answer: "He keeps shaping others over time.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how visible change can affect people.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
