@@ -11043,6 +11043,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Chronicles 26 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Uzziah prospers and later falls in pride.",
+      detail: "This quiz helps a beginner see 2 Chronicles 26 as a warning that success can become ruin when pride replaces obedience.",
+      start: "Take this after 2 Chronicles 25 when you want to continue the chapter-by-chapter reading.",
+      tags: ["2 Chronicles 26", "chapter", "Uzziah"],
+      questions: [
+        {
+          prompt: "What happens during Uzziah's early reign in 2 Chronicles 26?",
+          answer: "He prospers as long as he seeks the Lord.",
+        },
+        {
+          prompt: "What goes wrong later?",
+          answer: "Pride leads him to act unlawfully and he is struck with leprosy.",
+        },
+        {
+          prompt: "Why does 2 Chronicles 26 matter?",
+          answer: "It warns that pride can undo success.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
