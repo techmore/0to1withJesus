@@ -6071,6 +6071,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Numbers 5 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where camp holiness, restitution, and the priestly test for jealousy are addressed.",
+      detail: "This quiz helps a beginner see Numbers 5 as the chapter that protects the purity and fairness of Israel's community life.",
+      start: "Take this after reading Numbers 5 carefully and noticing the laws about uncleanness, restitution, and the jealousy offering.",
+      tags: ["Numbers 5", "chapter", "holiness"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Numbers 5?",
+          answer: "The chapter emphasizes holiness in the camp and fair treatment within the community.",
+        },
+        {
+          prompt: "What kinds of issues are addressed in Numbers 5?",
+          answer: "It addresses uncleanness, restitution, and the jealousy offering.",
+        },
+        {
+          prompt: "Why does Numbers 5 matter after Numbers 4?",
+          answer: "It shows how the ordered camp also needs moral and ritual holiness.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
