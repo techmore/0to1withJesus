@@ -7479,6 +7479,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Deuteronomy 32 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Moses sings the Song of Moses and warns about Israel's future rebellion.",
+      detail: "This quiz helps a beginner see Deuteronomy 32 as a chapter about remembrance, warning, and God's faithfulness even when Israel fails.",
+      start: "Take this after reading Deuteronomy 32 carefully and noticing the song, the warnings, and the contrast between God's faithfulness and Israel's forgetfulness.",
+      tags: ["Deuteronomy 32", "chapter", "song"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Deuteronomy 32?",
+          answer: "The chapter emphasizes Moses' song, Israel's warning, and God's faithful character.",
+        },
+        {
+          prompt: "Why does Moses sing this song?",
+          answer: "He sings to witness against Israel and to help them remember God's ways.",
+        },
+        {
+          prompt: "Why does Deuteronomy 32 matter?",
+          answer: "It teaches Israel to remember God's faithfulness and to heed warnings against rebellion.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
