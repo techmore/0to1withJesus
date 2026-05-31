@@ -4969,6 +4969,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 46 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the betrayal, arrest, and trial scenes that begin Jesus' suffering.",
+      detail: "This quiz helps a beginner see Matthew 46 as the chapter where opposition reaches its peak and Jesus is handed over to suffer.",
+      start: "Take this after reading Matthew 46 carefully and noticing the plots, the meal, and the arrest in Gethsemane.",
+      tags: ["Matthew 46", "chapter", "passion"],
+      questions: [
+        {
+          prompt: "What major event happens during the meal?",
+          answer: "Jesus identifies the betrayer and speaks of the covenant meal.",
+        },
+        {
+          prompt: "What happens in Gethsemane?",
+          answer: "Jesus prays in anguish while the disciples struggle to stay awake.",
+        },
+        {
+          prompt: "How is Jesus taken?",
+          answer: "Judas betrays him and Jesus is arrested by the authorities.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
