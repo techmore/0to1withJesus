@@ -5343,6 +5343,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 63 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Mark's opening call and the early urgency of Jesus' ministry.",
+      detail: "This quiz helps a beginner see Matthew 63 as the chapter where the story opens with a call to follow and a fast-moving ministry.",
+      start: "Take this after reading Matthew 63 carefully and noticing the call, the first miracles, and the quick pace of events.",
+      tags: ["Matthew 63", "chapter", "call"],
+      questions: [
+        {
+          prompt: "What does Jesus do first in this chapter?",
+          answer: "He calls people to follow him.",
+        },
+        {
+          prompt: "What marks the pace of the chapter?",
+          answer: "The events move quickly from one scene to the next.",
+        },
+        {
+          prompt: "What does the chapter show about Jesus?",
+          answer: "It shows his authority and the urgency of his ministry.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
