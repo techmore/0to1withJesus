@@ -14835,6 +14835,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 104 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where confident direction becomes steady movement.",
+      detail: "This quiz helps a beginner see Matthew 104 as the chapter where direction starts to settle into steady movement.",
+      start: "Take this after reading Matthew 104 carefully and noticing how direction becomes movement.",
+      tags: ["Matthew 104", "chapter", "movement"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 104?",
+          answer: "The chapter emphasizes direction that is becoming steady movement.",
+        },
+        {
+          prompt: "What does steady movement look like here?",
+          answer: "It means continuing forward with consistency and calm purpose.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 103?",
+          answer: "It shows that confident direction should become steady movement.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
