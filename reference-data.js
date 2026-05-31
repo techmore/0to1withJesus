@@ -7787,6 +7787,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Joshua 11 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Joshua defeats a northern coalition and the land begins to quiet down.",
+      detail: "This quiz helps a beginner see Joshua 11 as the chapter where God's promised victories continue and the conquest moves toward completion.",
+      start: "Take this after reading Joshua 11 carefully and noticing the many kings, the sudden victory, and the summary about the land.",
+      tags: ["Joshua 11", "chapter", "kings"],
+      questions: [
+        {
+          prompt: "What happens in Joshua 11?",
+          answer: "Joshua defeats a northern coalition of kings.",
+        },
+        {
+          prompt: "How does the chapter describe the outcome?",
+          answer: "It says the land had rest from war.",
+        },
+        {
+          prompt: "Why does Joshua 11 matter?",
+          answer: "It shows that God keeps giving victory and bringing his people closer to the fulfillment of his promise.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
