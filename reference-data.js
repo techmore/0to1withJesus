@@ -10823,6 +10823,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Chronicles 16 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Asa relies on Syria instead of the Lord.",
+      detail: "This quiz helps a beginner see 2 Chronicles 16 as a warning that even good kings can drift from trust in God.",
+      start: "Take this after 2 Chronicles 15 when you want to continue the chapter-by-chapter reading.",
+      tags: ["2 Chronicles 16", "chapter", "Asa"],
+      questions: [
+        {
+          prompt: "What mistake does Asa make in 2 Chronicles 16?",
+          answer: "He relies on the king of Aram instead of the Lord.",
+        },
+        {
+          prompt: "How does the prophet Hanani respond?",
+          answer: "He rebukes Asa for not relying on God.",
+        },
+        {
+          prompt: "Why does 2 Chronicles 16 matter?",
+          answer: "It warns against trusting human alliances over God.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
