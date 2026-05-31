@@ -9591,6 +9591,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Kings 16 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Ahaz of Judah turns to Assyria instead of trusting God.",
+      detail: "This quiz helps a beginner see 2 Kings 16 as a chapter of misplaced trust and spiritual compromise.",
+      start: "Take this after 2 Kings 15 when you want to continue the book chapter by chapter.",
+      tags: ["2 Kings 16", "chapter", "Ahaz"],
+      questions: [
+        {
+          prompt: "Who is the king in Judah in 2 Kings 16?",
+          answer: "Ahaz.",
+        },
+        {
+          prompt: "What does Ahaz do instead of trusting God?",
+          answer: "He turns to Assyria for help.",
+        },
+        {
+          prompt: "Why does 2 Kings 16 matter?",
+          answer: "It shows the cost of trusting political power over the Lord.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
