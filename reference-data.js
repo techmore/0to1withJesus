@@ -7675,6 +7675,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Romans 9 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Paul's sorrow for Israel and God's freedom in election and mercy.",
+      detail: "This quiz helps a beginner see Romans 9 as the chapter where Paul wrestles with Israel's place in God's plan and emphasizes God's mercy and calling.",
+      start: "Take this after reading Romans 9 carefully and noticing Paul's grief and theological argument.",
+      tags: ["Romans 9", "chapter", "Israel"],
+      questions: [
+        {
+          prompt: "What emotion opens Romans 9?",
+          answer: "Paul expresses deep sorrow and anguish for his people, Israel.",
+        },
+        {
+          prompt: "What does Paul emphasize about God's choice?",
+          answer: "God's promise and mercy do not depend on human effort, but on God's calling.",
+        },
+        {
+          prompt: "What example does Paul use to show God's freedom?",
+          answer: "He uses examples like Isaac, Jacob, and Pharaoh to show God's sovereign purpose.",
+        },
+      ],
+    },
+    {
       title: "Ephesians Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Ephesians as Paul's letter about identity in Christ, unity, the church, and standing firm.",
