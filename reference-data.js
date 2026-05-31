@@ -5563,6 +5563,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 73 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the final kingdom warnings and the invitation to seek God first.",
+      detail: "This quiz helps a beginner see Matthew 73 as the chapter where Jesus closes out his teaching with warnings and priorities.",
+      start: "Take this after reading Matthew 73 carefully and noticing the warnings, the exhortations, and the call to seek God first.",
+      tags: ["Matthew 73", "chapter", "priorities"],
+      questions: [
+        {
+          prompt: "What does Jesus warn against here?",
+          answer: "He warns against false priorities and misplaced trust.",
+        },
+        {
+          prompt: "What does he call people to do instead?",
+          answer: "He calls them to seek God first.",
+        },
+        {
+          prompt: "What does the chapter emphasize?",
+          answer: "It emphasizes faithful priorities in kingdom life.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
