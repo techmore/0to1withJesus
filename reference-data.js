@@ -5287,6 +5287,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 148 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where faithful patience becomes confident endurance.",
+      detail: "This quiz helps a beginner see Matthew 148 as the chapter where waiting well turns into durable confidence in Jesus.",
+      start: "Take this after reading Matthew 148 carefully and noticing how patience can strengthen confidence.",
+      tags: ["Matthew 148", "chapter", "endurance"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 148?",
+          answer: "The chapter emphasizes endurance that grows out of patient trust.",
+        },
+        {
+          prompt: "What does confident endurance look like here?",
+          answer: "It means staying firm and hopeful even when progress is slow.",
+        },
+        {
+          prompt: "Why does this matter after Matthew 147?",
+          answer: "It shows that faithful patience can become confident endurance.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
