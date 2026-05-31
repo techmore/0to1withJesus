@@ -4419,6 +4419,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 14 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Abram's rescue mission, the kings, and Melchizedek's blessing.",
+      detail: "This quiz helps a beginner see Genesis 14 as the chapter where Abram rescues Lot, meets Melchizedek, and refuses to be made rich by the king of Sodom.",
+      start: "Take this after reading Genesis 14 carefully and noticing the battle, rescue, and priestly blessing.",
+      tags: ["Genesis 14", "chapter", "Melchizedek"],
+      questions: [
+        {
+          prompt: "What does Abram do in Genesis 14?",
+          answer: "He leads a rescue effort to recover Lot and the captives.",
+        },
+        {
+          prompt: "Who blesses Abram?",
+          answer: "Melchizedek, king of Salem and priest of God Most High.",
+        },
+        {
+          prompt: "Why is Genesis 14 important?",
+          answer: "It connects Abram's story to kingship, priesthood, and faithful trust rather than worldly gain.",
+        },
+      ],
+    },
+    {
       title: "Exodus 1 Quiz",
       kicker: "Chapter",
       summary: "Checks Israel's oppression in Egypt and the beginning of the rescue setting.",
