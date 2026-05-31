@@ -4419,6 +4419,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 21 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the triumphal entry, cleansing of the temple, and the challenge to leaders.",
+      detail: "This quiz helps a beginner see Matthew 21 as the chapter where Jesus enters Jerusalem as king and confronts corrupt Temple religion.",
+      start: "Take this after reading Matthew 21 carefully and noticing the praise, the protest, and the parables.",
+      tags: ["Matthew 21", "chapter", "temple"],
+      questions: [
+        {
+          prompt: "How does Jesus enter Jerusalem in Matthew 21?",
+          answer: "He rides in on a donkey while the crowd shouts praise.",
+        },
+        {
+          prompt: "What does Jesus do in the Temple?",
+          answer: "He drives out the buyers and sellers and calls it a house of prayer.",
+        },
+        {
+          prompt: "What do the leaders question?",
+          answer: "They question Jesus' authority and are challenged by his parable of the tenants.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
