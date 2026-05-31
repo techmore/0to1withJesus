@@ -5035,6 +5035,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 49 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the resurrection morning, the empty tomb, and the first witness to new life.",
+      detail: "This quiz helps a beginner see Matthew 49 as the chapter where death does not get the final word and Jesus is announced alive again.",
+      start: "Take this after reading Matthew 49 carefully and noticing the earthquake, the empty tomb, and the message to the disciples.",
+      tags: ["Matthew 49", "chapter", "resurrection"],
+      questions: [
+        {
+          prompt: "What do the women find at the tomb?",
+          answer: "They find the tomb empty and hear that Jesus is risen.",
+        },
+        {
+          prompt: "What signs mark the scene?",
+          answer: "There is an earthquake, an angelic message, and fear mixed with joy.",
+        },
+        {
+          prompt: "What is the key message to the disciples?",
+          answer: "Jesus is alive and his followers are told to go and tell others.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
