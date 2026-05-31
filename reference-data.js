@@ -13845,6 +13845,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 59 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where settled wisdom becomes durable understanding.",
+      detail: "This quiz helps a beginner see Matthew 59 as the chapter where wisdom starts to hold steady under pressure.",
+      start: "Take this after reading Matthew 59 carefully and noticing how wisdom becomes durable understanding.",
+      tags: ["Matthew 59", "chapter", "understanding"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 59?",
+          answer: "The chapter emphasizes wisdom that has become durable understanding.",
+        },
+        {
+          prompt: "What does durable understanding look like here?",
+          answer: "It means understanding that remains clear even when circumstances change.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 58?",
+          answer: "It shows that settled wisdom should become durable understanding.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
