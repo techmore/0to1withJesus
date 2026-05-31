@@ -9415,6 +9415,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Kings 8 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Elisha's warnings and miracles continue through war and famine.",
+      detail: "This quiz helps a beginner see 2 Kings 8 as a chapter where God's word shapes events across Israel and surrounding nations.",
+      start: "Take this after 2 Kings 7 when you want to continue the book chapter by chapter.",
+      tags: ["2 Kings 8", "chapter", "Elisha"],
+      questions: [
+        {
+          prompt: "What does Elisha warn about in 2 Kings 8?",
+          answer: "A coming famine and danger for the people.",
+        },
+        {
+          prompt: "What does the chapter show about God's control?",
+          answer: "He directs events through Elisha's word across many situations.",
+        },
+        {
+          prompt: "Why does 2 Kings 8 matter?",
+          answer: "It shows that God's prophet remains active in the middle of national upheaval.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
