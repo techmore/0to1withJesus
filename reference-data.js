@@ -8909,6 +8909,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Kings 8 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Solomon brings the ark into the temple and prays at the dedication.",
+      detail: "This quiz helps a beginner see 1 Kings 8 as the dedication of the temple and Solomon's prayer of praise and request for God's presence.",
+      start: "Take this after 1 Kings 7 when you want to continue the book chapter by chapter.",
+      tags: ["1 Kings 8", "chapter", "Solomon"],
+      questions: [
+        {
+          prompt: "What important object is brought into the temple in 1 Kings 8?",
+          answer: "The ark of the covenant.",
+        },
+        {
+          prompt: "What does Solomon do at the temple dedication?",
+          answer: "He prays and dedicates the temple to the Lord.",
+        },
+        {
+          prompt: "Why does 1 Kings 8 matter?",
+          answer: "It marks the dedication of the temple and centers the kingdom's worship on God.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
