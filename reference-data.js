@@ -4639,6 +4639,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 23 Quiz",
+      kicker: "Chapter",
+      summary: "Checks covenant justice, rest, and faithful witness in daily life.",
+      detail: "This quiz helps a beginner see Exodus 23 as a chapter about honest speech, fairness, sabbath rest, and God's promise to guide Israel.",
+      start: "Take this after reading Exodus 23 carefully and noticing how the law extends beyond property into public justice and worship.",
+      tags: ["Exodus 23", "chapter", "justice"],
+      questions: [
+        {
+          prompt: "What kind of material fills Exodus 23?",
+          answer: "More covenant instructions about justice, rest, festivals, and God's guidance.",
+        },
+        {
+          prompt: "What themes appear in the chapter?",
+          answer: "Honest testimony, helping enemies, sabbath rest, annual feasts, and trust in God's presence.",
+        },
+        {
+          prompt: "Why is Exodus 23 important?",
+          answer: "It shows that covenant life includes truthful public life, worship rhythms, and confidence that God will lead his people.",
+        },
+      ],
+    },
+    {
       title: "Luke and Acts Bridge Quiz",
       kicker: "Books",
       summary: "Checks how Luke's Gospel connects to the early church story in Acts.",
