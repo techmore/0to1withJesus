@@ -4441,6 +4441,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "John 20 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the empty tomb, Mary Magdalene's encounter, and Thomas's confession.",
+      detail: "This quiz helps a beginner see John 20 as the resurrection chapter where grief turns to joy and belief grows through witness and encounter.",
+      start: "Take this after reading John 20 carefully and noticing how the risen Jesus meets different people in different ways.",
+      tags: ["John 20", "chapter", "resurrection"],
+      questions: [
+        {
+          prompt: "Who first finds the tomb empty?",
+          answer: "Mary Magdalene finds the tomb empty and reports it to the disciples.",
+        },
+        {
+          prompt: "How does Jesus reveal himself to Mary?",
+          answer: "Jesus speaks her name and sends her to tell the others.",
+        },
+        {
+          prompt: "What confession does Thomas make when he sees Jesus?",
+          answer: "Thomas confesses Jesus as 'My Lord and my God.'",
+        },
+      ],
+    },
+    {
       title: "John 18-21 Quiz",
       kicker: "Chapters",
       summary: "Checks the arrest, trial, cross, resurrection, and Peter's restoration.",
