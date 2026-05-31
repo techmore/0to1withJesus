@@ -7113,6 +7113,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 139 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where mature faithfulness becomes quiet resilience.",
+      detail: "This quiz helps a beginner see Matthew 139 as the chapter where Jesus keeps turning consistency into a steady strength that does not need attention.",
+      start: "Take this after reading Matthew 139 carefully and noticing how faithfulness can become resilience.",
+      tags: ["Matthew 139", "chapter", "resilience"],
+      questions: [
+        {
+          prompt: "What does mature faithfulness become?",
+          answer: "It becomes quiet resilience.",
+        },
+        {
+          prompt: "What does Jesus keep showing?",
+          answer: "He keeps showing steady strength.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how consistency can become strength without attention.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
