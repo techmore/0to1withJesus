@@ -5683,6 +5683,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 166 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where steadfast calm becomes quiet resolve.",
+      detail: "This quiz helps a beginner see Matthew 166 as the chapter where calm settles into quiet resolve with Jesus.",
+      start: "Take this after reading Matthew 166 carefully and noticing how calm becomes resolve.",
+      tags: ["Matthew 166", "chapter", "resolve"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 166?",
+          answer: "The chapter emphasizes quiet resolve in following Jesus.",
+        },
+        {
+          prompt: "What does quiet resolve look like here?",
+          answer: "It means being decided and faithful without unnecessary noise.",
+        },
+        {
+          prompt: "Why does this matter after Matthew 165?",
+          answer: "It shows that steadfast calm can become quiet resolve.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
