@@ -4091,6 +4091,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 6 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter of the flood warning, where Noah finds favor and God grieves evil.",
+      detail: "This quiz helps a beginner see Genesis 6 as the chapter where corruption fills the earth and God begins to prepare rescue through Noah.",
+      start: "Take this after reading Genesis 6 carefully and noticing the grief, corruption, and favor toward Noah.",
+      tags: ["Genesis 6", "chapter", "noah"],
+      questions: [
+        {
+          prompt: "What is the main problem in Genesis 6?",
+          answer: "Human evil and corruption fill the earth.",
+        },
+        {
+          prompt: "Who finds favor in Genesis 6?",
+          answer: "Noah finds favor in God's sight.",
+        },
+        {
+          prompt: "Why does Genesis 6 matter after Genesis 5?",
+          answer: "It moves the story from a long genealogy to the crisis that leads to the flood.",
+        },
+      ],
+    },
+    {
       title: "Exodus Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Exodus as the Bible's great rescue story.",
