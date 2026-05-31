@@ -8315,6 +8315,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Judges 10 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Israel cries out again and the Lord raises another deliverer.",
+      detail: "This quiz helps a beginner see Judges 10 as another turn in the repeated cycle of sin, oppression, repentance, and rescue.",
+      start: "Take this after Judges 9 when you want to see the cycle continue with new warnings and a new rescue.",
+      tags: ["Judges 10", "chapter", "Tola"],
+      questions: [
+        {
+          prompt: "What happens in Judges 10?",
+          answer: "Israel turns from the Lord again, suffers oppression, and cries out for help.",
+        },
+        {
+          prompt: "What does the chapter show about God?",
+          answer: "He responds to Israel's cries and raises a deliverer.",
+        },
+        {
+          prompt: "Why does Judges 10 matter?",
+          answer: "It shows the cycle of Judges continuing and the Lord's patience with his people.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
