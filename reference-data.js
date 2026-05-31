@@ -7897,6 +7897,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Joshua 16 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter that describes the inheritance given to Ephraim.",
+      detail: "This quiz helps a beginner see Joshua 16 as another land-allotment chapter that records God's faithfulness to the tribes of Israel.",
+      start: "Take this after reading Joshua 16 carefully and noticing the borders and the inheritance of Ephraim.",
+      tags: ["Joshua 16", "chapter", "Ephraim"],
+      questions: [
+        {
+          prompt: "What tribe receives land in Joshua 16?",
+          answer: "Ephraim.",
+        },
+        {
+          prompt: "What kind of chapter is Joshua 16?",
+          answer: "It is a land-allotment chapter.",
+        },
+        {
+          prompt: "Why does Joshua 16 matter?",
+          answer: "It shows God carrying out the division of the promised land among his people.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
