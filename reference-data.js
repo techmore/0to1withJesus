@@ -18275,6 +18275,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Timothy Book Quiz",
+      kicker: "Book",
+      summary: "A whole-book check for 1 Timothy as Paul's letter about church order, teaching, and godly leadership.",
+      detail: "This quiz helps a beginner see 1 Timothy as practical guidance for a church needing healthy doctrine, qualified leaders, and a disciplined life.",
+      start: "Take this after Philemon and after noticing the pastoral letters focus on church health and leadership.",
+      tags: ["1 Timothy", "book", "leadership"],
+      questions: [
+        {
+          prompt: "What is one major concern in 1 Timothy?",
+          answer: "Protecting sound teaching in the church.",
+        },
+        {
+          prompt: "What kind of leaders does 1 Timothy want?",
+          answer: "Qualified, mature, and reputable leaders.",
+        },
+        {
+          prompt: "What does 1 Timothy emphasize about public church life?",
+          answer: "Prayer, order, and godly conduct.",
+        },
+      ],
+    },
+    {
       title: "Romans and Ephesians Doctrine Quiz",
       kicker: "Books",
       summary: "Checks grace, faith, church, unity, and new life in Christ.",
