@@ -6181,6 +6181,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Numbers 10 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where the trumpets sound and Israel begins moving from Sinai.",
+      detail: "This quiz helps a beginner see Numbers 10 as the chapter that marks transition, signal, and direction for the journey.",
+      start: "Take this after reading Numbers 10 carefully and noticing the silver trumpets, the march order, and the departure from Sinai.",
+      tags: ["Numbers 10", "chapter", "trumpets"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Numbers 10?",
+          answer: "The chapter emphasizes the silver trumpets and Israel's departure from Sinai.",
+        },
+        {
+          prompt: "What are the trumpets used for in Numbers 10?",
+          answer: "They signal assembly, movement, and alarm in the camp.",
+        },
+        {
+          prompt: "Why does Numbers 10 matter after Numbers 9?",
+          answer: "It turns the cloud-guided camp into an actual moving journey from Sinai.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
