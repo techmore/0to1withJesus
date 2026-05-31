@@ -4177,6 +4177,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 3 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the fall, curse, and exile from the garden in Genesis 3.",
+      detail: "This quiz helps a beginner see Genesis 3 as the chapter where disobedience, shame, curse, and mercy enter the story in a lasting way.",
+      start: "Take this after reading Genesis 3 carefully and noticing how the serpent, the tree, and exile reshape the world.",
+      tags: ["Genesis 3", "chapter", "fall"],
+      questions: [
+        {
+          prompt: "What goes wrong in Genesis 3?",
+          answer: "The man and woman disobey God by eating from the forbidden tree.",
+        },
+        {
+          prompt: "What are the consequences of the fall?",
+          answer: "Shame, curse, pain, conflict, and exile from the garden enter human life.",
+        },
+        {
+          prompt: "Why is Genesis 3 important?",
+          answer: "It explains the brokenness that shapes the rest of the Bible and makes the need for redemption clear.",
+        },
+      ],
+    },
+    {
       title: "Exodus 1 Quiz",
       kicker: "Chapter",
       summary: "Checks Israel's oppression in Egypt and the beginning of the rescue setting.",
