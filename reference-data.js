@@ -6113,6 +6113,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 98 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next movement, where patience and vigilance are still being trained.",
+      detail: "This quiz helps a beginner see Matthew 98 as the chapter where Jesus keeps shaping disciples to stay patient and watchful.",
+      start: "Take this after reading Matthew 98 carefully and noticing the call to keep watch.",
+      tags: ["Matthew 98", "chapter", "vigilance"],
+      questions: [
+        {
+          prompt: "What discipline is still being trained?",
+          answer: "Patience and vigilance are being trained.",
+        },
+        {
+          prompt: "How does Jesus shape his followers?",
+          answer: "He shapes them through continued teaching and warning.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how watchfulness remains important.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
