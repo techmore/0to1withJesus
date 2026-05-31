@@ -8381,6 +8381,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Judges 13 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Samson's birth is announced and his life is set apart for the Lord.",
+      detail: "This quiz helps a beginner see Judges 13 as the beginning of Samson's story and the promise of a new deliverer.",
+      start: "Take this after Judges 12 when you want to see the opening of Samson's narrative.",
+      tags: ["Judges 13", "chapter", "Samson"],
+      questions: [
+        {
+          prompt: "What is announced in Judges 13?",
+          answer: "The birth of Samson is announced.",
+        },
+        {
+          prompt: "What special calling does Samson have?",
+          answer: "He is to be set apart to the Lord as a Nazirite.",
+        },
+        {
+          prompt: "Why does Judges 13 matter?",
+          answer: "It introduces the one who will begin to deliver Israel from the Philistines.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
