@@ -7157,6 +7157,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 141 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where durable stability becomes gentle authority.",
+      detail: "This quiz helps a beginner see Matthew 141 as the chapter where Jesus keeps turning steady life into influence that carries calm authority.",
+      start: "Take this after reading Matthew 141 carefully and noticing how stability can become authority.",
+      tags: ["Matthew 141", "chapter", "authority"],
+      questions: [
+        {
+          prompt: "What does durable stability become?",
+          answer: "It becomes gentle authority.",
+        },
+        {
+          prompt: "What does Jesus keep expressing?",
+          answer: "He keeps expressing calm authority.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how steady life can carry influence.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
