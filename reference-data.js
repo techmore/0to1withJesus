@@ -5409,6 +5409,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 66 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the calling of fishermen and the formation of the first disciples.",
+      detail: "This quiz helps a beginner see Matthew 66 as the chapter where Jesus gathers his first followers and starts forming a community.",
+      start: "Take this after reading Matthew 66 carefully and noticing the calls, the immediate responses, and the beginning of the disciple group.",
+      tags: ["Matthew 66", "chapter", "disciples"],
+      questions: [
+        {
+          prompt: "Who does Jesus call first?",
+          answer: "He calls fishermen to follow him.",
+        },
+        {
+          prompt: "How do they respond?",
+          answer: "They leave their nets and follow him immediately.",
+        },
+        {
+          prompt: "What begins here?",
+          answer: "The first disciple group begins to form.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
