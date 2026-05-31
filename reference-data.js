@@ -8997,6 +8997,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Samuel 14 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Jonathan acts in faith and Israel sees another victory over the Philistines.",
+      detail: "This quiz helps a beginner see 1 Samuel 14 as the chapter where Jonathan trusts God, Saul makes a rash oath, and the battle shows the difference between faith and fear.",
+      start: "Take this after 1 Samuel 13 when you want to see Jonathan's courage and Saul's instability side by side.",
+      tags: ["1 Samuel 14", "chapter", "Jonathan"],
+      questions: [
+        {
+          prompt: "What does Jonathan do in 1 Samuel 14?",
+          answer: "He trusts God and attacks the Philistine outpost with his armor-bearer.",
+        },
+        {
+          prompt: "What problem does Saul create?",
+          answer: "He makes a rash oath that weakens the army.",
+        },
+        {
+          prompt: "Why does 1 Samuel 14 matter?",
+          answer: "It shows that faith can bring victory, while Saul's careless leadership keeps causing trouble.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
