@@ -9327,6 +9327,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Samuel 29 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where the Philistine commanders reject David from battle.",
+      detail: "This quiz helps a beginner see 1 Samuel 29 as the chapter where David is spared from fighting against Israel because the Philistine leaders do not trust him.",
+      start: "Take this after 1 Samuel 28 when you want to see David kept out of a dangerous battle.",
+      tags: ["1 Samuel 29", "chapter", "David"],
+      questions: [
+        {
+          prompt: "What problem do the Philistine commanders have with David?",
+          answer: "They do not trust him to fight alongside them.",
+        },
+        {
+          prompt: "What happens to David in the chapter?",
+          answer: "He is sent away from the Philistine army.",
+        },
+        {
+          prompt: "Why does 1 Samuel 29 matter?",
+          answer: "It shows God protecting David from being caught in a battle against Israel.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
