@@ -7707,6 +7707,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 166 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where confident waiting becomes settled hope.",
+      detail: "This quiz helps a beginner see Matthew 166 as the chapter where Jesus lets trust turn into hope that is calm and durable.",
+      start: "Take this after reading Matthew 166 carefully and noticing how waiting can become hope.",
+      tags: ["Matthew 166", "chapter", "hope"],
+      questions: [
+        {
+          prompt: "What does confident waiting become?",
+          answer: "It becomes settled hope.",
+        },
+        {
+          prompt: "What does Jesus keep giving his people?",
+          answer: "He keeps giving them reasons to hope in his care.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how trust can mature into hope.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
