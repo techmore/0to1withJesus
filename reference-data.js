@@ -6619,6 +6619,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 121 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where durable practice becomes stable witness.",
+      detail: "This quiz helps a beginner see Matthew 121 as the chapter where Jesus keeps turning a lasting habit into a clearer public life.",
+      start: "Take this after reading Matthew 121 carefully and noticing how practice can become stable witness.",
+      tags: ["Matthew 121", "chapter", "witness"],
+      questions: [
+        {
+          prompt: "What does durable practice become?",
+          answer: "It becomes stable witness.",
+        },
+        {
+          prompt: "What does Jesus keep making clearer?",
+          answer: "He keeps making public life clearer.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how a habit of response can speak to others.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
