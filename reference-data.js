@@ -9349,6 +9349,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Samuel 30 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where David recovers what was lost at Ziklag and asks God for guidance.",
+      detail: "This quiz helps a beginner see 1 Samuel 30 as the chapter where David faces loss, strengthens himself in the Lord, and leads a rescue.",
+      start: "Take this after 1 Samuel 29 when you want to see David respond to disaster with faith and action.",
+      tags: ["1 Samuel 30", "chapter", "David"],
+      questions: [
+        {
+          prompt: "What happens to Ziklag in 1 Samuel 30?",
+          answer: "The city is attacked and the families are taken away.",
+        },
+        {
+          prompt: "What does David do before acting?",
+          answer: "He strengthens himself in the Lord and asks for guidance.",
+        },
+        {
+          prompt: "Why does 1 Samuel 30 matter?",
+          answer: "It shows David turning to God and recovering what was lost.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
