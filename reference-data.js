@@ -5837,6 +5837,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 173 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where steady calm becomes quiet poise.",
+      detail: "This quiz helps a beginner see Matthew 173 as the chapter where calm settles into quiet poise with Jesus.",
+      start: "Take this after reading Matthew 173 carefully and noticing how calm becomes poise.",
+      tags: ["Matthew 173", "chapter", "poise"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 173?",
+          answer: "The chapter emphasizes quiet poise in following Jesus.",
+        },
+        {
+          prompt: "What does quiet poise look like here?",
+          answer: "It means carrying yourself with calm, balanced trust in Jesus.",
+        },
+        {
+          prompt: "Why does this matter after Matthew 172?",
+          answer: "It shows that steady calm can become quiet poise.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
