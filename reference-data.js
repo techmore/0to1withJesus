@@ -14615,6 +14615,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 94 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where quiet endurance becomes steady trust.",
+      detail: "This quiz helps a beginner see Matthew 94 as the chapter where endurance starts to settle into steady trust.",
+      start: "Take this after reading Matthew 94 carefully and noticing how endurance becomes trust.",
+      tags: ["Matthew 94", "chapter", "trust"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 94?",
+          answer: "The chapter emphasizes endurance that is becoming steady trust.",
+        },
+        {
+          prompt: "What does steady trust look like here?",
+          answer: "It means remaining confident and faithful through uncertainty.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 93?",
+          answer: "It shows that quiet endurance should become steady trust.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
