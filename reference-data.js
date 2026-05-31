@@ -5367,6 +5367,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 13 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where the firstborn are set apart and the way out of Egypt continues.",
+      detail: "This quiz helps a beginner see Exodus 13 as the chapter that remembers deliverance and points Israel toward future remembrance.",
+      start: "Take this after reading Exodus 13 carefully and noticing the consecration of the firstborn and the memorial language.",
+      tags: ["Exodus 13", "chapter", "firstborn"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Exodus 13?",
+          answer: "The chapter emphasizes consecrating the firstborn and remembering the Lord's deliverance.",
+        },
+        {
+          prompt: "Why does Moses tell Israel to remember this day in Exodus 13?",
+          answer: "So future generations will remember how the Lord brought them out of Egypt.",
+        },
+        {
+          prompt: "Why does Exodus 13 matter after Exodus 12?",
+          answer: "It turns the rescue into ongoing remembrance and obedience for the future.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
