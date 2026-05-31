@@ -6795,6 +6795,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 129 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where outward courage becomes shared testimony.",
+      detail: "This quiz helps a beginner see Matthew 129 as the chapter where Jesus keeps turning brave witness into a testimony that others can share.",
+      start: "Take this after reading Matthew 129 carefully and noticing how courage can become shared testimony.",
+      tags: ["Matthew 129", "chapter", "testimony"],
+      questions: [
+        {
+          prompt: "What does outward courage become?",
+          answer: "It becomes shared testimony.",
+        },
+        {
+          prompt: "What does Jesus keep multiplying?",
+          answer: "He keeps multiplying witness through others.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how courage can spread the message.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
