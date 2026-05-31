@@ -4793,6 +4793,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 38 Quiz",
+      kicker: "Chapter",
+      summary: "Checks John the Baptist's doubts, Jesus' invitation to rest, and the Father's revelation.",
+      detail: "This quiz helps a beginner see Matthew 38 as the chapter where Jesus reassures the weary and praises the Father's hidden wisdom.",
+      start: "Take this after reading Matthew 38 carefully and noticing John's question and Jesus' invitation to rest.",
+      tags: ["Matthew 38", "chapter", "rest"],
+      questions: [
+        {
+          prompt: "What question does John the Baptist send to Jesus?",
+          answer: "He asks if Jesus is the one who is to come or if they should wait for another.",
+        },
+        {
+          prompt: "What invitation does Jesus give to the weary?",
+          answer: "He invites the weary and burdened to come to him and find rest.",
+        },
+        {
+          prompt: "How does Jesus describe the Father's revelation?",
+          answer: "He says the Father reveals these things to little children.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
