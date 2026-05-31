@@ -8667,6 +8667,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Ruth 4 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Boaz redeems Ruth and the family line is restored.",
+      detail: "This quiz helps a beginner see Ruth 4 as the ending of the story's redemption arc and the beginning of a larger hope.",
+      start: "Take this after Ruth 3 when you want to see the story resolve.",
+      tags: ["Ruth 4", "chapter", "Boaz"],
+      questions: [
+        {
+          prompt: "What does Boaz do in Ruth 4?",
+          answer: "He redeems Ruth and secures the family line.",
+        },
+        {
+          prompt: "What major outcome happens in the chapter?",
+          answer: "Naomi's family line is restored and the story points toward David.",
+        },
+        {
+          prompt: "Why does Ruth 4 matter?",
+          answer: "It completes the story with redemption and ties Ruth to the larger biblical story.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
