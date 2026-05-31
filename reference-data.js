@@ -4353,6 +4353,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 18 Quiz",
+      kicker: "Chapter",
+      summary: "Checks humility, forgiveness, lost sheep, and how Jesus shapes community life.",
+      detail: "This quiz helps a beginner see Matthew 18 as the chapter where Jesus teaches what greatness, care, discipline, and forgiveness look like in his community.",
+      start: "Take this after reading Matthew 18 carefully and noticing the warnings, the parable, and the call to forgive.",
+      tags: ["Matthew 18", "chapter", "forgiveness"],
+      questions: [
+        {
+          prompt: "What kind of person does Jesus say is greatest in the kingdom?",
+          answer: "The one who becomes humble like a child.",
+        },
+        {
+          prompt: "What parable does Jesus tell about God's care?",
+          answer: "He tells of the shepherd who leaves the ninety-nine to seek the one lost sheep.",
+        },
+        {
+          prompt: "How often does Jesus say we should forgive?",
+          answer: "He says to forgive not just seven times, but seventy-seven times.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
