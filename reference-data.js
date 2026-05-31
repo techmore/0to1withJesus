@@ -4221,6 +4221,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "John 10 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the shepherd image, Jesus' voice, and the promise of life and security.",
+      detail: "This quiz helps a beginner see John 10 as the chapter where Jesus uses shepherd language to explain his care, authority, and unity with the Father.",
+      start: "Take this after reading John 10 carefully and noticing the contrast between the good shepherd and false leaders.",
+      tags: ["John 10", "chapter", "shepherd"],
+      questions: [
+        {
+          prompt: "What image does Jesus use to describe himself in John 10?",
+          answer: "Jesus describes himself as the good shepherd.",
+        },
+        {
+          prompt: "How do the sheep respond to the shepherd?",
+          answer: "They hear his voice and follow him.",
+        },
+        {
+          prompt: "What does Jesus say about the life he gives?",
+          answer: "He says he gives his sheep life and security that no one can snatch away.",
+        },
+      ],
+    },
+    {
       title: "John 11 Quiz",
       kicker: "Chapter",
       summary: "Checks Lazarus, resurrection, grief, faith, and rising conflict.",
