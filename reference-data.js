@@ -5147,6 +5147,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 3 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where God calls Moses from the burning bush.",
+      detail: "This quiz helps a beginner see Exodus 3 as the chapter where God names himself, hears Israel's cry, and sends Moses.",
+      start: "Take this after reading Exodus 3 carefully and noticing the bush, the holy ground, and God's covenant name.",
+      tags: ["Exodus 3", "chapter", "moses"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Exodus 3?",
+          answer: "The chapter emphasizes God's call of Moses and the revelation of God's holy name.",
+        },
+        {
+          prompt: "What name does God reveal to Moses in Exodus 3?",
+          answer: "God reveals his name as I AM WHO I AM.",
+        },
+        {
+          prompt: "Why does Exodus 3 matter after Exodus 2?",
+          answer: "It turns Moses from a fugitive into the one God sends to rescue his people.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
