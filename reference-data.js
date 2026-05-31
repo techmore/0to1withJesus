@@ -10471,6 +10471,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Chronicles Book Quiz",
+      kicker: "Book",
+      summary: "Checks the big picture of 2 Chronicles as the story of Judah's kings, the temple, and covenant faithfulness.",
+      detail: "This quiz helps a beginner see 2 Chronicles as a retelling focused on Judah, the temple, and the call to seek the Lord.",
+      start: "Take this after the 1 Chronicles 29 quiz when you want to continue the story into 2 Chronicles.",
+      tags: ["2 Chronicles", "book", "Judah"],
+      questions: [
+        {
+          prompt: "What is 2 Chronicles mainly about?",
+          answer: "The kings of Judah and the temple in Jerusalem.",
+        },
+        {
+          prompt: "What theme runs through the book?",
+          answer: "Seeking God and remaining faithful to him.",
+        },
+        {
+          prompt: "Why does 2 Chronicles matter?",
+          answer: "It highlights the temple, covenant, and the hope of repentance and restoration.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
