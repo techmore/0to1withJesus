@@ -10713,6 +10713,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Chronicles 11 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Rehoboam strengthens Judah and Benjamin.",
+      detail: "This quiz helps a beginner see 2 Chronicles 11 as Rehoboam settling into rule over Judah and fortifying the kingdom.",
+      start: "Take this after 2 Chronicles 10 when you want to continue the chapter-by-chapter reading.",
+      tags: ["2 Chronicles 11", "chapter", "Rehoboam"],
+      questions: [
+        {
+          prompt: "What does Rehoboam do in 2 Chronicles 11?",
+          answer: "He strengthens Judah and Benjamin and fortifies cities.",
+        },
+        {
+          prompt: "Who joins him from the priestly and Levitical groups?",
+          answer: "Priests and Levites from all Israel.",
+        },
+        {
+          prompt: "Why does 2 Chronicles 11 matter?",
+          answer: "It shows the southern kingdom being established after the split.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
