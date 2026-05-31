@@ -10295,6 +10295,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Chronicles 22 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where David prepares for the temple and charges Solomon.",
+      detail: "This quiz helps a beginner see 1 Chronicles 22 as David's preparations for the temple building project and his charge to his son Solomon.",
+      start: "Take this after 1 Chronicles 21 when you want to continue the book chapter by chapter.",
+      tags: ["1 Chronicles 22", "chapter", "Solomon"],
+      questions: [
+        {
+          prompt: "What does David prepare for in 1 Chronicles 22?",
+          answer: "The building of the temple.",
+        },
+        {
+          prompt: "Who is given the task of building it?",
+          answer: "Solomon.",
+        },
+        {
+          prompt: "Why does 1 Chronicles 22 matter?",
+          answer: "It connects David's reign to the future temple in Jerusalem.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
