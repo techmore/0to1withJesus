@@ -13427,6 +13427,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 40 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where patient endurance becomes stable perseverance.",
+      detail: "This quiz helps a beginner see Matthew 40 as the chapter where endurance keeps going without losing direction.",
+      start: "Take this after reading Matthew 40 carefully and noticing how endurance becomes perseverance.",
+      tags: ["Matthew 40", "chapter", "perseverance"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 40?",
+          answer: "The chapter emphasizes endurance that keeps moving forward.",
+        },
+        {
+          prompt: "What does stable perseverance look like here?",
+          answer: "It means continuing faithfully even when the pace is slow.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 39?",
+          answer: "It shows that endurance should become a steady way of continuing.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
