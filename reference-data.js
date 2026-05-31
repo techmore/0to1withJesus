@@ -7061,6 +7061,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Deuteronomy 13 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Israel is warned about false prophets and tempting spiritual deception.",
+      detail: "This quiz helps a beginner see Deuteronomy 13 as a chapter about testing voices and staying loyal to the Lord alone.",
+      start: "Take this after reading Deuteronomy 13 carefully and noticing the warnings about false signs, false prophets, and divided loyalty.",
+      tags: ["Deuteronomy 13", "chapter", "testing"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Deuteronomy 13?",
+          answer: "The chapter emphasizes testing spiritual claims and rejecting false worship.",
+        },
+        {
+          prompt: "How should Israel respond to a false prophet?",
+          answer: "They should not follow the false prophet, even if signs or wonders are claimed.",
+        },
+        {
+          prompt: "Why does Deuteronomy 13 matter?",
+          answer: "It teaches that loyalty to the Lord must be stronger than fascination with signs or persuasion.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
