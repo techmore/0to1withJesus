@@ -6487,6 +6487,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 115 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where witness becomes intentional testimony.",
+      detail: "This quiz helps a beginner see Matthew 115 as the chapter where Jesus keeps moving disciples from private formation to public testimony.",
+      start: "Take this after reading Matthew 115 carefully and noticing how witness becomes deliberate testimony.",
+      tags: ["Matthew 115", "chapter", "testimony"],
+      questions: [
+        {
+          prompt: "What does witness become?",
+          answer: "Witness becomes intentional testimony.",
+        },
+        {
+          prompt: "What does Jesus keep forming?",
+          answer: "He keeps forming disciples who can speak clearly.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how inner formation leads to outward witness.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
