@@ -9063,6 +9063,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Samuel 16 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where David is mocked, tested, and forced to keep moving.",
+      detail: "This quiz helps a beginner see 2 Samuel 16 as a chapter of humiliation, counsel, and the hard road of exile.",
+      start: "Take this after 2 Samuel 15 when you want to see how David responds under pressure.",
+      tags: ["2 Samuel 16", "chapter", "David"],
+      questions: [
+        {
+          prompt: "What kinds of trouble does David face in 2 Samuel 16?",
+          answer: "He is mocked by Shimei and pressured by divided counsel.",
+        },
+        {
+          prompt: "How does David respond to Shimei's curse?",
+          answer: "He bears it without retaliating.",
+        },
+        {
+          prompt: "Why does 2 Samuel 16 matter?",
+          answer: "It shows David enduring humiliation while trying to trust God through exile.",
+        },
+      ],
+    },
+    {
       title: "1 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where Hannah prays for a son and Samuel's story begins.",
