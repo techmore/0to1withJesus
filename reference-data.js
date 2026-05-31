@@ -6159,6 +6159,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Numbers 9 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Passover is kept in the wilderness and the cloud guides Israel.",
+      detail: "This quiz helps a beginner see Numbers 9 as the chapter that ties remembrance of rescue to ongoing guidance in travel.",
+      start: "Take this after reading Numbers 9 carefully and noticing the Passover, the guidance of the cloud, and the journey signals.",
+      tags: ["Numbers 9", "chapter", "passover"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Numbers 9?",
+          answer: "The chapter emphasizes Passover remembrance and God's guiding presence.",
+        },
+        {
+          prompt: "What guides Israel in Numbers 9?",
+          answer: "The cloud of the Lord guides when they camp and when they travel.",
+        },
+        {
+          prompt: "Why does Numbers 9 matter after Numbers 8?",
+          answer: "It connects the Levites' service with the ongoing remembrance and direction of God's people.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
