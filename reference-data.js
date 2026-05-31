@@ -8447,6 +8447,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Judges 16 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Samson is betrayed, loses his strength, and brings judgment on the Philistines.",
+      detail: "This quiz helps a beginner see Judges 16 as the tragic climax of Samson's story, with both failure and final deliverance.",
+      start: "Take this after Judges 15 when you want to see the end of Samson's story.",
+      tags: ["Judges 16", "chapter", "Samson"],
+      questions: [
+        {
+          prompt: "What happens to Samson in Judges 16?",
+          answer: "He is betrayed, loses his strength, and is captured by the Philistines.",
+        },
+        {
+          prompt: "What final act does Samson perform?",
+          answer: "He brings down the temple of Dagon on the Philistines.",
+        },
+        {
+          prompt: "Why does Judges 16 matter?",
+          answer: "It closes Samson's story with tragedy, judgment, and a final act of deliverance.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
