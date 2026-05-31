@@ -8469,6 +8469,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Judges 17 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Micah makes an idol and sets up his own private religion.",
+      detail: "This quiz helps a beginner see Judges 17 as a warning about spiritual confusion and doing what seems right in one's own eyes.",
+      start: "Take this after Judges 16 when you want to see how chaotic life in Israel had become.",
+      tags: ["Judges 17", "chapter", "Micah"],
+      questions: [
+        {
+          prompt: "What does Micah do in Judges 17?",
+          answer: "He makes an idol and sets up a shrine in his house.",
+        },
+        {
+          prompt: "What does the chapter reveal about Israel?",
+          answer: "It reveals deep spiritual confusion and corruption.",
+        },
+        {
+          prompt: "Why does Judges 17 matter?",
+          answer: "It shows how far the people have drifted from faithful worship.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
