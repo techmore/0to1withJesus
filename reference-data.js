@@ -12591,6 +12591,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Nehemiah Book Quiz",
+      kicker: "Book",
+      summary: "A whole-book check for Nehemiah as the rebuilding of Jerusalem's walls and community life.",
+      detail: "This quiz helps a beginner see Nehemiah as leadership, prayer, and perseverance working together to restore the city.",
+      start: "Take this after Ezra and after seeing that return from exile includes practical rebuilding.",
+      tags: ["Nehemiah", "book", "rebuilding"],
+      questions: [
+        {
+          prompt: "What is Nehemiah's main project?",
+          answer: "Rebuilding Jerusalem's walls and restoring the community.",
+        },
+        {
+          prompt: "What characterizes Nehemiah as a leader?",
+          answer: "Prayerful dependence, courage, and perseverance.",
+        },
+        {
+          prompt: "Why is Nehemiah important for beginners?",
+          answer: "It shows that rebuilding God's people involves both structure and faithfulness.",
+        },
+      ],
+    },
+    {
       title: "Isaiah Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Isaiah as a prophet of holiness, judgment, comfort, and hope.",
