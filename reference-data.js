@@ -13889,6 +13889,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 61 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where stable insight becomes practical clarity.",
+      detail: "This quiz helps a beginner see Matthew 61 as the chapter where insight starts guiding the next step clearly.",
+      start: "Take this after reading Matthew 61 carefully and noticing how insight turns into clarity.",
+      tags: ["Matthew 61", "chapter", "clarity"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 61?",
+          answer: "The chapter emphasizes insight that is becoming practical clarity.",
+        },
+        {
+          prompt: "What does practical clarity look like here?",
+          answer: "It means knowing the right direction and being able to act on it.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 60?",
+          answer: "It shows that stable insight should become clear direction.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
