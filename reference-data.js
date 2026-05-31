@@ -4737,6 +4737,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 119 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where humble praise becomes patient awe.",
+      detail: "This quiz helps a beginner see Matthew 119 as the chapter where Jesus turns worship into patient awe that can keep listening rather than rushing.",
+      start: "Take this after reading Matthew 119 carefully and noticing how praise can become awe.",
+      tags: ["Matthew 119", "chapter", "awe"],
+      questions: [
+        {
+          prompt: "What does humble praise become?",
+          answer: "It becomes patient awe.",
+        },
+        {
+          prompt: "What does Jesus keep awakening in his followers?",
+          answer: "He keeps awakening reverence that listens and waits.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how praise can deepen into awe.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
