@@ -9173,6 +9173,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Samuel 22 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where David gathers followers and Saul's cruelty becomes clearer.",
+      detail: "This quiz helps a beginner see 1 Samuel 22 as the chapter where David leads a distressed band and Saul's violence spreads to others.",
+      start: "Take this after 1 Samuel 21 when you want to see David's growing group of followers and Saul's anger.",
+      tags: ["1 Samuel 22", "chapter", "David"],
+      questions: [
+        {
+          prompt: "Who gathers around David in 1 Samuel 22?",
+          answer: "People who are in distress, in debt, or discontented.",
+        },
+        {
+          prompt: "What does Saul do in this chapter?",
+          answer: "He orders the killing of the priests at Nob.",
+        },
+        {
+          prompt: "Why does 1 Samuel 22 matter?",
+          answer: "It shows David becoming a leader of the outcast and Saul sinking further into wrongdoing.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
