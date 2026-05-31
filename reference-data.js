@@ -6299,6 +6299,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 113 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where patient trust becomes quiet dependence.",
+      detail: "This quiz helps a beginner see Matthew 113 as the chapter where Jesus turns waiting trust into quiet dependence that stays close instead of straining.",
+      start: "Take this after reading Matthew 113 carefully and noticing how trust can become dependence.",
+      tags: ["Matthew 113", "chapter", "dependence"],
+      questions: [
+        {
+          prompt: "What does patient trust become?",
+          answer: "It becomes quiet dependence.",
+        },
+        {
+          prompt: "What does Jesus keep teaching his followers?",
+          answer: "He keeps teaching them to rest in him rather than strain for control.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how trust can settle into dependence.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
