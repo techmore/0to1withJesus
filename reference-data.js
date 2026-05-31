@@ -8887,6 +8887,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Samuel 8 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where David's kingdom expands and he establishes justice through victory.",
+      detail: "This quiz helps a beginner see 2 Samuel 8 as a chapter of military success, order, and rule over surrounding nations.",
+      start: "Take this after 2 Samuel 7 when you want to see David's kingdom spread outward.",
+      tags: ["2 Samuel 8", "chapter", "David"],
+      questions: [
+        {
+          prompt: "What happens to David's kingdom in 2 Samuel 8?",
+          answer: "It expands through victories over surrounding enemies.",
+        },
+        {
+          prompt: "What kind of rule does David establish?",
+          answer: "He rules with justice and organization over the conquered peoples.",
+        },
+        {
+          prompt: "Why does 2 Samuel 8 matter?",
+          answer: "It shows David's kingdom becoming secure and orderly under God's help.",
+        },
+      ],
+    },
+    {
       title: "1 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where Hannah prays for a son and Samuel's story begins.",
