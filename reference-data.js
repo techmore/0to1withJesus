@@ -10933,6 +10933,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Chronicles 21 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Jehoram's bad reign brings judgment to Judah.",
+      detail: "This quiz helps a beginner see 2 Chronicles 21 as a warning that turning away from the Lord brings trouble and loss.",
+      start: "Take this after 2 Chronicles 20 when you want to continue the chapter-by-chapter reading.",
+      tags: ["2 Chronicles 21", "chapter", "Jehoram"],
+      questions: [
+        {
+          prompt: "What kind of king is Jehoram in 2 Chronicles 21?",
+          answer: "A wicked king who leads Judah astray.",
+        },
+        {
+          prompt: "What consequences follow his reign?",
+          answer: "Judgment, conflict, and suffering for Judah.",
+        },
+        {
+          prompt: "Why does 2 Chronicles 21 matter?",
+          answer: "It shows the danger of abandoning the Lord.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
