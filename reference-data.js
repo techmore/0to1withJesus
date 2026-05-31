@@ -4463,6 +4463,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 15 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the Song of Moses and Miriam, praise after deliverance, and the bitter-water test.",
+      detail: "This quiz helps a beginner see Exodus 15 as the worship response to rescue. It focuses on praise, God's victory, Miriam's role, and the shift from triumph to dependence in the wilderness.",
+      start: "Take this after reading Exodus 15 carefully and noticing the movement from song to complaint to provision.",
+      tags: ["Exodus 15", "chapter", "worship"],
+      questions: [
+        {
+          prompt: "What is the main mood of the first part of Exodus 15?",
+          answer: "Praise and celebration after God defeats Pharaoh.",
+        },
+        {
+          prompt: "What does Miriam do in this chapter?",
+          answer: "She leads the women in singing and dancing in response to God's victory.",
+        },
+        {
+          prompt: "What problem appears after the song?",
+          answer: "The water at Marah is bitter, showing that rescue leads into dependence and testing.",
+        },
+      ],
+    },
+    {
       title: "Luke and Acts Bridge Quiz",
       kicker: "Books",
       summary: "Checks how Luke's Gospel connects to the early church story in Acts.",
