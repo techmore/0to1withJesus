@@ -6949,6 +6949,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Acts 7 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Stephen's speech, his vision, and the first martyrdom.",
+      detail: "This quiz helps a beginner see Acts 7 as the chapter where Stephen retells Israel's story and becomes the first martyr.",
+      start: "Take this after reading Acts 7 carefully and noticing the long speech and its outcome.",
+      tags: ["Acts 7", "chapter", "Stephen"],
+      questions: [
+        {
+          prompt: "What does Stephen do in his defense?",
+          answer: "He retells Israel's history to show God's faithfulness and the people's repeated resistance.",
+        },
+        {
+          prompt: "What does Stephen see near the end?",
+          answer: "He sees the Son of Man standing at the right hand of God.",
+        },
+        {
+          prompt: "What happens to Stephen?",
+          answer: "He is stoned to death, becoming the first Christian martyr.",
+        },
+      ],
+    },
+    {
       title: "Acts Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Acts as the story of the Spirit-empowered church expanding from Jerusalem outward.",
