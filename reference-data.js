@@ -4113,6 +4113,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 7 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the flood chapter, where Noah enters the ark and the waters come.",
+      detail: "This quiz helps a beginner see Genesis 7 as the chapter where God shelters Noah and then sends the flood judgment.",
+      start: "Take this after reading Genesis 7 carefully and noticing the movement from warning to judgment.",
+      tags: ["Genesis 7", "chapter", "flood"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Genesis 7?",
+          answer: "The chapter emphasizes Noah entering the ark and the flood beginning.",
+        },
+        {
+          prompt: "What role does the ark play in Genesis 7?",
+          answer: "The ark shelters Noah, his family, and the animals from the flood.",
+        },
+        {
+          prompt: "Why does Genesis 7 matter after Genesis 6?",
+          answer: "It shows God's warned judgment actually arriving and the rescue beginning.",
+        },
+      ],
+    },
+    {
       title: "Exodus Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Exodus as the Bible's great rescue story.",
