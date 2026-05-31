@@ -14439,6 +14439,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 86 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where steady endurance becomes patient resolve.",
+      detail: "This quiz helps a beginner see Matthew 86 as the chapter where endurance starts to settle into patient resolve.",
+      start: "Take this after reading Matthew 86 carefully and noticing how endurance becomes resolve.",
+      tags: ["Matthew 86", "chapter", "resolve"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 86?",
+          answer: "The chapter emphasizes endurance that is becoming patient resolve.",
+        },
+        {
+          prompt: "What does patient resolve look like here?",
+          answer: "It means staying committed with a steady mind and heart.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 85?",
+          answer: "It shows that steady endurance should become patient resolve.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
