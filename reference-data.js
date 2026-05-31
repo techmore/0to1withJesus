@@ -3619,6 +3619,44 @@ export const referenceData = {
       ],
     },
     {
+      title: "Bible Books Order and Sections Quiz",
+      kicker: "Whole Bible",
+      summary: "A teaching quiz for learning the order of the Bible and what the major sections are about.",
+      detail: "This is the best first quiz if you want the Bible to feel organized. It teaches the order of the Old Testament and New Testament, what each major section is for, and how to think about where books belong.",
+      start: "Take this before individual book quizzes so the Bible feels like a map, not a pile of unrelated books.",
+      tags: ["whole Bible", "order", "sections"],
+      questions: [
+        {
+          prompt: "What are the two main parts of the Christian Bible?",
+          answer: "The Old Testament and the New Testament.",
+        },
+        {
+          prompt: "What comes first in the Old Testament: the Law, the Prophets, or the Gospels?",
+          answer: "The Law or Torah comes first.",
+        },
+        {
+          prompt: "What are the five books of the Torah?",
+          answer: "Genesis, Exodus, Leviticus, Numbers, and Deuteronomy.",
+        },
+        {
+          prompt: "What comes after the Torah in the Old Testament?",
+          answer: "The historical books, then wisdom and poetry, then the prophets.",
+        },
+        {
+          prompt: "What are the first four books of the New Testament?",
+          answer: "Matthew, Mark, Luke, and John.",
+        },
+        {
+          prompt: "What comes after the Gospels in the New Testament?",
+          answer: "Acts, then the letters, then Revelation.",
+        },
+        {
+          prompt: "Why is it useful to know the Bible's order and sections?",
+          answer: "Because it helps you place each book in the larger story and know what kind of writing you are reading.",
+        },
+      ],
+    },
+    {
       title: "Bible Sections Foundation Quiz",
       kicker: "Whole Bible",
       summary: "Checks whether the major sections of the Bible are starting to make sense.",
@@ -6945,6 +6983,28 @@ export const referenceData = {
         {
           prompt: "What should a beginner notice?",
           answer: "They should notice how visible change can affect people.",
+        },
+      ],
+    },
+    {
+      title: "Matthew 136 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where lasting influence becomes resilient service.",
+      detail: "This quiz helps a beginner see Matthew 136 as the chapter where Jesus keeps turning influence into service that can hold up under pressure.",
+      start: "Take this after reading Matthew 136 carefully and noticing how influence can become service.",
+      tags: ["Matthew 136", "chapter", "service"],
+      questions: [
+        {
+          prompt: "What does lasting influence become?",
+          answer: "It becomes resilient service.",
+        },
+        {
+          prompt: "What does Jesus keep teaching?",
+          answer: "He keeps teaching service under pressure.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how influence can lead to active care for others.",
         },
       ],
     },
