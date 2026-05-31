@@ -6817,6 +6817,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Acts 1 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Jesus' ascension, the promise of the Spirit, and the choosing of Matthias.",
+      detail: "This quiz helps a beginner see Acts 1 as the chapter that bridges Jesus' resurrection appearance to the church's Spirit-filled mission.",
+      start: "Take this after reading Acts 1 carefully and noticing the setup for the rest of the book.",
+      tags: ["Acts 1", "chapter", "ascension"],
+      questions: [
+        {
+          prompt: "What promise does Jesus give before ascending?",
+          answer: "He promises that the Holy Spirit will come and empower the disciples to be his witnesses.",
+        },
+        {
+          prompt: "What major event closes the chapter?",
+          answer: "Jesus ascends into heaven.",
+        },
+        {
+          prompt: "What practical decision do the disciples make?",
+          answer: "They choose Matthias to replace Judas among the Twelve.",
+        },
+      ],
+    },
+    {
       title: "Acts Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Acts as the story of the Spirit-empowered church expanding from Jerusalem outward.",
