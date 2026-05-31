@@ -5793,6 +5793,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 171 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where settled courage becomes quiet assurance.",
+      detail: "This quiz helps a beginner see Matthew 171 as the chapter where courage settles into quiet assurance with Jesus.",
+      start: "Take this after reading Matthew 171 carefully and noticing how courage becomes assurance.",
+      tags: ["Matthew 171", "chapter", "assurance"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 171?",
+          answer: "The chapter emphasizes quiet assurance in following Jesus.",
+        },
+        {
+          prompt: "What does quiet assurance look like here?",
+          answer: "It means being certain of Jesus without needing to push for control.",
+        },
+        {
+          prompt: "Why does this matter after Matthew 170?",
+          answer: "It shows that settled courage can become quiet assurance.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
