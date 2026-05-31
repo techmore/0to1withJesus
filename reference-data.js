@@ -14131,6 +14131,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 72 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where durable perseverance becomes quiet endurance.",
+      detail: "This quiz helps a beginner see Matthew 72 as the chapter where perseverance settles into a calm, lasting endurance.",
+      start: "Take this after reading Matthew 72 carefully and noticing how perseverance becomes endurance.",
+      tags: ["Matthew 72", "chapter", "endurance"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 72?",
+          answer: "The chapter emphasizes perseverance that is becoming quiet endurance.",
+        },
+        {
+          prompt: "What does quiet endurance look like here?",
+          answer: "It means keeping going steadily without needing attention.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 71?",
+          answer: "It shows that durable perseverance should become quiet endurance.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
