@@ -6641,6 +6641,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 122 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where stable witness becomes open invitation.",
+      detail: "This quiz helps a beginner see Matthew 122 as the chapter where Jesus keeps turning public faithfulness into a wider call.",
+      start: "Take this after reading Matthew 122 carefully and noticing how witness can become invitation.",
+      tags: ["Matthew 122", "chapter", "invitation"],
+      questions: [
+        {
+          prompt: "What does stable witness become?",
+          answer: "It becomes open invitation.",
+        },
+        {
+          prompt: "What does Jesus keep widening?",
+          answer: "He keeps widening the call.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how faithful practice can invite others in.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
