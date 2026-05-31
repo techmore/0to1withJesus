@@ -5653,6 +5653,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 26 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where the tabernacle's curtains, frames, and layout are described.",
+      detail: "This quiz helps a beginner see Exodus 26 as the chapter that gives the detailed structure for the dwelling place of God's presence.",
+      start: "Take this after reading Exodus 26 carefully and noticing the curtains, frames, and the separation of the holy spaces.",
+      tags: ["Exodus 26", "chapter", "tabernacle"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Exodus 26?",
+          answer: "The chapter emphasizes the detailed construction of the tabernacle.",
+        },
+        {
+          prompt: "What parts of the tabernacle are described in Exodus 26?",
+          answer: "It describes the curtains, frames, and the arrangement of the holy spaces.",
+        },
+        {
+          prompt: "Why does Exodus 26 matter after Exodus 25?",
+          answer: "It continues the plan for how God's presence will dwell among his people.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
