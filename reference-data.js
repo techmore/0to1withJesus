@@ -9503,6 +9503,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Kings 12 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Joash repairs the temple and the priesthood is organized.",
+      detail: "This quiz helps a beginner see 2 Kings 12 as a chapter of restoration and practical faithfulness.",
+      start: "Take this after 2 Kings 11 when you want to continue the book chapter by chapter.",
+      tags: ["2 Kings 12", "chapter", "Joash"],
+      questions: [
+        {
+          prompt: "What major project happens in 2 Kings 12?",
+          answer: "The temple is repaired.",
+        },
+        {
+          prompt: "Who is king in the chapter?",
+          answer: "Joash.",
+        },
+        {
+          prompt: "Why does 2 Kings 12 matter?",
+          answer: "It shows efforts to restore worship and care for God's house.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
