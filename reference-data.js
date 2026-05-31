@@ -6687,6 +6687,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Numbers 33 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter that lists Israel's journey stages from Egypt to the edge of the land.",
+      detail: "This quiz helps a beginner see Numbers 33 as a summary of the wilderness route and God's leading through every stage.",
+      start: "Take this after reading Numbers 33 carefully and noticing the long travel list and the command to drive out the land's inhabitants.",
+      tags: ["Numbers 33", "chapter", "journey"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Numbers 33?",
+          answer: "The chapter emphasizes the stages of Israel's journey from Egypt to the plains of Moab.",
+        },
+        {
+          prompt: "Why is the journey list important?",
+          answer: "It helps Israel remember how God led them through every stage of the wilderness.",
+        },
+        {
+          prompt: "What future task does Numbers 33 point toward?",
+          answer: "It points toward taking possession of the land and removing idolatrous influences.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
