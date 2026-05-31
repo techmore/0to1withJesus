@@ -9371,6 +9371,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Samuel 31 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Saul dies and Israel's first king falls on the battlefield.",
+      detail: "This quiz helps a beginner see 1 Samuel 31 as the tragic ending of Saul's reign and the closing of the first Samuel cycle.",
+      start: "Take this after 1 Samuel 30 when you want to see how Saul's story ends.",
+      tags: ["1 Samuel 31", "chapter", "Saul"],
+      questions: [
+        {
+          prompt: "What happens to Saul in 1 Samuel 31?",
+          answer: "He dies in battle on Mount Gilboa.",
+        },
+        {
+          prompt: "What happens to Saul's sons?",
+          answer: "They die with him.",
+        },
+        {
+          prompt: "Why does 1 Samuel 31 matter?",
+          answer: "It ends Saul's reign and sets the stage for David's kingship.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
