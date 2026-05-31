@@ -8953,6 +8953,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Samuel 11 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where David sins with Bathsheba and arranges Uriah's death.",
+      detail: "This quiz helps a beginner see 2 Samuel 11 as the dark turning point where David's power is misused in sin and cover-up.",
+      start: "Take this after 2 Samuel 10 when you want to see the crisis in David's reign.",
+      tags: ["2 Samuel 11", "chapter", "David"],
+      questions: [
+        {
+          prompt: "What does David do in 2 Samuel 11?",
+          answer: "He takes Bathsheba and arranges for Uriah to be killed.",
+        },
+        {
+          prompt: "Why is David's action serious?",
+          answer: "He uses his power for sin and tries to hide it.",
+        },
+        {
+          prompt: "Why does 2 Samuel 11 matter?",
+          answer: "It shows the severe moral failure at the center of David's reign.",
+        },
+      ],
+    },
+    {
       title: "1 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where Hannah prays for a son and Samuel's story begins.",
