@@ -5167,6 +5167,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 55 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the feeding miracle, Jesus on the water, and the disciples' growing awareness.",
+      detail: "This quiz helps a beginner see Matthew 55 as the chapter where Jesus provides for the crowd and reveals his authority over the sea.",
+      start: "Take this after reading Matthew 55 carefully and noticing the feeding, the boat, and the storm.",
+      tags: ["Matthew 55", "chapter", "miracles"],
+      questions: [
+        {
+          prompt: "What miracle feeds the crowd?",
+          answer: "Jesus feeds the multitude with a small amount of food.",
+        },
+        {
+          prompt: "What happens on the water?",
+          answer: "Jesus walks on the water toward the disciples.",
+        },
+        {
+          prompt: "What does this show about Jesus?",
+          answer: "It shows his authority and care for his followers.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
