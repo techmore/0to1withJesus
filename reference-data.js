@@ -4353,6 +4353,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 11 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Babel, the languages, and the scattering of the nations.",
+      detail: "This quiz helps a beginner see Genesis 11 as the chapter where human pride leads to language confusion and scattering, setting up the call of Abraham.",
+      start: "Take this after reading Genesis 11 carefully and noticing the tower, the city, and the language barrier.",
+      tags: ["Genesis 11", "chapter", "Babel"],
+      questions: [
+        {
+          prompt: "What happens at Babel in Genesis 11?",
+          answer: "People try to build a name for themselves, and God confuses their language and scatters them.",
+        },
+        {
+          prompt: "What is the result of the language confusion?",
+          answer: "The people are spread across the earth and the city-building project stops.",
+        },
+        {
+          prompt: "Why is Genesis 11 important?",
+          answer: "It explains the scattering of the nations and prepares the reader for God's call to Abraham in the next chapter.",
+        },
+      ],
+    },
+    {
       title: "Exodus 1 Quiz",
       kicker: "Chapter",
       summary: "Checks Israel's oppression in Egypt and the beginning of the rescue setting.",
