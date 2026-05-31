@@ -4979,6 +4979,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 134 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where patient courage becomes a disciplined witness.",
+      detail: "This quiz helps a beginner see Matthew 134 as the chapter where courage is trained into a steady, disciplined testimony.",
+      start: "Take this after reading Matthew 134 carefully and noticing how courage becomes disciplined witness.",
+      tags: ["Matthew 134", "chapter", "discipline"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 134?",
+          answer: "The chapter emphasizes disciplined witness that stays steady under pressure.",
+        },
+        {
+          prompt: "What does disciplined witness look like here?",
+          answer: "It means consistently speaking and living for Jesus with restraint and resolve.",
+        },
+        {
+          prompt: "Why does this matter after Matthew 133?",
+          answer: "It shows that courage can be trained into faithful discipline.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
