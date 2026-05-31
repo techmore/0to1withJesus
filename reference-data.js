@@ -10669,6 +10669,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Chronicles 9 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where the queen of Sheba visits Solomon and his reign is summarized.",
+      detail: "This quiz helps a beginner see 2 Chronicles 9 as the high point of Solomon's fame, wealth, and wisdom before the kingdom begins to decline.",
+      start: "Take this after 2 Chronicles 8 when you want to continue the chapter-by-chapter reading.",
+      tags: ["2 Chronicles 9", "chapter", "Solomon"],
+      questions: [
+        {
+          prompt: "Who visits Solomon in 2 Chronicles 9?",
+          answer: "The queen of Sheba.",
+        },
+        {
+          prompt: "What does the chapter highlight about Solomon?",
+          answer: "His wisdom, wealth, and fame.",
+        },
+        {
+          prompt: "Why does 2 Chronicles 9 matter?",
+          answer: "It summarizes Solomon's greatness and closes the story of his reign.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
