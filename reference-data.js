@@ -18121,6 +18121,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Peter Book Quiz",
+      kicker: "Book",
+      summary: "A whole-book check for 1 Peter as a letter of hope, holiness, and endurance under suffering.",
+      detail: "This quiz helps a beginner see 1 Peter as encouragement for scattered believers who need to live faithfully while facing pressure.",
+      start: "Take this after James and after noticing how suffering and holiness shape the Catholic Letters.",
+      tags: ["1 Peter", "book", "suffering"],
+      questions: [
+        {
+          prompt: "What kind of identity does 1 Peter give believers?",
+          answer: "Believers are chosen, holy, and called to hope.",
+        },
+        {
+          prompt: "How should Christians respond to suffering in 1 Peter?",
+          answer: "With endurance, trust, and Christlike conduct.",
+        },
+        {
+          prompt: "What does 1 Peter say about holiness?",
+          answer: "God's people should be holy in all their conduct.",
+        },
+      ],
+    },
+    {
       title: "Romans and Ephesians Doctrine Quiz",
       kicker: "Books",
       summary: "Checks grace, faith, church, unity, and new life in Christ.",
