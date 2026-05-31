@@ -7575,6 +7575,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 160 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where steadfast witness becomes durable service.",
+      detail: "This quiz helps a beginner see Matthew 160 as the chapter where Jesus turns public witness into a way of serving others faithfully.",
+      start: "Take this after reading Matthew 160 carefully and noticing how witness can become service.",
+      tags: ["Matthew 160", "chapter", "service"],
+      questions: [
+        {
+          prompt: "What does steadfast witness become?",
+          answer: "It becomes durable service.",
+        },
+        {
+          prompt: "What does Jesus keep teaching his people?",
+          answer: "He keeps teaching them to put faith into action for others.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how witness can lead to helping.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
