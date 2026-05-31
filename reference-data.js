@@ -14571,6 +14571,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 92 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where measured steadiness becomes settled patience.",
+      detail: "This quiz helps a beginner see Matthew 92 as the chapter where steadiness starts to settle into settled patience.",
+      start: "Take this after reading Matthew 92 carefully and noticing how steadiness becomes patience.",
+      tags: ["Matthew 92", "chapter", "patience"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 92?",
+          answer: "The chapter emphasizes steadiness that is becoming settled patience.",
+        },
+        {
+          prompt: "What does settled patience look like here?",
+          answer: "It means remaining calm and faithful without being easily shaken.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 91?",
+          answer: "It shows that measured steadiness should become settled patience.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
