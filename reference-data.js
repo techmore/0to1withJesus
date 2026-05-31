@@ -4595,6 +4595,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 22 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Abraham's test, Isaac, and God's provision of the ram.",
+      detail: "This quiz helps a beginner see Genesis 22 as the chapter where faith is tested, the sacrifice is stopped, and God provides a substitute.",
+      start: "Take this after reading Genesis 22 carefully and noticing the tension between obedience, promise, and provision.",
+      tags: ["Genesis 22", "chapter", "test"],
+      questions: [
+        {
+          prompt: "What does God ask Abraham to do in Genesis 22?",
+          answer: "Offer Isaac as a burnt offering.",
+        },
+        {
+          prompt: "What provides the sacrifice in the end?",
+          answer: "A ram caught in the thicket is offered instead of Isaac.",
+        },
+        {
+          prompt: "Why is Genesis 22 important?",
+          answer: "It shows the testing of Abraham's faith and God’s provision in a way that shapes later biblical themes of sacrifice and substitution.",
+        },
+      ],
+    },
+    {
       title: "Exodus 1 Quiz",
       kicker: "Chapter",
       summary: "Checks Israel's oppression in Egypt and the beginning of the rescue setting.",
