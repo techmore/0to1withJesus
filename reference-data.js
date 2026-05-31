@@ -4419,6 +4419,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Luke 19 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Zacchaeus, the king's arrival, and Jesus' lament over Jerusalem.",
+      detail: "This quiz helps a beginner see Luke 19 as the chapter where Jesus seeks the lost, enters Jerusalem, and grieves over the city.",
+      start: "Take this after reading Luke 19 carefully and noticing the change from rescue to arrival.",
+      tags: ["Luke 19", "chapter", "Zacchaeus"],
+      questions: [
+        {
+          prompt: "Who is Zacchaeus and what does Jesus do with him?",
+          answer: "He is a tax collector whom Jesus calls and welcomes into fellowship.",
+        },
+        {
+          prompt: "What does Jesus ride into Jerusalem on?",
+          answer: "He rides on a colt as the crowd welcomes him as king.",
+        },
+        {
+          prompt: "How does Jesus respond to Jerusalem?",
+          answer: "He weeps over the city and warns of its coming judgment.",
+        },
+      ],
+    },
+    {
       title: "John 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the opening claims about Jesus as the Word, light, and Son.",
