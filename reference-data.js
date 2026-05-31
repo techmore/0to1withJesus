@@ -4993,6 +4993,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 47 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Jacob settles in Egypt and blesses Pharaoh.",
+      detail: "This quiz helps a beginner see Genesis 47 as the chapter where the family is established in Goshen and the famine reshapes the land.",
+      start: "Take this after reading Genesis 47 carefully and noticing Goshen, the famine policy, and Jacob's blessing of Pharaoh.",
+      tags: ["Genesis 47", "chapter", "jacob"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Genesis 47?",
+          answer: "The chapter emphasizes Jacob's family settling in Goshen and the effects of the famine in Egypt.",
+        },
+        {
+          prompt: "What does Jacob do before Pharaoh in Genesis 47?",
+          answer: "He blesses Pharaoh.",
+        },
+        {
+          prompt: "Why does Genesis 47 matter after Genesis 46?",
+          answer: "It shows the family taking root in Egypt while God's promise continues to unfold in a new land.",
+        },
+      ],
+    },
+    {
       title: "Exodus Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Exodus as the Bible's great rescue story.",
