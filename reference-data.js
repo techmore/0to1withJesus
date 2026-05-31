@@ -5761,6 +5761,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 82 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Jesus' final teaching push before the next section, with watchfulness and readiness.",
+      detail: "This quiz helps a beginner see Matthew 82 as the chapter where Jesus warns his followers to stay ready, keep watch, and live faithfully.",
+      start: "Take this after reading Matthew 82 carefully and noticing the repeated call to readiness.",
+      tags: ["Matthew 82", "chapter", "watchfulness"],
+      questions: [
+        {
+          prompt: "What is Jesus urging his followers to do?",
+          answer: "He urges them to stay alert and be ready.",
+        },
+        {
+          prompt: "What does watchfulness mean here?",
+          answer: "It means living in a way that is prepared for Jesus' coming or action.",
+        },
+        {
+          prompt: "What attitude does the chapter promote?",
+          answer: "It promotes faithful readiness instead of careless delay.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
