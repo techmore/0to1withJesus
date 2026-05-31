@@ -4947,6 +4947,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 38 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Judah, Tamar, and the surprising exposure of family justice and failure.",
+      detail: "This quiz helps a beginner see Genesis 38 as the chapter where Judah's family line is interrupted by sin, judgment, and Tamar's bold action that changes the story.",
+      start: "Take this after reading Genesis 38 carefully and noticing that the chapter pauses Joseph's story to focus on Judah's family.",
+      tags: ["Genesis 38", "chapter", "Tamar"],
+      questions: [
+        {
+          prompt: "What is the main focus of Genesis 38?",
+          answer: "It focuses on Judah, Tamar, and the tangled family failure around them.",
+        },
+        {
+          prompt: "How does Tamar secure justice?",
+          answer: "She disguises herself and confronts Judah, forcing him to acknowledge his responsibility.",
+        },
+        {
+          prompt: "Why is Genesis 38 important?",
+          answer: "It reveals Judah's line, exposes family sin, and prepares for later developments in the promise story.",
+        },
+      ],
+    },
+    {
       title: "Exodus 1 Quiz",
       kicker: "Chapter",
       summary: "Checks Israel's oppression in Egypt and the beginning of the rescue setting.",
