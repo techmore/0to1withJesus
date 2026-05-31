@@ -4463,6 +4463,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Luke 21 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the widow's offering, the temple warning, and Jesus' teaching about the end.",
+      detail: "This quiz helps a beginner see Luke 21 as the chapter where Jesus contrasts true giving with outward religion and speaks about coming trials.",
+      start: "Take this after reading Luke 21 carefully and noticing the shift from temple gifts to apocalyptic teaching.",
+      tags: ["Luke 21", "chapter", "end times"],
+      questions: [
+        {
+          prompt: "What does Jesus notice about the widow's offering?",
+          answer: "He says she gave more than the rich because she gave all she had.",
+        },
+        {
+          prompt: "What does Jesus predict about the temple?",
+          answer: "He predicts its destruction.",
+        },
+        {
+          prompt: "What does Jesus tell his followers to do when hard times come?",
+          answer: "He tells them to endure, stay alert, and trust God's help.",
+        },
+      ],
+    },
+    {
       title: "John 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the opening claims about Jesus as the Word, light, and Son.",
