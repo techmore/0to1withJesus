@@ -13779,6 +13779,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 56 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where lived wisdom becomes steady discernment.",
+      detail: "This quiz helps a beginner see Matthew 56 as the chapter where wise living starts to sharpen judgment.",
+      start: "Take this after reading Matthew 56 carefully and noticing how wisdom becomes discernment.",
+      tags: ["Matthew 56", "chapter", "discernment"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 56?",
+          answer: "The chapter emphasizes wisdom that sharpens into discernment.",
+        },
+        {
+          prompt: "What does steady discernment look like here?",
+          answer: "It means making wise judgments based on practiced understanding.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 55?",
+          answer: "It shows that lived wisdom should become sharper discernment.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
