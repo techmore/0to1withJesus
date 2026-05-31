@@ -9151,6 +9151,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Samuel 21 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where David receives help in danger and begins living as a fugitive.",
+      detail: "This quiz helps a beginner see 1 Samuel 21 as the chapter where David is on the run and God provides support through unlikely places.",
+      start: "Take this after 1 Samuel 20 when you want to see David survive as a fugitive.",
+      tags: ["1 Samuel 21", "chapter", "David"],
+      questions: [
+        {
+          prompt: "Where does David go in 1 Samuel 21?",
+          answer: "He goes to Nob and later to Achish in Gath.",
+        },
+        {
+          prompt: "What kind of situation is David in?",
+          answer: "He is fleeing and living as a fugitive.",
+        },
+        {
+          prompt: "Why does 1 Samuel 21 matter?",
+          answer: "It shows God sustaining David even while he is running from Saul.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
