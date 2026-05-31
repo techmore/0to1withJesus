@@ -6091,6 +6091,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 97 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where trust is tested and clarified through continued teaching.",
+      detail: "This quiz helps a beginner see Matthew 97 as the chapter where Jesus keeps teaching in ways that strengthen trust under pressure.",
+      start: "Take this after reading Matthew 97 carefully and noticing how trust is refined.",
+      tags: ["Matthew 97", "chapter", "trust"],
+      questions: [
+        {
+          prompt: "What is being tested?",
+          answer: "Trust is being tested.",
+        },
+        {
+          prompt: "What does Jesus keep doing?",
+          answer: "He keeps teaching in ways that clarify faith.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how pressure reveals what trust looks like.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
