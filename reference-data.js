@@ -10185,6 +10185,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Chronicles 17 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where God makes a covenant promise to David.",
+      detail: "This quiz helps a beginner see 1 Chronicles 17 as God's response to David's desire to build a house, promising instead to build David's house forever.",
+      start: "Take this after 1 Chronicles 16 when you want to continue the book chapter by chapter.",
+      tags: ["1 Chronicles 17", "chapter", "covenant"],
+      questions: [
+        {
+          prompt: "What desire does David express in 1 Chronicles 17?",
+          answer: "He wants to build a house for God.",
+        },
+        {
+          prompt: "What promise does God make instead?",
+          answer: "He promises to establish David's house and kingdom.",
+        },
+        {
+          prompt: "Why does 1 Chronicles 17 matter?",
+          answer: "It highlights God's covenant promise to David.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
