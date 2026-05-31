@@ -8997,6 +8997,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Kings 12 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where the kingdom splits after Rehoboam's harsh answer.",
+      detail: "This quiz helps a beginner see 1 Kings 12 as the moment the united kingdom divides into north and south.",
+      start: "Take this after 1 Kings 11 when you want to continue the book chapter by chapter.",
+      tags: ["1 Kings 12", "chapter", "Rehoboam"],
+      questions: [
+        {
+          prompt: "What happens in 1 Kings 12?",
+          answer: "The kingdom splits after Rehoboam's decision.",
+        },
+        {
+          prompt: "What kind of answer does Rehoboam give?",
+          answer: "A harsh answer that leads the people to rebel.",
+        },
+        {
+          prompt: "Why does 1 Kings 12 matter?",
+          answer: "It marks the division of Israel into separate kingdoms.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
