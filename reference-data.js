@@ -13295,6 +13295,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 34 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where careful discernment becomes practical judgment.",
+      detail: "This quiz helps a beginner see Matthew 34 as the chapter where discernment starts to guide concrete choices.",
+      start: "Take this after reading Matthew 34 carefully and noticing how judgment becomes practical.",
+      tags: ["Matthew 34", "chapter", "judgment"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 34?",
+          answer: "The chapter emphasizes turning discernment into practical judgment.",
+        },
+        {
+          prompt: "What does practical judgment look like here?",
+          answer: "It means making choices that reflect a clearer grasp of what matters.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 33?",
+          answer: "It shows that discernment should lead to wise action, not just insight.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
