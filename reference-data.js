@@ -13537,6 +13537,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 45 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where mature consistency becomes steadfast discipleship.",
+      detail: "This quiz helps a beginner see Matthew 45 as the chapter where steady obedience starts to look like settled discipleship.",
+      start: "Take this after reading Matthew 45 carefully and noticing how consistency becomes steadfastness.",
+      tags: ["Matthew 45", "chapter", "discipleship"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 45?",
+          answer: "The chapter emphasizes consistency that has become steadfast discipleship.",
+        },
+        {
+          prompt: "What does steadfast discipleship look like here?",
+          answer: "It means following Jesus in a settled, reliable way.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 44?",
+          answer: "It shows that mature consistency can become a settled way of following Jesus.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
