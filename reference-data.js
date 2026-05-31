@@ -7597,6 +7597,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 161 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where durable service becomes humble compassion.",
+      detail: "This quiz helps a beginner see Matthew 161 as the chapter where Jesus makes service look like steady kindness toward others.",
+      start: "Take this after reading Matthew 161 carefully and noticing how service can become compassion.",
+      tags: ["Matthew 161", "chapter", "compassion"],
+      questions: [
+        {
+          prompt: "What does durable service become?",
+          answer: "It becomes humble compassion.",
+        },
+        {
+          prompt: "What does Jesus keep modeling for his people?",
+          answer: "He keeps modeling practical care for others.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how helping can become tenderness.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
