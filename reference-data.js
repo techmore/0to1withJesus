@@ -4727,6 +4727,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 35 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the Golden Rule, the tree and its fruit, and the call to true obedience.",
+      detail: "This quiz helps a beginner see Matthew 35 as the chapter where Jesus ends the Sermon on the Mount with a call to wise, obedient action.",
+      start: "Take this after reading Matthew 35 carefully and noticing the summary warnings and the two kinds of builders.",
+      tags: ["Matthew 35", "chapter", "obedience"],
+      questions: [
+        {
+          prompt: "What does Jesus say is the summary of the law and prophets?",
+          answer: "He says to do to others what you would have them do to you.",
+        },
+        {
+          prompt: "What does Jesus teach about false prophets?",
+          answer: "He says you will know them by their fruits.",
+        },
+        {
+          prompt: "What does the parable of the two builders teach?",
+          answer: "The wise person hears Jesus' words and does them, while the foolish person hears and does not obey.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
