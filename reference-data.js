@@ -6115,6 +6115,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Numbers 7 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where the leaders bring offerings for the tabernacle dedication.",
+      detail: "This quiz helps a beginner see Numbers 7 as the chapter of repeated offerings that dedicate the altar and honor the tribes.",
+      start: "Take this after reading Numbers 7 carefully and noticing the repeated gifts and the dedication of the altar.",
+      tags: ["Numbers 7", "chapter", "offerings"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Numbers 7?",
+          answer: "The chapter emphasizes the tribal offerings for the dedication of the tabernacle.",
+        },
+        {
+          prompt: "What repeats throughout Numbers 7?",
+          answer: "The leaders of the tribes bring the same kinds of offerings over and over.",
+        },
+        {
+          prompt: "Why does Numbers 7 matter after Numbers 6?",
+          answer: "It turns consecration into communal worship and dedication of the tabernacle.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
