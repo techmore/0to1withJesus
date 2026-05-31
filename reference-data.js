@@ -5455,6 +5455,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 17 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where God gives water from the rock and Israel wins at Rephidim.",
+      detail: "This quiz helps a beginner see Exodus 17 as the chapter where God provides for thirst and fights for his people in battle.",
+      start: "Take this after reading Exodus 17 carefully and noticing the water from the rock, the testing of the Lord, and the battle with Amalek.",
+      tags: ["Exodus 17", "chapter", "water"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Exodus 17?",
+          answer: "The chapter emphasizes God's provision of water and victory over Amalek.",
+        },
+        {
+          prompt: "What does God tell Moses to do for water in Exodus 17?",
+          answer: "Strike the rock so water will come out for the people.",
+        },
+        {
+          prompt: "Why does Exodus 17 matter after Exodus 16?",
+          answer: "It shows that God continues to provide and defend Israel in the wilderness.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
