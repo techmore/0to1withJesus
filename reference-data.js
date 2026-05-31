@@ -17967,6 +17967,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Corinthians Book Quiz",
+      kicker: "Book",
+      summary: "A whole-book check for 2 Corinthians as Paul's letter of weakness, reconciliation, generosity, and authentic ministry.",
+      detail: "This quiz helps a beginner see 2 Corinthians as a personal and passionate letter where Paul defends his ministry and redefines strength through weakness.",
+      start: "Take this after 1 Corinthians and after noticing how ministry, suffering, and generosity show up in Paul's life.",
+      tags: ["2 Corinthians", "Paul", "book"],
+      questions: [
+        {
+          prompt: "What kind of strength does 2 Corinthians celebrate?",
+          answer: "Strength shown through weakness, suffering, and reliance on God's power.",
+        },
+        {
+          prompt: "What does Paul emphasize about reconciliation?",
+          answer: "God reconciles people to himself through Christ and gives believers a ministry of reconciliation.",
+        },
+        {
+          prompt: "What practical topic does Paul address in chapters 8 and 9?",
+          answer: "Generous giving for the needs of other believers.",
+        },
+      ],
+    },
+    {
       title: "Romans and Ephesians Doctrine Quiz",
       kicker: "Books",
       summary: "Checks grace, faith, church, unity, and new life in Christ.",
