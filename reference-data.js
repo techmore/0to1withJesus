@@ -4529,6 +4529,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 19 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the destruction of Sodom and Gomorrah and Lot's escape.",
+      detail: "This quiz helps a beginner see Genesis 19 as the chapter where judgment falls on Sodom and Lot is rescued through mercy and warning.",
+      start: "Take this after reading Genesis 19 carefully and noticing both the severity of judgment and the urgency of escape.",
+      tags: ["Genesis 19", "chapter", "Sodom"],
+      questions: [
+        {
+          prompt: "What happens to Sodom and Gomorrah?",
+          answer: "The cities are destroyed in judgment.",
+        },
+        {
+          prompt: "How is Lot rescued?",
+          answer: "Angels lead him and his family out of the city.",
+        },
+        {
+          prompt: "Why is Genesis 19 important?",
+          answer: "It shows the seriousness of sin and the mercy that rescues Lot from destruction.",
+        },
+      ],
+    },
+    {
       title: "Exodus 1 Quiz",
       kicker: "Chapter",
       summary: "Checks Israel's oppression in Egypt and the beginning of the rescue setting.",
