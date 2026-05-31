@@ -4749,6 +4749,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 36 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the healing ministry, concern for the crowds, and Jesus' compassion for the lost.",
+      detail: "This quiz helps a beginner see Matthew 36 as the chapter where Jesus continues healing, teaching, and showing compassion for the harassed and helpless.",
+      start: "Take this after reading Matthew 36 carefully and noticing the miracles, the crowds, and the harvest image.",
+      tags: ["Matthew 36", "chapter", "compassion"],
+      questions: [
+        {
+          prompt: "What kinds of people come to Jesus in Matthew 36?",
+          answer: "The sick, afflicted, and demon-oppressed come to him and are healed.",
+        },
+        {
+          prompt: "How does Jesus describe the crowds?",
+          answer: "He sees them as harassed and helpless, like sheep without a shepherd.",
+        },
+        {
+          prompt: "What image does Jesus use for mission?",
+          answer: "He says the harvest is plentiful but the laborers are few.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
