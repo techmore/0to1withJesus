@@ -9283,6 +9283,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Samuel 27 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where David lives among the Philistines to escape Saul.",
+      detail: "This quiz helps a beginner see 1 Samuel 27 as the chapter where David seeks temporary safety outside Israel while Saul keeps pursuing him.",
+      start: "Take this after 1 Samuel 26 when you want to see David's exile take a new turn.",
+      tags: ["1 Samuel 27", "chapter", "David"],
+      questions: [
+        {
+          prompt: "Where does David go in 1 Samuel 27?",
+          answer: "He goes to live with Achish in Gath among the Philistines.",
+        },
+        {
+          prompt: "Why does David go there?",
+          answer: "To escape Saul's pursuit and find safety.",
+        },
+        {
+          prompt: "Why does 1 Samuel 27 matter?",
+          answer: "It shows David in exile, making difficult choices to survive.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
