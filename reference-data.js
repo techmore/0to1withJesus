@@ -6597,6 +6597,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 120 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where steady follow-through becomes durable practice.",
+      detail: "This quiz helps a beginner see Matthew 120 as the chapter where Jesus keeps turning response into a life that keeps going.",
+      start: "Take this after reading Matthew 120 carefully and noticing how a call can become durable practice.",
+      tags: ["Matthew 120", "chapter", "practice"],
+      questions: [
+        {
+          prompt: "What does steady follow-through become?",
+          answer: "It becomes durable practice.",
+        },
+        {
+          prompt: "What does Jesus keep forming?",
+          answer: "He keeps forming a life that keeps going.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how response can become a lasting habit.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
