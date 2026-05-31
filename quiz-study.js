@@ -51,7 +51,7 @@ if (typeof window !== 'undefined' && typeof document !== 'undefined') {
         <p>Go back to the quiz list and choose a study guide from there.</p>
         <div class="hero-actions">
           <a class="button button-primary" href="./quizzes/starter.html">Starter quizzes</a>
-          <a class="button button-secondary" href="./reference.html#quizzes">All quizzes</a>
+          <a class="button button-secondary" href="./quizzes.html">Quiz hub</a>
         </div>
       </article>
     `;
@@ -113,7 +113,7 @@ if (typeof window !== 'undefined' && typeof document !== 'undefined') {
     document.getElementById('quiz-study-title').textContent = 'Quiz not found';
     document.getElementById('quiz-study-lede').textContent = 'Pick a quiz from the list and open its study guide first.';
     document.getElementById('quiz-study-actions').innerHTML = `
-      <a class="button button-primary" href="./reference.html#quizzes">Browse quizzes</a>
+      <a class="button button-primary" href="./quizzes.html">Quiz hub</a>
     `;
     document.getElementById('quiz-study-panel').innerHTML = renderNotFound();
     document.getElementById('quiz-study-content').innerHTML = renderNotFound();
