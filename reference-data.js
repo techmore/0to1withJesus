@@ -5233,6 +5233,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 58 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the Gentile woman's faith and Jesus' compassion outside Israel.",
+      detail: "This quiz helps a beginner see Matthew 58 as the chapter where faith from outside Israel is honored and healing follows.",
+      start: "Take this after reading Matthew 58 carefully and noticing the Gentile woman's persistence and Jesus' response.",
+      tags: ["Matthew 58", "chapter", "faith"],
+      questions: [
+        {
+          prompt: "Who comes to Jesus for help?",
+          answer: "A Gentile woman comes asking for mercy and healing.",
+        },
+        {
+          prompt: "How does Jesus respond to her faith?",
+          answer: "He honors her persistent faith and grants her request.",
+        },
+        {
+          prompt: "What does this chapter show?",
+          answer: "It shows that Jesus responds to faith beyond ethnic boundaries.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
