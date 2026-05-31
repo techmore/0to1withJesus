@@ -18209,6 +18209,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "3 John Book Quiz",
+      kicker: "Book",
+      summary: "A whole-book check for 3 John as a short letter about hospitality, partnership, and faithful support.",
+      detail: "This quiz helps a beginner see 3 John as a personal note that praises good hospitality and warns against domineering behavior in the church.",
+      start: "Take this after 2 John and after noticing how John writes both warnings and encouragements in short form.",
+      tags: ["3 John", "book", "hospitality"],
+      questions: [
+        {
+          prompt: "What good example does 3 John praise?",
+          answer: "Welcoming and supporting faithful workers.",
+        },
+        {
+          prompt: "What bad example does 3 John criticize?",
+          answer: "A leader who loves being first and rejects apostolic authority.",
+        },
+        {
+          prompt: "What does 3 John show about church life?",
+          answer: "That hospitality and partnership matter in mission.",
+        },
+      ],
+    },
+    {
       title: "Romans and Ephesians Doctrine Quiz",
       kicker: "Books",
       summary: "Checks grace, faith, church, unity, and new life in Christ.",
