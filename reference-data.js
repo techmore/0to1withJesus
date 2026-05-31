@@ -7829,6 +7829,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Romans 16 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Paul's greetings, coworkers, and final warnings at the end of Romans.",
+      detail: "This quiz helps a beginner see Romans 16 as the chapter where Paul names many coworkers and closes with praise and warning.",
+      start: "Take this after reading Romans 16 carefully and noticing the network of people around Paul's mission.",
+      tags: ["Romans 16", "chapter", "coworkers"],
+      questions: [
+        {
+          prompt: "What does Romans 16 show about Paul's ministry?",
+          answer: "It shows that Paul's ministry depended on many coworkers, hosts, and servants in the church.",
+        },
+        {
+          prompt: "What warning does Paul give near the end?",
+          answer: "He warns believers to watch out for those who cause divisions and teach contrary to the gospel.",
+        },
+        {
+          prompt: "How does the letter conclude?",
+          answer: "It ends with praise to God, who is able to strengthen believers through the gospel.",
+        },
+      ],
+    },
+    {
       title: "Ephesians Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Ephesians as Paul's letter about identity in Christ, unity, the church, and standing firm.",
