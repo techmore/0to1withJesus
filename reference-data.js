@@ -4045,6 +4045,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 4 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Jesus' temptation and the beginning of his Galilean ministry.",
+      detail: "This quiz helps a beginner see Matthew 4 as the chapter where Jesus resists Satan and starts calling disciples in Galilee.",
+      start: "Take this after reading Matthew 4 carefully and noticing the transition from testing to ministry.",
+      tags: ["Matthew 4", "chapter", "temptation"],
+      questions: [
+        {
+          prompt: "What happens to Jesus in the wilderness?",
+          answer: "He is tempted by the devil but resists each temptation with Scripture.",
+        },
+        {
+          prompt: "What does Jesus begin proclaiming after the temptation?",
+          answer: "He begins proclaiming that the kingdom of heaven is near.",
+        },
+        {
+          prompt: "What does Jesus do as his ministry starts in Galilee?",
+          answer: "He calls the first disciples to follow him.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
