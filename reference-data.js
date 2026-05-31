@@ -10955,6 +10955,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Chronicles 22 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Ahaziah's reign and Athaliah's rise bring more turmoil.",
+      detail: "This quiz helps a beginner see 2 Chronicles 22 as a dark chapter that shows the instability that follows unfaithfulness.",
+      start: "Take this after 2 Chronicles 21 when you want to continue the chapter-by-chapter reading.",
+      tags: ["2 Chronicles 22", "chapter", "Ahaziah"],
+      questions: [
+        {
+          prompt: "What happens to Ahaziah in 2 Chronicles 22?",
+          answer: "He reigns briefly and is caught in the turmoil around Jehu.",
+        },
+        {
+          prompt: "Who takes power after him?",
+          answer: "Athaliah.",
+        },
+        {
+          prompt: "Why does 2 Chronicles 22 matter?",
+          answer: "It shows the chaos that comes when God's ways are ignored.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
