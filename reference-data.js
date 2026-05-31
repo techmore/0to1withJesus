@@ -13383,6 +13383,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 38 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where resilient judgment becomes steady resolve.",
+      detail: "This quiz helps a beginner see Matthew 38 as the chapter where discernment turns into firm, lasting resolve.",
+      start: "Take this after reading Matthew 38 carefully and noticing how judgment hardens into resolve.",
+      tags: ["Matthew 38", "chapter", "resolve"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 38?",
+          answer: "The chapter emphasizes discernment that turns into steady resolve.",
+        },
+        {
+          prompt: "What does steady resolve look like here?",
+          answer: "It means making decisions that stay firm even when the pressure increases.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 37?",
+          answer: "It shows that resilient judgment can become lasting resolve.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
