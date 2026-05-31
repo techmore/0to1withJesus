@@ -5103,6 +5103,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 1 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Israel multiplies in Egypt and a new king oppresses them.",
+      detail: "This quiz helps a beginner see Exodus 1 as the chapter where the people grow, fear rises, and the stage is set for rescue.",
+      start: "Take this after reading Exodus 1 carefully and noticing the multiplication, the oppression, and the Hebrew midwives.",
+      tags: ["Exodus 1", "chapter", "moses"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Exodus 1?",
+          answer: "The chapter emphasizes Israel's growth in Egypt and the Pharaoh's oppressive response.",
+        },
+        {
+          prompt: "How do the Hebrew midwives act in Exodus 1?",
+          answer: "They fear God and refuse to kill the baby boys.",
+        },
+        {
+          prompt: "Why does Exodus 1 matter after Genesis 50?",
+          answer: "It shows the promise family becoming a people while suffering under a new king, setting up the need for rescue.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
