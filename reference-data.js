@@ -12613,6 +12613,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Esther Book Quiz",
+      kicker: "Book",
+      summary: "A whole-book check for Esther as God's hidden providence in exile.",
+      detail: "This quiz helps a beginner see Esther as a story where God preserves his people even when his name is not spoken aloud.",
+      start: "Take this after Nehemiah and after seeing that God's care continues even in exile.",
+      tags: ["Esther", "book", "providence"],
+      questions: [
+        {
+          prompt: "What is unique about Esther?",
+          answer: "God's name is not mentioned, yet his providence shapes the whole story.",
+        },
+        {
+          prompt: "What danger does Esther address?",
+          answer: "The threat against the Jewish people in Persia.",
+        },
+        {
+          prompt: "Why is Esther important for beginners?",
+          answer: "It shows that God's hidden providence can preserve his people.",
+        },
+      ],
+    },
+    {
       title: "Isaiah Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Isaiah as a prophet of holiness, judgment, comfort, and hope.",
