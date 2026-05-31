@@ -6335,6 +6335,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Numbers 17 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Aaron's staff buds as a sign of chosen priesthood.",
+      detail: "This quiz helps a beginner see Numbers 17 as the chapter where God confirms who he has chosen for priestly leadership.",
+      start: "Take this after reading Numbers 17 carefully and noticing the staff test and the sign of budding life.",
+      tags: ["Numbers 17", "chapter", "priesthood"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Numbers 17?",
+          answer: "The chapter emphasizes God's confirmation of Aaron's priesthood.",
+        },
+        {
+          prompt: "What sign appears in Numbers 17?",
+          answer: "Aaron's staff buds, blossoms, and produces almonds.",
+        },
+        {
+          prompt: "Why does Numbers 17 matter after Numbers 16?",
+          answer: "It answers the rebellion by showing whom God has chosen to lead in priestly service.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
