@@ -6321,6 +6321,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 104 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where calm understanding becomes rooted judgment.",
+      detail: "This quiz helps a beginner see Matthew 104 as the chapter where Jesus turns calm understanding into rooted judgment that can stand firm when things are unclear.",
+      start: "Take this after reading Matthew 104 carefully and noticing how understanding can become judgment.",
+      tags: ["Matthew 104", "chapter", "judgment"],
+      questions: [
+        {
+          prompt: "What does calm understanding become?",
+          answer: "It becomes rooted judgment.",
+        },
+        {
+          prompt: "What does Jesus keep growing in his followers?",
+          answer: "He keeps growing a settled way of deciding what is true and good.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how understanding can deepen into judgment.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
