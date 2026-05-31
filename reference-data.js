@@ -4419,6 +4419,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "John 19 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the crucifixion, Jesus' death, and his burial.",
+      detail: "This quiz helps a beginner see John 19 as the chapter where Jesus is condemned, crucified, and buried, while Scripture's fulfillment is emphasized throughout.",
+      start: "Take this after reading John 19 carefully and noticing the repeated attention to fulfillment and kingship.",
+      tags: ["John 19", "chapter", "cross"],
+      questions: [
+        {
+          prompt: "Who orders Jesus' crucifixion?",
+          answer: "Pontius Pilate orders Jesus to be crucified after the pressure from the leaders and crowd.",
+        },
+        {
+          prompt: "What does John emphasize about Jesus' death?",
+          answer: "John emphasizes that Jesus' death fulfills Scripture and reveals his kingship.",
+        },
+        {
+          prompt: "What happens after Jesus dies?",
+          answer: "Jesus is taken down from the cross and buried in a tomb.",
+        },
+      ],
+    },
+    {
       title: "John 18-21 Quiz",
       kicker: "Chapters",
       summary: "Checks the arrest, trial, cross, resurrection, and Peter's restoration.",
