@@ -6313,6 +6313,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Numbers 16 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Korah's rebellion challenges the Lord's chosen leadership.",
+      detail: "This quiz helps a beginner see Numbers 16 as the chapter where rebellion against God's appointed order leads to judgment.",
+      start: "Take this after reading Numbers 16 carefully and noticing Korah, the confrontation, and the earth opening.",
+      tags: ["Numbers 16", "chapter", "rebellion"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Numbers 16?",
+          answer: "The chapter emphasizes Korah's rebellion and God's judgment on it.",
+        },
+        {
+          prompt: "What does Moses do in Numbers 16?",
+          answer: "He confronts the rebels and intercedes as God judges the uprising.",
+        },
+        {
+          prompt: "Why does Numbers 16 matter after Numbers 15?",
+          answer: "It shows a severe example of what happens when people reject God's appointed leadership.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
