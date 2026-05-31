@@ -4781,6 +4781,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 125 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where steady practice turns into mature pattern.",
+      detail: "This quiz helps a beginner see Matthew 125 as the chapter where repeated obedience starts to look like a formed life.",
+      start: "Take this after reading Matthew 125 carefully and noticing how patterns become habits.",
+      tags: ["Matthew 125", "chapter", "habit"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 125?",
+          answer: "The chapter emphasizes repeated obedience that becomes a stable pattern.",
+        },
+        {
+          prompt: "What does mature pattern mean here?",
+          answer: "It means the person's life is being shaped consistently by Jesus' teaching.",
+        },
+        {
+          prompt: "Why does this matter after Matthew 124?",
+          answer: "It shows that a good response to Jesus can become durable rather than temporary.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
