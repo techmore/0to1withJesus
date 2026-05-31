@@ -10097,6 +10097,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Chronicles 13 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where David brings the ark toward Jerusalem.",
+      detail: "This quiz helps a beginner see 1 Chronicles 13 as David's early effort to restore the ark to the center of worship, even though the journey is interrupted.",
+      start: "Take this after 1 Chronicles 12 when you want to continue the book chapter by chapter.",
+      tags: ["1 Chronicles 13", "chapter", "ark"],
+      questions: [
+        {
+          prompt: "What does David want to bring to Jerusalem in 1 Chronicles 13?",
+          answer: "The ark of God.",
+        },
+        {
+          prompt: "What happens during the journey?",
+          answer: "The process is interrupted by an incident with Uzza.",
+        },
+        {
+          prompt: "Why does 1 Chronicles 13 matter?",
+          answer: "It shows David's desire to place worship at the center of Israel's life.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
