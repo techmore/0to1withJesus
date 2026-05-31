@@ -11131,6 +11131,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Chronicles 30 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Hezekiah invites all Israel to celebrate Passover.",
+      detail: "This quiz helps a beginner see 2 Chronicles 30 as a generous call to unity, repentance, and joyful worship.",
+      start: "Take this after 2 Chronicles 29 when you want to continue the chapter-by-chapter reading.",
+      tags: ["2 Chronicles 30", "chapter", "Hezekiah"],
+      questions: [
+        {
+          prompt: "What does Hezekiah invite the people to do in 2 Chronicles 30?",
+          answer: "Celebrate Passover.",
+        },
+        {
+          prompt: "Who is invited to come?",
+          answer: "All Israel and Judah.",
+        },
+        {
+          prompt: "Why does 2 Chronicles 30 matter?",
+          answer: "It shows a call to return to the Lord together in joy.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
