@@ -9085,6 +9085,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Samuel 17 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Absalom ignores good advice and the rebellion moves toward collapse.",
+      detail: "This quiz helps a beginner see 2 Samuel 17 as the chapter where bad counsel and fear push Absalom toward disaster.",
+      start: "Take this after 2 Samuel 16 when you want to see the rebellion lose its footing.",
+      tags: ["2 Samuel 17", "chapter", "David"],
+      questions: [
+        {
+          prompt: "Whose advice does Absalom reject in 2 Samuel 17?",
+          answer: "Ahithophel's good advice.",
+        },
+        {
+          prompt: "What happens instead?",
+          answer: "Absalom follows weaker counsel and gives David time to prepare.",
+        },
+        {
+          prompt: "Why does 2 Samuel 17 matter?",
+          answer: "It shows the rebellion weakening because Absalom makes a foolish decision.",
+        },
+      ],
+    },
+    {
       title: "1 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where Hannah prays for a son and Samuel's story begins.",
