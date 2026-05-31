@@ -7017,6 +7017,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Deuteronomy 11 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Moses calls Israel to love, remember, and choose blessing in the land.",
+      detail: "This quiz helps a beginner see Deuteronomy 11 as a chapter about covenant obedience tied to land, rain, and blessing.",
+      start: "Take this after reading Deuteronomy 11 carefully and noticing the call to love the Lord and the contrast between blessing and curse.",
+      tags: ["Deuteronomy 11", "chapter", "blessing"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Deuteronomy 11?",
+          answer: "The chapter emphasizes loving the Lord and obeying him in the land.",
+        },
+        {
+          prompt: "What blessings are tied to obedience in Deuteronomy 11?",
+          answer: "Rain, fruitful land, and other covenant blessings are tied to obedience.",
+        },
+        {
+          prompt: "Why does Deuteronomy 11 matter?",
+          answer: "It presents the land as a place where Israel's love and obedience will shape their future.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
