@@ -6245,6 +6245,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 104 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where endurance and obedience are pressed together.",
+      detail: "This quiz helps a beginner see Matthew 104 as the chapter where Jesus keeps linking endurance with doing what he says.",
+      start: "Take this after reading Matthew 104 carefully and noticing how obedience and endurance reinforce each other.",
+      tags: ["Matthew 104", "chapter", "obedience"],
+      questions: [
+        {
+          prompt: "What two ideas are linked?",
+          answer: "Endurance and obedience are linked.",
+        },
+        {
+          prompt: "What does Jesus continue to form?",
+          answer: "He continues to form steady disciples.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how doing and persevering belong together.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
