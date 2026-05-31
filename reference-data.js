@@ -12635,6 +12635,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Ezekiel Book Quiz",
+      kicker: "Book",
+      summary: "A whole-book check for Ezekiel as a prophet of judgment, visions, and restored hearts.",
+      detail: "This quiz helps a beginner see Ezekiel as a vivid prophetic book about God's glory, exile judgment, and the hope of renewal.",
+      start: "Take this after Lamentations and after noticing the prophets use strong imagery to explain judgment and restoration.",
+      tags: ["Ezekiel", "book", "prophets"],
+      questions: [
+        {
+          prompt: "What kind of prophet is Ezekiel?",
+          answer: "A prophet of vivid visions, signs, and symbolic actions.",
+        },
+        {
+          prompt: "What hopeful promise does Ezekiel emphasize?",
+          answer: "God will give his people new hearts and restore them.",
+        },
+        {
+          prompt: "Why is Ezekiel important for beginners?",
+          answer: "It shows judgment, presence, and restoration in dramatic symbolic form.",
+        },
+      ],
+    },
+    {
       title: "Gospel of John Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for John's main claims about Jesus.",
