@@ -14527,6 +14527,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 90 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where calm steadfastness becomes quiet perseverance.",
+      detail: "This quiz helps a beginner see Matthew 90 as the chapter where steadfastness starts to settle into quiet perseverance.",
+      start: "Take this after reading Matthew 90 carefully and noticing how steadfastness becomes perseverance.",
+      tags: ["Matthew 90", "chapter", "perseverance"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 90?",
+          answer: "The chapter emphasizes steadfastness that is becoming quiet perseverance.",
+        },
+        {
+          prompt: "What does quiet perseverance look like here?",
+          answer: "It means continuing faithfully without loud effort or strain.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 89?",
+          answer: "It shows that calm steadfastness should become quiet perseverance.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
