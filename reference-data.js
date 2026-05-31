@@ -4177,6 +4177,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "John 8 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the woman caught in adultery, Jesus' claim to the light, and the truth that frees.",
+      detail: "This quiz helps a beginner see John 8 as the chapter where Jesus exposes hypocrisy, speaks about light and truth, and sharply confronts unbelief.",
+      start: "Take this after reading John 8 carefully and noticing the movement from mercy to confrontation.",
+      tags: ["John 8", "chapter", "truth"],
+      questions: [
+        {
+          prompt: "What situation opens John 8?",
+          answer: "A woman caught in adultery is brought to Jesus.",
+        },
+        {
+          prompt: "What does Jesus say about the truth?",
+          answer: "He says the truth will set people free.",
+        },
+        {
+          prompt: "What titles or images does Jesus use for himself in this chapter?",
+          answer: "He speaks of himself as the light of the world and as the one who reveals the Father.",
+        },
+      ],
+    },
+    {
       title: "John 11 Quiz",
       kicker: "Chapter",
       summary: "Checks Lazarus, resurrection, grief, faith, and rising conflict.",
