@@ -18187,6 +18187,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 John Book Quiz",
+      kicker: "Book",
+      summary: "A whole-book check for 2 John as a short letter about truth, love, and guarding the church.",
+      detail: "This quiz helps a beginner see 2 John as a brief warning and encouragement to stay in truth and refuse false teaching.",
+      start: "Take this after 1 John and after noticing how John links truth with love.",
+      tags: ["2 John", "book", "truth"],
+      questions: [
+        {
+          prompt: "What two themes are joined in 2 John?",
+          answer: "Truth and love.",
+        },
+        {
+          prompt: "What warning does 2 John give?",
+          answer: "Do not receive or support teachers who do not remain in Christ's teaching.",
+        },
+        {
+          prompt: "How does the letter end?",
+          answer: "With a desire to speak face to face and a blessing of peace.",
+        },
+      ],
+    },
+    {
       title: "Romans and Ephesians Doctrine Quiz",
       kicker: "Books",
       summary: "Checks grace, faith, church, unity, and new life in Christ.",
