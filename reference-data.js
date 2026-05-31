@@ -5243,6 +5243,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 146 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where patient strength becomes gracious steadiness.",
+      detail: "This quiz helps a beginner see Matthew 146 as the chapter where gentle strength settles into a dependable way of following Jesus.",
+      start: "Take this after reading Matthew 146 carefully and noticing how strength can stay gracious.",
+      tags: ["Matthew 146", "chapter", "steadiness"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 146?",
+          answer: "The chapter emphasizes dependable faithfulness that remains gracious.",
+        },
+        {
+          prompt: "What does gracious steadiness look like here?",
+          answer: "It means staying calm, kind, and consistent in following Jesus.",
+        },
+        {
+          prompt: "Why does this matter after Matthew 145?",
+          answer: "It shows that patient strength can become a dependable rhythm.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
