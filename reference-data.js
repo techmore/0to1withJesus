@@ -4397,6 +4397,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 13 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Abram and Lot's separation and the reaffirmed land promise.",
+      detail: "This quiz helps a beginner see Genesis 13 as the chapter where Abram and Lot part ways and God reaffirms the promise of land to Abram.",
+      start: "Take this after reading Genesis 13 carefully and noticing the choice of land and the renewal of the promise.",
+      tags: ["Genesis 13", "chapter", "Abram"],
+      questions: [
+        {
+          prompt: "Why do Abram and Lot separate?",
+          answer: "Their flocks and households are too large to stay together, so they part peacefully.",
+        },
+        {
+          prompt: "What does Lot choose?",
+          answer: "He chooses the fertile Jordan Valley.",
+        },
+        {
+          prompt: "Why is Genesis 13 important?",
+          answer: "It shows Abram trusting God as the land promise is reaffirmed and the story of blessing continues.",
+        },
+      ],
+    },
+    {
       title: "Exodus 1 Quiz",
       kicker: "Chapter",
       summary: "Checks Israel's oppression in Egypt and the beginning of the rescue setting.",
