@@ -4891,6 +4891,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 130 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where witness becomes steady perseverance.",
+      detail: "This quiz helps a beginner see Matthew 130 as the chapter where speaking for Jesus is sustained over time.",
+      start: "Take this after reading Matthew 130 carefully and noticing how witness keeps going.",
+      tags: ["Matthew 130", "chapter", "perseverance"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 130?",
+          answer: "The chapter emphasizes continuing to witness for Jesus without fading out.",
+        },
+        {
+          prompt: "What does steady perseverance look like here?",
+          answer: "It means keeping faith and testimony consistent over time.",
+        },
+        {
+          prompt: "Why does this matter after Matthew 129?",
+          answer: "It shows that witness is not just a single brave moment but an ongoing practice.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
