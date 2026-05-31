@@ -5013,6 +5013,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 48 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the crucifixion, burial, and the apparent end of Jesus' public suffering.",
+      detail: "This quiz helps a beginner see Matthew 48 as the chapter where Jesus is executed, buried, and the scene turns toward waiting and grief.",
+      start: "Take this after reading Matthew 48 carefully and noticing the crucifixion, the darkness, and the burial.",
+      tags: ["Matthew 48", "chapter", "crucifixion"],
+      questions: [
+        {
+          prompt: "What happens at the cross?",
+          answer: "Jesus is crucified and suffers among the mocking crowd.",
+        },
+        {
+          prompt: "What signs accompany his death?",
+          answer: "Darkness falls and the temple curtain is torn.",
+        },
+        {
+          prompt: "What happens after he dies?",
+          answer: "Jesus is buried in a tomb by a follower.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
