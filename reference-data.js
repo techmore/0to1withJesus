@@ -4441,6 +4441,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 14 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the Red Sea crossing, fear, and God's decisive deliverance.",
+      detail: "This quiz helps a beginner see Exodus 14 as the chapter where panic gives way to rescue. It focuses on Israel's fear, God's command to stand firm, and the sea crossing that reveals divine power.",
+      start: "Take this after reading Exodus 14 carefully and noticing how the chapter moves from fear to salvation.",
+      tags: ["Exodus 14", "chapter", "Red Sea"],
+      questions: [
+        {
+          prompt: "What are the Israelites afraid of in Exodus 14?",
+          answer: "They fear Pharaoh's army when they appear trapped by the sea.",
+        },
+        {
+          prompt: "What does God tell Moses and the people to do?",
+          answer: "Stand firm and trust that the Lord will fight for them.",
+        },
+        {
+          prompt: "What happens at the sea?",
+          answer: "God parts the waters so Israel passes through and Pharaoh's forces are defeated.",
+        },
+      ],
+    },
+    {
       title: "Luke and Acts Bridge Quiz",
       kicker: "Books",
       summary: "Checks how Luke's Gospel connects to the early church story in Acts.",
