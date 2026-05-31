@@ -9283,6 +9283,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Kings 2 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Elijah is taken up and Elisha receives a double portion.",
+      detail: "This quiz helps a beginner see 2 Kings 2 as the passing of prophetic leadership from Elijah to Elisha.",
+      start: "Take this after 2 Kings 1 when you want to continue the book chapter by chapter.",
+      tags: ["2 Kings 2", "chapter", "Elisha"],
+      questions: [
+        {
+          prompt: "What happens to Elijah in 2 Kings 2?",
+          answer: "He is taken up into heaven.",
+        },
+        {
+          prompt: "What does Elisha ask for?",
+          answer: "A double portion of Elijah's spirit.",
+        },
+        {
+          prompt: "Why does 2 Kings 2 matter?",
+          answer: "It marks the transition from Elijah's ministry to Elisha's.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
