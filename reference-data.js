@@ -14351,6 +14351,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 82 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where patient constancy becomes quiet endurance.",
+      detail: "This quiz helps a beginner see Matthew 82 as the chapter where constancy starts to settle into quiet endurance.",
+      start: "Take this after reading Matthew 82 carefully and noticing how constancy becomes endurance.",
+      tags: ["Matthew 82", "chapter", "endurance"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 82?",
+          answer: "The chapter emphasizes constancy that is becoming quiet endurance.",
+        },
+        {
+          prompt: "What does quiet endurance look like here?",
+          answer: "It means staying faithful without needing attention or praise.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 81?",
+          answer: "It shows that patient constancy should become quiet endurance.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
