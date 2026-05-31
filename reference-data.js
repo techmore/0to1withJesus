@@ -7421,6 +7421,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 153 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where hopeful confidence becomes quiet courage.",
+      detail: "This quiz helps a beginner see Matthew 153 as the chapter where Jesus steadies his people so they can act without panic.",
+      start: "Take this after reading Matthew 153 carefully and noticing how confidence can become courage.",
+      tags: ["Matthew 153", "chapter", "courage"],
+      questions: [
+        {
+          prompt: "What does hopeful confidence become?",
+          answer: "It becomes quiet courage.",
+        },
+        {
+          prompt: "What does Jesus keep giving his people?",
+          answer: "He keeps giving them steadiness for the next step.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how trust can turn into action.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
