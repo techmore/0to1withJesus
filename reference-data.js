@@ -6365,6 +6365,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 106 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where peaceful steadiness becomes durable patience.",
+      detail: "This quiz helps a beginner see Matthew 106 as the chapter where Jesus turns steady judgment into durable patience that can wait without losing shape.",
+      start: "Take this after reading Matthew 106 carefully and noticing how steadiness can become patience.",
+      tags: ["Matthew 106", "chapter", "patience"],
+      questions: [
+        {
+          prompt: "What does peaceful steadiness become?",
+          answer: "It becomes durable patience.",
+        },
+        {
+          prompt: "What does Jesus keep forming in his followers?",
+          answer: "He keeps forming people who can wait and keep faith without collapse.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how steadiness can lengthen into patience.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
