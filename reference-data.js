@@ -18077,6 +18077,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Hebrews Book Quiz",
+      kicker: "Book",
+      summary: "A whole-book check for Hebrews as a letter about Jesus' superiority, priesthood, and better covenant.",
+      detail: "This quiz helps a beginner see Hebrews as a deeply connected argument that shows how Jesus fulfills the old system and calls believers to endurance.",
+      start: "Take this after Leviticus, the priesthood vocabulary, and the Gospel stories of Jesus' sacrifice.",
+      tags: ["Hebrews", "book", "priesthood"],
+      questions: [
+        {
+          prompt: "What is one major claim of Hebrews about Jesus?",
+          answer: "Jesus is superior to angels, Moses, priests, and the old covenant system.",
+        },
+        {
+          prompt: "Why is priesthood language so important in Hebrews?",
+          answer: "It explains how Jesus mediates for believers as the great high priest.",
+        },
+        {
+          prompt: "What kind of response does Hebrews call for?",
+          answer: "Faith, endurance, and not turning back.",
+        },
+      ],
+    },
+    {
       title: "Romans and Ephesians Doctrine Quiz",
       kicker: "Books",
       summary: "Checks grace, faith, church, unity, and new life in Christ.",
