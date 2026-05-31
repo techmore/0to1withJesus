@@ -11263,6 +11263,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Chronicles 36 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the final chapter where Judah falls, the temple is destroyed, and exile begins.",
+      detail: "This quiz helps a beginner see 2 Chronicles 36 as the tragic ending of Judah's story and the doorway to exile and hope.",
+      start: "Take this after 2 Chronicles 35 when you want to finish the book chapter by chapter.",
+      tags: ["2 Chronicles 36", "chapter", "exile"],
+      questions: [
+        {
+          prompt: "What happens to Judah in 2 Chronicles 36?",
+          answer: "They are defeated and taken into exile.",
+        },
+        {
+          prompt: "What happens to the temple?",
+          answer: "It is destroyed.",
+        },
+        {
+          prompt: "Why does 2 Chronicles 36 matter?",
+          answer: "It closes the book with judgment while pointing toward restoration.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
