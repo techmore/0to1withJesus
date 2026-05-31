@@ -5631,6 +5631,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 25 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where God begins giving instructions for the tabernacle.",
+      detail: "This quiz helps a beginner see Exodus 25 as the chapter where the Lord explains how his people will build a place for his presence among them.",
+      start: "Take this after reading Exodus 25 carefully and noticing the offerings, the ark instructions, and the beginning of tabernacle design.",
+      tags: ["Exodus 25", "chapter", "tabernacle"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Exodus 25?",
+          answer: "The chapter emphasizes the start of the tabernacle instructions.",
+        },
+        {
+          prompt: "What does God ask for in Exodus 25?",
+          answer: "He asks for offerings to help build the tabernacle and its furnishings.",
+        },
+        {
+          prompt: "Why does Exodus 25 matter after Exodus 24?",
+          answer: "It shows how the covenant relationship will be expressed through God's presence among his people.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
