@@ -5057,6 +5057,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 50 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the closing commission and Jesus' final instructions to his followers.",
+      detail: "This quiz helps a beginner see Matthew 50 as the chapter where the risen Jesus sends his disciples out with a mission and a promise.",
+      start: "Take this after reading Matthew 50 carefully and noticing the mountain meeting and the charge to make disciples.",
+      tags: ["Matthew 50", "chapter", "commission"],
+      questions: [
+        {
+          prompt: "Where do the disciples meet the risen Jesus?",
+          answer: "They meet him on a mountain in Galilee.",
+        },
+        {
+          prompt: "What mission does Jesus give them?",
+          answer: "He tells them to make disciples, baptize, and teach all nations.",
+        },
+        {
+          prompt: "What promise does Jesus give at the end?",
+          answer: "He promises to be with them always.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
