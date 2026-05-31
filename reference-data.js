@@ -9107,6 +9107,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Kings 17 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Elijah appears and God provides for him and a widow.",
+      detail: "This quiz helps a beginner see 1 Kings 17 as the start of Elijah's ministry and a chapter about God's provision in drought.",
+      start: "Take this after 1 Kings 16 when you want to continue the book chapter by chapter.",
+      tags: ["1 Kings 17", "chapter", "Elijah"],
+      questions: [
+        {
+          prompt: "Who appears in 1 Kings 17?",
+          answer: "Elijah.",
+        },
+        {
+          prompt: "How does God provide for Elijah and the widow?",
+          answer: "He provides food and sustenance in the drought.",
+        },
+        {
+          prompt: "Why does 1 Kings 17 matter?",
+          answer: "It introduces Elijah and shows God's power to provide in hard times.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
