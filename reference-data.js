@@ -8865,6 +8865,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Samuel 7 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where God makes a covenant promise to David's house through Nathan.",
+      detail: "This quiz helps a beginner see 2 Samuel 7 as one of the most important promise chapters in the Old Testament, where God establishes David's line.",
+      start: "Take this after 2 Samuel 6 when you want to see God's promise to David's dynasty.",
+      tags: ["2 Samuel 7", "chapter", "David"],
+      questions: [
+        {
+          prompt: "Who brings God's message to David in 2 Samuel 7?",
+          answer: "Nathan the prophet.",
+        },
+        {
+          prompt: "What promise does God make to David?",
+          answer: "God promises to establish David's house and kingdom.",
+        },
+        {
+          prompt: "Why does 2 Samuel 7 matter?",
+          answer: "It sets the foundation for the hope of an enduring Davidic kingdom.",
+        },
+      ],
+    },
+    {
       title: "1 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where Hannah prays for a son and Samuel's story begins.",
