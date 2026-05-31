@@ -5089,6 +5089,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 139 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where settled trust becomes calm courage.",
+      detail: "This quiz helps a beginner see Matthew 139 as the chapter where confidence starts to show itself as steady bravery.",
+      start: "Take this after reading Matthew 139 carefully and noticing how trust becomes courage.",
+      tags: ["Matthew 139", "chapter", "courage"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 139?",
+          answer: "The chapter emphasizes calm courage that flows from trust in Jesus.",
+        },
+        {
+          prompt: "What does calm courage look like here?",
+          answer: "It means acting without fear because trust is already settled.",
+        },
+        {
+          prompt: "Why does this matter after Matthew 138?",
+          answer: "It shows that settled trust can naturally become brave action.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
