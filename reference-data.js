@@ -10053,6 +10053,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Chronicles 11 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter that begins David's reign in Jerusalem.",
+      detail: "This quiz helps a beginner see 1 Chronicles 11 as the opening of David's rule and the start of the kingdom centered in Jerusalem.",
+      start: "Take this after 1 Chronicles 10 when you want to continue the book chapter by chapter.",
+      tags: ["1 Chronicles 11", "chapter", "David"],
+      questions: [
+        {
+          prompt: "What does 1 Chronicles 11 describe?",
+          answer: "David becoming king over all Israel.",
+        },
+        {
+          prompt: "What city becomes central in the chapter?",
+          answer: "Jerusalem.",
+        },
+        {
+          prompt: "Why does 1 Chronicles 11 matter?",
+          answer: "It marks the beginning of David's united kingship.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
