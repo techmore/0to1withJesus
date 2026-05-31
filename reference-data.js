@@ -4913,6 +4913,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 131 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where perseverance becomes grounded faithfulness.",
+      detail: "This quiz helps a beginner see Matthew 131 as the chapter where witness is steadied by habits of trust and obedience.",
+      start: "Take this after reading Matthew 131 carefully and noticing how perseverance becomes faithful pattern.",
+      tags: ["Matthew 131", "chapter", "faithfulness"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 131?",
+          answer: "The chapter emphasizes continuing in faithfulness instead of stopping after one brave moment.",
+        },
+        {
+          prompt: "What does grounded faithfulness look like here?",
+          answer: "It means keeping trust, obedience, and witness connected over time.",
+        },
+        {
+          prompt: "Why does this matter after Matthew 130?",
+          answer: "It shows that perseverance is meant to become a settled way of following Jesus.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
