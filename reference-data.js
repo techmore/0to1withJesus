@@ -13801,6 +13801,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 57 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where steady discernment becomes practical judgment.",
+      detail: "This quiz helps a beginner see Matthew 57 as the chapter where discernment begins to guide concrete decisions.",
+      start: "Take this after reading Matthew 57 carefully and noticing how discernment becomes judgment.",
+      tags: ["Matthew 57", "chapter", "judgment"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 57?",
+          answer: "The chapter emphasizes discernment that is turning into practical judgment.",
+        },
+        {
+          prompt: "What does practical judgment look like here?",
+          answer: "It means making concrete decisions in line with wise understanding.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 56?",
+          answer: "It shows that sharper discernment should lead to wiser judgment.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
