@@ -5015,6 +5015,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 48 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Jacob blesses Ephraim and Manasseh before his death.",
+      detail: "This quiz helps a beginner see Genesis 48 as the chapter where the next generation receives blessing and the younger son is placed first.",
+      start: "Take this after reading Genesis 48 carefully and noticing the crossed hands, the adoption language, and Joseph's concern.",
+      tags: ["Genesis 48", "chapter", "joseph"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Genesis 48?",
+          answer: "The chapter emphasizes Jacob blessing Joseph's sons Ephraim and Manasseh.",
+        },
+        {
+          prompt: "Which son does Jacob place first in Genesis 48?",
+          answer: "He gives the greater blessing to Ephraim, the younger son.",
+        },
+        {
+          prompt: "Why does Genesis 48 matter after Genesis 47?",
+          answer: "It passes the promise to the next generation and shows the family line continuing under blessing.",
+        },
+      ],
+    },
+    {
       title: "Exodus Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Exodus as the Bible's great rescue story.",
