@@ -4925,6 +4925,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 36 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the actual construction of the tabernacle from the volunteered gifts.",
+      detail: "This quiz helps a beginner see Exodus 36 as the chapter where the craftsmen begin building the tabernacle from the people's generous offerings.",
+      start: "Take this after reading Exodus 36 carefully and noticing the repeated emphasis on skill, obedience, and abundance.",
+      tags: ["Exodus 36", "chapter", "tabernacle"],
+      questions: [
+        {
+          prompt: "What happens in Exodus 36?",
+          answer: "Bezalel, Oholiab, and the craftsmen begin building the tabernacle with the people's offerings.",
+        },
+        {
+          prompt: "What detail stands out about the offerings?",
+          answer: "The people give so much that Moses has to tell them to stop bringing gifts.",
+        },
+        {
+          prompt: "Why is Exodus 36 important?",
+          answer: "It shows that willing obedience turns into actual worshipful construction for God's dwelling place.",
+        },
+      ],
+    },
+    {
       title: "Luke and Acts Bridge Quiz",
       kicker: "Books",
       summary: "Checks how Luke's Gospel connects to the early church story in Acts.",
