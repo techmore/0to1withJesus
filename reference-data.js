@@ -6255,28 +6255,6 @@ export const referenceData = {
       ],
     },
     {
-      title: "Matthew 100 Quiz",
-      kicker: "Chapter",
-      summary: "Checks the next step, where readiness becomes grounded wisdom.",
-      detail: "This quiz helps a beginner see Matthew 100 as the chapter where Jesus turns disciplined readiness into grounded wisdom that can guide others well.",
-      start: "Take this after reading Matthew 100 carefully and noticing how preparation can become wisdom.",
-      tags: ["Matthew 100", "chapter", "wisdom"],
-      questions: [
-        {
-          prompt: "What does readiness become?",
-          answer: "It becomes grounded wisdom.",
-        },
-        {
-          prompt: "What does Jesus keep shaping?",
-          answer: "He keeps shaping steady disciples who can guide others well.",
-        },
-        {
-          prompt: "What should a beginner notice?",
-          answer: "They should notice how preparation can mature into wisdom.",
-        },
-      ],
-    },
-    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
