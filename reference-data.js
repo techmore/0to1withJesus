@@ -7413,6 +7413,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Deuteronomy 29 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Moses renews the covenant and warns Israel about hardened hearts.",
+      detail: "This quiz helps a beginner see Deuteronomy 29 as a chapter about covenant renewal, memory, and the danger of turning away from God.",
+      start: "Take this after reading Deuteronomy 29 carefully and noticing the covenant renewal and the warning about secret idolatry.",
+      tags: ["Deuteronomy 29", "chapter", "covenant"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Deuteronomy 29?",
+          answer: "The chapter emphasizes covenant renewal and warning against rebellion.",
+        },
+        {
+          prompt: "What danger does Moses highlight in this chapter?",
+          answer: "He warns against a hardened heart that turns away to serve other gods.",
+        },
+        {
+          prompt: "Why does Deuteronomy 29 matter?",
+          answer: "It stresses that covenant belonging must be matched by a faithful heart.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
