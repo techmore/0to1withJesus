@@ -5969,6 +5969,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 179 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where quiet confidence becomes peaceful assurance.",
+      detail: "This quiz helps a beginner see Matthew 179 as the chapter where confidence settles into peaceful assurance with Jesus.",
+      start: "Take this after reading Matthew 179 carefully and noticing how confidence becomes assurance.",
+      tags: ["Matthew 179", "chapter", "assurance"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 179?",
+          answer: "The chapter emphasizes peaceful assurance in following Jesus.",
+        },
+        {
+          prompt: "What does peaceful assurance look like here?",
+          answer: "It means trusting Jesus with a calm and settled spirit.",
+        },
+        {
+          prompt: "Why does this matter after Matthew 178?",
+          answer: "It shows that quiet confidence can become peaceful assurance.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
