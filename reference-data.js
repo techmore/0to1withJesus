@@ -4661,6 +4661,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 24 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the covenant ratification scene and Israel's response to God's presence.",
+      detail: "This quiz helps a beginner see Exodus 24 as the chapter where the covenant is confirmed, the people pledge obedience, and Moses enters the cloud of God's glory.",
+      start: "Take this after reading Exodus 24 carefully and noticing how the law section turns into a formal covenant ceremony.",
+      tags: ["Exodus 24", "chapter", "covenant"],
+      questions: [
+        {
+          prompt: "What happens in Exodus 24?",
+          answer: "The covenant is ratified with sacrifice, blood, a pledge of obedience, and a meal in God's presence.",
+        },
+        {
+          prompt: "Who goes partway up the mountain?",
+          answer: "Moses, Aaron, Nadab, Abihu, and seventy elders go up to confirm the covenant.",
+        },
+        {
+          prompt: "Why is Exodus 24 important?",
+          answer: "It marks Israel's formal acceptance of the covenant and shows the seriousness and holiness of drawing near to God.",
+        },
+      ],
+    },
+    {
       title: "Luke and Acts Bridge Quiz",
       kicker: "Books",
       summary: "Checks how Luke's Gospel connects to the early church story in Acts.",
