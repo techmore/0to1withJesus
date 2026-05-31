@@ -4311,6 +4311,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 16 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Hagar and Ishmael enter the story and Abram's waiting becomes complicated.",
+      detail: "This quiz helps a beginner see Genesis 16 as the chapter where human impatience leads to Hagar's flight and the naming of Ishmael.",
+      start: "Take this after reading Genesis 16 carefully and noticing Sarai's plan, Hagar's distress, and God's care in the wilderness.",
+      tags: ["Genesis 16", "chapter", "hagars-flight"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Genesis 16?",
+          answer: "The chapter emphasizes the conflict involving Hagar, Sarai, Abram, and the birth of Ishmael.",
+        },
+        {
+          prompt: "Why does Hagar flee in Genesis 16?",
+          answer: "She flees after being mistreated by Sarai.",
+        },
+        {
+          prompt: "Why does Genesis 16 matter after Genesis 15?",
+          answer: "It shows the tension of waiting on God's promise and how human attempts to force the promise create pain.",
+        },
+      ],
+    },
+    {
       title: "Exodus Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Exodus as the Bible's great rescue story.",
