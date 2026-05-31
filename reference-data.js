@@ -14923,6 +14923,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 108 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where patient strength becomes calm resilience.",
+      detail: "This quiz helps a beginner see Matthew 108 as the chapter where strength starts to settle into calm resilience.",
+      start: "Take this after reading Matthew 108 carefully and noticing how strength becomes resilience.",
+      tags: ["Matthew 108", "chapter", "resilience"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 108?",
+          answer: "The chapter emphasizes strength that is becoming calm resilience.",
+        },
+        {
+          prompt: "What does calm resilience look like here?",
+          answer: "It means holding steady and recovering without panic.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 107?",
+          answer: "It shows that patient strength should become calm resilience.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
