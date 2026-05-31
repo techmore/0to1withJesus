@@ -7325,6 +7325,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Deuteronomy 25 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Moses teaches fair punishment, honest trade, and remembrance of Amalek.",
+      detail: "This quiz helps a beginner see Deuteronomy 25 as a chapter about measured justice, integrity, and remembering opposition to God's people.",
+      start: "Take this after reading Deuteronomy 25 carefully and noticing the laws about judgments, weights, and the line of Amalek.",
+      tags: ["Deuteronomy 25", "chapter", "justice"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Deuteronomy 25?",
+          answer: "The chapter emphasizes fair justice, honest business, and remembering covenant enemies.",
+        },
+        {
+          prompt: "What practical issue is addressed with weights and measures?",
+          answer: "The chapter forbids dishonest scales and requires integrity in trade.",
+        },
+        {
+          prompt: "Why does Deuteronomy 25 matter?",
+          answer: "It shows that justice, honesty, and memory of past opposition all matter in covenant life.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
