@@ -7875,6 +7875,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Joshua 15 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter that describes the inheritance given to Judah.",
+      detail: "This quiz helps a beginner see Joshua 15 as a land-allotment chapter that shows the tribe of Judah receiving its portion in the promised land.",
+      start: "Take this after reading Joshua 15 carefully and noticing the borders, cities, and the focus on Judah's inheritance.",
+      tags: ["Joshua 15", "chapter", "Judah"],
+      questions: [
+        {
+          prompt: "What is Joshua 15 about?",
+          answer: "It describes the land given to the tribe of Judah.",
+        },
+        {
+          prompt: "Why is this chapter important?",
+          answer: "It shows the promise of the land becoming concrete for one of Israel's tribes.",
+        },
+        {
+          prompt: "Why does Joshua 15 matter?",
+          answer: "It highlights how God assigns inheritance to his people in an orderly way.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
