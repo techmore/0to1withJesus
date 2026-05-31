@@ -4793,6 +4793,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 30 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the incense altar, atonement money, basin, and holy anointing oil.",
+      detail: "This quiz helps a beginner see Exodus 30 as a chapter about worship purity, continual prayer imagery, and the practical arrangements for holy service.",
+      start: "Take this after reading Exodus 30 carefully and noticing how incense, washing, and offerings support the tabernacle system.",
+      tags: ["Exodus 30", "chapter", "tabernacle"],
+      questions: [
+        {
+          prompt: "What does Exodus 30 describe?",
+          answer: "The incense altar, atonement money, bronze basin, and holy anointing oil.",
+        },
+        {
+          prompt: "What recurring idea stands out in the chapter?",
+          answer: "Holy worship requires cleansing, remembrance, and continual devotion before the Lord.",
+        },
+        {
+          prompt: "Why is Exodus 30 important?",
+          answer: "It shows that even the support structures of worship are ordered by God's holiness and care.",
+        },
+      ],
+    },
+    {
       title: "Luke and Acts Bridge Quiz",
       kicker: "Books",
       summary: "Checks how Luke's Gospel connects to the early church story in Acts.",
