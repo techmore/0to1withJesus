@@ -14945,6 +14945,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 109 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where calm resilience becomes steady composure.",
+      detail: "This quiz helps a beginner see Matthew 109 as the chapter where resilience starts to settle into steady composure.",
+      start: "Take this after reading Matthew 109 carefully and noticing how resilience becomes composure.",
+      tags: ["Matthew 109", "chapter", "composure"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 109?",
+          answer: "The chapter emphasizes resilience that is becoming steady composure.",
+        },
+        {
+          prompt: "What does steady composure look like here?",
+          answer: "It means staying calm and collected while continuing forward.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 108?",
+          answer: "It shows that calm resilience should become steady composure.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
