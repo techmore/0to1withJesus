@@ -15165,6 +15165,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 119 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where patient goodwill becomes steady grace.",
+      detail: "This quiz helps a beginner see Matthew 119 as the chapter where goodwill starts to settle into steady grace.",
+      start: "Take this after reading Matthew 119 carefully and noticing how goodwill becomes grace.",
+      tags: ["Matthew 119", "chapter", "grace"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 119?",
+          answer: "The chapter emphasizes goodwill that is becoming steady grace.",
+        },
+        {
+          prompt: "What does steady grace look like here?",
+          answer: "It means treating people with unhurried kindness and generosity.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 118?",
+          answer: "It shows that patient goodwill should become steady grace.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
