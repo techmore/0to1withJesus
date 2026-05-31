@@ -7631,6 +7631,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Romans 7 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Paul's teaching about the law, sin, and the struggle for freedom.",
+      detail: "This quiz helps a beginner see Romans 7 as the chapter where Paul explains the law's limits and the conflict between wanting good and doing evil.",
+      start: "Take this after reading Romans 7 carefully and noticing Paul's honest description of inner conflict.",
+      tags: ["Romans 7", "chapter", "law"],
+      questions: [
+        {
+          prompt: "What does Paul say about the law in Romans 7?",
+          answer: "The law is holy and good, but it cannot free people from sin.",
+        },
+        {
+          prompt: "What struggle does Paul describe?",
+          answer: "He describes the struggle of wanting to do good but finding another law at work in his members.",
+        },
+        {
+          prompt: "How does Romans 7 end?",
+          answer: "It ends with Paul crying out for rescue and pointing to deliverance through Jesus Christ.",
+        },
+      ],
+    },
+    {
       title: "Ephesians Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Ephesians as Paul's letter about identity in Christ, unity, the church, and standing firm.",
