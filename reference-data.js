@@ -11197,6 +11197,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Chronicles 33 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Manasseh repents and the kingdom sees a measure of renewal.",
+      detail: "This quiz helps a beginner see 2 Chronicles 33 as a story of deep sin, humbling repentance, and partial restoration.",
+      start: "Take this after 2 Chronicles 32 when you want to continue the chapter-by-chapter reading.",
+      tags: ["2 Chronicles 33", "chapter", "Manasseh"],
+      questions: [
+        {
+          prompt: "What is Manasseh known for in the first part of 2 Chronicles 33?",
+          answer: "Great unfaithfulness and idolatry.",
+        },
+        {
+          prompt: "What change happens later?",
+          answer: "He humbles himself and seeks the Lord.",
+        },
+        {
+          prompt: "Why does 2 Chronicles 33 matter?",
+          answer: "It shows that even great sin can be met by repentance and mercy.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
