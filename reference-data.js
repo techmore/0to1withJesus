@@ -9195,6 +9195,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Kings 21 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Ahab covets Naboth's vineyard and Elijah pronounces judgment.",
+      detail: "This quiz helps a beginner see 1 Kings 21 as a chapter about greed, injustice, and God's response through Elijah.",
+      start: "Take this after 1 Kings 20 when you want to continue the book chapter by chapter.",
+      tags: ["1 Kings 21", "chapter", "Ahab"],
+      questions: [
+        {
+          prompt: "What does Ahab want in 1 Kings 21?",
+          answer: "Naboth's vineyard.",
+        },
+        {
+          prompt: "Who confronts Ahab?",
+          answer: "Elijah.",
+        },
+        {
+          prompt: "Why does 1 Kings 21 matter?",
+          answer: "It shows that greed and injustice are not hidden from God.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
