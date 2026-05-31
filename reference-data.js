@@ -7949,6 +7949,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 177 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where steady courage becomes calm conviction.",
+      detail: "This quiz helps a beginner see Matthew 177 as the chapter where Jesus turns brave kindness into conviction that stays calm.",
+      start: "Take this after reading Matthew 177 carefully and noticing how courage can become conviction.",
+      tags: ["Matthew 177", "chapter", "conviction"],
+      questions: [
+        {
+          prompt: "What does steady courage become?",
+          answer: "It becomes calm conviction.",
+        },
+        {
+          prompt: "What does Jesus keep strengthening in his people?",
+          answer: "He keeps strengthening their resolve to do good.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how courage can settle into clarity.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
