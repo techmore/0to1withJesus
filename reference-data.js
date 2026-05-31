@@ -7729,6 +7729,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 167 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where settled hope becomes quiet assurance.",
+      detail: "This quiz helps a beginner see Matthew 167 as the chapter where Jesus turns hope into a steadier confidence in his care.",
+      start: "Take this after reading Matthew 167 carefully and noticing how hope can become assurance.",
+      tags: ["Matthew 167", "chapter", "assurance"],
+      questions: [
+        {
+          prompt: "What does settled hope become?",
+          answer: "It becomes quiet assurance.",
+        },
+        {
+          prompt: "What does Jesus keep strengthening in his people?",
+          answer: "He keeps strengthening their confidence in his care.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how hope can settle into confidence.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
