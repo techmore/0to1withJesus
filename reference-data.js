@@ -4419,6 +4419,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 13 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the consecration of the firstborn and God's guidance by pillar of cloud and fire.",
+      detail: "This quiz helps a beginner see Exodus 13 as the chapter where memory and guidance begin to shape the rescued people. It focuses on dedication, remembrance, and God's visible presence on the journey.",
+      start: "Take this after reading Exodus 13 carefully and noticing the commands to remember and to follow God's leading.",
+      tags: ["Exodus 13", "chapter", "wilderness"],
+      questions: [
+        {
+          prompt: "What is done with the firstborn in Exodus 13?",
+          answer: "They are consecrated to the Lord as a reminder that the people belong to God.",
+        },
+        {
+          prompt: "How does God guide Israel after the departure?",
+          answer: "By a pillar of cloud by day and a pillar of fire by night.",
+        },
+        {
+          prompt: "Why is Exodus 13 important for the journey ahead?",
+          answer: "It shows that rescue leads into remembrance and ongoing dependence on God's presence.",
+        },
+      ],
+    },
+    {
       title: "Luke and Acts Bridge Quiz",
       kicker: "Books",
       summary: "Checks how Luke's Gospel connects to the early church story in Acts.",
