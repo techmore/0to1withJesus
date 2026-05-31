@@ -4617,6 +4617,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 22 Quiz",
+      kicker: "Chapter",
+      summary: "Checks how the covenant law handles restitution, property, and responsibility.",
+      detail: "This quiz helps a beginner see Exodus 22 as practical covenant instruction for theft, damages, trust, and justice in daily life.",
+      start: "Take this after reading Exodus 22 carefully and noticing how the law applies holiness to ordinary relationships and property.",
+      tags: ["Exodus 22", "chapter", "restitution"],
+      questions: [
+        {
+          prompt: "What kind of material fills Exodus 22?",
+          answer: "More case laws about restitution, property, and responsibility.",
+        },
+        {
+          prompt: "What themes appear in the chapter?",
+          answer: "Theft, damages, loans, deposits, justice for the vulnerable, and proper worship.",
+        },
+        {
+          prompt: "Why is Exodus 22 important?",
+          answer: "It shows that covenant obedience includes honest treatment of neighbors and care for people at risk.",
+        },
+      ],
+    },
+    {
       title: "Luke and Acts Bridge Quiz",
       kicker: "Books",
       summary: "Checks how Luke's Gospel connects to the early church story in Acts.",
