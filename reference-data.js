@@ -7773,6 +7773,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 169 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where durable peace becomes steady fellowship.",
+      detail: "This quiz helps a beginner see Matthew 169 as the chapter where Jesus turns peace into a shared life that can keep going.",
+      start: "Take this after reading Matthew 169 carefully and noticing how peace can become fellowship.",
+      tags: ["Matthew 169", "chapter", "fellowship"],
+      questions: [
+        {
+          prompt: "What does durable peace become?",
+          answer: "It becomes steady fellowship.",
+        },
+        {
+          prompt: "What does Jesus keep nurturing among his people?",
+          answer: "He keeps nurturing shared life and mutual support.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how peace can form community.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
