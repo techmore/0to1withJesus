@@ -7355,6 +7355,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 150 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where lasting belonging becomes a shared mission.",
+      detail: "This quiz helps a beginner see Matthew 150 as the chapter where Jesus turns a stable home into a people who can move together with purpose.",
+      start: "Take this after reading Matthew 150 carefully and noticing how belonging can become mission.",
+      tags: ["Matthew 150", "chapter", "mission"],
+      questions: [
+        {
+          prompt: "What does lasting belonging become?",
+          answer: "It becomes a shared mission.",
+        },
+        {
+          prompt: "What does Jesus keep calling people toward?",
+          answer: "He keeps calling them toward purposeful life together.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how stability can lead to action.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
