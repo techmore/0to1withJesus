@@ -6399,6 +6399,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 111 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where a settled pattern becomes reliable character.",
+      detail: "This quiz helps a beginner see Matthew 111 as the chapter where Jesus keeps shaping dependable character through practice.",
+      start: "Take this after reading Matthew 111 carefully and noticing how routine faithfulness becomes character.",
+      tags: ["Matthew 111", "chapter", "character"],
+      questions: [
+        {
+          prompt: "What does a pattern become?",
+          answer: "It becomes reliable character.",
+        },
+        {
+          prompt: "What does Jesus keep shaping?",
+          answer: "He keeps shaping dependable character in disciples.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how repeated obedience forms who a person is.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
