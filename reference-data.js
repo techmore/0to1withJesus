@@ -9679,6 +9679,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Kings 20 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Hezekiah is healed and receives a warning about future exile.",
+      detail: "This quiz helps a beginner see 2 Kings 20 as a chapter that mixes healing, gratitude, and a sober warning.",
+      start: "Take this after 2 Kings 19 when you want to continue the book chapter by chapter.",
+      tags: ["2 Kings 20", "chapter", "Hezekiah"],
+      questions: [
+        {
+          prompt: "What happens to Hezekiah in 2 Kings 20?",
+          answer: "He is healed.",
+        },
+        {
+          prompt: "What warning does he receive?",
+          answer: "A warning about future exile.",
+        },
+        {
+          prompt: "Why does 2 Kings 20 matter?",
+          answer: "It shows both God's mercy and the serious consequences that still lie ahead.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
