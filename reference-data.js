@@ -9085,6 +9085,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Kings 16 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where the northern kingdom changes rulers rapidly and Ahab rises to power.",
+      detail: "This quiz helps a beginner see 1 Kings 16 as a chapter of instability in Israel and the rise of a more notorious king.",
+      start: "Take this after 1 Kings 15 when you want to continue the book chapter by chapter.",
+      tags: ["1 Kings 16", "chapter", "Ahab"],
+      questions: [
+        {
+          prompt: "What happens to the northern kingdom in 1 Kings 16?",
+          answer: "It changes rulers rapidly.",
+        },
+        {
+          prompt: "Who rises to power near the end of the chapter?",
+          answer: "Ahab.",
+        },
+        {
+          prompt: "Why does 1 Kings 16 matter?",
+          answer: "It shows the instability and increasing unfaithfulness of the northern kingdom.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
