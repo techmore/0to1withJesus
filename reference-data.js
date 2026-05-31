@@ -9943,6 +9943,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Chronicles 6 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter that traces Levi's descendants and the temple servants.",
+      detail: "This quiz helps a beginner see 1 Chronicles 6 as a genealogy focused on the Levites, priests, and their assigned duties.",
+      start: "Take this after 1 Chronicles 5 when you want to continue the book chapter by chapter.",
+      tags: ["1 Chronicles 6", "chapter", "Levi"],
+      questions: [
+        {
+          prompt: "Which tribe is central in 1 Chronicles 6?",
+          answer: "Levi.",
+        },
+        {
+          prompt: "What role is emphasized for the descendants listed?",
+          answer: "Priestly and temple service.",
+        },
+        {
+          prompt: "Why does 1 Chronicles 6 matter?",
+          answer: "It shows the line of Levi and the people set apart for worship.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
