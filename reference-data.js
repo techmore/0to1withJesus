@@ -5499,6 +5499,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 19 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Israel arrives at Sinai and hears God's covenant call.",
+      detail: "This quiz helps a beginner see Exodus 19 as the chapter where the Lord prepares his people to meet him at the mountain.",
+      start: "Take this after reading Exodus 19 carefully and noticing the arrival at Sinai, the boundary around the mountain, and the covenant language.",
+      tags: ["Exodus 19", "chapter", "sinai"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Exodus 19?",
+          answer: "The chapter emphasizes Israel's arrival at Sinai and preparation for covenant.",
+        },
+        {
+          prompt: "What does God tell Israel to do before meeting him at Sinai?",
+          answer: "He tells them to consecrate themselves and stay within the boundary.",
+        },
+        {
+          prompt: "Why does Exodus 19 matter after Exodus 18?",
+          answer: "It moves Israel from shared leadership into direct covenant encounter with God.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
