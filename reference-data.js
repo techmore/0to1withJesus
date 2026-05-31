@@ -4751,6 +4751,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 36 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter that traces Esau's descendants and the Edomite line.",
+      detail: "This quiz helps a beginner see Genesis 36 as the chapter that pauses on Esau's family so the reader can see the spread of another nation.",
+      start: "Take this after reading Genesis 36 carefully and noticing the genealogy, the chiefs, and the land of Edom.",
+      tags: ["Genesis 36", "chapter", "esau"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Genesis 36?",
+          answer: "The chapter traces the descendants of Esau and the rise of the Edomite nation.",
+        },
+        {
+          prompt: "Why is Genesis 36 a long genealogy?",
+          answer: "It shows how Esau's line became a nation with its own leaders and territory.",
+        },
+        {
+          prompt: "Why does Genesis 36 matter after Genesis 35?",
+          answer: "It highlights that both Jacob's and Esau's families have grown into significant peoples.",
+        },
+      ],
+    },
+    {
       title: "Exodus Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Exodus as the Bible's great rescue story.",
