@@ -8117,6 +8117,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Judges 1 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the opening chapter of Judges where Israel begins settling the land but does not fully drive out the inhabitants.",
+      detail: "This quiz helps a beginner see Judges 1 as the start of the book's theme of incomplete obedience and unfinished conquest.",
+      start: "Take this after the Judges overview when you want to see how the book begins with partial success and partial failure.",
+      tags: ["Judges 1", "chapter", "settling"],
+      questions: [
+        {
+          prompt: "What happens in Judges 1?",
+          answer: "Israel begins settling the land but does not fully drive out every inhabitant.",
+        },
+        {
+          prompt: "What does the chapter reveal about Israel?",
+          answer: "It shows incomplete obedience and ongoing compromise.",
+        },
+        {
+          prompt: "Why does Judges 1 matter?",
+          answer: "It introduces the conditions that help explain the repeated struggles in the rest of the book.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
