@@ -4441,6 +4441,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 22 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the questions about authority, resurrection, and the greatest commandment.",
+      detail: "This quiz helps a beginner see Matthew 22 as the chapter where Jesus answers traps by pointing to love, resurrection, and David's Lord.",
+      start: "Take this after reading Matthew 22 carefully and noticing the debates with different groups in Jerusalem.",
+      tags: ["Matthew 22", "chapter", "commandment"],
+      questions: [
+        {
+          prompt: "What trap question do the authorities ask Jesus about taxes?",
+          answer: "They ask whether it is lawful to pay taxes to Caesar.",
+        },
+        {
+          prompt: "What does Jesus teach about the greatest commandment?",
+          answer: "He says to love God with all your heart and to love your neighbor as yourself.",
+        },
+        {
+          prompt: "What point does Jesus make about the Messiah and David?",
+          answer: "He shows that the Messiah is more than David's son because David calls him Lord.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
