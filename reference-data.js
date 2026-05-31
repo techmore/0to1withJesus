@@ -6817,6 +6817,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 130 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where shared testimony becomes durable mission.",
+      detail: "This quiz helps a beginner see Matthew 130 as the chapter where Jesus keeps turning witness into a mission that can last.",
+      start: "Take this after reading Matthew 130 carefully and noticing how testimony can become mission.",
+      tags: ["Matthew 130", "chapter", "mission"],
+      questions: [
+        {
+          prompt: "What does shared testimony become?",
+          answer: "It becomes durable mission.",
+        },
+        {
+          prompt: "What does Jesus keep sending out?",
+          answer: "He keeps sending out witness.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how courage can become a lasting task.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
