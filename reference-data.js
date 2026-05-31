@@ -18877,6 +18877,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Song of Songs Book Quiz",
+      kicker: "Book",
+      summary: "A whole-book check for Song of Songs as poetic celebration of love and desire.",
+      detail: "This quiz helps a beginner see Song of Songs as beautiful, intimate poetry that honors love, longing, and delight.",
+      start: "Take this after Ecclesiastes and after noticing that biblical wisdom also includes love and celebration.",
+      tags: ["Song of Songs", "book", "love"],
+      questions: [
+        {
+          prompt: "What kind of book is Song of Songs?",
+          answer: "Love poetry celebrating desire, beauty, and delight.",
+        },
+        {
+          prompt: "How should readers approach its imagery?",
+          answer: "As poetic and symbolic language, not flat prose.",
+        },
+        {
+          prompt: "Why is Song of Songs important in wisdom literature?",
+          answer: "It shows that love and joy are also part of wise life before God.",
+        },
+      ],
+    },
+    {
       title: "Wisdom and Prayer Quiz",
       kicker: "Wisdom",
       summary: "Checks Job, Psalms, Proverbs, Ecclesiastes, and biblical prayer patterns.",
