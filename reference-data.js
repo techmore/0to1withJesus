@@ -7411,6 +7411,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Acts 28 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Paul's arrival in Rome and the open-ended close of Acts.",
+      detail: "This quiz helps a beginner see Acts 28 as the chapter where Paul reaches Rome, continues preaching, and the book ends with the gospel still advancing.",
+      start: "Take this after reading Acts 28 carefully and noticing the welcome in Rome and Paul's continued ministry under guard.",
+      tags: ["Acts 28", "chapter", "Rome"],
+      questions: [
+        {
+          prompt: "Where does Paul finally arrive in Acts 28?",
+          answer: "He arrives in Rome.",
+        },
+        {
+          prompt: "What does Paul continue doing while in Rome?",
+          answer: "He keeps preaching and teaching about the kingdom of God and Jesus Christ.",
+        },
+        {
+          prompt: "How does Acts end?",
+          answer: "It ends with Paul under guard but proclaiming the kingdom of God with boldness and without hindrance.",
+        },
+      ],
+    },
+    {
       title: "Acts Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Acts as the story of the Spirit-empowered church expanding from Jerusalem outward.",
