@@ -4661,6 +4661,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 25 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Abraham's later years, the birth of Esau and Jacob, and the birthright struggle.",
+      detail: "This quiz helps a beginner see Genesis 25 as the chapter where the promise line continues through Isaac and the twins begin their contested story.",
+      start: "Take this after reading Genesis 25 carefully and noticing the transition from Abraham's death to Jacob and Esau's birth.",
+      tags: ["Genesis 25", "chapter", "Jacob"],
+      questions: [
+        {
+          prompt: "What happens in Abraham's family in Genesis 25?",
+          answer: "Abraham dies, and later Rebekah gives birth to Esau and Jacob.",
+        },
+        {
+          prompt: "What does Esau do with his birthright?",
+          answer: "He sells it to Jacob for a meal.",
+        },
+        {
+          prompt: "Why is Genesis 25 important?",
+          answer: "It shifts the promise story to the next generation and introduces the brothers whose conflict will shape Israel's future.",
+        },
+      ],
+    },
+    {
       title: "Exodus 1 Quiz",
       kicker: "Chapter",
       summary: "Checks Israel's oppression in Egypt and the beginning of the rescue setting.",
