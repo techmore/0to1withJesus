@@ -6797,6 +6797,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Deuteronomy 1 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Moses begins his final speech by reviewing Israel's journey and failed trust.",
+      detail: "This quiz helps a beginner see Deuteronomy 1 as a chapter about remembering the past, appointing leaders, and learning from unbelief.",
+      start: "Take this after reading Deuteronomy 1 carefully and noticing the review of the wilderness journey and the sending of the spies.",
+      tags: ["Deuteronomy 1", "chapter", "journey"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Deuteronomy 1?",
+          answer: "The chapter emphasizes Moses reviewing Israel's journey and preparing them to enter the land.",
+        },
+        {
+          prompt: "What failed event from Israel's past is recalled in Deuteronomy 1?",
+          answer: "The failure to trust God after the spies' report is recalled.",
+        },
+        {
+          prompt: "Why does Deuteronomy 1 matter at the start of the book?",
+          answer: "It sets the tone of remembrance and warns Israel not to repeat the unbelief of the past generation.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
