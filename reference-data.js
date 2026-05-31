@@ -4815,6 +4815,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 32 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Jacob's fear, his wrestling at the river, and his new name Israel.",
+      detail: "This quiz helps a beginner see Genesis 32 as the chapter where Jacob prepares to face Esau, wrestles through the night, and receives a new name that marks a turning point.",
+      start: "Take this after reading Genesis 32 carefully and noticing the blend of fear, prayer, struggle, and blessing.",
+      tags: ["Genesis 32", "chapter", "Israel"],
+      questions: [
+        {
+          prompt: "Why is Jacob afraid in Genesis 32?",
+          answer: "He is about to meet Esau after many years and fears the consequences of their broken relationship.",
+        },
+        {
+          prompt: "What happens in Jacob's nighttime wrestling?",
+          answer: "He wrestles with a mysterious man until daybreak and refuses to let go without a blessing.",
+        },
+        {
+          prompt: "Why is Genesis 32 important?",
+          answer: "It marks Jacob's transformation, gives him the name Israel, and prepares him for reconciliation.",
+        },
+      ],
+    },
+    {
       title: "Exodus 1 Quiz",
       kicker: "Chapter",
       summary: "Checks Israel's oppression in Egypt and the beginning of the rescue setting.",
