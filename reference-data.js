@@ -5673,6 +5673,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 78 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Mark's early parables and the beginning of hidden-growth teaching.",
+      detail: "This quiz helps a beginner see Matthew 78 as the chapter where Jesus teaches in parables and explains the kingdom's hidden growth.",
+      start: "Take this after reading Matthew 78 carefully and noticing the parables and Jesus' explanations.",
+      tags: ["Matthew 78", "chapter", "parables"],
+      questions: [
+        {
+          prompt: "How does Jesus teach in this chapter?",
+          answer: "He teaches using parables.",
+        },
+        {
+          prompt: "What do the parables show?",
+          answer: "They show how the kingdom grows and is received.",
+        },
+        {
+          prompt: "What does the chapter emphasize?",
+          answer: "It emphasizes the hidden and growing nature of the kingdom.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
