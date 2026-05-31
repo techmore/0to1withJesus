@@ -10977,6 +10977,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Chronicles 23 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Joash is protected and Athaliah is overthrown.",
+      detail: "This quiz helps a beginner see 2 Chronicles 23 as a restoration moment where God's covenant line is preserved and reform begins.",
+      start: "Take this after 2 Chronicles 22 when you want to continue the chapter-by-chapter reading.",
+      tags: ["2 Chronicles 23", "chapter", "Joash"],
+      questions: [
+        {
+          prompt: "Who is protected and crowned in 2 Chronicles 23?",
+          answer: "Joash.",
+        },
+        {
+          prompt: "What happens to Athaliah?",
+          answer: "She is overthrown.",
+        },
+        {
+          prompt: "Why does 2 Chronicles 23 matter?",
+          answer: "It restores proper worship and the Davidic line.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
