@@ -7883,6 +7883,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 174 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where quiet leadership becomes stable care.",
+      detail: "This quiz helps a beginner see Matthew 174 as the chapter where Jesus lets leadership look like dependable care for people around him.",
+      start: "Take this after reading Matthew 174 carefully and noticing how leadership can become care.",
+      tags: ["Matthew 174", "chapter", "care"],
+      questions: [
+        {
+          prompt: "What does quiet leadership become?",
+          answer: "It becomes stable care.",
+        },
+        {
+          prompt: "What does Jesus keep showing his people?",
+          answer: "He keeps showing them how to support others with steadiness.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how leadership can feel like help.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
