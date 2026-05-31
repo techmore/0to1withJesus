@@ -14285,6 +14285,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 79 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where steady perseverance becomes calm resolve.",
+      detail: "This quiz helps a beginner see Matthew 79 as the chapter where perseverance starts to settle into calm resolve.",
+      start: "Take this after reading Matthew 79 carefully and noticing how perseverance becomes resolve.",
+      tags: ["Matthew 79", "chapter", "resolve"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 79?",
+          answer: "The chapter emphasizes perseverance that is becoming calm resolve.",
+        },
+        {
+          prompt: "What does calm resolve look like here?",
+          answer: "It means staying committed without panic or confusion.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 78?",
+          answer: "It shows that steady perseverance should become calm resolve.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
