@@ -4859,6 +4859,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 33 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Moses' plea for God's presence and the revelation of glory.",
+      detail: "This quiz helps a beginner see Exodus 33 as the chapter where Moses asks for God's presence, the tent of meeting matters, and God's glory is revealed in mercy.",
+      start: "Take this after reading Exodus 33 carefully and noticing how Moses refuses to move without God's presence.",
+      tags: ["Exodus 33", "chapter", "presence"],
+      questions: [
+        {
+          prompt: "What does Moses ask for in Exodus 33?",
+          answer: "He asks for God's presence to go with Israel instead of just an angel or guidance without presence.",
+        },
+        {
+          prompt: "What happens with the tent of meeting?",
+          answer: "Moses meets with God there outside the camp, and the people watch from a distance.",
+        },
+        {
+          prompt: "Why is Exodus 33 important?",
+          answer: "It shows that Israel's future depends on God's presence, mercy, and revealed glory, not merely on location or ritual.",
+        },
+      ],
+    },
+    {
       title: "Luke and Acts Bridge Quiz",
       kicker: "Books",
       summary: "Checks how Luke's Gospel connects to the early church story in Acts.",
