@@ -5441,6 +5441,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 155 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where steady endurance becomes calm perseverance.",
+      detail: "This quiz helps a beginner see Matthew 155 as the chapter where endurance settles into calm perseverance with Jesus.",
+      start: "Take this after reading Matthew 155 carefully and noticing how endurance becomes perseverance.",
+      tags: ["Matthew 155", "chapter", "perseverance"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 155?",
+          answer: "The chapter emphasizes calm perseverance in following Jesus.",
+        },
+        {
+          prompt: "What does calm perseverance look like here?",
+          answer: "It means continuing faithfully with patience and trust when things are hard.",
+        },
+        {
+          prompt: "Why does this matter after Matthew 154?",
+          answer: "It shows that steady endurance can become calm perseverance.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
