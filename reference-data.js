@@ -5983,6 +5983,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Numbers 1 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Israel is counted and organized for the wilderness journey.",
+      detail: "This quiz helps a beginner see Numbers 1 as the chapter where the community is numbered and prepared for travel and service.",
+      start: "Take this after reading Numbers 1 carefully and noticing the census, tribal organization, and the focus on readiness.",
+      tags: ["Numbers 1", "chapter", "census"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Numbers 1?",
+          answer: "The chapter emphasizes the census and organization of Israel for the wilderness journey.",
+        },
+        {
+          prompt: "Why is the census important in Numbers 1?",
+          answer: "It shows how Israel is ordered and prepared as God's people in the wilderness.",
+        },
+        {
+          prompt: "Why does Numbers 1 matter after Exodus 40?",
+          answer: "It begins the next stage of Israel's journey after the tabernacle has been set up.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
