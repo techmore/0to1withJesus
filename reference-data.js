@@ -5981,6 +5981,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 92 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next episode of warning and patience, where Jesus keeps pressing toward truth.",
+      detail: "This quiz helps a beginner see Matthew 92 as the chapter where warnings, patience, and clarity keep moving the story ahead.",
+      start: "Take this after reading Matthew 92 carefully and noticing the repeated call to listen and respond.",
+      tags: ["Matthew 92", "chapter", "warning"],
+      questions: [
+        {
+          prompt: "What kind of tone shapes the chapter?",
+          answer: "A warning tone shapes the chapter.",
+        },
+        {
+          prompt: "What does Jesus continue to do?",
+          answer: "He continues to press his listeners toward truth.",
+        },
+        {
+          prompt: "What is the chapter trying to produce?",
+          answer: "It is trying to produce patient, faithful response.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
