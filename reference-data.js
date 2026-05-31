@@ -13867,6 +13867,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 60 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where durable understanding becomes stable insight.",
+      detail: "This quiz helps a beginner see Matthew 60 as the chapter where understanding starts to feel dependable and clear.",
+      start: "Take this after reading Matthew 60 carefully and noticing how understanding becomes stable insight.",
+      tags: ["Matthew 60", "chapter", "insight"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 60?",
+          answer: "The chapter emphasizes understanding that is becoming stable insight.",
+        },
+        {
+          prompt: "What does stable insight look like here?",
+          answer: "It means seeing clearly and consistently, even under pressure.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 59?",
+          answer: "It shows that durable understanding should become stable insight.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
