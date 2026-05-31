@@ -4287,6 +4287,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 7 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the first plague confrontation and the beginning of the sign contest with Pharaoh.",
+      detail: "This quiz helps a beginner see Exodus 7 as the chapter where Moses and Aaron begin public signs against Pharaoh. It focuses on the staff, the hardened response, and the opening of the plague sequence.",
+      start: "Take this after reading Exodus 7 carefully and noticing the repeated commands and refusals.",
+      tags: ["Exodus 7", "chapter", "plagues"],
+      questions: [
+        {
+          prompt: "What sign do Moses and Aaron perform before Pharaoh?",
+          answer: "Aaron's staff becomes a serpent, showing God's power over Pharaoh's court.",
+        },
+        {
+          prompt: "How does Pharaoh respond to the sign?",
+          answer: "He hardens his heart and refuses to listen.",
+        },
+        {
+          prompt: "What begins in Exodus 7?",
+          answer: "The escalating sequence of plagues and the public contest between God and Pharaoh.",
+        },
+      ],
+    },
+    {
       title: "Luke and Acts Bridge Quiz",
       kicker: "Books",
       summary: "Checks how Luke's Gospel connects to the early church story in Acts.",
