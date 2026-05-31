@@ -5607,6 +5607,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 75 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the opening movement of Mark with Jesus' public ministry and early responses.",
+      detail: "This quiz helps a beginner see Matthew 75 as the chapter where the story turns into Mark and the pace begins to quicken.",
+      start: "Take this after reading Matthew 75 carefully and noticing the quick movement, the calls, and the first public responses.",
+      tags: ["Matthew 75", "chapter", "mark"],
+      questions: [
+        {
+          prompt: "What does the chapter start emphasizing?",
+          answer: "It emphasizes the start of Mark's fast-moving narrative.",
+        },
+        {
+          prompt: "What kind of response do people have?",
+          answer: "They begin responding quickly to Jesus' ministry.",
+        },
+        {
+          prompt: "What does this chapter reveal about the pace?",
+          answer: "It reveals a rapid, urgent pace.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
