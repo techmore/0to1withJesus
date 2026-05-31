@@ -4551,6 +4551,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 27 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Jesus before Pilate, the crucifixion, and the burial.",
+      detail: "This quiz helps a beginner see Matthew 27 as the chapter where the trial, suffering, death, and burial of Jesus come into focus.",
+      start: "Take this after reading Matthew 27 carefully and noticing the courtroom, the cross, and the tomb.",
+      tags: ["Matthew 27", "chapter", "crucifixion"],
+      questions: [
+        {
+          prompt: "What choice does Pilate offer the crowd?",
+          answer: "He offers to release Jesus or Barabbas, and the crowd chooses Barabbas.",
+        },
+        {
+          prompt: "What signs accompany Jesus' death?",
+          answer: "Darkness falls and the temple curtain tears when Jesus dies.",
+        },
+        {
+          prompt: "How does the chapter end?",
+          answer: "Jesus is buried in a tomb that is guarded.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
