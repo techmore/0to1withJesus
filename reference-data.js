@@ -9019,6 +9019,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Samuel 15 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Saul is rejected for refusing to fully obey the Lord.",
+      detail: "This quiz helps a beginner see 1 Samuel 15 as the chapter where Saul's partial obedience becomes a turning point and Samuel explains that obedience matters more than sacrifice.",
+      start: "Take this after 1 Samuel 14 when you want to see why Saul's kingship is rejected.",
+      tags: ["1 Samuel 15", "chapter", "Saul"],
+      questions: [
+        {
+          prompt: "What command does Saul fail to carry out in 1 Samuel 15?",
+          answer: "He does not fully destroy Amalek and keeps what God told him to destroy.",
+        },
+        {
+          prompt: "What does Samuel say is better than sacrifice?",
+          answer: "To obey the Lord.",
+        },
+        {
+          prompt: "Why does 1 Samuel 15 matter?",
+          answer: "It shows that Saul is rejected as king because he refuses full obedience.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
