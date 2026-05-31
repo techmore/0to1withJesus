@@ -5519,6 +5519,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 71 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the call to forgiveness, prayer, and trust in God.",
+      detail: "This quiz helps a beginner see Matthew 71 as the chapter where Jesus teaches dependence on God and forgiving others.",
+      start: "Take this after reading Matthew 71 carefully and noticing the prayer, the trust, and the exhortation to forgive.",
+      tags: ["Matthew 71", "chapter", "prayer"],
+      questions: [
+        {
+          prompt: "What does Jesus teach his followers to do?",
+          answer: "He teaches them to pray and forgive.",
+        },
+        {
+          prompt: "What attitude does he want toward God?",
+          answer: "He wants trust and dependence on God.",
+        },
+        {
+          prompt: "What does the chapter emphasize?",
+          answer: "It emphasizes prayerful, forgiving discipleship.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
