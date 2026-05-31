@@ -6343,6 +6343,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 105 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where rooted judgment becomes peaceful steadiness.",
+      detail: "This quiz helps a beginner see Matthew 105 as the chapter where Jesus turns firm judgment into peaceful steadiness that can hold up under pressure.",
+      start: "Take this after reading Matthew 105 carefully and noticing how judgment can become steadiness.",
+      tags: ["Matthew 105", "chapter", "steadiness"],
+      questions: [
+        {
+          prompt: "What does rooted judgment become?",
+          answer: "It becomes peaceful steadiness.",
+        },
+        {
+          prompt: "What does Jesus keep strengthening?",
+          answer: "He keeps strengthening a stable way of living and deciding.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how judgment can settle into steadiness.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
