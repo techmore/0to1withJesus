@@ -18,6 +18,10 @@ const pages = [
     includes: ['<title>Reference Guide | Jesus Guide</title>', 'src="./reference.js?v=20260524-1"'],
   },
   {
+    file: 'quiz-study.html',
+    includes: ['<title>Quiz Study Guide | Jesus Guide</title>', 'src="./quiz-study.js?v=20260524-2"'],
+  },
+  {
     file: 'roadmap.html',
     includes: ['<title>Mastery Roadmap | Jesus Guide</title>', 'src="./roadmap.js?v=20260509-1"'],
   },

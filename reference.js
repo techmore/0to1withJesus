@@ -7,6 +7,7 @@ import {
   asArray,
   asText,
   renderQuizView,
+  quizTrackForItem as sharedQuizTrackForItem,
 } from './reference-view.js';
 
 
@@ -88,14 +89,7 @@ function visibleQuizItems(items = filteredItems()) {
 }
 
 function quizTrackForItem(item) {
-  const title = asText(item.title);
-  if (/Bible Book Order Starter Quiz|Bible Books Order and Sections Quiz|Old Testament Books Order Quiz|New Testament Books Order Quiz|Bible Sections Foundation Quiz/i.test(title)) {
-    return "starter";
-  }
-  if (/(Section Quiz|Book Quiz)$/i.test(title) || /\bQuiz$/i.test(title)) {
-    return /^(Genesis|Exodus|Numbers|Deuteronomy|Joshua|Judges|Ruth|1 Samuel|2 Samuel|1 Kings|2 Kings|1 Chronicles|2 Chronicles|Ezra|Nehemiah|Esther|Job|Psalms?|Proverbs|Ecclesiastes|Song of Songs|Isaiah|Jeremiah|Lamentations|Ezekiel|Daniel|Hosea|Joel|Amos|Obadiah|Jonah|Micah|Nahum|Habakkuk|Zephaniah|Haggai|Zechariah|Malachi|Matthew|Mark|Luke|John|Acts|Romans|1 Corinthians|2 Corinthians|Galatians|Ephesians|Philippians|Colossians|1 Thessalonians|2 Thessalonians|1 Timothy|2 Timothy|Titus|Philemon|Hebrews|James|1 Peter|2 Peter|1 John|2 John|3 John|Jude|Revelation) \d+ Quiz$/i.test(title) ? "intermediate" : "expert";
-  }
-  return "expert";
+  return sharedQuizTrackForItem(item);
 }
 
 function parseHash(hash) {
@@ -200,7 +194,7 @@ function renderReference() {
 
   grid.innerHTML = items.length
     ? state.tab === "quizzes"
-      ? renderQuizView(items, { ...state, fixedQuizTrack: document.body.dataset.quizTrack || "" })
+      ? renderQuizView(items, { ...state, fixedQuizTrack: document.body.dataset.quizTrack || "", quizGuidePathPrefix: document.body.dataset.page === "quizzes" ? "../" : "./" })
       : items.map(referenceCard).join("")
     : `
       <article class="card reference-empty">

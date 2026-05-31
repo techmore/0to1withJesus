@@ -3589,7 +3589,7 @@ export const referenceData = {
   ],
   quizzes: [
     {
-      title: "Bible Book Order Starter Quiz",
+      title: "Starter Quiz: Bible book order and major sections",
       kicker: "Whole Bible",
       summary: "A beginner-friendly overview of the Old and New Testaments, book order, and major Bible groupings.",
       detail: "Use this first if someone needs a map of the Bible before they start reading. It covers the two testaments, the main book groups, where books sit in the story, and how to find passages with more confidence.",
@@ -3619,7 +3619,7 @@ export const referenceData = {
       ],
     },
     {
-      title: "Bible Books Order and Sections Quiz",
+      title: "Starter Quiz: Bible books order and sections",
       kicker: "Whole Bible",
       summary: "A teaching quiz for learning the order of the Bible and what the major sections are about.",
       detail: "This is the best first quiz if you want the Bible to feel organized. It teaches the order of the Old Testament and New Testament, what each major section is for, and how to think about where books belong.",
@@ -3657,11 +3657,11 @@ export const referenceData = {
       ],
     },
     {
-      title: "Old Testament Books Order Quiz",
+      title: "Starter Quiz: Old Testament book order",
       kicker: "Old Testament",
       summary: "A beginner quiz for learning the order of the Old Testament books and what each section is doing.",
       detail: "This quiz helps a beginner see the Old Testament as a connected story in five major moves: Torah, historical books, novellas, wisdom, and prophets. It is useful when the names are familiar but the order still feels scrambled.",
-      start: "Take this after the Bible Books Order and Sections Quiz if the Old Testament still feels like a long list.",
+      start: "Take this after the Starter Quiz: Bible books order and sections if the Old Testament still feels like a long list.",
       tags: ["Old Testament", "order", "sections"],
       questions: [
         {
@@ -3687,11 +3687,11 @@ export const referenceData = {
       ],
     },
     {
-      title: "New Testament Books Order Quiz",
+      title: "Starter Quiz: New Testament book order",
       kicker: "New Testament",
       summary: "A beginner quiz for learning the order of the New Testament books and what each section is doing.",
       detail: "This quiz helps a beginner see the New Testament as a connected flow from the Gospels to Acts to the letters and Revelation. It is the fastest way to stop the New Testament from feeling like random shorter books after the Gospels.",
-      start: "Take this after the Bible Books Order and Sections Quiz when the New Testament still feels unfamiliar.",
+      start: "Take this after the Starter Quiz: Bible books order and sections when the New Testament still feels unfamiliar.",
       tags: ["New Testament", "order", "sections"],
       questions: [
         {
@@ -3717,7 +3717,7 @@ export const referenceData = {
       ],
     },
     {
-      title: "Bible Sections Foundation Quiz",
+      title: "Starter Quiz: Bible section foundations",
       kicker: "Whole Bible",
       summary: "Checks whether the major sections of the Bible are starting to make sense.",
       detail: "Use this before going deep into individual books. It keeps Law, history, poetry, prophets, Gospels, Acts, letters, and Revelation in the right mental buckets.",
@@ -3743,7 +3743,7 @@ export const referenceData = {
       kicker: "Section",
       summary: "Checks the first major Old Testament section: Genesis through Deuteronomy.",
       detail: "This quiz helps a beginner see the Torah as a connected story of creation, promise, rescue, covenant, law, and wilderness formation rather than five separate books.",
-      start: "Take this after the Bible Sections Foundation Quiz or after reading Genesis through Deuteronomy at a high level.",
+      start: "Take this after the Starter Quiz: Bible section foundations or after reading Genesis through Deuteronomy at a high level.",
       tags: ["Torah", "Pentateuch", "section"],
       questions: [
         {

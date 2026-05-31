@@ -20,6 +20,10 @@ function quizQuestionAnswer(question) {
   return asText(question?.answer);
 }
 
+function quizStudyLinkLabel(track) {
+  return track === "starter" ? "Start with map" : "Study guide";
+}
+
 function searchable(item) {
   const questions = quizQuestions(item);
   return [
@@ -35,7 +39,7 @@ function searchable(item) {
     .toLowerCase();
 }
 
-export function referenceCard(item) {
+export function referenceCard(item, options = {}) {
   const title = asText(item.title, "Untitled entry");
   const kicker = asText(item.kicker, "Reference");
   const summary = asText(item.summary);
@@ -43,6 +47,15 @@ export function referenceCard(item) {
   const start = asText(item.start);
   const tagMarkup = asArray(item.tags).map((tag) => `<span class="pill">${escapeHtml(tag)}</span>`).join("");
   const questions = quizQuestions(item);
+  const quizTrack = questions.length ? quizTrackForItem(item) : "";
+  const studyGuidePathPrefix = asText(options.quizGuidePathPrefix, "");
+  const studyGuideMarkup = quizTrack && studyGuidePathPrefix !== undefined
+    ? `
+      <div class="reference-card-actions">
+        <a class="button button-secondary" href="${escapeHtml(`${studyGuidePathPrefix}quiz-study.html?quiz=${encodeURIComponent(slugify(title))}&track=${encodeURIComponent(quizTrack)}`)}">${escapeHtml(quizStudyLinkLabel(quizTrack))}</a>
+      </div>
+    `
+    : "";
   const questionMarkup = questions.length
     ? `
       <div class="quiz-questions">
@@ -78,6 +91,7 @@ export function referenceCard(item) {
         <p>${escapeHtml(start)}</p>
       </div>
       ${questionMarkup}
+      ${studyGuideMarkup}
       <div class="resource-meta">${tagMarkup}</div>
     </article>
   `;
@@ -168,11 +182,11 @@ function quizTrackPagePath(track) {
 }
 
 const starterQuizTitles = [
-  "Bible Book Order Starter Quiz",
-  "Bible Books Order and Sections Quiz",
-  "Old Testament Books Order Quiz",
-  "New Testament Books Order Quiz",
-  "Bible Sections Foundation Quiz",
+  "Starter Quiz: Bible book order and major sections",
+  "Starter Quiz: Bible books order and sections",
+  "Starter Quiz: Old Testament book order",
+  "Starter Quiz: New Testament book order",
+  "Starter Quiz: Bible section foundations",
 ];
 
 const intermediateQuizTitles = [
@@ -308,8 +322,8 @@ function quizSectionCard(item) {
 
 function nextQuizCue(activeTrack, items) {
   if (activeTrack === "starter") {
-    const oldTestamentOrder = findQuiz(items, /Old Testament Books Order Quiz/i);
-    const newTestamentOrder = findQuiz(items, /New Testament Books Order Quiz/i);
+    const oldTestamentOrder = findQuiz(items, /Starter Quiz: Old Testament book order/i);
+    const newTestamentOrder = findQuiz(items, /Starter Quiz: New Testament book order/i);
     return `
       <div class="quiz-path-next">
         <span class="track-pill">Next step</span>
@@ -408,13 +422,13 @@ export function renderQuizToc(items, state = {}) {
         <div>
           <p class="eyebrow">Quiz curriculum</p>
           <h3>${escapeHtml(quizTrackLabel(activeTrack))} quizzes</h3>
-          <p>Search within this page’s quiz set.</p>
+          <p>${fixedTrack ? "Search this level and study the matching cards below." : "Search within this page’s quiz set."}</p>
         </div>
-        <a class="link" href="./quizzes.md">Quiz planning notes</a>
+        ${fixedTrack ? "" : `<a class="link" href="./quizzes.md">Quiz planning notes</a>`}
       </div>
       ${fixedTrack ? nextQuizCue(activeTrack, items) : ""}
       <div class="quiz-toc" data-quiz-track-view>${tocSections || "<p>No quiz sets match this search yet.</p>"}</div>
-      <p class="quiz-track-status" aria-live="polite">${escapeHtml(quizTrackLabel(activeTrack))} page.</p>
+      ${fixedTrack ? "" : `<p class="quiz-track-status" aria-live="polite">${escapeHtml(quizTrackLabel(activeTrack))} page.</p>`}
     </section>
   `;
 }
@@ -463,11 +477,8 @@ export function renderQuizGenerator(items, state) {
       <div class="quiz-generator-controls">
         <div>
           <p class="eyebrow">Random practice</p>
-          <p class="quiz-generator-context">
-            <span>${escapeHtml(activeTrackLabel)}</span>
-            <span class="is-step">Step ${escapeHtml(trackStep)}</span>
-          </p>
-          <p class="quiz-generator-mode" id="quiz-generator-mode" aria-live="polite">${escapeHtml(modeCopy)}</p>
+          ${state.fixedQuizTrack ? "" : `<p class="quiz-generator-context"><span>${escapeHtml(activeTrackLabel)}</span><span class="is-step">Step ${escapeHtml(trackStep)}</span></p>`}
+          ${state.fixedQuizTrack ? "" : `<p class="quiz-generator-mode" id="quiz-generator-mode" aria-live="polite">${escapeHtml(modeCopy)}</p>`}
           <h3>${availableCount} available questions</h3>
           <p>
             ${chosenCount
@@ -489,7 +500,7 @@ export function renderQuizGenerator(items, state) {
             Generate
           </button>
           ${state.fixedQuizTrack
-            ? `<a class="button button-secondary" href="${escapeHtml(quizTrackPagePath(nextTrack))}" aria-describedby="quiz-generator-mode" title="Go to ${escapeHtml(nextTrackLabel)} track">Next: ${escapeHtml(nextTrackLabel)}</a>`
+            ? ""
             : `<button class="button button-secondary" type="button" aria-label="Go to ${escapeHtml(nextTrackLabel)} track" aria-describedby="quiz-generator-mode" title="Go to ${escapeHtml(nextTrackLabel)} track" data-quiz-track-filter="${escapeHtml(nextTrack)}">${escapeHtml(nextTrackLabel)}</button>`}
         </div>
       </div>
@@ -498,9 +509,9 @@ export function renderQuizGenerator(items, state) {
   `;
 }
 
-export function renderQuizCard(item) {
+export function renderQuizCard(item, options = {}) {
   const title = asText(item.title, "Untitled quiz");
-  const card = referenceCard(item);
+  const card = referenceCard(item, options);
   return card.replace("<article", `<article id="${escapeHtml(slugify(title))}"`);
 }
 
@@ -510,7 +521,7 @@ export function renderQuizView(items, state) {
     ${renderQuizToc(items, state)}
     ${renderQuizGenerator(items, state)}
     ${practiceItems.length
-      ? practiceItems.map(renderQuizCard).join("")
+      ? practiceItems.map((item) => renderQuizCard(item, { quizGuidePathPrefix: asText(state.quizGuidePathPrefix, "") })).join("")
       : trackEmptyState(state)}
   `;
 }

@@ -19,6 +19,7 @@ const requiredModules = [
   './reference-data.js',
   './reference-view.js',
   './reference.js',
+  './quiz-study.js',
 ];
 
 const entrypoints = [
@@ -26,6 +27,7 @@ const entrypoints = [
   ['resources.html', './app.js'],
   ['poetry.html', './app.js'],
   ['reference.html', './reference.js'],
+  ['quiz-study.html', './quiz-study.js'],
   ['roadmap.html', './roadmap.js'],
 ];
 
