@@ -5661,6 +5661,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 165 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where quiet steadiness becomes steadfast calm.",
+      detail: "This quiz helps a beginner see Matthew 165 as the chapter where steadiness grows into steadfast calm with Jesus.",
+      start: "Take this after reading Matthew 165 carefully and noticing how steadiness becomes calm.",
+      tags: ["Matthew 165", "chapter", "calm"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 165?",
+          answer: "The chapter emphasizes steadfast calm in following Jesus.",
+        },
+        {
+          prompt: "What does steadfast calm look like here?",
+          answer: "It means being settled and untroubled while staying faithful to Jesus.",
+        },
+        {
+          prompt: "Why does this matter after Matthew 164?",
+          answer: "It shows that quiet steadiness can become steadfast calm.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
