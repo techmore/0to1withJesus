@@ -4531,6 +4531,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 26 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Isaac faces famine, wells, and God's reaffirmed promise.",
+      detail: "This quiz helps a beginner see Genesis 26 as the chapter where Isaac repeats some of his father's patterns while God confirms the covenant again.",
+      start: "Take this after reading Genesis 26 carefully and noticing the famine, the wells, and the covenant renewal.",
+      tags: ["Genesis 26", "chapter", "isaac"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Genesis 26?",
+          answer: "The chapter emphasizes Isaac's testing in famine, his disputes over wells, and God's reaffirmation of the promise.",
+        },
+        {
+          prompt: "What recurring pattern appears in Genesis 26?",
+          answer: "Isaac repeats some of Abraham's experiences, including fear and conflict over land and wells.",
+        },
+        {
+          prompt: "Why does Genesis 26 matter after Genesis 25?",
+          answer: "It shows the promise continuing through Isaac and prepares the story for the next generation.",
+        },
+      ],
+    },
+    {
       title: "Exodus Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Exodus as the Bible's great rescue story.",
