@@ -10515,6 +10515,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Chronicles 2 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Solomon prepares to build the temple with help from Hiram.",
+      detail: "This quiz helps a beginner see 2 Chronicles 2 as the preparation and partnership that begins the temple project.",
+      start: "Take this after 2 Chronicles 1 when you want to continue the chapter-by-chapter reading.",
+      tags: ["2 Chronicles 2", "chapter", "temple"],
+      questions: [
+        {
+          prompt: "What does Solomon prepare to build in 2 Chronicles 2?",
+          answer: "The temple.",
+        },
+        {
+          prompt: "Who helps him get materials?",
+          answer: "Hiram of Tyre.",
+        },
+        {
+          prompt: "Why does 2 Chronicles 2 matter?",
+          answer: "It begins the practical work of building the temple.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
