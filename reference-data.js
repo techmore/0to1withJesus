@@ -7127,6 +7127,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Deuteronomy 16 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Moses teaches the appointed feasts and just leadership in the land.",
+      detail: "This quiz helps a beginner see Deuteronomy 16 as a chapter about worship rhythms, remembering rescue, and fair justice.",
+      start: "Take this after reading Deuteronomy 16 carefully and noticing the Passover, Weeks, Booths, and the call for justice.",
+      tags: ["Deuteronomy 16", "chapter", "feasts"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Deuteronomy 16?",
+          answer: "The chapter emphasizes the appointed feasts and righteous leadership.",
+        },
+        {
+          prompt: "Which three major feasts are highlighted?",
+          answer: "Passover, the Feast of Weeks, and the Feast of Booths are highlighted.",
+        },
+        {
+          prompt: "Why does Deuteronomy 16 matter?",
+          answer: "It ties worship, remembrance, and fair judgment together in Israel's life.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
