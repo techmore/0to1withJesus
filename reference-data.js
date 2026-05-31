@@ -4553,6 +4553,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 27 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Jacob receives Isaac's blessing through deception.",
+      detail: "This quiz helps a beginner see Genesis 27 as the chapter where family conflict, favoritism, and blessing shape the next stage of the story.",
+      start: "Take this after reading Genesis 27 carefully and noticing the deception, the blessing, and Esau's grief.",
+      tags: ["Genesis 27", "chapter", "jacob"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Genesis 27?",
+          answer: "The chapter emphasizes Jacob receiving Isaac's blessing through deception and the resulting family conflict.",
+        },
+        {
+          prompt: "Who is involved in the deception in Genesis 27?",
+          answer: "Rebekah and Jacob deceive Isaac so Jacob receives the blessing meant for Esau.",
+        },
+        {
+          prompt: "Why does Genesis 27 matter after Genesis 26?",
+          answer: "It escalates the tension between Jacob and Esau and moves the promise story into a new, troubled phase.",
+        },
+      ],
+    },
+    {
       title: "Exodus Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Exodus as the Bible's great rescue story.",
