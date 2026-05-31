@@ -9063,6 +9063,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Kings 15 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Asa reigns in Judah and the kings are compared.",
+      detail: "This quiz helps a beginner see 1 Kings 15 as a chapter that contrasts partial faithfulness and ongoing instability in both kingdoms.",
+      start: "Take this after 1 Kings 14 when you want to continue the book chapter by chapter.",
+      tags: ["1 Kings 15", "chapter", "Asa"],
+      questions: [
+        {
+          prompt: "Who reigns in Judah in 1 Kings 15?",
+          answer: "Asa.",
+        },
+        {
+          prompt: "What pattern appears in the chapter?",
+          answer: "The kings are compared in terms of faithfulness and failure.",
+        },
+        {
+          prompt: "Why does 1 Kings 15 matter?",
+          answer: "It shows that Judah's story continues with mixed faithfulness and ongoing conflict.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
