@@ -5719,6 +5719,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 29 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Aaron and his sons are consecrated for priestly service.",
+      detail: "This quiz helps a beginner see Exodus 29 as the chapter where the priests are set apart through sacrifices and ritual washing.",
+      start: "Take this after reading Exodus 29 carefully and noticing the ordination, sacrifices, and holiness language.",
+      tags: ["Exodus 29", "chapter", "priests"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Exodus 29?",
+          answer: "The chapter emphasizes the consecration of Aaron and his sons as priests.",
+        },
+        {
+          prompt: "What actions are part of the priestly consecration in Exodus 29?",
+          answer: "The chapter includes washing, sacrifices, and anointing.",
+        },
+        {
+          prompt: "Why does Exodus 29 matter after Exodus 28?",
+          answer: "It prepares the priests to wear the garments described in the previous chapter and serve in holiness.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
