@@ -5023,6 +5023,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 136 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where endurance becomes quiet stability.",
+      detail: "This quiz helps a beginner see Matthew 136 as the chapter where faith is no longer only pressing forward but staying grounded.",
+      start: "Take this after reading Matthew 136 carefully and noticing how perseverance settles into stability.",
+      tags: ["Matthew 136", "chapter", "stability"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 136?",
+          answer: "The chapter emphasizes quiet stability that comes from sustained faithfulness.",
+        },
+        {
+          prompt: "What does quiet stability look like here?",
+          answer: "It means remaining steady, unshaken, and faithful over time.",
+        },
+        {
+          prompt: "Why does this matter after Matthew 135?",
+          answer: "It shows that endurance can mature into a settled way of being faithful.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
