@@ -4759,6 +4759,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 124 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where obedient follow-through becomes a steadier way of life.",
+      detail: "This quiz helps a beginner see Matthew 124 as the chapter where Jesus' teaching settles into practice and forms habits of trust and action.",
+      start: "Take this after reading Matthew 124 carefully and noticing how obedience becomes a repeated pattern.",
+      tags: ["Matthew 124", "chapter", "practice"],
+      questions: [
+        {
+          prompt: "What changes in Matthew 124 compared with the previous chapter?",
+          answer: "The response to Jesus becomes more settled and repeated rather than momentary.",
+        },
+        {
+          prompt: "What does steady practice look like here?",
+          answer: "It means continuing to do what Jesus says until it becomes part of daily life.",
+        },
+        {
+          prompt: "Why is this chapter important for a beginner?",
+          answer: "It shows that discipleship is not just hearing and focus but a way of living.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
