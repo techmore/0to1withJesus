@@ -4705,6 +4705,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 34 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Jesus' teaching on judging others, asking the Father, and the narrow gate.",
+      detail: "This quiz helps a beginner see Matthew 34 as the chapter where Jesus warns against hypocrisy, urges persistence in prayer, and calls for decisive obedience.",
+      start: "Take this after reading Matthew 34 carefully and noticing the warnings and the promise of the Father's generosity.",
+      tags: ["Matthew 34", "chapter", "judging"],
+      questions: [
+        {
+          prompt: "What does Jesus warn about judging others?",
+          answer: "He warns not to judge hypocritically and calls people to remove the log from their own eye first.",
+        },
+        {
+          prompt: "What does Jesus promise about asking, seeking, and knocking?",
+          answer: "He promises that the Father gives good gifts to those who ask, seek, and knock.",
+        },
+        {
+          prompt: "What does Jesus say about the way that leads to life?",
+          answer: "He says the gate is narrow and the way is hard, but it leads to life.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
