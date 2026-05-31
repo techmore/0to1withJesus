@@ -7809,6 +7809,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Joshua 12 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter that lists the kings Israel defeated on the west and east sides of the Jordan.",
+      detail: "This quiz helps a beginner see Joshua 12 as a summary chapter that records the scope of God's victories and the breadth of the conquest.",
+      start: "Take this after reading Joshua 12 carefully and noticing the list of kings and the review of conquered territory.",
+      tags: ["Joshua 12", "chapter", "kings"],
+      questions: [
+        {
+          prompt: "What is Joshua 12 mainly about?",
+          answer: "It lists the kings Israel defeated under Joshua.",
+        },
+        {
+          prompt: "Why does the chapter include this list?",
+          answer: "To remember the scope of the victories the Lord gave to Israel.",
+        },
+        {
+          prompt: "Why does Joshua 12 matter?",
+          answer: "It shows that God's promises are being fulfilled through real historical victories.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
