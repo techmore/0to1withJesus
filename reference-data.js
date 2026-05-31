@@ -13669,6 +13669,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 51 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where overflowing testimony becomes public witness.",
+      detail: "This quiz helps a beginner see Matthew 51 as the chapter where witness moves from shared abundance into clear public testimony.",
+      start: "Take this after reading Matthew 51 carefully and noticing how testimony becomes public.",
+      tags: ["Matthew 51", "chapter", "witness"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 51?",
+          answer: "The chapter emphasizes testimony that has become public witness.",
+        },
+        {
+          prompt: "What does public witness look like here?",
+          answer: "It means speaking about the good work openly and clearly.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 50?",
+          answer: "It shows that overflowing testimony should be shared openly.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
