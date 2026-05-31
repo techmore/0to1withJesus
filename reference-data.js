@@ -5365,6 +5365,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 64 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the first healings and exorcisms in Mark's opening movement.",
+      detail: "This quiz helps a beginner see Matthew 64 as the chapter where Jesus shows authority in public with healings and spiritual power.",
+      start: "Take this after reading Matthew 64 carefully and noticing the healing, the exorcism, and the reaction of the people.",
+      tags: ["Matthew 64", "chapter", "authority"],
+      questions: [
+        {
+          prompt: "What kinds of acts show Jesus' authority?",
+          answer: "He heals and drives out unclean spirits.",
+        },
+        {
+          prompt: "How do the people respond?",
+          answer: "They are amazed and talk about his power.",
+        },
+        {
+          prompt: "What does this chapter reveal?",
+          answer: "It reveals Jesus' authority over sickness and evil.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
