@@ -7303,6 +7303,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Deuteronomy 24 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Moses teaches about marriage, justice, wages, and mercy for the vulnerable.",
+      detail: "This quiz helps a beginner see Deuteronomy 24 as a chapter about protecting family order, fair dealing, and compassion.",
+      start: "Take this after reading Deuteronomy 24 carefully and noticing the laws about divorce, wages, and care for the poor.",
+      tags: ["Deuteronomy 24", "chapter", "compassion"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Deuteronomy 24?",
+          answer: "The chapter emphasizes fair treatment, family order, and compassion for vulnerable people.",
+        },
+        {
+          prompt: "What practical matters are addressed in this chapter?",
+          answer: "Marriage, divorce, wages, gleaning, and care for foreigners, widows, and orphans are addressed.",
+        },
+        {
+          prompt: "Why does Deuteronomy 24 matter?",
+          answer: "It shows that covenant holiness includes mercy, fairness, and social responsibility.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
