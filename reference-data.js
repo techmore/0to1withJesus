@@ -6135,6 +6135,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 99 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where readiness and resilience remain central.",
+      detail: "This quiz helps a beginner see Matthew 99 as the chapter where Jesus keeps forming disciples who can stay ready and resilient.",
+      start: "Take this after reading Matthew 99 carefully and noticing the call to stay prepared.",
+      tags: ["Matthew 99", "chapter", "readiness"],
+      questions: [
+        {
+          prompt: "What remains central?",
+          answer: "Readiness and resilience remain central.",
+        },
+        {
+          prompt: "What does Jesus keep building?",
+          answer: "He keeps building steady, prepared disciples.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how preparation is part of discipleship.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
