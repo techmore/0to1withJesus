@@ -6267,6 +6267,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 105 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where endurance becomes a practical habit of faith.",
+      detail: "This quiz helps a beginner see Matthew 105 as the chapter where Jesus keeps making endurance concrete and ordinary.",
+      start: "Take this after reading Matthew 105 carefully and noticing how repeated faithfulness becomes a habit.",
+      tags: ["Matthew 105", "chapter", "habit"],
+      questions: [
+        {
+          prompt: "What does endurance become?",
+          answer: "It becomes a practical habit of faith.",
+        },
+        {
+          prompt: "What does Jesus keep emphasizing?",
+          answer: "He keeps emphasizing steady, repeated obedience.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how faith is built through habits.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
