@@ -7765,6 +7765,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Joshua 10 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where the Lord gives Israel victory in a battle that includes hail and the sun standing still.",
+      detail: "This quiz helps a beginner see Joshua 10 as the chapter where God fights for his people and shows his power over nature and enemies.",
+      start: "Take this after reading Joshua 10 carefully and noticing the long day, the battle, and the five kings.",
+      tags: ["Joshua 10", "chapter", "battle"],
+      questions: [
+        {
+          prompt: "What happens in Joshua 10?",
+          answer: "God gives Israel victory over its enemies, including the coalition of kings.",
+        },
+        {
+          prompt: "What unusual event happens in the battle?",
+          answer: "The sun stands still so Israel can keep fighting.",
+        },
+        {
+          prompt: "Why does Joshua 10 matter?",
+          answer: "It shows that the Lord can deliver his people in powerful and surprising ways.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
