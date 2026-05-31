@@ -5389,6 +5389,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 14 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where the sea is parted and Israel is rescued from Pharaoh's army.",
+      detail: "This quiz helps a beginner see Exodus 14 as the dramatic rescue chapter where the Lord saves his people through the sea.",
+      start: "Take this after reading Exodus 14 carefully and noticing the trapped Israelites, the sea crossing, and the defeat of Pharaoh's forces.",
+      tags: ["Exodus 14", "chapter", "red sea"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Exodus 14?",
+          answer: "The chapter emphasizes the Lord rescuing Israel through the sea.",
+        },
+        {
+          prompt: "What does Moses tell the people to do when they are afraid?",
+          answer: "Stand firm and see the salvation of the Lord.",
+        },
+        {
+          prompt: "Why does Exodus 14 matter after Exodus 13?",
+          answer: "It shows the Lord's power to save his people completely from Pharaoh.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
