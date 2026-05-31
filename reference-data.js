@@ -5595,6 +5595,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 162 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where quiet endurance becomes stable faith.",
+      detail: "This quiz helps a beginner see Matthew 162 as the chapter where endurance turns into stable faith in Jesus.",
+      start: "Take this after reading Matthew 162 carefully and noticing how endurance becomes faith.",
+      tags: ["Matthew 162", "chapter", "faith"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 162?",
+          answer: "The chapter emphasizes stable faith in following Jesus.",
+        },
+        {
+          prompt: "What does stable faith look like here?",
+          answer: "It means trusting Jesus in a way that remains firm under pressure.",
+        },
+        {
+          prompt: "Why does this matter after Matthew 161?",
+          answer: "It shows that quiet endurance can become stable faith.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
