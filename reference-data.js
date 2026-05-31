@@ -12745,6 +12745,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Obadiah Book Quiz",
+      kicker: "Book",
+      summary: "A whole-book check for Obadiah as a short prophecy about Edom's pride and Jerusalem's downfall.",
+      detail: "This quiz helps a beginner see Obadiah as a compact warning that pride, violence, and gloating over God's people will not stand.",
+      start: "Take this after Amos and after noticing the prophets address nations as well as Israel and Judah.",
+      tags: ["Obadiah", "book", "judgment"],
+      questions: [
+        {
+          prompt: "Who is the main target of Obadiah's warning?",
+          answer: "Edom.",
+        },
+        {
+          prompt: "What sin does Obadiah condemn?",
+          answer: "Pride and violence against Judah.",
+        },
+        {
+          prompt: "Why is Obadiah important for beginners?",
+          answer: "It shows that God sees pride and injustice among the nations too.",
+        },
+      ],
+    },
+    {
       title: "Gospel of John Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for John's main claims about Jesus.",
