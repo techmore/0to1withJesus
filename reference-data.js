@@ -6003,6 +6003,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 93 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next wave of teaching, where Jesus clarifies what faithful hearing looks like.",
+      detail: "This quiz helps a beginner see Matthew 93 as the chapter where Jesus keeps teaching so listeners can understand and obey more clearly.",
+      start: "Take this after reading Matthew 93 carefully and noticing the call to true hearing.",
+      tags: ["Matthew 93", "chapter", "hearing"],
+      questions: [
+        {
+          prompt: "What does Jesus keep emphasizing?",
+          answer: "He keeps emphasizing true hearing and response.",
+        },
+        {
+          prompt: "Why is the teaching important?",
+          answer: "It helps listeners understand how to obey faithfully.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice the difference between hearing and really receiving Jesus' words.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
