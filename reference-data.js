@@ -8007,6 +8007,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Joshua 21 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where the Levites receive their cities and the land allotments are completed.",
+      detail: "This quiz helps a beginner see Joshua 21 as the chapter where inheritance is finished and God's promises are visibly settled among the tribes.",
+      start: "Take this after reading Joshua 21 carefully and noticing the Levitical cities and the summary about the land.",
+      tags: ["Joshua 21", "chapter", "Levites"],
+      questions: [
+        {
+          prompt: "What do the Levites receive in Joshua 21?",
+          answer: "They receive cities and pasturelands.",
+        },
+        {
+          prompt: "Why is Joshua 21 significant?",
+          answer: "It shows that the land allotment has been completed for the tribes.",
+        },
+        {
+          prompt: "Why does Joshua 21 matter?",
+          answer: "It highlights God's faithfulness in bringing the inheritance process to completion.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
