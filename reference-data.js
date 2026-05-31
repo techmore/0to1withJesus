@@ -7487,6 +7487,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 156 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where lasting hope becomes quiet joy.",
+      detail: "This quiz helps a beginner see Matthew 156 as the chapter where Jesus turns steady hope into a settled joy that does not need noise.",
+      start: "Take this after reading Matthew 156 carefully and noticing how hope can become joy.",
+      tags: ["Matthew 156", "chapter", "joy"],
+      questions: [
+        {
+          prompt: "What does lasting hope become?",
+          answer: "It becomes quiet joy.",
+        },
+        {
+          prompt: "What does Jesus keep giving his people?",
+          answer: "He keeps giving them reasons to rejoice in his faithfulness.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how hope can settle into gladness.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
