@@ -5309,6 +5309,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 149 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where confident endurance becomes steadfast witness.",
+      detail: "This quiz helps a beginner see Matthew 149 as the chapter where patience turns into a witness that will not back down.",
+      start: "Take this after reading Matthew 149 carefully and noticing how endurance becomes witness.",
+      tags: ["Matthew 149", "chapter", "witness"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 149?",
+          answer: "The chapter emphasizes witness that stays steady under pressure.",
+        },
+        {
+          prompt: "What does steadfast witness look like here?",
+          answer: "It means continuing to speak and act for Jesus without wavering.",
+        },
+        {
+          prompt: "Why does this matter after Matthew 148?",
+          answer: "It shows that confident endurance should mature into steadfast witness.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
