@@ -4575,6 +4575,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 28 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Jacob leaves home and sees the ladder dream at Bethel.",
+      detail: "This quiz helps a beginner see Genesis 28 as the chapter where Jacob receives a promise on the road and begins life away from home.",
+      start: "Take this after reading Genesis 28 carefully and noticing the blessing, the dream, and Jacob's vow at Bethel.",
+      tags: ["Genesis 28", "chapter", "bethel"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Genesis 28?",
+          answer: "The chapter emphasizes Jacob's journey away from home, the dream at Bethel, and God's reaffirmed promise.",
+        },
+        {
+          prompt: "What does Jacob see in his dream in Genesis 28?",
+          answer: "He sees a ladder or stairway reaching to heaven with angels ascending and descending.",
+        },
+        {
+          prompt: "Why does Genesis 28 matter after Genesis 27?",
+          answer: "It shows Jacob leaving home after the conflict and receiving a direct reminder that God will be with him.",
+        },
+      ],
+    },
+    {
       title: "Exodus Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Exodus as the Bible's great rescue story.",
