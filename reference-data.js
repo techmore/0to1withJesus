@@ -3979,6 +3979,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 1 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the genealogy and the birth announcement to Joseph.",
+      detail: "This quiz helps a beginner see Matthew 1 as the chapter where Jesus is introduced as David's son and the child conceived by the Holy Spirit.",
+      start: "Take this after reading Matthew 1 carefully and noticing how the genealogy and Joseph's dream frame Jesus' identity.",
+      tags: ["Matthew 1", "chapter", "genealogy"],
+      questions: [
+        {
+          prompt: "What does Matthew's genealogy emphasize about Jesus?",
+          answer: "It shows Jesus as the son of David and the son of Abraham, fulfilling promise and lineage.",
+        },
+        {
+          prompt: "How is Jesus' birth described?",
+          answer: "Jesus is conceived by the Holy Spirit and born to Mary while Joseph is told to name him Jesus.",
+        },
+        {
+          prompt: "Why is Joseph important in this chapter?",
+          answer: "Joseph is told in a dream to take Mary as his wife and to recognize the child as God's saving gift.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
