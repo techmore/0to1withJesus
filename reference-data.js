@@ -12855,6 +12855,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Zephaniah Book Quiz",
+      kicker: "Book",
+      summary: "A whole-book check for Zephaniah as a prophetic call to humility, judgment, and restoration.",
+      detail: "This quiz helps a beginner see Zephaniah as a warning that ends in hope and God’s joyful presence among his people.",
+      start: "Take this after Habakkuk and after noticing that the prophets move from warning toward restoration.",
+      tags: ["Zephaniah", "book", "judgment"],
+      questions: [
+        {
+          prompt: "What is Zephaniah mainly warning about?",
+          answer: "The coming day of the Lord and the need to turn back to God.",
+        },
+        {
+          prompt: "What hope is offered in Zephaniah?",
+          answer: "God will restore a humble people and rejoice over them.",
+        },
+        {
+          prompt: "Why is Zephaniah important for beginners?",
+          answer: "It shows that warning and mercy belong together in the prophets.",
+        },
+      ],
+    },
+    {
       title: "Gospel of John Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for John's main claims about Jesus.",
