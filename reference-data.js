@@ -5695,6 +5695,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 79 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Mark's parables about growth, seed, and the kingdom's hidden power.",
+      detail: "This quiz helps a beginner see Matthew 79 as the chapter where Jesus uses parables to show how God's kingdom grows quietly and surely.",
+      start: "Take this after reading Matthew 79 carefully and noticing the seed imagery and the explanation of growth.",
+      tags: ["Matthew 79", "chapter", "growth"],
+      questions: [
+        {
+          prompt: "What imagery does Jesus use?",
+          answer: "He uses seed and growth imagery.",
+        },
+        {
+          prompt: "What does the imagery teach?",
+          answer: "It teaches that the kingdom grows in hidden but real ways.",
+        },
+        {
+          prompt: "What does the chapter emphasize?",
+          answer: "It emphasizes quiet but certain kingdom growth.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
