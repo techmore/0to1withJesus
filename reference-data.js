@@ -5749,6 +5749,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 169 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where grounded peace becomes quiet confidence.",
+      detail: "This quiz helps a beginner see Matthew 169 as the chapter where peace settles into quiet confidence with Jesus.",
+      start: "Take this after reading Matthew 169 carefully and noticing how peace becomes confidence.",
+      tags: ["Matthew 169", "chapter", "confidence"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 169?",
+          answer: "The chapter emphasizes quiet confidence in following Jesus.",
+        },
+        {
+          prompt: "What does quiet confidence look like here?",
+          answer: "It means trusting Jesus without needing to prove yourself.",
+        },
+        {
+          prompt: "Why does this matter after Matthew 168?",
+          answer: "It shows that grounded peace can become quiet confidence.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
