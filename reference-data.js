@@ -9173,6 +9173,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Samuel 21 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where famine, justice, and remembrance of Saul's house come into view.",
+      detail: "This quiz helps a beginner see 2 Samuel 21 as a chapter where David has to deal with the long aftermath of earlier sins and broken covenants.",
+      start: "Take this after 2 Samuel 20 when you want to see the deeper consequences still unfolding.",
+      tags: ["2 Samuel 21", "chapter", "David"],
+      questions: [
+        {
+          prompt: "What crisis appears in 2 Samuel 21?",
+          answer: "A famine in the land.",
+        },
+        {
+          prompt: "What does David discover is connected to the famine?",
+          answer: "It is tied to Saul's house and unresolved bloodguilt.",
+        },
+        {
+          prompt: "Why does 2 Samuel 21 matter?",
+          answer: "It shows that old sins and covenant failures continue to have consequences.",
+        },
+      ],
+    },
+    {
       title: "1 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where Hannah prays for a son and Samuel's story begins.",
