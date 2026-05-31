@@ -15055,6 +15055,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 114 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where steady judgment becomes patient fairness.",
+      detail: "This quiz helps a beginner see Matthew 114 as the chapter where judgment starts to settle into patient fairness.",
+      start: "Take this after reading Matthew 114 carefully and noticing how judgment becomes fairness.",
+      tags: ["Matthew 114", "chapter", "fairness"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 114?",
+          answer: "The chapter emphasizes judgment that is becoming patient fairness.",
+        },
+        {
+          prompt: "What does patient fairness look like here?",
+          answer: "It means judging kindly and evenhandedly without rushing.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 113?",
+          answer: "It shows that steady judgment should become patient fairness.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
