@@ -4825,6 +4825,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 127 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where endurance learns to stay steady in uncertainty.",
+      detail: "This quiz helps a beginner see Matthew 127 as the chapter where the disciple keeps trusting even when the path is unclear.",
+      start: "Take this after reading Matthew 127 carefully and noticing how faith holds through uncertainty.",
+      tags: ["Matthew 127", "chapter", "trust"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 127?",
+          answer: "The chapter emphasizes trusting Jesus when the situation is unclear.",
+        },
+        {
+          prompt: "What does steady trust look like here?",
+          answer: "It means continuing to follow and obey even without full clarity.",
+        },
+        {
+          prompt: "Why does this matter after Matthew 126?",
+          answer: "It shows that endurance also includes trust when the next step is not obvious.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
