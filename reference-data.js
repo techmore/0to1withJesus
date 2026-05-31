@@ -10801,6 +10801,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Chronicles 15 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Asa responds to the prophet's message and reforms Judah.",
+      detail: "This quiz helps a beginner see 2 Chronicles 15 as a call to renewed faithfulness, covenant seeking, and reform.",
+      start: "Take this after 2 Chronicles 14 when you want to continue the chapter-by-chapter reading.",
+      tags: ["2 Chronicles 15", "chapter", "Asa"],
+      questions: [
+        {
+          prompt: "Who encourages Asa in 2 Chronicles 15?",
+          answer: "The prophet Azariah.",
+        },
+        {
+          prompt: "What does Asa do in response?",
+          answer: "He removes idols and renews the covenant.",
+        },
+        {
+          prompt: "Why does 2 Chronicles 15 matter?",
+          answer: "It shows Judah returning to seek the Lord together.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
