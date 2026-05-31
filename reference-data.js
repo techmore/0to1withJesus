@@ -8821,6 +8821,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Samuel 6 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where the Philistines send the ark back and Israel learns to treat it with reverence.",
+      detail: "This quiz helps a beginner see 1 Samuel 6 as the chapter where the ark returns and the seriousness of God's holiness is reinforced.",
+      start: "Take this after 1 Samuel 5 when you want to see the ark return to Israel.",
+      tags: ["1 Samuel 6", "chapter", "ark"],
+      questions: [
+        {
+          prompt: "What do the Philistines do in 1 Samuel 6?",
+          answer: "They send the ark back to Israel.",
+        },
+        {
+          prompt: "What does Israel learn in the chapter?",
+          answer: "It learns to handle the ark with reverence and not casually.",
+        },
+        {
+          prompt: "Why does 1 Samuel 6 matter?",
+          answer: "It shows that God's holiness demands respect even when his people celebrate his presence.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
