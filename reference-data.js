@@ -4067,6 +4067,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Luke 3 Quiz",
+      kicker: "Chapter",
+      summary: "Checks John the Baptist's message, repentance, and Jesus' baptism.",
+      detail: "This quiz helps a beginner see Luke 3 as the chapter where the way is prepared, repentance is preached, and Jesus is publicly identified at his baptism.",
+      start: "Take this after reading Luke 3 carefully and noticing the movement from preparation to baptism to genealogy.",
+      tags: ["Luke 3", "chapter", "repentance"],
+      questions: [
+        {
+          prompt: "What is John the Baptist calling people to do?",
+          answer: "He calls people to repent and prepare for the Lord.",
+        },
+        {
+          prompt: "What happens when Jesus is baptized?",
+          answer: "The Spirit descends and the Father's voice identifies Jesus as his Son.",
+        },
+        {
+          prompt: "What major list ends the chapter?",
+          answer: "Luke gives a genealogy tracing Jesus' line back through Israel and to Adam.",
+        },
+      ],
+    },
+    {
       title: "John 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the opening claims about Jesus as the Word, light, and Son.",
