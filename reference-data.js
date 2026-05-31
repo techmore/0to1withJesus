@@ -7435,6 +7435,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Deuteronomy 30 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Moses calls Israel to choose life and return to the Lord.",
+      detail: "This quiz helps a beginner see Deuteronomy 30 as a chapter about repentance, hope, and the nearness of God's word.",
+      start: "Take this after reading Deuteronomy 30 carefully and noticing the call to return, obey, and choose life.",
+      tags: ["Deuteronomy 30", "chapter", "repentance"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Deuteronomy 30?",
+          answer: "The chapter emphasizes returning to God and choosing life.",
+        },
+        {
+          prompt: "How does Moses describe God's word in this chapter?",
+          answer: "He says it is near and accessible, not far away.",
+        },
+        {
+          prompt: "Why does Deuteronomy 30 matter?",
+          answer: "It ends the covenant warnings with a clear invitation to repent and live.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
