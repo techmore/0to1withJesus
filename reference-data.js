@@ -11153,6 +11153,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Chronicles 31 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Hezekiah organizes temple service and offerings.",
+      detail: "This quiz helps a beginner see 2 Chronicles 31 as a chapter about ordered worship, generosity, and faithfulness after revival.",
+      start: "Take this after 2 Chronicles 30 when you want to continue the chapter-by-chapter reading.",
+      tags: ["2 Chronicles 31", "chapter", "Hezekiah"],
+      questions: [
+        {
+          prompt: "What does Hezekiah organize in 2 Chronicles 31?",
+          answer: "Temple service, offerings, and tithes.",
+        },
+        {
+          prompt: "What does the chapter say about the people's response?",
+          answer: "They give generously and support the priests and Levites.",
+        },
+        {
+          prompt: "Why does 2 Chronicles 31 matter?",
+          answer: "It shows worship being sustained by obedience and generosity.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
