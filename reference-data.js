@@ -8579,6 +8579,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Ruth Book Quiz",
+      kicker: "Book",
+      summary: "Checks the big picture of Ruth as a story of loyal love, provision, and family redemption.",
+      detail: "This quiz helps a beginner see Ruth as a hopeful story that follows the chaos of Judges and points toward God's redeeming kindness.",
+      start: "Take this after Judges when you want to read a shorter story about faithfulness and redemption.",
+      tags: ["Ruth", "book", "redemption"],
+      questions: [
+        {
+          prompt: "What is the book of Ruth mainly about?",
+          answer: "Loyal love, providence, and family redemption.",
+        },
+        {
+          prompt: "Why is Ruth important?",
+          answer: "It shows God's kindness working through ordinary people and difficult circumstances.",
+        },
+        {
+          prompt: "Why does Ruth matter?",
+          answer: "It points to hope after Judges and connects to the line that leads to David.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
