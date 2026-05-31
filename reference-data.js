@@ -5639,6 +5639,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 164 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where patient trust becomes quiet steadiness.",
+      detail: "This quiz helps a beginner see Matthew 164 as the chapter where trust settles into quiet steadiness with Jesus.",
+      start: "Take this after reading Matthew 164 carefully and noticing how trust becomes steadiness.",
+      tags: ["Matthew 164", "chapter", "steadiness"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 164?",
+          answer: "The chapter emphasizes quiet steadiness in following Jesus.",
+        },
+        {
+          prompt: "What does quiet steadiness look like here?",
+          answer: "It means staying composed and faithful without being easily shaken.",
+        },
+        {
+          prompt: "Why does this matter after Matthew 163?",
+          answer: "It shows that patient trust can become quiet steadiness.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
