@@ -4947,6 +4947,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 45 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the triumphal entry, the temple cleansing, and Jesus' authority in the city.",
+      detail: "This quiz helps a beginner see Matthew 45 as the chapter where Jesus enters Jerusalem publicly, confronts corruption, and teaches with growing conflict around him.",
+      start: "Take this after reading Matthew 45 carefully and noticing the procession, the temple action, and the questions about authority.",
+      tags: ["Matthew 45", "chapter", "Jerusalem"],
+      questions: [
+        {
+          prompt: "How does Jesus enter Jerusalem?",
+          answer: "He enters as the kingly Messiah on a donkey, with the crowd welcoming him.",
+        },
+        {
+          prompt: "What does Jesus do in the temple?",
+          answer: "He drives out the sellers and overturns the corruption there.",
+        },
+        {
+          prompt: "What challenge grows around Jesus?",
+          answer: "The leaders question his authority and opposition to him intensifies.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
