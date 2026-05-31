@@ -6775,6 +6775,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Deuteronomy Book Quiz",
+      kicker: "Book",
+      summary: "A whole-book check for Deuteronomy as Moses' final covenant summary and warning.",
+      detail: "This quiz helps a beginner see Deuteronomy as a book of remembrance, covenant renewal, and preparation to enter the land. It highlights Moses' speeches, the Shema, blessing, warning, and choosing life.",
+      start: "Take this after Exodus and Numbers so Deuteronomy feels like Moses' final sermon before Israel enters the land.",
+      tags: ["Deuteronomy", "book", "covenant"],
+      questions: [
+        {
+          prompt: "What is the main shape of Deuteronomy?",
+          answer: "It is Moses' farewell speech, reviewing God's faithfulness and renewing covenant warnings and promises.",
+        },
+        {
+          prompt: "What central command does Deuteronomy emphasize about loving God?",
+          answer: "It emphasizes loving the Lord with all your heart, soul, and strength.",
+        },
+        {
+          prompt: "Why does Deuteronomy matter for the rest of the Bible?",
+          answer: "It frames covenant obedience, blessing, warning, and the choice between life and death as Israel enters the land.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
