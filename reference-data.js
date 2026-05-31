@@ -8821,6 +8821,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Kings 4 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter that describes Solomon's officials, wisdom, and peace in the kingdom.",
+      detail: "This quiz helps a beginner see 1 Kings 4 as a picture of Solomon's organized, prosperous reign under God's blessing.",
+      start: "Take this after 1 Kings 3 when you want to continue the book chapter by chapter.",
+      tags: ["1 Kings 4", "chapter", "Solomon"],
+      questions: [
+        {
+          prompt: "What does 1 Kings 4 describe about Solomon's kingdom?",
+          answer: "His officials, administration, and orderly rule.",
+        },
+        {
+          prompt: "What stands out about Solomon's wisdom in this chapter?",
+          answer: "His wisdom is broad and well known.",
+        },
+        {
+          prompt: "Why does 1 Kings 4 matter?",
+          answer: "It shows the kingdom at peace and Solomon ruling with wisdom and structure.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
