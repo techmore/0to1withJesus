@@ -14659,6 +14659,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 96 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where calm confidence becomes quiet assurance.",
+      detail: "This quiz helps a beginner see Matthew 96 as the chapter where confidence starts to settle into quiet assurance.",
+      start: "Take this after reading Matthew 96 carefully and noticing how confidence becomes assurance.",
+      tags: ["Matthew 96", "chapter", "assurance"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 96?",
+          answer: "The chapter emphasizes confidence that is becoming quiet assurance.",
+        },
+        {
+          prompt: "What does quiet assurance look like here?",
+          answer: "It means being settled and certain without being boastful.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 95?",
+          answer: "It shows that calm confidence should become quiet assurance.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
