@@ -7083,6 +7083,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Deuteronomy 14 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Moses teaches clean and unclean food and tithe practices.",
+      detail: "This quiz helps a beginner see Deuteronomy 14 as a chapter about holiness in daily habits, food, and generosity.",
+      start: "Take this after reading Deuteronomy 14 carefully and noticing the food laws, the tithe, and care for the vulnerable.",
+      tags: ["Deuteronomy 14", "chapter", "holiness"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Deuteronomy 14?",
+          answer: "The chapter emphasizes holiness in ordinary life, including food and giving.",
+        },
+        {
+          prompt: "What two practical areas are highlighted in this chapter?",
+          answer: "Dietary distinctions and tithing practices are highlighted.",
+        },
+        {
+          prompt: "Why does Deuteronomy 14 matter?",
+          answer: "It shows that covenant holiness reaches into everyday habits and care for others.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
