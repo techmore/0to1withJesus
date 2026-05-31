@@ -6365,6 +6365,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 116 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where stable comfort becomes quiet joy.",
+      detail: "This quiz helps a beginner see Matthew 116 as the chapter where Jesus turns settled comfort into quiet joy that can stay bright without display.",
+      start: "Take this after reading Matthew 116 carefully and noticing how comfort can become joy.",
+      tags: ["Matthew 116", "chapter", "joy"],
+      questions: [
+        {
+          prompt: "What does stable comfort become?",
+          answer: "It becomes quiet joy.",
+        },
+        {
+          prompt: "What does Jesus keep giving his followers?",
+          answer: "He keeps giving them gladness that can remain steady.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how comfort can bloom into joy.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
