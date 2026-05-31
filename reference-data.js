@@ -4837,6 +4837,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 33 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Jacob's meeting with Esau, their reconciliation, and Jacob's arrival in the land.",
+      detail: "This quiz helps a beginner see Genesis 33 as the chapter where the brothers finally meet again, the threat gives way to peace, and Jacob moves forward in the promised land.",
+      start: "Take this after reading Genesis 33 carefully and noticing the contrast between fear before the meeting and relief afterward.",
+      tags: ["Genesis 33", "chapter", "Esau"],
+      questions: [
+        {
+          prompt: "How do Jacob and Esau meet in Genesis 33?",
+          answer: "Jacob bows repeatedly, and Esau runs to embrace him instead of attacking him.",
+        },
+        {
+          prompt: "What does Jacob do with the gifts he sent ahead?",
+          answer: "He presents them as part of his effort to find favor with Esau.",
+        },
+        {
+          prompt: "Why is Genesis 33 important?",
+          answer: "It shows reconciliation between the brothers and lets Jacob continue into the land in peace.",
+        },
+      ],
+    },
+    {
       title: "Exodus 1 Quiz",
       kicker: "Chapter",
       summary: "Checks Israel's oppression in Egypt and the beginning of the rescue setting.",
