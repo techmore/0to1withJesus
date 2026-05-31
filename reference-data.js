@@ -11109,6 +11109,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Chronicles 29 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Hezekiah cleanses the temple and renews worship.",
+      detail: "This quiz helps a beginner see 2 Chronicles 29 as a hopeful turn back to the Lord through reform and restored worship.",
+      start: "Take this after 2 Chronicles 28 when you want to continue the chapter-by-chapter reading.",
+      tags: ["2 Chronicles 29", "chapter", "Hezekiah"],
+      questions: [
+        {
+          prompt: "What does Hezekiah do first in 2 Chronicles 29?",
+          answer: "He opens and cleanses the temple.",
+        },
+        {
+          prompt: "What is restored in the chapter?",
+          answer: "Temple worship and the people's covenant relationship with God.",
+        },
+        {
+          prompt: "Why does 2 Chronicles 29 matter?",
+          answer: "It marks a hopeful return to faithful worship.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
