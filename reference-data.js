@@ -4815,6 +4815,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 39 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Jesus' parables about the kingdom and the different kinds of hearers.",
+      detail: "This quiz helps a beginner see Matthew 39 as the chapter where Jesus teaches through stories that reveal how the kingdom grows and how people respond.",
+      start: "Take this after reading Matthew 39 carefully and noticing the soils, the wheat and weeds, and the hidden treasure.",
+      tags: ["Matthew 39", "chapter", "parables"],
+      questions: [
+        {
+          prompt: "What does the parable of the sower show?",
+          answer: "It shows that different hearers respond differently to the word, and only some bear fruit.",
+        },
+        {
+          prompt: "What does the parable of the wheat and weeds teach?",
+          answer: "It teaches that good and evil grow together for a time before final judgment.",
+        },
+        {
+          prompt: "What do the treasure and pearl parables teach?",
+          answer: "They teach that the kingdom is worth everything and should be prized above all else.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
