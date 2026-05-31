@@ -4617,6 +4617,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 23 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Sarah's death and Abraham's purchase of a burial place in the land.",
+      detail: "This quiz helps a beginner see Genesis 23 as the chapter where grief and promise meet in the purchase of the cave of Machpelah.",
+      start: "Take this after reading Genesis 23 carefully and noticing the negotiation, respect, and land purchase.",
+      tags: ["Genesis 23", "chapter", "Sarah"],
+      questions: [
+        {
+          prompt: "What happens to Sarah in Genesis 23?",
+          answer: "Sarah dies, and Abraham grieves her.",
+        },
+        {
+          prompt: "What does Abraham purchase?",
+          answer: "The cave of Machpelah as a burial place.",
+        },
+        {
+          prompt: "Why is Genesis 23 important?",
+          answer: "It shows the first concrete piece of the land promise and Abraham's respectful faith in the midst of sorrow.",
+        },
+      ],
+    },
+    {
       title: "Exodus 1 Quiz",
       kicker: "Chapter",
       summary: "Checks Israel's oppression in Egypt and the beginning of the rescue setting.",
