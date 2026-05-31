@@ -6467,6 +6467,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Numbers 23 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Balaam speaks blessings instead of curses.",
+      detail: "This quiz helps a beginner see Numbers 23 as the chapter where God's word overrides the attempt to curse Israel.",
+      start: "Take this after reading Numbers 23 carefully and noticing the altars, the sacrifices, and the blessing oracles.",
+      tags: ["Numbers 23", "chapter", "Balaam"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Numbers 23?",
+          answer: "The chapter emphasizes Balaam's oracles of blessing over Israel.",
+        },
+        {
+          prompt: "What keeps happening instead of cursing in Numbers 23?",
+          answer: "Balaam keeps speaking blessings that God puts in his mouth.",
+        },
+        {
+          prompt: "Why does Numbers 23 matter after Numbers 22?",
+          answer: "It shows that human plans to curse Israel cannot override God's blessing.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
