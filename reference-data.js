@@ -4729,6 +4729,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 35 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Jacob returns to Bethel and the family experiences loss and renewal.",
+      detail: "This quiz helps a beginner see Genesis 35 as the chapter where God reaffirms the name Israel and the family line carries both blessing and sorrow.",
+      start: "Take this after reading Genesis 35 carefully and noticing the return to Bethel, the death of Rachel, and the family list.",
+      tags: ["Genesis 35", "chapter", "bethel"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Genesis 35?",
+          answer: "The chapter emphasizes Jacob's return to Bethel, God's blessing, and the family's losses and promises.",
+        },
+        {
+          prompt: "What happens to Rachel in Genesis 35?",
+          answer: "Rachel dies while giving birth to Benjamin.",
+        },
+        {
+          prompt: "Why does Genesis 35 matter after Genesis 34?",
+          answer: "It shows God bringing Jacob back to worship and re-centering the family after a violent chapter.",
+        },
+      ],
+    },
+    {
       title: "Exodus Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Exodus as the Bible's great rescue story.",
