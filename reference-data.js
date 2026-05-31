@@ -5345,6 +5345,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 12 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Passover is instituted and Israel leaves Egypt.",
+      detail: "This quiz helps a beginner see Exodus 12 as the chapter where judgment passes over Israel and rescue begins in earnest.",
+      start: "Take this after reading Exodus 12 carefully and noticing the lamb, the blood on the doorposts, and the departure.",
+      tags: ["Exodus 12", "chapter", "passover"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Exodus 12?",
+          answer: "The chapter emphasizes Passover and Israel's deliverance from Egypt.",
+        },
+        {
+          prompt: "What protects Israel during the final plague in Exodus 12?",
+          answer: "The blood of the lamb on the doorposts.",
+        },
+        {
+          prompt: "Why does Exodus 12 matter after Exodus 11?",
+          answer: "It shows the decisive rescue event that fulfills God's warning.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
