@@ -4925,6 +4925,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 44 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Peter's confession, the transfiguration, and the cost of following Jesus.",
+      detail: "This quiz helps a beginner see Matthew 44 as the chapter where Jesus is recognized more clearly and then explains that true discipleship means taking up the cross.",
+      start: "Take this after reading Matthew 44 carefully and noticing the confession, the mountain, and Jesus' teaching about self-denial.",
+      tags: ["Matthew 44", "chapter", "discipleship"],
+      questions: [
+        {
+          prompt: "What does Peter confess about Jesus?",
+          answer: "Peter says that Jesus is the Christ, the Son of the living God.",
+        },
+        {
+          prompt: "What happens on the mountain?",
+          answer: "Jesus is transfigured and his glory is revealed to the disciples.",
+        },
+        {
+          prompt: "What does Jesus teach about following him?",
+          answer: "He says his followers must deny themselves, take up their cross, and follow him.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
