@@ -5133,6 +5133,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 141 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where clear witness becomes grounded faith.",
+      detail: "This quiz helps a beginner see Matthew 141 as the chapter where speaking clearly is rooted in trust rather than performance.",
+      start: "Take this after reading Matthew 141 carefully and noticing how witness stays rooted.",
+      tags: ["Matthew 141", "chapter", "faith"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 141?",
+          answer: "The chapter emphasizes witness that is grounded in faith rather than mere confidence.",
+        },
+        {
+          prompt: "What does grounded faith look like here?",
+          answer: "It means speaking and acting from trust in Jesus, not from self-confidence.",
+        },
+        {
+          prompt: "Why does this matter after Matthew 140?",
+          answer: "It shows that clear witness should be anchored in faith.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
