@@ -5573,6 +5573,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 161 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where steadfast patience becomes quiet endurance.",
+      detail: "This quiz helps a beginner see Matthew 161 as the chapter where patience settles into quiet endurance with Jesus.",
+      start: "Take this after reading Matthew 161 carefully and noticing how patience becomes endurance.",
+      tags: ["Matthew 161", "chapter", "endurance"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 161?",
+          answer: "The chapter emphasizes quiet endurance in following Jesus.",
+        },
+        {
+          prompt: "What does quiet endurance look like here?",
+          answer: "It means staying steady and faithful without drawing attention to yourself.",
+        },
+        {
+          prompt: "Why does this matter after Matthew 160?",
+          answer: "It shows that steadfast patience can mature into quiet endurance.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
