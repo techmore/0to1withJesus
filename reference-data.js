@@ -6333,6 +6333,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 108 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where conviction is translated into action.",
+      detail: "This quiz helps a beginner see Matthew 108 as the chapter where Jesus keeps pushing disciples to let conviction become practice.",
+      start: "Take this after reading Matthew 108 carefully and noticing the move from conviction to action.",
+      tags: ["Matthew 108", "chapter", "action"],
+      questions: [
+        {
+          prompt: "What does conviction become?",
+          answer: "Conviction becomes action.",
+        },
+        {
+          prompt: "What does Jesus keep urging?",
+          answer: "He keeps urging disciples to act on what they know.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how belief gets expressed in behavior.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
