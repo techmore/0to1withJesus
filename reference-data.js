@@ -9547,6 +9547,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Kings 14 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where kings rise and fall and Israel and Judah continue in divided paths.",
+      detail: "This quiz helps a beginner see 2 Kings 14 as a chapter that keeps tracking the slow decline of the kingdoms.",
+      start: "Take this after 2 Kings 13 when you want to continue the book chapter by chapter.",
+      tags: ["2 Kings 14", "chapter", "Kings"],
+      questions: [
+        {
+          prompt: "What kind of pattern continues in 2 Kings 14?",
+          answer: "Kings rising and falling in the divided kingdoms.",
+        },
+        {
+          prompt: "What does the chapter show about Israel and Judah?",
+          answer: "They continue on separate paths with ongoing instability.",
+        },
+        {
+          prompt: "Why does 2 Kings 14 matter?",
+          answer: "It shows the ongoing decline of both kingdoms.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
