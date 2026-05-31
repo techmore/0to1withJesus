@@ -5463,6 +5463,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 156 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where calm perseverance becomes enduring faith.",
+      detail: "This quiz helps a beginner see Matthew 156 as the chapter where perseverance turns into enduring faith in Jesus.",
+      start: "Take this after reading Matthew 156 carefully and noticing how perseverance becomes faith.",
+      tags: ["Matthew 156", "chapter", "faith"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 156?",
+          answer: "The chapter emphasizes enduring faith in following Jesus.",
+        },
+        {
+          prompt: "What does enduring faith look like here?",
+          answer: "It means trusting Jesus consistently, even when the circumstances stay hard.",
+        },
+        {
+          prompt: "Why does this matter after Matthew 155?",
+          answer: "It shows that calm perseverance can mature into enduring faith.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
