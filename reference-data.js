@@ -7963,6 +7963,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Joshua 19 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter that continues the land allotment among the remaining tribes of Israel.",
+      detail: "This quiz helps a beginner see Joshua 19 as part of the careful distribution of the promised land to the tribes.",
+      start: "Take this after reading Joshua 19 carefully and noticing the repeated allotments and the move toward settlement.",
+      tags: ["Joshua 19", "chapter", "allotment"],
+      questions: [
+        {
+          prompt: "What is Joshua 19 about?",
+          answer: "It continues the division of the land among the tribes.",
+        },
+        {
+          prompt: "What does the chapter emphasize?",
+          answer: "That the promised land is being carefully assigned to God's people.",
+        },
+        {
+          prompt: "Why does Joshua 19 matter?",
+          answer: "It shows the promise of inheritance becoming concrete for the rest of the tribes.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
