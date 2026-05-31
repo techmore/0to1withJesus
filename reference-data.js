@@ -7259,6 +7259,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Deuteronomy 22 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Moses teaches about neighbor care, modesty, and everyday responsibility.",
+      detail: "This quiz helps a beginner see Deuteronomy 22 as a chapter about practical holiness in ordinary life and careful love for others.",
+      start: "Take this after reading Deuteronomy 22 carefully and noticing the laws about lost property, mixed boundaries, and neighbor care.",
+      tags: ["Deuteronomy 22", "chapter", "holiness"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Deuteronomy 22?",
+          answer: "The chapter emphasizes practical holiness, neighbor care, and responsibility.",
+        },
+        {
+          prompt: "What kinds of everyday matters are addressed in this chapter?",
+          answer: "Lost property, clothing rules, construction safety, sexual conduct, and neighbor obligations are addressed.",
+        },
+        {
+          prompt: "Why does Deuteronomy 22 matter?",
+          answer: "It shows that God's covenant reaches into ordinary actions and protects people in daily life.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
