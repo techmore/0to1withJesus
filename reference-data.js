@@ -7213,6 +7213,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Acts 19 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Paul's ministry in Ephesus and the spread of the gospel there.",
+      detail: "This quiz helps a beginner see Acts 19 as the chapter where the gospel confronts magic, idolatry, and public power in Ephesus.",
+      start: "Take this after reading Acts 19 carefully and noticing the work of the Spirit and the clash with idols.",
+      tags: ["Acts 19", "chapter", "Ephesus"],
+      questions: [
+        {
+          prompt: "What happens when Paul meets the disciples in Ephesus?",
+          answer: "They are baptized in the name of Jesus and receive the Holy Spirit.",
+        },
+        {
+          prompt: "What remarkable effects follow Paul's ministry?",
+          answer: "People are healed and evil practices are publicly abandoned.",
+        },
+        {
+          prompt: "What conflict erupts in Ephesus?",
+          answer: "The idol-makers riot because the gospel threatens their trade and their goddess.",
+        },
+      ],
+    },
+    {
       title: "Acts Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Acts as the story of the Spirit-empowered church expanding from Jerusalem outward.",
