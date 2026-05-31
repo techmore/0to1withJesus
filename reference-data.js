@@ -6401,6 +6401,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Numbers 20 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Israel faces water shortages, leadership pain, and the loss of Moses and Aaron's entry.",
+      detail: "This quiz helps a beginner see Numbers 20 as the chapter where frustration, anger, and disobedience shape a hard turning point.",
+      start: "Take this after reading Numbers 20 carefully and noticing the rock, the complaint, and the deaths of Miriam and Aaron.",
+      tags: ["Numbers 20", "chapter", "water"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Numbers 20?",
+          answer: "The chapter emphasizes water shortage, frustration, and a painful leadership transition.",
+        },
+        {
+          prompt: "What mistake does Moses make in Numbers 20?",
+          answer: "He strikes the rock and speaks in anger instead of following God's instruction exactly.",
+        },
+        {
+          prompt: "Why does Numbers 20 matter after Numbers 19?",
+          answer: "It shows that the journey continues with serious consequences for disobedience and leadership failure.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
