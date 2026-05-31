@@ -6729,6 +6729,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 126 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where a shared pattern of faith becomes steady encouragement.",
+      detail: "This quiz helps a beginner see Matthew 126 as the chapter where Jesus keeps turning practice into support for others.",
+      start: "Take this after reading Matthew 126 carefully and noticing how faith can become encouragement.",
+      tags: ["Matthew 126", "chapter", "encouragement"],
+      questions: [
+        {
+          prompt: "What does a shared pattern of faith become?",
+          answer: "It becomes steady encouragement.",
+        },
+        {
+          prompt: "What does Jesus keep strengthening?",
+          answer: "He keeps strengthening support for others.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how practice can help other people stay faithful.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
