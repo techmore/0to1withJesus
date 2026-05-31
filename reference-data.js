@@ -5477,6 +5477,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 18 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Jethro helps Moses set up shared leadership.",
+      detail: "This quiz helps a beginner see Exodus 18 as the chapter where wise counsel reshapes how Moses judges the people.",
+      start: "Take this after reading Exodus 18 carefully and noticing Jethro's visit, his advice, and the new leadership structure.",
+      tags: ["Exodus 18", "chapter", "jethro"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Exodus 18?",
+          answer: "The chapter emphasizes wise leadership and shared responsibility.",
+        },
+        {
+          prompt: "What advice does Jethro give Moses in Exodus 18?",
+          answer: "He advises Moses to appoint capable leaders to help judge the people.",
+        },
+        {
+          prompt: "Why does Exodus 18 matter after Exodus 17?",
+          answer: "It shows how God's people need wise structure as they continue through the wilderness.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
