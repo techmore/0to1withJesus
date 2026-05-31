@@ -15187,6 +15187,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 120 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where steady grace becomes calm generosity.",
+      detail: "This quiz helps a beginner see Matthew 120 as the chapter where grace starts to settle into calm generosity.",
+      start: "Take this after reading Matthew 120 carefully and noticing how grace becomes generosity.",
+      tags: ["Matthew 120", "chapter", "generosity"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 120?",
+          answer: "The chapter emphasizes grace that is becoming calm generosity.",
+        },
+        {
+          prompt: "What does calm generosity look like here?",
+          answer: "It means giving and acting with open-handed kindness without hurry.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 119?",
+          answer: "It shows that steady grace should become calm generosity.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
