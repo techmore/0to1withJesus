@@ -18297,6 +18297,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Timothy Book Quiz",
+      kicker: "Book",
+      summary: "A whole-book check for 2 Timothy as Paul's final encouragement to guard the gospel and endure faithfully.",
+      detail: "This quiz helps a beginner see 2 Timothy as a deeply personal charge to remain faithful in suffering, protect sound teaching, and finish well.",
+      start: "Take this after 1 Timothy and after noticing Paul's concern for perseverance and faithful ministry.",
+      tags: ["2 Timothy", "book", "endurance"],
+      questions: [
+        {
+          prompt: "What final charge does 2 Timothy give?",
+          answer: "Guard the gospel and endure faithfully.",
+        },
+        {
+          prompt: "What does Paul urge Timothy to do with teaching?",
+          answer: "Hold to sound teaching and avoid empty quarrels.",
+        },
+        {
+          prompt: "What kind of tone does the letter have?",
+          answer: "Personal, urgent, and encouraging under suffering.",
+        },
+      ],
+    },
+    {
       title: "Romans and Ephesians Doctrine Quiz",
       kicker: "Books",
       summary: "Checks grace, faith, church, unity, and new life in Christ.",
