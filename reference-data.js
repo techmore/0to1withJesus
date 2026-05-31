@@ -16617,6 +16617,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Mark 4 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the parables, the calming of the storm, and the call to hear with faith.",
+      detail: "This quiz helps a beginner see Mark 4 as the chapter where Jesus teaches with parables and then shows authority over the chaos of the sea.",
+      start: "Take this after reading Mark 4 carefully and noticing how Jesus teaches about hearing and trust.",
+      tags: ["Mark 4", "chapter", "parables"],
+      questions: [
+        {
+          prompt: "What famous teaching begins Mark 4?",
+          answer: "Jesus teaches the parable of the sower and explains why people hear differently.",
+        },
+        {
+          prompt: "What happens when Jesus and the disciples are on the lake?",
+          answer: "Jesus calms the storm.",
+        },
+        {
+          prompt: "What question about faith does Jesus ask?",
+          answer: "He asks why the disciples are afraid and whether they have faith.",
+        },
+      ],
+    },
+    {
       title: "Luke Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Luke as the Gospel of the Spirit, outsiders, prayer, and salvation for all kinds of people.",
