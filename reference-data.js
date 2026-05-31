@@ -10625,6 +10625,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Chronicles 7 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where fire falls and God speaks to Solomon.",
+      detail: "This quiz helps a beginner see 2 Chronicles 7 as the dramatic confirmation of the temple and God's promise to hear humble prayer.",
+      start: "Take this after 2 Chronicles 6 when you want to continue the chapter-by-chapter reading.",
+      tags: ["2 Chronicles 7", "chapter", "temple"],
+      questions: [
+        {
+          prompt: "What happens when Solomon finishes praying in 2 Chronicles 7?",
+          answer: "Fire comes down from heaven and the glory of the Lord fills the temple.",
+        },
+        {
+          prompt: "What promise does God give Solomon?",
+          answer: "That he will hear humble prayer and heal the land when his people turn back.",
+        },
+        {
+          prompt: "Why does 2 Chronicles 7 matter?",
+          answer: "It confirms the temple and calls God's people to humility and repentance.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
