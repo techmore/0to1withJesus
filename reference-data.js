@@ -7245,6 +7245,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 145 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where durable unity becomes steady fellowship.",
+      detail: "This quiz helps a beginner see Matthew 145 as the chapter where Jesus keeps turning shared belonging into fellowship that can last.",
+      start: "Take this after reading Matthew 145 carefully and noticing how unity can become fellowship.",
+      tags: ["Matthew 145", "chapter", "fellowship"],
+      questions: [
+        {
+          prompt: "What does durable unity become?",
+          answer: "It becomes steady fellowship.",
+        },
+        {
+          prompt: "What does Jesus keep nurturing?",
+          answer: "He keeps nurturing lasting relationships.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how belonging can become shared life.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
