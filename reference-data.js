@@ -7257,6 +7257,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Acts 21 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Paul's journey to Jerusalem and the warnings he receives.",
+      detail: "This quiz helps a beginner see Acts 21 as the chapter where Paul is warned repeatedly but keeps going to Jerusalem.",
+      start: "Take this after reading Acts 21 carefully and noticing the repeated warnings and Paul's resolve.",
+      tags: ["Acts 21", "chapter", "Jerusalem"],
+      questions: [
+        {
+          prompt: "What warnings does Paul receive on the journey?",
+          answer: "Believers warn him through the Spirit that chains and suffering await in Jerusalem.",
+        },
+        {
+          prompt: "How does Paul respond to the warnings?",
+          answer: "He says he is ready not only to be bound but also to die for the name of the Lord Jesus.",
+        },
+        {
+          prompt: "What happens when Paul reaches Jerusalem?",
+          answer: "He is welcomed by the believers but soon faces a major misunderstanding in the temple.",
+        },
+      ],
+    },
+    {
       title: "Acts Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Acts as the story of the Spirit-empowered church expanding from Jerusalem outward.",
