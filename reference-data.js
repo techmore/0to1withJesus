@@ -9063,6 +9063,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Samuel 17 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where David faces Goliath and trusts the Lord for victory.",
+      detail: "This quiz helps a beginner see 1 Samuel 17 as the chapter where David's faith stands out and God defeats the giant through an unlikely servant.",
+      start: "Take this after 1 Samuel 16 when you want to see David's faith in battle.",
+      tags: ["1 Samuel 17", "chapter", "David"],
+      questions: [
+        {
+          prompt: "Who does David fight in 1 Samuel 17?",
+          answer: "Goliath.",
+        },
+        {
+          prompt: "What does David trust instead of his own strength?",
+          answer: "He trusts the Lord, who can save without sword or spear.",
+        },
+        {
+          prompt: "Why does 1 Samuel 17 matter?",
+          answer: "It shows that God gives victory through faith, not human size or weapons.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
