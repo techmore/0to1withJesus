@@ -7191,6 +7191,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Acts 18 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the ministry in Corinth and Apollos' growth in teaching.",
+      detail: "This quiz helps a beginner see Acts 18 as the chapter where Paul stays in Corinth and the work continues through other teachers.",
+      start: "Take this after reading Acts 18 carefully and noticing the mix of ordinary work, teaching, and encouragement.",
+      tags: ["Acts 18", "chapter", "Corinth"],
+      questions: [
+        {
+          prompt: "What work does Paul do in Corinth?",
+          answer: "He works with Aquila and Priscilla as a tentmaker while he teaches.",
+        },
+        {
+          prompt: "What encouragement does God give Paul?",
+          answer: "The Lord tells Paul not to be afraid and promises to protect him.",
+        },
+        {
+          prompt: "Who is Apollos?",
+          answer: "He is an eloquent teacher who is further instructed in the way of God.",
+        },
+      ],
+    },
+    {
       title: "Acts Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Acts as the story of the Spirit-empowered church expanding from Jerusalem outward.",
