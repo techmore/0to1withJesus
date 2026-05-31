@@ -5717,6 +5717,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 80 Quiz",
+      kicker: "Chapter",
+      summary: "Checks a chapter of Jesus' authority, compassion, and the way faith grows under pressure.",
+      detail: "This quiz helps a beginner see Matthew 80 as the chapter where Jesus' power and care meet real fear, so disciples learn to trust him more deeply.",
+      start: "Take this after reading Matthew 80 carefully and noticing how Jesus responds when people are overwhelmed.",
+      tags: ["Matthew 80", "chapter", "faith"],
+      questions: [
+        {
+          prompt: "How does Jesus show his authority?",
+          answer: "He shows authority by acting powerfully in a moment of need.",
+        },
+        {
+          prompt: "What does the chapter reveal about Jesus' care?",
+          answer: "It shows that his authority is joined to compassion for his followers.",
+        },
+        {
+          prompt: "What do the disciples learn?",
+          answer: "They learn to trust Jesus more when fear rises.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
