@@ -4705,6 +4705,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 27 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the stolen blessing, family deception, and the fallout between Jacob and Esau.",
+      detail: "This quiz helps a beginner see Genesis 27 as the chapter where blessing is pursued through deception, and the family conflict over inheritance becomes more painful and personal.",
+      start: "Take this after reading Genesis 27 carefully and noticing how blessing, fear, and favoritism drive the story.",
+      tags: ["Genesis 27", "chapter", "blessing"],
+      questions: [
+        {
+          prompt: "How does Jacob receive Isaac's blessing in Genesis 27?",
+          answer: "Rebekah helps him deceive Isaac by disguising himself as Esau.",
+        },
+        {
+          prompt: "What is Esau's response when he learns what happened?",
+          answer: "He is angry and plans to kill Jacob after Isaac's blessing is given.",
+        },
+        {
+          prompt: "Why is Genesis 27 important?",
+          answer: "It shows the promise family fractured by deception and sets up Jacob's flight from home.",
+        },
+      ],
+    },
+    {
       title: "Exodus 1 Quiz",
       kicker: "Chapter",
       summary: "Checks Israel's oppression in Egypt and the beginning of the rescue setting.",
