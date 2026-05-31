@@ -9327,6 +9327,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Kings 4 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Elisha helps with oil, food, and life in a series of miracles.",
+      detail: "This quiz helps a beginner see 2 Kings 4 as a chapter of compassion where God provides through Elisha for people in need.",
+      start: "Take this after 2 Kings 3 when you want to continue the book chapter by chapter.",
+      tags: ["2 Kings 4", "chapter", "Elisha"],
+      questions: [
+        {
+          prompt: "What kind of needs does Elisha meet in 2 Kings 4?",
+          answer: "Needs for oil, food, and life.",
+        },
+        {
+          prompt: "What does the chapter show about God?",
+          answer: "He cares for people through Elisha's miracles.",
+        },
+        {
+          prompt: "Why does 2 Kings 4 matter?",
+          answer: "It highlights God's compassion and power in ordinary life.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
