@@ -8755,6 +8755,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Samuel 2 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where David is anointed king in Hebron and the kingdom begins to divide.",
+      detail: "This quiz helps a beginner see 2 Samuel 2 as the chapter where David begins ruling while opposition and conflict continue.",
+      start: "Take this after 2 Samuel 1 when you want to see David's rule begin in a divided setting.",
+      tags: ["2 Samuel 2", "chapter", "David"],
+      questions: [
+        {
+          prompt: "Where is David made king in 2 Samuel 2?",
+          answer: "He is anointed king over Judah in Hebron.",
+        },
+        {
+          prompt: "What conflict starts in the chapter?",
+          answer: "The house of Saul and the house of David begin to oppose one another.",
+        },
+        {
+          prompt: "Why does 2 Samuel 2 matter?",
+          answer: "It shows the beginning of David's rule and the tension that follows Saul's fall.",
+        },
+      ],
+    },
+    {
       title: "1 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where Hannah prays for a son and Samuel's story begins.",
