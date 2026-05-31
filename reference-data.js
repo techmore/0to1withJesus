@@ -4969,6 +4969,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 39 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Joseph's service, temptation, and imprisonment in Egypt.",
+      detail: "This quiz helps a beginner see Genesis 39 as the chapter where Joseph rises in Potiphar's house, resists temptation, and suffers unjustly because of false accusation.",
+      start: "Take this after reading Genesis 39 carefully and noticing how integrity leads Joseph into suffering rather than immediate reward.",
+      tags: ["Genesis 39", "chapter", "Joseph"],
+      questions: [
+        {
+          prompt: "How does Joseph serve in Potiphar's house?",
+          answer: "He is put in charge of everything because God gives him success.",
+        },
+        {
+          prompt: "What temptation does Joseph face?",
+          answer: "Potiphar's wife tries to seduce him, but Joseph refuses to sin against God.",
+        },
+        {
+          prompt: "Why is Genesis 39 important?",
+          answer: "It shows Joseph's faithfulness under pressure and moves him into prison, where God is still with him.",
+        },
+      ],
+    },
+    {
       title: "Exodus 1 Quiz",
       kicker: "Chapter",
       summary: "Checks Israel's oppression in Egypt and the beginning of the rescue setting.",
