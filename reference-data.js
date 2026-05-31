@@ -4551,6 +4551,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 20 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Abraham and Sarah in Gerar and God's protection of the promise.",
+      detail: "This quiz helps a beginner see Genesis 20 as the chapter where Abraham repeats a fear-driven deception and God still protects Sarah and the promise.",
+      start: "Take this after reading Genesis 20 carefully and noticing the tension between fear, truth, and God's intervention.",
+      tags: ["Genesis 20", "chapter", "Gerar"],
+      questions: [
+        {
+          prompt: "What fear-driven mistake does Abraham repeat?",
+          answer: "He says Sarah is his sister.",
+        },
+        {
+          prompt: "How does God protect the situation?",
+          answer: "God warns Abimelech in a dream and preserves Sarah.",
+        },
+        {
+          prompt: "Why is Genesis 20 important?",
+          answer: "It shows that God's promise survives Abraham's failures because God is faithful to protect the line of promise.",
+        },
+      ],
+    },
+    {
       title: "Exodus 1 Quiz",
       kicker: "Chapter",
       summary: "Checks Israel's oppression in Egypt and the beginning of the rescue setting.",
