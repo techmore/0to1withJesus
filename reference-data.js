@@ -10207,6 +10207,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Chronicles 18 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter that records David's victories over surrounding nations.",
+      detail: "This quiz helps a beginner see 1 Chronicles 18 as a chapter of military success and the expanding reach of David's kingdom.",
+      start: "Take this after 1 Chronicles 17 when you want to continue the book chapter by chapter.",
+      tags: ["1 Chronicles 18", "chapter", "David"],
+      questions: [
+        {
+          prompt: "What kind of events fill 1 Chronicles 18?",
+          answer: "David's military victories and administration.",
+        },
+        {
+          prompt: "What do the victories show?",
+          answer: "God establishing David's rule over surrounding nations.",
+        },
+        {
+          prompt: "Why does 1 Chronicles 18 matter?",
+          answer: "It shows the kingdom growing under David.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
