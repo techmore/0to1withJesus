@@ -10603,6 +10603,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Chronicles 6 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter with Solomon's prayer at the temple dedication.",
+      detail: "This quiz helps a beginner see 2 Chronicles 6 as Solomon praising God and praying for mercy, forgiveness, and continued presence.",
+      start: "Take this after 2 Chronicles 5 when you want to continue the chapter-by-chapter reading.",
+      tags: ["2 Chronicles 6", "chapter", "prayer"],
+      questions: [
+        {
+          prompt: "What does Solomon do in 2 Chronicles 6?",
+          answer: "He prays to God at the temple dedication.",
+        },
+        {
+          prompt: "What does he ask God for?",
+          answer: "Mercy, forgiveness, and attention to prayer.",
+        },
+        {
+          prompt: "Why does 2 Chronicles 6 matter?",
+          answer: "It shows the temple dedicated with a prayer for God's presence among his people.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
