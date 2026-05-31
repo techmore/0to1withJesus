@@ -4355,6 +4355,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 18 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Abraham receives visitors and hears the promise about Isaac.",
+      detail: "This quiz helps a beginner see Genesis 18 as the chapter where hospitality, intercession, and the promise of a son come together.",
+      start: "Take this after reading Genesis 18 carefully and noticing the visitors, Sarah's response, and Abraham's prayer for Sodom.",
+      tags: ["Genesis 18", "chapter", "isaac"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Genesis 18?",
+          answer: "The chapter emphasizes Abraham's hospitality, the promise of Isaac, and Abraham's intercession for Sodom.",
+        },
+        {
+          prompt: "What surprising promise is repeated in Genesis 18?",
+          answer: "That Sarah will bear a son.",
+        },
+        {
+          prompt: "Why does Genesis 18 matter after Genesis 17?",
+          answer: "It shows the covenant promise moving from sign to immediate fulfillment and includes Abraham's concern for others.",
+        },
+      ],
+    },
+    {
       title: "Exodus Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Exodus as the Bible's great rescue story.",
