@@ -7147,6 +7147,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Acts 16 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the Philippian mission, Lydia, and the jailer's conversion.",
+      detail: "This quiz helps a beginner see Acts 16 as the chapter where the gospel enters new places and people respond in surprising ways.",
+      start: "Take this after reading Acts 16 carefully and noticing the Spirit's guidance, the prison, and the midnight worship.",
+      tags: ["Acts 16", "chapter", "Philippi"],
+      questions: [
+        {
+          prompt: "Who joins Paul and his team in Philippi?",
+          answer: "Lydia believes and is baptized, and her household is opened to the gospel.",
+        },
+        {
+          prompt: "What happens to Paul and Silas in prison?",
+          answer: "They are imprisoned, then an earthquake opens the doors and the jailer asks how to be saved.",
+        },
+        {
+          prompt: "What happens to the jailer?",
+          answer: "He believes in the Lord Jesus and is baptized with his household.",
+        },
+      ],
+    },
+    {
       title: "Acts Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Acts as the story of the Spirit-empowered church expanding from Jerusalem outward.",
