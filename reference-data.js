@@ -4683,6 +4683,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 25 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the first tabernacle instructions and the meaning of sacred space.",
+      detail: "This quiz helps a beginner see Exodus 25 as the beginning of the tabernacle blueprint, with gifts, the ark, and furnishings that shape Israel's worship.",
+      start: "Take this after reading Exodus 25 carefully and noticing how God gives instructions for his dwelling place among his people.",
+      tags: ["Exodus 25", "chapter", "tabernacle"],
+      questions: [
+        {
+          prompt: "What starts in Exodus 25?",
+          answer: "The tabernacle instructions begin, including offerings and sacred furnishings.",
+        },
+        {
+          prompt: "What key objects are introduced?",
+          answer: "The ark, the mercy seat, the table, the lampstand, and other items for worship.",
+        },
+        {
+          prompt: "Why is Exodus 25 important?",
+          answer: "It shows that God wants to dwell among his people and gives careful instructions for holy worship.",
+        },
+      ],
+    },
+    {
       title: "Luke and Acts Bridge Quiz",
       kicker: "Books",
       summary: "Checks how Luke's Gospel connects to the early church story in Acts.",
