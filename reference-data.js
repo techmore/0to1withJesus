@@ -4837,6 +4837,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 32 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the golden calf crisis and Moses' intercession.",
+      detail: "This quiz helps a beginner see Exodus 32 as the tragic turning point where Israel makes an idol, Moses pleads for mercy, and covenant faithfulness is tested.",
+      start: "Take this after reading Exodus 32 carefully and noticing how quickly the people turn from God's covenant.",
+      tags: ["Exodus 32", "chapter", "idolatry"],
+      questions: [
+        {
+          prompt: "What goes wrong in Exodus 32?",
+          answer: "Israel makes the golden calf and worships it instead of waiting for the Lord.",
+        },
+        {
+          prompt: "What does Moses do?",
+          answer: "He intercedes for the people, confronts the sin, and asks God not to destroy them.",
+        },
+        {
+          prompt: "Why is Exodus 32 important?",
+          answer: "It shows how serious idolatry is and how covenant mercy depends on God's patience and Moses' mediation.",
+        },
+      ],
+    },
+    {
       title: "Luke and Acts Bridge Quiz",
       kicker: "Books",
       summary: "Checks how Luke's Gospel connects to the early church story in Acts.",
