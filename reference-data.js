@@ -6291,6 +6291,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Numbers 15 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where offerings, obedience, and reminder signs are laid out for the future.",
+      detail: "This quiz helps a beginner see Numbers 15 as the chapter that looks ahead to life in the land while keeping obedience in view.",
+      start: "Take this after reading Numbers 15 carefully and noticing the offering laws, the Sabbath violation, and the tassels.",
+      tags: ["Numbers 15", "chapter", "obedience"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Numbers 15?",
+          answer: "The chapter emphasizes offerings, obedience, and reminder signs for covenant life.",
+        },
+        {
+          prompt: "What reminder symbol appears in Numbers 15?",
+          answer: "The tassels on the garments remind Israel to remember and obey the Lord.",
+        },
+        {
+          prompt: "Why does Numbers 15 matter after Numbers 14?",
+          answer: "It points forward to life in the land while reminding Israel that obedience still matters after judgment.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
