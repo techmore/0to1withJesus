@@ -5013,6 +5013,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 40 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the tabernacle setup and the filling of God's glory.",
+      detail: "This quiz helps a beginner see Exodus 40 as the chapter where the tabernacle is erected, consecrated, and filled with the cloud and glory of the Lord.",
+      start: "Take this after reading Exodus 40 carefully and noticing the repeated action of setting everything in place just as God commanded.",
+      tags: ["Exodus 40", "chapter", "tabernacle"],
+      questions: [
+        {
+          prompt: "What happens in Exodus 40?",
+          answer: "The tabernacle is set up, anointed, and filled with the glory of the Lord.",
+        },
+        {
+          prompt: "What repeated pattern closes the chapter?",
+          answer: "Moses does everything just as the Lord commanded him.",
+        },
+        {
+          prompt: "Why is Exodus 40 important?",
+          answer: "It completes Exodus by showing God's dwelling place among his people and the guiding presence that will lead them on their journey.",
+        },
+      ],
+    },
+    {
       title: "Luke and Acts Bridge Quiz",
       kicker: "Books",
       summary: "Checks how Luke's Gospel connects to the early church story in Acts.",
