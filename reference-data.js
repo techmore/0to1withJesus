@@ -4847,6 +4847,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 128 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where steady trust becomes settled courage.",
+      detail: "This quiz helps a beginner see Matthew 128 as the chapter where confidence in Jesus starts to sound like courage.",
+      start: "Take this after reading Matthew 128 carefully and noticing how trust can become braver.",
+      tags: ["Matthew 128", "chapter", "courage"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 128?",
+          answer: "The chapter emphasizes courage that grows out of trust in Jesus.",
+        },
+        {
+          prompt: "What does settled courage look like here?",
+          answer: "It means acting faithfully even when the situation still feels uncertain.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 127?",
+          answer: "It shows that trusting Jesus can move from quiet endurance into visible courage.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
