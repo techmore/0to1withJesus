@@ -12657,6 +12657,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Daniel Book Quiz",
+      kicker: "Book",
+      summary: "A whole-book check for Daniel as a book of faithfulness under empire and hope in God's rule.",
+      detail: "This quiz helps a beginner see Daniel as a mixture of court stories and visions that insist God rules over kingdoms and remains faithful to his people.",
+      start: "Take this after Ezekiel and after noticing exile and empire shape the prophetic imagination.",
+      tags: ["Daniel", "book", "exile"],
+      questions: [
+        {
+          prompt: "What setting shapes Daniel?",
+          answer: "Life under foreign empire in exile.",
+        },
+        {
+          prompt: "What does Daniel teach about God?",
+          answer: "God rules over earthly kingdoms and keeps his people faithful.",
+        },
+        {
+          prompt: "Why is Daniel important for beginners?",
+          answer: "It combines courageous faithfulness with visions of God's ultimate kingdom.",
+        },
+      ],
+    },
+    {
       title: "Gospel of John Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for John's main claims about Jesus.",
