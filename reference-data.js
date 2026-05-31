@@ -8535,6 +8535,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Judges 20 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Israel gathers for war after the outrage in Gibeah.",
+      detail: "This quiz helps a beginner see Judges 20 as a chapter of national response, judgment, and the pain of civil conflict.",
+      start: "Take this after Judges 19 when you want to see how the nation reacts to the horror it has witnessed.",
+      tags: ["Judges 20", "chapter", "war"],
+      questions: [
+        {
+          prompt: "What does Israel do in Judges 20?",
+          answer: "The tribes gather to deal with the crime at Gibeah.",
+        },
+        {
+          prompt: "What kind of conflict happens in the chapter?",
+          answer: "A civil war breaks out among the tribes of Israel.",
+        },
+        {
+          prompt: "Why does Judges 20 matter?",
+          answer: "It shows the terrible cost of sin and broken justice within God's people.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
