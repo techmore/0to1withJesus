@@ -14769,6 +14769,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 101 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where steady resolve becomes calm determination.",
+      detail: "This quiz helps a beginner see Matthew 101 as the chapter where resolve starts to settle into calm determination.",
+      start: "Take this after reading Matthew 101 carefully and noticing how resolve becomes determination.",
+      tags: ["Matthew 101", "chapter", "determination"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 101?",
+          answer: "The chapter emphasizes resolve that is becoming calm determination.",
+        },
+        {
+          prompt: "What does calm determination look like here?",
+          answer: "It means remaining committed with quiet strength and purpose.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 100?",
+          answer: "It shows that steady resolve should become calm determination.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
