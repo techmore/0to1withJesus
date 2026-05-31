@@ -14857,6 +14857,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 105 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where steady movement becomes patient progress.",
+      detail: "This quiz helps a beginner see Matthew 105 as the chapter where movement starts to settle into patient progress.",
+      start: "Take this after reading Matthew 105 carefully and noticing how movement becomes progress.",
+      tags: ["Matthew 105", "chapter", "progress"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 105?",
+          answer: "The chapter emphasizes movement that is becoming patient progress.",
+        },
+        {
+          prompt: "What does patient progress look like here?",
+          answer: "It means continuing forward with persistence and calm attention.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 104?",
+          answer: "It shows that steady movement should become patient progress.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
