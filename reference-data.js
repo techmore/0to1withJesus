@@ -8095,6 +8095,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Judges Book Quiz",
+      kicker: "Book",
+      summary: "Checks the big picture of Judges as the book where Israel repeatedly turns away and needs rescue.",
+      detail: "This quiz helps a beginner see Judges as a cycle book: sin, oppression, cry for help, and deliverance by the Lord.",
+      start: "Take this after Joshua when you want to understand why Israel keeps needing judges and what the book is warning about.",
+      tags: ["Judges", "book", "cycle"],
+      questions: [
+        {
+          prompt: "What is the main pattern in Judges?",
+          answer: "Israel sins, gets oppressed, cries out, and God sends a judge to rescue them.",
+        },
+        {
+          prompt: "Why is the book of Judges important?",
+          answer: "It shows the consequences of turning from the Lord and the need for faithful leadership.",
+        },
+        {
+          prompt: "Why does Judges matter?",
+          answer: "It explains why Israel needed rescue again and again and points to the need for a better king.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
