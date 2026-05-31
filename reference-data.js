@@ -10273,6 +10273,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Chronicles 21 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where David's census leads to judgment and mercy.",
+      detail: "This quiz helps a beginner see 1 Chronicles 21 as a serious moment where David sins, God judges, and mercy is shown through sacrifice.",
+      start: "Take this after 1 Chronicles 20 when you want to continue the book chapter by chapter.",
+      tags: ["1 Chronicles 21", "chapter", "judgment"],
+      questions: [
+        {
+          prompt: "What mistake does David make in 1 Chronicles 21?",
+          answer: "He orders a census of Israel.",
+        },
+        {
+          prompt: "What follows the census?",
+          answer: "Judgment from God and a call to repentance.",
+        },
+        {
+          prompt: "Why does 1 Chronicles 21 matter?",
+          answer: "It shows both God's holiness and mercy in response to sin.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
