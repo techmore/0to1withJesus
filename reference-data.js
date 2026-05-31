@@ -14219,6 +14219,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 76 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where quiet strength becomes reliable resilience.",
+      detail: "This quiz helps a beginner see Matthew 76 as the chapter where strength starts holding up through difficulty.",
+      start: "Take this after reading Matthew 76 carefully and noticing how strength becomes resilience.",
+      tags: ["Matthew 76", "chapter", "resilience"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 76?",
+          answer: "The chapter emphasizes strength that is becoming reliable resilience.",
+        },
+        {
+          prompt: "What does reliable resilience look like here?",
+          answer: "It means holding firm and continuing through pressure.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 75?",
+          answer: "It shows that quiet strength should become reliable resilience.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
