@@ -4803,6 +4803,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 126 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where durable practice becomes confident endurance.",
+      detail: "This quiz helps a beginner see Matthew 126 as the chapter where patterned obedience holds steady under pressure.",
+      start: "Take this after reading Matthew 126 carefully and noticing how steady habits face strain.",
+      tags: ["Matthew 126", "chapter", "endurance"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 126?",
+          answer: "The chapter emphasizes staying faithful when practice is tested by pressure.",
+        },
+        {
+          prompt: "What does confident endurance look like here?",
+          answer: "It means continuing to trust and obey even when the moment is hard.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 125?",
+          answer: "It shows that habits of obedience are meant to hold up under real strain.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
