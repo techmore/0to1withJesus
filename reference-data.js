@@ -14681,6 +14681,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 97 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where quiet assurance becomes steady calm.",
+      detail: "This quiz helps a beginner see Matthew 97 as the chapter where assurance starts to settle into steady calm.",
+      start: "Take this after reading Matthew 97 carefully and noticing how assurance becomes calm.",
+      tags: ["Matthew 97", "chapter", "calm"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 97?",
+          answer: "The chapter emphasizes assurance that is becoming steady calm.",
+        },
+        {
+          prompt: "What does steady calm look like here?",
+          answer: "It means remaining peaceful and attentive without being easily rattled.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 96?",
+          answer: "It shows that quiet assurance should become steady calm.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
