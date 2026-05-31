@@ -8051,6 +8051,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Joshua 23 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Joshua gives his farewell warning and urges Israel to stay faithful.",
+      detail: "This quiz helps a beginner see Joshua 23 as a closing charge that reminds the people to obey the Lord and avoid idolatry.",
+      start: "Take this after reading Joshua 23 carefully and noticing Joshua's farewell speech and warnings.",
+      tags: ["Joshua 23", "chapter", "farewell"],
+      questions: [
+        {
+          prompt: "What does Joshua do in Joshua 23?",
+          answer: "He gives a farewell warning to Israel.",
+        },
+        {
+          prompt: "What does he warn the people to avoid?",
+          answer: "Idolatry and turning away from the Lord.",
+        },
+        {
+          prompt: "Why does Joshua 23 matter?",
+          answer: "It calls God's people to stay loyal to him after they have entered the land.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
