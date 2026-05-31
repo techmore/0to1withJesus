@@ -9239,6 +9239,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Kings Book Quiz",
+      kicker: "Book",
+      summary: "Checks the big picture of 2 Kings as the fall of the kingdoms and the rise of prophetic warning.",
+      detail: "This quiz helps a beginner see 2 Kings as the book where Israel and Judah move toward exile while prophets keep calling them back to God.",
+      start: "Take this after the 1 Kings overview when you want to continue the kingdom story.",
+      tags: ["2 Kings", "book", "Elijah"],
+      questions: [
+        {
+          prompt: "What is 2 Kings mainly about?",
+          answer: "The decline and fall of the kingdoms of Israel and Judah.",
+        },
+        {
+          prompt: "Which prophets are especially important in 2 Kings?",
+          answer: "Elijah and Elisha.",
+        },
+        {
+          prompt: "Why does 2 Kings matter?",
+          answer: "It shows the consequences of ongoing unfaithfulness and God's warnings through the prophets.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
