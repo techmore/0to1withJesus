@@ -12767,6 +12767,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Jonah Book Quiz",
+      kicker: "Book",
+      summary: "A whole-book check for Jonah as a story about mercy, resistance, and God's concern for outsiders.",
+      detail: "This quiz helps a beginner see Jonah as a prophetic story that exposes the prophet's resentment and highlights God's compassion for enemies.",
+      start: "Take this after Obadiah and after noticing that the prophets can be stories with sharp irony.",
+      tags: ["Jonah", "book", "mercy"],
+      questions: [
+        {
+          prompt: "What is Jonah asked to do?",
+          answer: "Warn Nineveh to repent.",
+        },
+        {
+          prompt: "What does Jonah struggle with?",
+          answer: "He resents God's mercy toward the Ninevites.",
+        },
+        {
+          prompt: "Why is Jonah important for beginners?",
+          answer: "It shows God's mercy reaches outsiders and confronts religious pride.",
+        },
+      ],
+    },
+    {
       title: "Gospel of John Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for John's main claims about Jesus.",
