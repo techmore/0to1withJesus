@@ -6093,6 +6093,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Numbers 6 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where the Nazirite vow and priestly blessing are described.",
+      detail: "This quiz helps a beginner see Numbers 6 as the chapter that joins consecration, dedication, and blessing.",
+      start: "Take this after reading Numbers 6 carefully and noticing the Nazirite rules and Aaron's blessing.",
+      tags: ["Numbers 6", "chapter", "nazirite"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Numbers 6?",
+          answer: "The chapter emphasizes the Nazirite vow and the priestly blessing.",
+        },
+        {
+          prompt: "What does the Nazirite vow represent in Numbers 6?",
+          answer: "It represents special dedication and consecration to the Lord.",
+        },
+        {
+          prompt: "Why does Numbers 6 matter after Numbers 5?",
+          answer: "It adds a positive picture of dedicated holiness and blessing after the camp laws.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
