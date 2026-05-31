@@ -13603,6 +13603,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 48 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where dependable ministry becomes lasting fruitfulness.",
+      detail: "This quiz helps a beginner see Matthew 48 as the chapter where ministry starts to produce stable, lasting results.",
+      start: "Take this after reading Matthew 48 carefully and noticing how ministry bears fruit.",
+      tags: ["Matthew 48", "chapter", "fruitfulness"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 48?",
+          answer: "The chapter emphasizes ministry that begins to bear lasting fruit.",
+        },
+        {
+          prompt: "What does lasting fruitfulness look like here?",
+          answer: "It means dependable service producing steady, good results over time.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 47?",
+          answer: "It shows that stable ministry can lead to lasting fruitfulness.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
