@@ -7575,6 +7575,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 179 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where steadfast witness becomes calm wisdom.",
+      detail: "This quiz helps a beginner see Matthew 179 as the chapter where Jesus lets steady witness mature into a calm wisdom that can keep guiding others.",
+      start: "Take this after reading Matthew 179 carefully and noticing how witness can become wisdom.",
+      tags: ["Matthew 179", "chapter", "wisdom"],
+      questions: [
+        {
+          prompt: "What does steadfast witness become?",
+          answer: "It becomes calm wisdom.",
+        },
+        {
+          prompt: "What does Jesus keep shaping in them?",
+          answer: "He keeps shaping a wise and steady way of living for him.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how witness can mature into wisdom.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
