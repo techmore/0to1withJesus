@@ -7719,6 +7719,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Romans 11 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Paul's teaching about Israel's future and God's mercy for Jew and Gentile.",
+      detail: "This quiz helps a beginner see Romans 11 as the chapter where Paul explains that God has not rejected Israel and that mercy reaches the nations.",
+      start: "Take this after reading Romans 11 carefully and noticing Paul's olive tree image and his praise of God's wisdom.",
+      tags: ["Romans 11", "chapter", "Israel"],
+      questions: [
+        {
+          prompt: "What does Paul insist about God and Israel?",
+          answer: "God has not rejected his people Israel.",
+        },
+        {
+          prompt: "What image does Paul use to explain Gentile inclusion?",
+          answer: "He uses the image of an olive tree with branches grafted in.",
+        },
+        {
+          prompt: "How does the chapter end?",
+          answer: "Paul breaks into praise of God's wisdom, knowledge, and unsearchable ways.",
+        },
+      ],
+    },
+    {
       title: "Ephesians Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Ephesians as Paul's letter about identity in Christ, unity, the church, and standing firm.",
