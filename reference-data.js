@@ -9371,6 +9371,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Kings 6 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Elisha helps with an axe head, blinds enemies, and reveals God's protection.",
+      detail: "This quiz helps a beginner see 2 Kings 6 as a chapter of surprising deliverance and God's unseen protection.",
+      start: "Take this after 2 Kings 5 when you want to continue the book chapter by chapter.",
+      tags: ["2 Kings 6", "chapter", "Elisha"],
+      questions: [
+        {
+          prompt: "What surprising miracle happens with an axe head in 2 Kings 6?",
+          answer: "The axe head floats.",
+        },
+        {
+          prompt: "What happens to the enemy army?",
+          answer: "They are struck with blindness.",
+        },
+        {
+          prompt: "Why does 2 Kings 6 matter?",
+          answer: "It shows that God protects and rescues his people in unexpected ways.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
