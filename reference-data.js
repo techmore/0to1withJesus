@@ -14241,6 +14241,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 77 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where reliable resilience becomes firm endurance.",
+      detail: "This quiz helps a beginner see Matthew 77 as the chapter where strength starts to show itself as lasting endurance.",
+      start: "Take this after reading Matthew 77 carefully and noticing how resilience becomes endurance.",
+      tags: ["Matthew 77", "chapter", "endurance"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 77?",
+          answer: "The chapter emphasizes resilience that is becoming firm endurance.",
+        },
+        {
+          prompt: "What does firm endurance look like here?",
+          answer: "It means holding steady and continuing through difficulty.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 76?",
+          answer: "It shows that reliable resilience should become firm endurance.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
