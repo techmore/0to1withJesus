@@ -9569,6 +9569,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Kings 15 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where both kingdoms continue changing rulers and sliding toward collapse.",
+      detail: "This quiz helps a beginner see 2 Kings 15 as another stage in the long decline toward exile.",
+      start: "Take this after 2 Kings 14 when you want to continue the book chapter by chapter.",
+      tags: ["2 Kings 15", "chapter", "Kings"],
+      questions: [
+        {
+          prompt: "What keeps happening in 2 Kings 15?",
+          answer: "The kingdoms keep changing rulers.",
+        },
+        {
+          prompt: "What direction are the kingdoms headed?",
+          answer: "Toward collapse.",
+        },
+        {
+          prompt: "Why does 2 Kings 15 matter?",
+          answer: "It continues the story of national decline and instability.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
