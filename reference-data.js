@@ -13207,6 +13207,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 30 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where a listener moves from immediate reaction to settled attention.",
+      detail: "This quiz helps a beginner see Matthew 30 as the chapter where careful attention becomes a more stable habit of listening.",
+      start: "Take this after reading Matthew 30 carefully and noticing how attention matures into steadiness.",
+      tags: ["Matthew 30", "chapter", "attention"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 30?",
+          answer: "The chapter emphasizes moving from momentary reaction to settled attention.",
+        },
+        {
+          prompt: "What does steady attention look like here?",
+          answer: "It means staying with what Jesus is saying instead of drifting away.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 29?",
+          answer: "It shows that learning from Jesus can become more stable and deliberate.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
