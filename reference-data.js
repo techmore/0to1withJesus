@@ -5103,6 +5103,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Numbers Book Quiz",
+      kicker: "Book",
+      summary: "A whole-book check for Numbers as the story of wilderness testing, unbelief, and God's ongoing care.",
+      detail: "This quiz helps a beginner see Numbers as more than a list of camps and censuses: it is the story of a rescued people learning trust in the wilderness.",
+      start: "Take this after Exodus so the movement from rescue to wilderness testing stays connected.",
+      tags: ["Numbers", "book", "wilderness"],
+      questions: [
+        {
+          prompt: "What big setting shapes Numbers?",
+          answer: "The wilderness journey after the Exodus.",
+        },
+        {
+          prompt: "What repeated problem does Numbers show?",
+          answer: "Israel's unbelief and grumbling.",
+        },
+        {
+          prompt: "What does Numbers show about God?",
+          answer: "God remains faithful, providing guidance, discipline, and presence among his people.",
+        },
+      ],
+    },
+    {
       title: "Exodus 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where Israel multiplies in Egypt and a new king oppresses them.",
