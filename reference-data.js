@@ -4353,6 +4353,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 10 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the locusts, darkness, and the hardening standoff before the final plague.",
+      detail: "This quiz helps a beginner see Exodus 10 as the chapter where the pressure keeps building and Pharaoh's refusal becomes more desperate. It focuses on warning, judgment, darkness, and the difference between God's people and Egypt.",
+      start: "Take this after reading Exodus 10 carefully and noticing how Pharaoh tries to bargain while the signs intensify.",
+      tags: ["Exodus 10", "chapter", "plagues"],
+      questions: [
+        {
+          prompt: "What new plague signs appear in Exodus 10?",
+          answer: "Locusts and darkness overwhelm Egypt.",
+        },
+        {
+          prompt: "How does Pharaoh try to manage the situation?",
+          answer: "He offers partial compromises and bargains, but he does not truly surrender.",
+        },
+        {
+          prompt: "What does the darkness emphasize?",
+          answer: "It shows judgment, helplessness, and the contrast between Egypt's power and God's control.",
+        },
+      ],
+    },
+    {
       title: "Luke and Acts Bridge Quiz",
       kicker: "Books",
       summary: "Checks how Luke's Gospel connects to the early church story in Acts.",
