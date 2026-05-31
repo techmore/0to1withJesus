@@ -4507,6 +4507,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 18 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the visitors, the promise of Isaac, and Abraham's intercession for Sodom.",
+      detail: "This quiz helps a beginner see Genesis 18 as a chapter of hospitality, divine promise, and Abraham's bold prayer for mercy.",
+      start: "Take this after reading Genesis 18 carefully and noticing the visitors, the laughter, and the negotiation over Sodom.",
+      tags: ["Genesis 18", "chapter", "hospitality"],
+      questions: [
+        {
+          prompt: "What promise is repeated in Genesis 18?",
+          answer: "Sarah will bear a son, Isaac, in due time.",
+        },
+        {
+          prompt: "What does Abraham do for the visitors?",
+          answer: "He shows generous hospitality and welcomes them well.",
+        },
+        {
+          prompt: "Why is Genesis 18 important?",
+          answer: "It highlights God keeping his promise and Abraham learning to intercede for others.",
+        },
+      ],
+    },
+    {
       title: "Exodus 1 Quiz",
       kicker: "Chapter",
       summary: "Checks Israel's oppression in Egypt and the beginning of the rescue setting.",
