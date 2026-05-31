@@ -7795,6 +7795,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 170 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where steady fellowship becomes resilient mission.",
+      detail: "This quiz helps a beginner see Matthew 170 as the chapter where Jesus turns shared life into a people who can keep moving together with purpose.",
+      start: "Take this after reading Matthew 170 carefully and noticing how fellowship can become mission.",
+      tags: ["Matthew 170", "chapter", "mission"],
+      questions: [
+        {
+          prompt: "What does steady fellowship become?",
+          answer: "It becomes resilient mission.",
+        },
+        {
+          prompt: "What does Jesus keep inviting his people into?",
+          answer: "He keeps inviting them into shared purpose and action.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how community can become forward movement.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
