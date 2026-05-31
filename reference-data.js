@@ -7553,6 +7553,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 159 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where resilient unity becomes steadfast witness.",
+      detail: "This quiz helps a beginner see Matthew 159 as the chapter where Jesus turns a united people into a witness that stays clear and steady.",
+      start: "Take this after reading Matthew 159 carefully and noticing how unity can become witness.",
+      tags: ["Matthew 159", "chapter", "witness"],
+      questions: [
+        {
+          prompt: "What does resilient unity become?",
+          answer: "It becomes steadfast witness.",
+        },
+        {
+          prompt: "What does Jesus keep shaping in them?",
+          answer: "He keeps shaping a clear and steady way of showing him.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how togetherness can speak for Jesus.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
