@@ -4661,6 +4661,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 32 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the Sermon on the Mount and the blessings Jesus gives to his followers.",
+      detail: "This quiz helps a beginner see Matthew 32 as the chapter where Jesus teaches the shape of kingdom life and blesses the poor in spirit, the meek, and the merciful.",
+      start: "Take this after reading Matthew 32 carefully and noticing the beatitudes and the call to be salt and light.",
+      tags: ["Matthew 32", "chapter", "sermon"],
+      questions: [
+        {
+          prompt: "What kind of people does Jesus call blessed in the Beatitudes?",
+          answer: "He blesses the poor in spirit, the mourners, the meek, the merciful, the pure in heart, and others shaped by the kingdom.",
+        },
+        {
+          prompt: "What does Jesus say about his followers in the world?",
+          answer: "He says they are salt of the earth and light of the world.",
+        },
+        {
+          prompt: "What does Jesus say about righteousness in this chapter?",
+          answer: "He teaches a deeper righteousness that fulfills the law from the heart.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
