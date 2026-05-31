@@ -7333,6 +7333,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 149 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where joyful invitation becomes lasting belonging.",
+      detail: "This quiz helps a beginner see Matthew 149 as the chapter where Jesus turns welcome into a place where people can stay and grow.",
+      start: "Take this after reading Matthew 149 carefully and noticing how invitation can become belonging.",
+      tags: ["Matthew 149", "chapter", "belonging"],
+      questions: [
+        {
+          prompt: "What does joyful invitation become?",
+          answer: "It becomes lasting belonging.",
+        },
+        {
+          prompt: "What does Jesus keep building?",
+          answer: "He keeps building a place where people can remain with him.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how welcome can become a stable home.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
