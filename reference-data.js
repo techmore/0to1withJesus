@@ -7059,6 +7059,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Acts 12 Quiz",
+      kicker: "Chapter",
+      summary: "Checks James' death, Peter's rescue, and Herod's downfall.",
+      detail: "This quiz helps a beginner see Acts 12 as the chapter where persecution and prayer both shape the church's story.",
+      start: "Take this after reading Acts 12 carefully and noticing the contrast between prison, prayer, and pride.",
+      tags: ["Acts 12", "chapter", "prayer"],
+      questions: [
+        {
+          prompt: "What happens to James and Peter in this chapter?",
+          answer: "James is killed and Peter is arrested, then Peter is rescued by an angel.",
+        },
+        {
+          prompt: "How does the church respond to Peter's arrest?",
+          answer: "The church prays earnestly for him.",
+        },
+        {
+          prompt: "What happens to Herod?",
+          answer: "He is struck down after accepting praise that belongs to God.",
+        },
+      ],
+    },
+    {
       title: "Acts Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Acts as the story of the Spirit-empowered church expanding from Jerusalem outward.",
