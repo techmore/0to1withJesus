@@ -4421,6 +4421,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 21 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Isaac is born and Hagar and Ishmael are sent away.",
+      detail: "This quiz helps a beginner see Genesis 21 as the chapter where promise becomes fulfillment and a new family line is clearly established.",
+      start: "Take this after reading Genesis 21 carefully and noticing Isaac's birth, Hagar's distress, and the well at Beersheba.",
+      tags: ["Genesis 21", "chapter", "isaac"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Genesis 21?",
+          answer: "The chapter emphasizes Isaac's birth, the separation from Hagar and Ishmael, and God's care for both families.",
+        },
+        {
+          prompt: "What does the name Isaac mean in this context?",
+          answer: "It points to joy and laughter because God has fulfilled his promise.",
+        },
+        {
+          prompt: "Why does Genesis 21 matter after Genesis 20?",
+          answer: "It shows God's promise coming to fulfillment in Isaac even after Abraham's failures and fears.",
+        },
+      ],
+    },
+    {
       title: "Exodus Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Exodus as the Bible's great rescue story.",
