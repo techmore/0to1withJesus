@@ -6277,6 +6277,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 109 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where stable courage becomes settled resolve.",
+      detail: "This quiz helps a beginner see Matthew 109 as the chapter where Jesus turns steady courage into settled resolve that can keep moving without hesitation.",
+      start: "Take this after reading Matthew 109 carefully and noticing how courage can become resolve.",
+      tags: ["Matthew 109", "chapter", "resolve"],
+      questions: [
+        {
+          prompt: "What does stable courage become?",
+          answer: "It becomes settled resolve.",
+        },
+        {
+          prompt: "What does Jesus keep forming in his followers?",
+          answer: "He keeps forming people who can keep going with clear purpose.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how courage can harden into resolve.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
