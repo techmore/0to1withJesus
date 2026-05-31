@@ -4375,6 +4375,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 11 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the final warning of judgment before the Passover night.",
+      detail: "This quiz helps a beginner see Exodus 11 as the chapter where God announces the coming death of the firstborn and prepares the way for the decisive rescue. It focuses on warning, separation, and the seriousness of the coming night.",
+      start: "Take this after reading Exodus 11 carefully and noticing the shift from plague warnings to the final decisive blow.",
+      tags: ["Exodus 11", "chapter", "warning"],
+      questions: [
+        {
+          prompt: "What final judgment does God announce in Exodus 11?",
+          answer: "The death of the firstborn in Egypt.",
+        },
+        {
+          prompt: "How is Israel distinguished from Egypt in this announcement?",
+          answer: "God makes clear that his people will be protected while Egypt faces judgment.",
+        },
+        {
+          prompt: "Why is Exodus 11 important before Passover?",
+          answer: "It prepares the reader for the decisive rescue night and shows why the blood on the doorposts matters.",
+        },
+      ],
+    },
+    {
       title: "Luke and Acts Bridge Quiz",
       kicker: "Books",
       summary: "Checks how Luke's Gospel connects to the early church story in Acts.",
