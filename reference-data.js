@@ -7279,6 +7279,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Acts 22 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Paul's defense to the crowd and his testimony about conversion.",
+      detail: "This quiz helps a beginner see Acts 22 as the chapter where Paul explains his own story and the crowd turns hostile.",
+      start: "Take this after reading Acts 22 carefully and noticing Paul's defense before the crowd.",
+      tags: ["Acts 22", "chapter", "Paul"],
+      questions: [
+        {
+          prompt: "What does Paul recount in his defense?",
+          answer: "He recounts his conversion and calling on the road to Damascus.",
+        },
+        {
+          prompt: "Why do the people become angry?",
+          answer: "They react strongly when Paul mentions God's work among the Gentiles.",
+        },
+        {
+          prompt: "What does Paul say when he is about to be flogged?",
+          answer: "He reveals that he is a Roman citizen.",
+        },
+      ],
+    },
+    {
       title: "Acts Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Acts as the story of the Spirit-empowered church expanding from Jerusalem outward.",
