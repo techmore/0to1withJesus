@@ -7633,6 +7633,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Joshua 4 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where memorial stones help Israel remember how the Lord brought them through the Jordan.",
+      detail: "This quiz helps a beginner see Joshua 4 as the chapter of remembrance, where the crossing becomes a lasting testimony for future generations.",
+      start: "Take this after reading Joshua 4 carefully and noticing the stones, the questions, and the memorial purpose.",
+      tags: ["Joshua 4", "chapter", "memorial"],
+      questions: [
+        {
+          prompt: "What are the memorial stones for in Joshua 4?",
+          answer: "They help Israel remember what the Lord did at the Jordan.",
+        },
+        {
+          prompt: "Why were the stones set up?",
+          answer: "They were set up so future generations could ask about the Lord's mighty work and hear the story.",
+        },
+        {
+          prompt: "Why does Joshua 4 matter?",
+          answer: "It teaches God's people to remember and tell what he has done for them.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
