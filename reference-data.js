@@ -9921,6 +9921,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Chronicles 5 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter that records the tribes east of the Jordan and their battles.",
+      detail: "This quiz helps a beginner see 1 Chronicles 5 as a genealogy and history note about the tribes of Reuben, Gad, and half of Manasseh.",
+      start: "Take this after 1 Chronicles 4 when you want to continue the book chapter by chapter.",
+      tags: ["1 Chronicles 5", "chapter", "tribes"],
+      questions: [
+        {
+          prompt: "Which tribes are highlighted in 1 Chronicles 5?",
+          answer: "Reuben, Gad, and half the tribe of Manasseh.",
+        },
+        {
+          prompt: "What kind of material is mixed into the chapter?",
+          answer: "Genealogy and battle history.",
+        },
+        {
+          prompt: "Why does 1 Chronicles 5 matter?",
+          answer: "It shows the tribes east of the Jordan and their place in Israel's story.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
