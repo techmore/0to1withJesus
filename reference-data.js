@@ -11219,6 +11219,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Chronicles 34 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Josiah seeks the Lord and repairs the temple.",
+      detail: "This quiz helps a beginner see 2 Chronicles 34 as a bright reform under Josiah that rediscovered God's word.",
+      start: "Take this after 2 Chronicles 33 when you want to continue the chapter-by-chapter reading.",
+      tags: ["2 Chronicles 34", "chapter", "Josiah"],
+      questions: [
+        {
+          prompt: "What does Josiah do in 2 Chronicles 34?",
+          answer: "He seeks the Lord and repairs the temple.",
+        },
+        {
+          prompt: "What important discovery is made?",
+          answer: "The Book of the Law.",
+        },
+        {
+          prompt: "Why does 2 Chronicles 34 matter?",
+          answer: "It shows reform growing from a return to God's word.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
