@@ -6489,6 +6489,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Numbers 24 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Balaam's final oracles look ahead to a coming ruler and future conflict.",
+      detail: "This quiz helps a beginner see Numbers 24 as the chapter where the blessing story widens into prophecy and long-range hope.",
+      start: "Take this after reading Numbers 24 carefully and noticing the star, the scepter, and the final oracles.",
+      tags: ["Numbers 24", "chapter", "prophecy"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Numbers 24?",
+          answer: "The chapter emphasizes Balaam's final prophecies and the coming ruler imagery.",
+        },
+        {
+          prompt: "What images stand out in Numbers 24?",
+          answer: "The chapter includes the star and scepter imagery in Balaam's oracle.",
+        },
+        {
+          prompt: "Why does Numbers 24 matter after Numbers 23?",
+          answer: "It moves from immediate blessing to a wider prophetic vision of Israel's future.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
