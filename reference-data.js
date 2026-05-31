@@ -6445,6 +6445,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Numbers 22 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Balaam, Balak, and the donkey scene enter the story.",
+      detail: "This quiz helps a beginner see Numbers 22 as the chapter that opens the Balaam narrative with fear, hired cursing, and unexpected divine control.",
+      start: "Take this after reading Numbers 22 carefully and noticing Balak's fear, Balaam's journey, and the donkey's warning.",
+      tags: ["Numbers 22", "chapter", "Balaam"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Numbers 22?",
+          answer: "The chapter emphasizes Balaam's journey and Balak's attempt to curse Israel.",
+        },
+        {
+          prompt: "What unexpected thing happens in Numbers 22?",
+          answer: "Balaam's donkey sees the angel of the Lord and speaks to Balaam.",
+        },
+        {
+          prompt: "Why does Numbers 22 matter after Numbers 21?",
+          answer: "It introduces a new challenge where Israel's future is threatened through hired prophecy.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
