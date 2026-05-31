@@ -10735,6 +10735,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Chronicles 12 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Rehoboam is humbled by the invasion of Shishak.",
+      detail: "This quiz helps a beginner see 2 Chronicles 12 as a warning that turning from the Lord brings weakness and loss.",
+      start: "Take this after 2 Chronicles 11 when you want to continue the chapter-by-chapter reading.",
+      tags: ["2 Chronicles 12", "chapter", "Rehoboam"],
+      questions: [
+        {
+          prompt: "Who invades Judah in 2 Chronicles 12?",
+          answer: "Shishak king of Egypt.",
+        },
+        {
+          prompt: "What does Rehoboam and Judah do in response?",
+          answer: "They humble themselves before the Lord.",
+        },
+        {
+          prompt: "Why does 2 Chronicles 12 matter?",
+          answer: "It shows the consequences of abandoning God's ways.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
