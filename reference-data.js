@@ -9019,6 +9019,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Samuel 14 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where David is drawn toward reconciliation and Absalom is brought back.",
+      detail: "This quiz helps a beginner see 2 Samuel 14 as a chapter about wise intervention, family tension, and the return of Absalom.",
+      start: "Take this after 2 Samuel 13 when you want to see how the story moves toward restoration.",
+      tags: ["2 Samuel 14", "chapter", "David"],
+      questions: [
+        {
+          prompt: "Who helps move David toward reconciliation in 2 Samuel 14?",
+          answer: "The woman from Tekoa, through Joab's planning.",
+        },
+        {
+          prompt: "What happens to Absalom in the chapter?",
+          answer: "He is brought back to Jerusalem.",
+        },
+        {
+          prompt: "Why does 2 Samuel 14 matter?",
+          answer: "It shows the tension between mercy, family pain, and incomplete restoration.",
+        },
+      ],
+    },
+    {
       title: "1 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where Hannah prays for a son and Samuel's story begins.",
