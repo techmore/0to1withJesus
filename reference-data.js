@@ -4309,6 +4309,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 9 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the covenant with Noah, the rainbow sign, and life after the flood.",
+      detail: "This quiz helps a beginner see Genesis 9 as the chapter where God blesses Noah again, establishes a covenant, and gives the rainbow as a sign of mercy.",
+      start: "Take this after reading Genesis 9 carefully and noticing both the command to multiply and the promise not to flood the earth again.",
+      tags: ["Genesis 9", "chapter", "covenant"],
+      questions: [
+        {
+          prompt: "What does God establish in Genesis 9?",
+          answer: "God establishes a covenant with Noah, his descendants, and every living creature.",
+        },
+        {
+          prompt: "What sign marks the covenant?",
+          answer: "The rainbow.",
+        },
+        {
+          prompt: "Why is Genesis 9 important?",
+          answer: "It shows God committing himself to preserve the world while also giving humanity a renewed start after judgment.",
+        },
+      ],
+    },
+    {
       title: "Exodus 1 Quiz",
       kicker: "Chapter",
       summary: "Checks Israel's oppression in Egypt and the beginning of the rescue setting.",
