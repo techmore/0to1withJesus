@@ -7685,6 +7685,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 165 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where enduring patience becomes confident waiting.",
+      detail: "This quiz helps a beginner see Matthew 165 as the chapter where Jesus teaches his people to wait with trust instead of anxiety.",
+      start: "Take this after reading Matthew 165 carefully and noticing how patience can become trust.",
+      tags: ["Matthew 165", "chapter", "trust"],
+      questions: [
+        {
+          prompt: "What does enduring patience become?",
+          answer: "It becomes confident waiting.",
+        },
+        {
+          prompt: "What does Jesus keep building in his people?",
+          answer: "He keeps building trust in his timing.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how patience can be active trust.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
