@@ -8227,6 +8227,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Judges 6 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Gideon is called and the Lord begins to rescue Israel from Midian.",
+      detail: "This quiz helps a beginner see Judges 6 as the start of Gideon's story, where fear meets God's call and deliverance begins.",
+      start: "Take this after Judges 5 when you want to see the next rescue story in the judges cycle.",
+      tags: ["Judges 6", "chapter", "Gideon"],
+      questions: [
+        {
+          prompt: "Who is called in Judges 6?",
+          answer: "Gideon.",
+        },
+        {
+          prompt: "Who oppresses Israel in this chapter?",
+          answer: "The Midianites.",
+        },
+        {
+          prompt: "Why does Judges 6 matter?",
+          answer: "It shows God calling a hesitant leader and starting a rescue for his people.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
