@@ -6621,6 +6621,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Numbers 30 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where vows are regulated and words made before the Lord are taken seriously.",
+      detail: "This quiz helps a beginner see Numbers 30 as a chapter about the weight of speech, promises, and household accountability.",
+      start: "Take this after reading Numbers 30 carefully and noticing the instructions about vows and who can confirm or cancel them.",
+      tags: ["Numbers 30", "chapter", "vows"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Numbers 30?",
+          answer: "The chapter emphasizes the seriousness of vows made to the Lord.",
+        },
+        {
+          prompt: "What practical issue does Numbers 30 address?",
+          answer: "It addresses when vows can stand and when a father or husband may confirm or nullify them.",
+        },
+        {
+          prompt: "Why does Numbers 30 matter?",
+          answer: "It shows that words spoken before God are not casual and must be treated with care.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
