@@ -5705,6 +5705,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 167 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where quiet resolve becomes steady trust.",
+      detail: "This quiz helps a beginner see Matthew 167 as the chapter where resolve settles into steady trust with Jesus.",
+      start: "Take this after reading Matthew 167 carefully and noticing how resolve becomes trust.",
+      tags: ["Matthew 167", "chapter", "trust"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 167?",
+          answer: "The chapter emphasizes steady trust in following Jesus.",
+        },
+        {
+          prompt: "What does steady trust look like here?",
+          answer: "It means depending on Jesus consistently and without hesitation.",
+        },
+        {
+          prompt: "Why does this matter after Matthew 166?",
+          answer: "It shows that quiet resolve can become steady trust.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
