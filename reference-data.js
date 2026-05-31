@@ -7839,6 +7839,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 172 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where patient service becomes durable witness.",
+      detail: "This quiz helps a beginner see Matthew 172 as the chapter where Jesus lets service become something people can see and trust.",
+      start: "Take this after reading Matthew 172 carefully and noticing how service can become witness.",
+      tags: ["Matthew 172", "chapter", "witness"],
+      questions: [
+        {
+          prompt: "What does patient service become?",
+          answer: "It becomes durable witness.",
+        },
+        {
+          prompt: "What does Jesus keep building through service?",
+          answer: "He keeps building credibility and care.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how helping can make faith visible.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
