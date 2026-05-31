@@ -4727,6 +4727,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 28 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Jacob's dream at Bethel, his departure, and God's renewed promise.",
+      detail: "This quiz helps a beginner see Genesis 28 as the chapter where Jacob leaves home, meets God in a dream, and hears the covenant promise renewed in a new place.",
+      start: "Take this after reading Genesis 28 carefully and noticing the contrast between Jacob's lonely journey and God's reassuring presence.",
+      tags: ["Genesis 28", "chapter", "Bethel"],
+      questions: [
+        {
+          prompt: "What happens to Jacob in his dream at Bethel?",
+          answer: "He sees a stairway or ladder reaching to heaven with angels ascending and descending.",
+        },
+        {
+          prompt: "What promise does God repeat to Jacob?",
+          answer: "God promises the land, descendants, and blessing that will reach all families of the earth.",
+        },
+        {
+          prompt: "Why is Genesis 28 important?",
+          answer: "It shows that God is with Jacob even in exile and confirms that the covenant continues through him.",
+        },
+      ],
+    },
+    {
       title: "Exodus 1 Quiz",
       kicker: "Chapter",
       summary: "Checks Israel's oppression in Egypt and the beginning of the rescue setting.",
