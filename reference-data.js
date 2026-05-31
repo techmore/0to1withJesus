@@ -10779,6 +10779,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Chronicles 14 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Asa seeks the Lord and Judah finds peace.",
+      detail: "This quiz helps a beginner see 2 Chronicles 14 as a time of reform, trust, and victory under King Asa.",
+      start: "Take this after 2 Chronicles 13 when you want to continue the chapter-by-chapter reading.",
+      tags: ["2 Chronicles 14", "chapter", "Asa"],
+      questions: [
+        {
+          prompt: "What does Asa do in 2 Chronicles 14?",
+          answer: "He seeks the Lord and removes idols.",
+        },
+        {
+          prompt: "What happens when Judah faces battle?",
+          answer: "God gives them victory.",
+        },
+        {
+          prompt: "Why does 2 Chronicles 14 matter?",
+          answer: "It shows the blessing that comes from trusting the Lord.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
