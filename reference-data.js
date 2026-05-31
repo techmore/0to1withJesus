@@ -4045,6 +4045,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "John 2 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the wedding at Cana, the temple cleansing, and Jesus' early signs.",
+      detail: "This quiz helps a beginner see John 2 as the chapter where Jesus begins revealing his glory through a sign, then confronts the temple system with authority.",
+      start: "Take this after reading John 2 carefully and noticing how signs and conflict both shape the chapter.",
+      tags: ["John 2", "chapter", "Cana"],
+      questions: [
+        {
+          prompt: "What happens at the wedding in Cana?",
+          answer: "Jesus turns water into wine when the wine runs out.",
+        },
+        {
+          prompt: "What does Jesus do in the temple?",
+          answer: "He drives out the merchants and challenges the misuse of the temple.",
+        },
+        {
+          prompt: "Why is John 2 important?",
+          answer: "It begins Jesus' public signs and shows both his grace and his authority.",
+        },
+      ],
+    },
+    {
       title: "John 3 Quiz",
       kicker: "Chapter",
       summary: "Checks new birth, belief, light, and God's love for the world.",
