@@ -6841,6 +6841,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Deuteronomy 3 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Israel defeats Og and Moses reflects on land east of the Jordan.",
+      detail: "This quiz helps a beginner see Deuteronomy 3 as a chapter about victory, inheritance, and Moses preparing Joshua for leadership.",
+      start: "Take this after reading Deuteronomy 3 carefully and noticing the victories over Sihon and Og and the promise of land east of the Jordan.",
+      tags: ["Deuteronomy 3", "chapter", "victory"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Deuteronomy 3?",
+          answer: "The chapter emphasizes Israel's victories east of the Jordan and Moses' reflection on the land.",
+        },
+        {
+          prompt: "Who is encouraged and strengthened for leadership in this chapter?",
+          answer: "Joshua is encouraged and strengthened for leadership.",
+        },
+        {
+          prompt: "Why does Deuteronomy 3 matter?",
+          answer: "It shows God's faithfulness in battle and continues the transition toward entering the land.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
