@@ -5155,6 +5155,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 142 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where grounded faith becomes steadfast clarity.",
+      detail: "This quiz helps a beginner see Matthew 142 as the chapter where trust turns into a steady, clear way of speaking and acting.",
+      start: "Take this after reading Matthew 142 carefully and noticing how faith becomes clarity.",
+      tags: ["Matthew 142", "chapter", "clarity"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 142?",
+          answer: "The chapter emphasizes clarity that comes from deep trust.",
+        },
+        {
+          prompt: "What does steadfast clarity look like here?",
+          answer: "It means knowing what is true and saying it without hesitation.",
+        },
+        {
+          prompt: "Why does this matter after Matthew 141?",
+          answer: "It shows that grounded faith can become a steady clarity of witness.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
