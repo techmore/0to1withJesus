@@ -8887,6 +8887,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Kings 7 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Solomon builds his palace and completes more temple furnishings.",
+      detail: "This quiz helps a beginner see 1 Kings 7 as a continuation of Solomon's building work and the preparation of the temple's furnishings.",
+      start: "Take this after 1 Kings 6 when you want to continue the book chapter by chapter.",
+      tags: ["1 Kings 7", "chapter", "Solomon"],
+      questions: [
+        {
+          prompt: "What building work is described in 1 Kings 7?",
+          answer: "Solomon's palace and more temple furnishings.",
+        },
+        {
+          prompt: "What does the chapter show about Solomon's reign?",
+          answer: "It shows continued organization, craftsmanship, and royal building projects.",
+        },
+        {
+          prompt: "Why does 1 Kings 7 matter?",
+          answer: "It shows the temple project being completed with important furnishings and support structures.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
