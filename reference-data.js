@@ -6203,6 +6203,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Numbers 11 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where complaints spread and the Lord provides meat and leadership help.",
+      detail: "This quiz helps a beginner see Numbers 11 as the chapter where grumbling reveals the people's hearts and Moses needs help.",
+      start: "Take this after reading Numbers 11 carefully and noticing the complaints, the quail, and the sharing of leadership.",
+      tags: ["Numbers 11", "chapter", "complaint"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Numbers 11?",
+          answer: "The chapter emphasizes Israel's complaints and God's response through provision and leadership help.",
+        },
+        {
+          prompt: "What does God provide in Numbers 11?",
+          answer: "He provides quail for the people and help for Moses through the elders.",
+        },
+        {
+          prompt: "Why does Numbers 11 matter after Numbers 10?",
+          answer: "It shows the challenge that follows Israel's journey as they struggle with desire and complaint.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
