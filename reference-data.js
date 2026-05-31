@@ -4595,6 +4595,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 21 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the first case laws and how covenant justice applies to everyday life.",
+      detail: "This quiz helps a beginner see Exodus 21 as the start of detailed covenant case law. It focuses on servants, personal injury, responsibility, and the way worship is meant to shape daily ethics.",
+      start: "Take this after reading Exodus 21 carefully and noticing how the commands become concrete situations.",
+      tags: ["Exodus 21", "chapter", "justice"],
+      questions: [
+        {
+          prompt: "What kind of material fills Exodus 21?",
+          answer: "Case laws and practical rules for everyday covenant life.",
+        },
+        {
+          prompt: "What subjects appear in the chapter?",
+          answer: "Servitude, bodily harm, restitution, and responsibility for injury.",
+        },
+        {
+          prompt: "Why is Exodus 21 important?",
+          answer: "It shows that God's covenant law reaches into ordinary social relationships, not just worship rituals.",
+        },
+      ],
+    },
+    {
       title: "Luke and Acts Bridge Quiz",
       kicker: "Books",
       summary: "Checks how Luke's Gospel connects to the early church story in Acts.",
