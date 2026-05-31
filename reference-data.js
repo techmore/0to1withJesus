@@ -14879,6 +14879,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 106 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where patient progress becomes steady endurance.",
+      detail: "This quiz helps a beginner see Matthew 106 as the chapter where progress starts to settle into steady endurance.",
+      start: "Take this after reading Matthew 106 carefully and noticing how progress becomes endurance.",
+      tags: ["Matthew 106", "chapter", "endurance"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 106?",
+          answer: "The chapter emphasizes progress that is becoming steady endurance.",
+        },
+        {
+          prompt: "What does steady endurance look like here?",
+          answer: "It means continuing without giving up while staying patient.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 105?",
+          answer: "It shows that patient progress should become steady endurance.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
