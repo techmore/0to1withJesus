@@ -7663,6 +7663,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 164 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where steady grace becomes enduring patience.",
+      detail: "This quiz helps a beginner see Matthew 164 as the chapter where Jesus makes grace last long enough to carry people through delay.",
+      start: "Take this after reading Matthew 164 carefully and noticing how grace can become patience.",
+      tags: ["Matthew 164", "chapter", "patience"],
+      questions: [
+        {
+          prompt: "What does steady grace become?",
+          answer: "It becomes enduring patience.",
+        },
+        {
+          prompt: "What does Jesus keep giving his people?",
+          answer: "He keeps giving them the ability to wait without giving up.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how grace can help people endure time.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
