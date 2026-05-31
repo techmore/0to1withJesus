@@ -13273,6 +13273,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 33 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where steady understanding becomes careful discernment.",
+      detail: "This quiz helps a beginner see Matthew 33 as the chapter where clearer understanding starts to judge more wisely.",
+      start: "Take this after reading Matthew 33 carefully and noticing how discernment grows from understanding.",
+      tags: ["Matthew 33", "chapter", "discernment"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 33?",
+          answer: "The chapter emphasizes understanding that is starting to discern more carefully.",
+        },
+        {
+          prompt: "What does careful discernment look like here?",
+          answer: "It means noticing what matters and what does not without being distracted.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 32?",
+          answer: "It shows that clearer understanding can become wiser judgment.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
