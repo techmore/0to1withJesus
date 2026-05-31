@@ -7743,6 +7743,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Joshua 9 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where the Gibeonites trick Israel into making a peace treaty.",
+      detail: "This quiz helps a beginner see Joshua 9 as the chapter about the danger of not seeking the Lord's guidance before making a promise.",
+      start: "Take this after reading Joshua 9 carefully and noticing the disguise, the treaty, and the later discovery of the trick.",
+      tags: ["Joshua 9", "chapter", "Gibeonites"],
+      questions: [
+        {
+          prompt: "What do the Gibeonites do in Joshua 9?",
+          answer: "They deceive Israel by pretending to come from far away.",
+        },
+        {
+          prompt: "What mistake does Israel make?",
+          answer: "Israel makes a treaty without asking the Lord for guidance.",
+        },
+        {
+          prompt: "Why does Joshua 9 matter?",
+          answer: "It warns God's people to seek the Lord before making decisions and promises.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
