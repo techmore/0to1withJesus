@@ -71,7 +71,7 @@ if (typeof window !== 'undefined' && typeof document !== 'undefined') {
     document.getElementById('quiz-study-lede').textContent = summary || trackDescription(track);
     document.getElementById('quiz-study-actions').innerHTML = `
       <a class="button button-primary" href="${escapeHtml(quizHref)}">Open quiz page</a>
-      <a class="button button-secondary" href="./quizzes/${track}.html">Back to ${escapeHtml(trackLabel(track))} page</a>
+      <a class="button button-secondary" href="./quizzes/${track}.html">Back to ${escapeHtml(trackLabel(track))} track</a>
     `;
     document.getElementById('quiz-study-panel').innerHTML = `
       <article class="reference-mini">
