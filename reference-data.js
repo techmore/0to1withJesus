@@ -13955,6 +13955,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 64 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where steady movement becomes faithful progress.",
+      detail: "This quiz helps a beginner see Matthew 64 as the chapter where action starts to settle into progress.",
+      start: "Take this after reading Matthew 64 carefully and noticing how movement becomes progress.",
+      tags: ["Matthew 64", "chapter", "progress"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 64?",
+          answer: "The chapter emphasizes movement that is becoming faithful progress.",
+        },
+        {
+          prompt: "What does faithful progress look like here?",
+          answer: "It means continuing forward in a way that stays aligned with direction.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 63?",
+          answer: "It shows that steady movement should become real progress.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
