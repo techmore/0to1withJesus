@@ -8799,6 +8799,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Kings 3 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Solomon asks for wisdom and begins to show it in judgment.",
+      detail: "This quiz helps a beginner see 1 Kings 3 as the chapter where Solomon seeks wisdom from God and then demonstrates wise judgment.",
+      start: "Take this after 1 Kings 2 when you want to continue the book chapter by chapter.",
+      tags: ["1 Kings 3", "chapter", "Solomon"],
+      questions: [
+        {
+          prompt: "What does Solomon ask God for in 1 Kings 3?",
+          answer: "Wisdom to govern the people well.",
+        },
+        {
+          prompt: "What famous story shows Solomon's wisdom in the chapter?",
+          answer: "The case of the two women and the baby.",
+        },
+        {
+          prompt: "Why does 1 Kings 3 matter?",
+          answer: "It shows Solomon depending on God for wisdom and using that wisdom to judge rightly.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
