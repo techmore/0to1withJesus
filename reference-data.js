@@ -5587,6 +5587,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 23 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where justice, Sabbath rest, and promised guidance come together.",
+      detail: "This quiz helps a beginner see Exodus 23 as the chapter where covenant faithfulness includes fairness, rest, and trust in God's guidance.",
+      start: "Take this after reading Exodus 23 carefully and noticing the commands about justice, rest, festivals, and the promised angel.",
+      tags: ["Exodus 23", "chapter", "justice"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Exodus 23?",
+          answer: "The chapter emphasizes justice, rest, and trusting God's guidance.",
+        },
+        {
+          prompt: "What kinds of instructions appear in Exodus 23?",
+          answer: "It includes instructions about justice, Sabbath rest, and festivals.",
+        },
+        {
+          prompt: "Why does Exodus 23 matter after Exodus 22?",
+          answer: "It extends covenant life into public justice, worship, and trust in the Lord's leading.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
