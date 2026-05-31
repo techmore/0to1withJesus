@@ -5771,6 +5771,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 170 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where quiet confidence becomes settled courage.",
+      detail: "This quiz helps a beginner see Matthew 170 as the chapter where confidence settles into courage with Jesus.",
+      start: "Take this after reading Matthew 170 carefully and noticing how confidence becomes courage.",
+      tags: ["Matthew 170", "chapter", "courage"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 170?",
+          answer: "The chapter emphasizes settled courage in following Jesus.",
+        },
+        {
+          prompt: "What does settled courage look like here?",
+          answer: "It means acting faithfully with calm conviction and without fear.",
+        },
+        {
+          prompt: "Why does this matter after Matthew 169?",
+          answer: "It shows that quiet confidence can become settled courage.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
