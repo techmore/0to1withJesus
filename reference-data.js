@@ -4265,6 +4265,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Luke 12 Quiz",
+      kicker: "Chapter",
+      summary: "Checks warnings about hypocrisy, wealth, readiness, and fear of God.",
+      detail: "This quiz helps a beginner see Luke 12 as the chapter where Jesus teaches his followers to fear God rather than people and to live ready for his coming.",
+      start: "Take this after reading Luke 12 carefully and noticing the repeated call to be ready.",
+      tags: ["Luke 12", "chapter", "readiness"],
+      questions: [
+        {
+          prompt: "What danger does Jesus warn against at the start of Luke 12?",
+          answer: "He warns against the hypocrisy of the Pharisees.",
+        },
+        {
+          prompt: "What parable addresses wealth and greed?",
+          answer: "The parable of the rich fool warns against storing up treasure for oneself without being rich toward God.",
+        },
+        {
+          prompt: "What does Jesus tell his followers to do as they wait?",
+          answer: "He tells them to be watchful and ready for the Son of Man's coming.",
+        },
+      ],
+    },
+    {
       title: "John 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the opening claims about Jesus as the Word, light, and Son.",
