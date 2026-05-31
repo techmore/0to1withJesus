@@ -9437,6 +9437,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Kings 9 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Jehu is anointed and judgment falls on Ahab's house.",
+      detail: "This quiz helps a beginner see 2 Kings 9 as a chapter of decisive judgment and a new ruler rising in Israel.",
+      start: "Take this after 2 Kings 8 when you want to continue the book chapter by chapter.",
+      tags: ["2 Kings 9", "chapter", "Jehu"],
+      questions: [
+        {
+          prompt: "Who is anointed in 2 Kings 9?",
+          answer: "Jehu.",
+        },
+        {
+          prompt: "What happens to Ahab's house?",
+          answer: "Judgment falls on it.",
+        },
+        {
+          prompt: "Why does 2 Kings 9 matter?",
+          answer: "It shows the start of judgment against Ahab's line.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
