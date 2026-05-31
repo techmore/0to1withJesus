@@ -13911,6 +13911,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 62 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where practical clarity becomes confident direction.",
+      detail: "This quiz helps a beginner see Matthew 62 as the chapter where insight turns into a direction you can trust.",
+      start: "Take this after reading Matthew 62 carefully and noticing how clarity becomes direction.",
+      tags: ["Matthew 62", "chapter", "direction"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 62?",
+          answer: "The chapter emphasizes clarity that has become confident direction.",
+        },
+        {
+          prompt: "What does confident direction look like here?",
+          answer: "It means knowing where to go and moving without hesitation.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 61?",
+          answer: "It shows that practical clarity should become trusted direction.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
