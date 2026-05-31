@@ -9701,6 +9701,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Kings 21 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Manasseh leads Judah into deep idolatry and judgment is announced.",
+      detail: "This quiz helps a beginner see 2 Kings 21 as a warning about long-term unfaithfulness in Judah.",
+      start: "Take this after 2 Kings 20 when you want to continue the book chapter by chapter.",
+      tags: ["2 Kings 21", "chapter", "Manasseh"],
+      questions: [
+        {
+          prompt: "Who leads Judah into idolatry in 2 Kings 21?",
+          answer: "Manasseh.",
+        },
+        {
+          prompt: "What is announced because of this?",
+          answer: "Judgment on Judah.",
+        },
+        {
+          prompt: "Why does 2 Kings 21 matter?",
+          answer: "It shows the depth of Judah's unfaithfulness and the certainty of coming judgment.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
