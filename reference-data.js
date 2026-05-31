@@ -3657,6 +3657,66 @@ export const referenceData = {
       ],
     },
     {
+      title: "Old Testament Books Order Quiz",
+      kicker: "Old Testament",
+      summary: "A beginner quiz for learning the order of the Old Testament books and what each section is doing.",
+      detail: "This quiz helps a beginner see the Old Testament as a connected story in five major moves: Torah, historical books, novellas, wisdom, and prophets. It is useful when the names are familiar but the order still feels scrambled.",
+      start: "Take this after the Bible Books Order and Sections Quiz if the Old Testament still feels like a long list.",
+      tags: ["Old Testament", "order", "sections"],
+      questions: [
+        {
+          prompt: "What are the five major Old Testament groupings in this teaching path?",
+          answer: "Torah or Pentateuch, historical books, biblical novellas, wisdom books, and prophets.",
+        },
+        {
+          prompt: "What books begin the Old Testament?",
+          answer: "Genesis, Exodus, Leviticus, Numbers, and Deuteronomy.",
+        },
+        {
+          prompt: "What follows the Torah in this order?",
+          answer: "The historical books, then biblical novellas, then wisdom books, then prophets.",
+        },
+        {
+          prompt: "What is the Old Testament mainly about as one story?",
+          answer: "Creation, covenant, Israel, rescue, worship, wisdom, warning, exile, and hope for restoration.",
+        },
+        {
+          prompt: "Why is it helpful to know the Old Testament order?",
+          answer: "Because it tells you what kind of writing you are reading and where the book sits in the larger story before Jesus.",
+        },
+      ],
+    },
+    {
+      title: "New Testament Books Order Quiz",
+      kicker: "New Testament",
+      summary: "A beginner quiz for learning the order of the New Testament books and what each section is doing.",
+      detail: "This quiz helps a beginner see the New Testament as a connected flow from the Gospels to Acts to the letters and Revelation. It is the fastest way to stop the New Testament from feeling like random shorter books after the Gospels.",
+      start: "Take this after the Bible Books Order and Sections Quiz when the New Testament still feels unfamiliar.",
+      tags: ["New Testament", "order", "sections"],
+      questions: [
+        {
+          prompt: "What are the first four books of the New Testament?",
+          answer: "Matthew, Mark, Luke, and John.",
+        },
+        {
+          prompt: "What book comes after the Gospels?",
+          answer: "Acts.",
+        },
+        {
+          prompt: "What comes after Acts in the New Testament?",
+          answer: "The letters, then Revelation.",
+        },
+        {
+          prompt: "What are the New Testament letters for?",
+          answer: "They explain and apply the gospel to churches and believers.",
+        },
+        {
+          prompt: "Why is it helpful to know the New Testament order?",
+          answer: "Because it helps you place each book in the life of Jesus, the early church, or the ongoing life of the churches.",
+        },
+      ],
+    },
+    {
       title: "Bible Sections Foundation Quiz",
       kicker: "Whole Bible",
       summary: "Checks whether the major sections of the Bible are starting to make sense.",
@@ -7027,6 +7087,28 @@ export const referenceData = {
         {
           prompt: "What should a beginner notice?",
           answer: "They should notice how care can become perseverance.",
+        },
+      ],
+    },
+    {
+      title: "Matthew 138 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where steady endurance becomes mature faithfulness.",
+      detail: "This quiz helps a beginner see Matthew 138 as the chapter where Jesus keeps turning perseverance into a mature way of staying faithful.",
+      start: "Take this after reading Matthew 138 carefully and noticing how endurance can become maturity.",
+      tags: ["Matthew 138", "chapter", "faithfulness"],
+      questions: [
+        {
+          prompt: "What does steady endurance become?",
+          answer: "It becomes mature faithfulness.",
+        },
+        {
+          prompt: "What does Jesus keep building?",
+          answer: "He keeps building a stable way to stay faithful.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how perseverance can lead to consistency.",
         },
       ],
     },
