@@ -7039,6 +7039,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Deuteronomy 12 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Israel is told to worship the Lord in the place he chooses.",
+      detail: "This quiz helps a beginner see Deuteronomy 12 as a chapter about centralizing worship and removing rival worship sites.",
+      start: "Take this after reading Deuteronomy 12 carefully and noticing the repeated emphasis on the place the Lord will choose.",
+      tags: ["Deuteronomy 12", "chapter", "worship"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Deuteronomy 12?",
+          answer: "The chapter emphasizes worshiping the Lord in the place he chooses.",
+        },
+        {
+          prompt: "What does Moses want Israel to remove?",
+          answer: "He wants them to remove false worship sites and idols tied to the nations.",
+        },
+        {
+          prompt: "Why does Deuteronomy 12 matter?",
+          answer: "It teaches that worship should be guided by God's command, not by convenience or imitation.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
