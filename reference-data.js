@@ -6555,6 +6555,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Numbers 27 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Zelophehad's daughters ask for inheritance and Joshua is appointed.",
+      detail: "This quiz helps a beginner see Numbers 27 as the chapter that brings questions of justice, inheritance, and leadership transition into focus.",
+      start: "Take this after reading Numbers 27 carefully and noticing the inheritance request, God's answer, and Joshua's commissioning.",
+      tags: ["Numbers 27", "chapter", "inheritance"],
+      questions: [
+        {
+          prompt: "What problem do Zelophehad's daughters raise in Numbers 27?",
+          answer: "They ask for inheritance rights because their father has no sons.",
+        },
+        {
+          prompt: "How does God respond to their request?",
+          answer: "God says their request is right and gives them an inheritance among their father's relatives.",
+        },
+        {
+          prompt: "Who is appointed as the next leader after Moses?",
+          answer: "Joshua is appointed as Moses' successor.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
