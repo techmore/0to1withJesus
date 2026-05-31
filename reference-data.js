@@ -6201,6 +6201,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 102 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where resolve and faithfulness are further clarified.",
+      detail: "This quiz helps a beginner see Matthew 102 as the chapter where Jesus keeps pressing disciples toward faithful resolve.",
+      start: "Take this after reading Matthew 102 carefully and noticing the emphasis on resolved faith.",
+      tags: ["Matthew 102", "chapter", "resolve"],
+      questions: [
+        {
+          prompt: "What is being clarified?",
+          answer: "Resolve and faithfulness are being clarified.",
+        },
+        {
+          prompt: "What does Jesus keep pressing toward?",
+          answer: "He keeps pressing toward faithful resolve.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how commitment deepens over the chapter sequence.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
