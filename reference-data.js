@@ -9899,6 +9899,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Chronicles 4 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter that continues the clan records and highlights notable names.",
+      detail: "This quiz helps a beginner see 1 Chronicles 4 as part of the broader genealogy section that records Judah's clans and notable descendants.",
+      start: "Take this after 1 Chronicles 3 when you want to continue the book chapter by chapter.",
+      tags: ["1 Chronicles 4", "chapter", "Judah"],
+      questions: [
+        {
+          prompt: "What kind of material makes up 1 Chronicles 4?",
+          answer: "Genealogical records of Judah's clans and descendants.",
+        },
+        {
+          prompt: "What larger section does it continue?",
+          answer: "The genealogies of 1 Chronicles.",
+        },
+        {
+          prompt: "Why does 1 Chronicles 4 matter?",
+          answer: "It keeps tracing the people and families connected to Judah.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
