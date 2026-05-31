@@ -6751,6 +6751,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 127 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where steady encouragement becomes resilient hope.",
+      detail: "This quiz helps a beginner see Matthew 127 as the chapter where Jesus keeps turning support into a stronger way to wait, trust, and keep going.",
+      start: "Take this after reading Matthew 127 carefully and noticing how encouragement can become resilient hope.",
+      tags: ["Matthew 127", "chapter", "hope"],
+      questions: [
+        {
+          prompt: "What does steady encouragement become?",
+          answer: "It becomes resilient hope.",
+        },
+        {
+          prompt: "What does Jesus keep building?",
+          answer: "He keeps building a stronger way to wait and trust.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how support can help people keep going.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
