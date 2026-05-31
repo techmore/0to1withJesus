@@ -7565,6 +7565,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Romans 4 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Paul's example of Abraham and his teaching about faith counted as righteousness.",
+      detail: "This quiz helps a beginner see Romans 4 as the chapter where Paul uses Abraham and David to show that righteousness comes by faith, not law-keeping.",
+      start: "Take this after reading Romans 4 carefully and noticing how Paul appeals to Abraham's faith.",
+      tags: ["Romans 4", "chapter", "Abraham"],
+      questions: [
+        {
+          prompt: "Why does Paul bring up Abraham in Romans 4?",
+          answer: "He uses Abraham to show that righteousness is credited by faith, not by works.",
+        },
+        {
+          prompt: "What does Paul say about faith and promise?",
+          answer: "Faith trusts God's promise even when circumstances look impossible.",
+        },
+        {
+          prompt: "Who else does Paul mention as an example in this chapter?",
+          answer: "He mentions David as another witness to blessing apart from works.",
+        },
+      ],
+    },
+    {
       title: "Ephesians Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Ephesians as Paul's letter about identity in Christ, unity, the church, and standing firm.",
