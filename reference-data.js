@@ -6509,6 +6509,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 116 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where testimony becomes a settled voice.",
+      detail: "This quiz helps a beginner see Matthew 116 as the chapter where Jesus keeps making witness into a steady, settled voice.",
+      start: "Take this after reading Matthew 116 carefully and noticing how testimony becomes consistent.",
+      tags: ["Matthew 116", "chapter", "voice"],
+      questions: [
+        {
+          prompt: "What does testimony become?",
+          answer: "It becomes a settled voice.",
+        },
+        {
+          prompt: "What does Jesus keep developing?",
+          answer: "He keeps developing consistent witnesses.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how repeated witness becomes confidence.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
