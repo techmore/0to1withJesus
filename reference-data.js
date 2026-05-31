@@ -9723,6 +9723,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Kings 22 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Josiah finds the book of the law and renews covenant obedience.",
+      detail: "This quiz helps a beginner see 2 Kings 22 as a chapter of rediscovery and repentance in Judah.",
+      start: "Take this after 2 Kings 21 when you want to continue the book chapter by chapter.",
+      tags: ["2 Kings 22", "chapter", "Josiah"],
+      questions: [
+        {
+          prompt: "What does Josiah find in 2 Kings 22?",
+          answer: "The book of the law.",
+        },
+        {
+          prompt: "How does Josiah respond?",
+          answer: "He seeks the Lord and renews obedience.",
+        },
+        {
+          prompt: "Why does 2 Kings 22 matter?",
+          answer: "It shows repentance beginning with hearing God's word again.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
