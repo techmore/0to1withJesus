@@ -12613,6 +12613,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Lamentations Book Quiz",
+      kicker: "Book",
+      summary: "A whole-book check for Lamentations as grief, lament, and hope after Jerusalem's fall.",
+      detail: "This quiz helps a beginner see Lamentations as a book that teaches faithful sorrow, confession, and waiting for mercy when everything has collapsed.",
+      start: "Take this after Jeremiah and after noticing that lament is a biblical response to catastrophe.",
+      tags: ["Lamentations", "book", "lament"],
+      questions: [
+        {
+          prompt: "What kind of book is Lamentations?",
+          answer: "A collection of grief-filled poems over Jerusalem's destruction.",
+        },
+        {
+          prompt: "What does Lamentations teach about suffering?",
+          answer: "It teaches honest lament, confession, and waiting for God's mercy.",
+        },
+        {
+          prompt: "Why is Lamentations important for beginners?",
+          answer: "It shows that faithful people can bring deep sorrow to God without pretending.",
+        },
+      ],
+    },
+    {
       title: "Gospel of John Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for John's main claims about Jesus.",
