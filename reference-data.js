@@ -9393,6 +9393,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Kings 7 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where God ends the siege and brings unexpected provision to Samaria.",
+      detail: "This quiz helps a beginner see 2 Kings 7 as a chapter of deliverance that comes through God's surprising word.",
+      start: "Take this after 2 Kings 6 when you want to continue the book chapter by chapter.",
+      tags: ["2 Kings 7", "chapter", "Elisha"],
+      questions: [
+        {
+          prompt: "What changes in Samaria in 2 Kings 7?",
+          answer: "The siege ends and food becomes available.",
+        },
+        {
+          prompt: "How does God provide the rescue?",
+          answer: "Through a surprising word and events that scare off the enemy.",
+        },
+        {
+          prompt: "Why does 2 Kings 7 matter?",
+          answer: "It shows that God can deliver his people in unexpected ways.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
