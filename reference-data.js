@@ -15143,6 +15143,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 118 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where steady kindness becomes patient goodwill.",
+      detail: "This quiz helps a beginner see Matthew 118 as the chapter where kindness starts to settle into patient goodwill.",
+      start: "Take this after reading Matthew 118 carefully and noticing how kindness becomes goodwill.",
+      tags: ["Matthew 118", "chapter", "goodwill"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 118?",
+          answer: "The chapter emphasizes kindness that is becoming patient goodwill.",
+        },
+        {
+          prompt: "What does patient goodwill look like here?",
+          answer: "It means wanting good for others and acting accordingly over time.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 117?",
+          answer: "It shows that steady kindness should become patient goodwill.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
