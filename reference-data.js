@@ -4947,6 +4947,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 37 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the crafted ark, table, lampstand, and incense altar.",
+      detail: "This quiz helps a beginner see Exodus 37 as the chapter where the holy furnishings are made according to God's pattern.",
+      start: "Take this after reading Exodus 37 carefully and noticing the careful workmanship in every object.",
+      tags: ["Exodus 37", "chapter", "tabernacle"],
+      questions: [
+        {
+          prompt: "What does Exodus 37 describe?",
+          answer: "The making of the ark, table, lampstand, and incense altar.",
+        },
+        {
+          prompt: "What pattern shapes the work?",
+          answer: "Everything is made according to the instructions God gave Moses.",
+        },
+        {
+          prompt: "Why is Exodus 37 important?",
+          answer: "It shows that the holy objects are crafted with precision because worship is ordered by God's design.",
+        },
+      ],
+    },
+    {
       title: "Luke and Acts Bridge Quiz",
       kicker: "Books",
       summary: "Checks how Luke's Gospel connects to the early church story in Acts.",
