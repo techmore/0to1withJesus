@@ -5323,6 +5323,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 11 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Moses announces the final plague and Israel's release.",
+      detail: "This quiz helps a beginner see Exodus 11 as the chapter where the last warning is given before the firstborn judgment.",
+      start: "Take this after reading Exodus 11 carefully and noticing the announcement, the midnight timing, and the contrast between Egypt and Israel.",
+      tags: ["Exodus 11", "chapter", "plagues"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Exodus 11?",
+          answer: "The chapter emphasizes the announcement of the final plague against Egypt.",
+        },
+        {
+          prompt: "What does Moses tell Pharaoh in Exodus 11?",
+          answer: "He says that after one more plague Pharaoh will drive Israel out completely.",
+        },
+        {
+          prompt: "Why does Exodus 11 matter after Exodus 10?",
+          answer: "It gives the last warning before the decisive judgment and release.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
