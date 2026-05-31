@@ -15077,6 +15077,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 115 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where patient fairness becomes steady mercy.",
+      detail: "This quiz helps a beginner see Matthew 115 as the chapter where fairness starts to settle into steady mercy.",
+      start: "Take this after reading Matthew 115 carefully and noticing how fairness becomes mercy.",
+      tags: ["Matthew 115", "chapter", "mercy"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 115?",
+          answer: "The chapter emphasizes fairness that is becoming steady mercy.",
+        },
+        {
+          prompt: "What does steady mercy look like here?",
+          answer: "It means treating others kindly and consistently with compassion.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 114?",
+          answer: "It shows that patient fairness should become steady mercy.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
