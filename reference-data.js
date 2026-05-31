@@ -9151,6 +9151,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Samuel 20 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Sheba's rebellion is crushed and David's kingdom is stabilized again.",
+      detail: "This quiz helps a beginner see 2 Samuel 20 as a chapter of another internal threat and the restoration of order.",
+      start: "Take this after 2 Samuel 19 when you want to see the kingdom settle after upheaval.",
+      tags: ["2 Samuel 20", "chapter", "David"],
+      questions: [
+        {
+          prompt: "Who causes trouble in 2 Samuel 20?",
+          answer: "Sheba son of Bichri.",
+        },
+        {
+          prompt: "How does the rebellion end?",
+          answer: "Sheba is killed and the uprising is stopped.",
+        },
+        {
+          prompt: "Why does 2 Samuel 20 matter?",
+          answer: "It shows David's kingdom surviving another threat and order being restored.",
+        },
+      ],
+    },
+    {
       title: "1 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where Hannah prays for a son and Samuel's story begins.",
