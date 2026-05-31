@@ -8909,6 +8909,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Samuel 10 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Saul is anointed and publicly chosen as king.",
+      detail: "This quiz helps a beginner see 1 Samuel 10 as the chapter where Saul's kingship is confirmed and the transition becomes visible.",
+      start: "Take this after 1 Samuel 9 when you want to see Saul officially set apart for kingship.",
+      tags: ["1 Samuel 10", "chapter", "Saul"],
+      questions: [
+        {
+          prompt: "What happens to Saul in 1 Samuel 10?",
+          answer: "He is anointed and publicly chosen as king.",
+        },
+        {
+          prompt: "What sign is given to confirm Samuel's words?",
+          answer: "Several signs happen as Samuel said they would.",
+        },
+        {
+          prompt: "Why does 1 Samuel 10 matter?",
+          answer: "It marks the beginning of Saul's public kingship in Israel.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
