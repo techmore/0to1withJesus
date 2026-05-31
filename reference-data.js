@@ -4551,6 +4551,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 19 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Israel's arrival at Sinai and the preparation to meet God.",
+      detail: "This quiz helps a beginner see Exodus 19 as the chapter where rescue becomes covenant. It focuses on holiness, boundary, preparation, and the people's consent to hear God's word.",
+      start: "Take this after reading Exodus 19 carefully and noticing the repeated commands to prepare and stay at a distance.",
+      tags: ["Exodus 19", "chapter", "Sinai"],
+      questions: [
+        {
+          prompt: "Where do the Israelites arrive in Exodus 19?",
+          answer: "At Mount Sinai.",
+        },
+        {
+          prompt: "What do the people need to do before meeting God?",
+          answer: "They need to prepare themselves and respect the holy boundary around the mountain.",
+        },
+        {
+          prompt: "Why is Exodus 19 important?",
+          answer: "It marks the transition from rescue to covenant relationship with God.",
+        },
+      ],
+    },
+    {
       title: "Luke and Acts Bridge Quiz",
       kicker: "Books",
       summary: "Checks how Luke's Gospel connects to the early church story in Acts.",
