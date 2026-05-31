@@ -4397,6 +4397,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "John 18 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the arrest of Jesus, Peter's denial, and the early stages of the trial.",
+      detail: "This quiz helps a beginner see John 18 as the beginning of the passion story where Jesus submits to arrest while Peter fails under pressure.",
+      start: "Take this after reading John 18 carefully and noticing the contrast between Jesus' calm and Peter's fear.",
+      tags: ["John 18", "chapter", "arrest"],
+      questions: [
+        {
+          prompt: "How is Jesus arrested in John 18?",
+          answer: "Jesus is taken after Judas leads the soldiers to him, and Jesus identifies himself before they seize him.",
+        },
+        {
+          prompt: "What does Peter do during the arrest scene?",
+          answer: "Peter draws a sword, then later denies knowing Jesus.",
+        },
+        {
+          prompt: "Who questions Jesus early in the trial process?",
+          answer: "Jesus is brought before Annas and then sent onward toward Pilate.",
+        },
+      ],
+    },
+    {
       title: "John 18-21 Quiz",
       kicker: "Chapters",
       summary: "Checks the arrest, trial, cross, resurrection, and Peter's restoration.",
