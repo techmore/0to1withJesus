@@ -6289,6 +6289,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 106 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where practiced faithfulness is tested in real life.",
+      detail: "This quiz helps a beginner see Matthew 106 as the chapter where Jesus keeps showing that habits of faith must hold under pressure.",
+      start: "Take this after reading Matthew 106 carefully and noticing how practice meets pressure.",
+      tags: ["Matthew 106", "chapter", "pressure"],
+      questions: [
+        {
+          prompt: "What happens to practiced faithfulness?",
+          answer: "It is tested in real life.",
+        },
+        {
+          prompt: "What does Jesus keep forming?",
+          answer: "He keeps forming disciples whose habits hold under pressure.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how habits prove themselves in hard moments.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
