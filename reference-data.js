@@ -9107,6 +9107,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Samuel 19 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Saul keeps trying to kill David and Jonathan helps him escape.",
+      detail: "This quiz helps a beginner see 1 Samuel 19 as the chapter where Saul's hostility grows and God protects David through loyal friends.",
+      start: "Take this after 1 Samuel 18 when you want to see how the conflict with Saul intensifies.",
+      tags: ["1 Samuel 19", "chapter", "David"],
+      questions: [
+        {
+          prompt: "What does Saul try to do in 1 Samuel 19?",
+          answer: "He repeatedly tries to kill David.",
+        },
+        {
+          prompt: "Who helps David escape?",
+          answer: "Jonathan and Michal.",
+        },
+        {
+          prompt: "Why does 1 Samuel 19 matter?",
+          answer: "It shows that God preserves David even when Saul keeps attacking him.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
