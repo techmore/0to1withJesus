@@ -6355,6 +6355,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 109 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where action is refined into consistency.",
+      detail: "This quiz helps a beginner see Matthew 109 as the chapter where Jesus keeps shaping action into dependable practice.",
+      start: "Take this after reading Matthew 109 carefully and noticing how doing the right thing becomes steady.",
+      tags: ["Matthew 109", "chapter", "consistency"],
+      questions: [
+        {
+          prompt: "What does action become?",
+          answer: "Action becomes consistency.",
+        },
+        {
+          prompt: "What does Jesus keep developing?",
+          answer: "He keeps developing dependable discipleship.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how repeated action forms character.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
