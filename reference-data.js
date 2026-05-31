@@ -7609,6 +7609,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Romans 6 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Paul's teaching about dying to sin and living to God in Christ.",
+      detail: "This quiz helps a beginner see Romans 6 as the chapter where Paul explains baptismal union with Christ and the call to present ourselves to God.",
+      start: "Take this after reading Romans 6 carefully and noticing how Paul answers the question of grace and sin.",
+      tags: ["Romans 6", "chapter", "baptism"],
+      questions: [
+        {
+          prompt: "What question does Paul answer at the start of Romans 6?",
+          answer: "He answers whether we should keep sinning so that grace may increase.",
+        },
+        {
+          prompt: "What does baptism picture in this chapter?",
+          answer: "It pictures being buried with Christ and raised to new life.",
+        },
+        {
+          prompt: "What are believers called to do with themselves?",
+          answer: "They are called to present themselves to God as instruments of righteousness.",
+        },
+      ],
+    },
+    {
       title: "Ephesians Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Ephesians as Paul's letter about identity in Christ, unity, the church, and standing firm.",
