@@ -9305,6 +9305,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Samuel 28 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Saul seeks a medium and is shown to be spiritually desperate.",
+      detail: "This quiz helps a beginner see 1 Samuel 28 as the chapter where Saul turns away from God and ends up in fear and darkness.",
+      start: "Take this after 1 Samuel 27 when you want to see Saul's desperation reach a new low.",
+      tags: ["1 Samuel 28", "chapter", "Saul"],
+      questions: [
+        {
+          prompt: "What does Saul do in 1 Samuel 28?",
+          answer: "He consults a medium at Endor.",
+        },
+        {
+          prompt: "Why is Saul in trouble?",
+          answer: "The Lord is silent to him, and he has already rejected God's word.",
+        },
+        {
+          prompt: "Why does 1 Samuel 28 matter?",
+          answer: "It shows Saul's spiritual collapse and the danger of seeking answers apart from God.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
