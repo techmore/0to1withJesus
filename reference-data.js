@@ -4463,6 +4463,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 16 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Hagar, Ishmael, and the God who sees in the wilderness.",
+      detail: "This quiz helps a beginner see Genesis 16 as the chapter where human impatience, pain, and God's care meet in the story of Hagar and Ishmael.",
+      start: "Take this after reading Genesis 16 carefully and noticing the contrast between human schemes and God's seeing presence.",
+      tags: ["Genesis 16", "chapter", "Hagar"],
+      questions: [
+        {
+          prompt: "What plan do Abram and Sarai try in Genesis 16?",
+          answer: "They try to secure an heir through Hagar.",
+        },
+        {
+          prompt: "How is Hagar met by God?",
+          answer: "God sees her in the wilderness and gives her a promise about her son.",
+        },
+        {
+          prompt: "Why is Genesis 16 important?",
+          answer: "It shows the pain of impatience and the mercy of the God who sees and hears the afflicted.",
+        },
+      ],
+    },
+    {
       title: "Exodus 1 Quiz",
       kicker: "Chapter",
       summary: "Checks Israel's oppression in Egypt and the beginning of the rescue setting.",
