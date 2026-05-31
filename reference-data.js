@@ -9217,6 +9217,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Samuel 24 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where David spares Saul's life and shows restraint instead of revenge.",
+      detail: "This quiz helps a beginner see 1 Samuel 24 as the chapter where David refuses to harm Saul even when he has the chance.",
+      start: "Take this after 1 Samuel 23 when you want to see David choose mercy over revenge.",
+      tags: ["1 Samuel 24", "chapter", "David"],
+      questions: [
+        {
+          prompt: "What chance does David have in 1 Samuel 24?",
+          answer: "He has the chance to kill Saul in the cave.",
+        },
+        {
+          prompt: "What does David do instead?",
+          answer: "He spares Saul's life and only cuts off a corner of his robe.",
+        },
+        {
+          prompt: "Why does 1 Samuel 24 matter?",
+          answer: "It shows David's restraint and his refusal to take revenge on the Lord's anointed.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
