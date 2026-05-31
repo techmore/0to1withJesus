@@ -4353,6 +4353,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "John 16 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the promise of the Spirit, coming sorrow, and Jesus' victory over the world.",
+      detail: "This quiz helps a beginner see John 16 as the chapter where Jesus prepares the disciples for grief, explains the Spirit's work, and promises that their sorrow will turn to joy.",
+      start: "Take this after reading John 16 carefully and noticing the movement from warning to comfort.",
+      tags: ["John 16", "chapter", "Spirit"],
+      questions: [
+        {
+          prompt: "What does Jesus say the Spirit will do?",
+          answer: "The Spirit will guide the disciples into truth and help them after Jesus leaves.",
+        },
+        {
+          prompt: "What does Jesus say about sorrow?",
+          answer: "He says the disciples will have sorrow, but their sorrow will turn into joy.",
+        },
+        {
+          prompt: "How does Jesus summarize his victory at the end of the chapter?",
+          answer: "He says he has overcome the world.",
+        },
+      ],
+    },
+    {
       title: "John 18-21 Quiz",
       kicker: "Chapters",
       summary: "Checks the arrest, trial, cross, resurrection, and Peter's restoration.",
