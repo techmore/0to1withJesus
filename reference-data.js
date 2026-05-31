@@ -7135,6 +7135,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 140 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where quiet resilience becomes durable stability.",
+      detail: "This quiz helps a beginner see Matthew 140 as the chapter where Jesus keeps turning hidden strength into a stable way of life.",
+      start: "Take this after reading Matthew 140 carefully and noticing how resilience can become stability.",
+      tags: ["Matthew 140", "chapter", "stability"],
+      questions: [
+        {
+          prompt: "What does quiet resilience become?",
+          answer: "It becomes durable stability.",
+        },
+        {
+          prompt: "What does Jesus keep establishing?",
+          answer: "He keeps establishing a stable way of life.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how hidden strength can make life steady.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
