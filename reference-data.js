@@ -16683,6 +16683,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Mark 7 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the traditions controversy, the Gentile woman's faith, and Jesus' healing of the deaf man.",
+      detail: "This quiz helps a beginner see Mark 7 as the chapter where Jesus teaches that purity comes from the heart and then reaches beyond Israel.",
+      start: "Take this after reading Mark 7 carefully and noticing how Jesus redefines purity and welcomes faith.",
+      tags: ["Mark 7", "chapter", "purity"],
+      questions: [
+        {
+          prompt: "What does Jesus teach about clean and unclean in Mark 7?",
+          answer: "He says that what defiles comes from within, from the heart, not merely from external food rules.",
+        },
+        {
+          prompt: "Whose faith does Jesus honor outside Israel?",
+          answer: "He honors the faith of the Syrophoenician woman.",
+        },
+        {
+          prompt: "What healing ends the chapter?",
+          answer: "Jesus heals a deaf man with a speech impediment.",
+        },
+      ],
+    },
+    {
       title: "Luke Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Luke as the Gospel of the Spirit, outsiders, prayer, and salvation for all kinds of people.",
