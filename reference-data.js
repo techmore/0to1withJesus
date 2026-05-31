@@ -6379,6 +6379,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Numbers 19 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where the red heifer purification for uncleanness is explained.",
+      detail: "This quiz helps a beginner see Numbers 19 as the chapter that deals with cleansing from death-related impurity.",
+      start: "Take this after reading Numbers 19 carefully and noticing the red heifer, the ashes, and the cleansing water.",
+      tags: ["Numbers 19", "chapter", "cleansing"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Numbers 19?",
+          answer: "The chapter emphasizes purification from uncleanness through the red heifer.",
+        },
+        {
+          prompt: "What is the red heifer used for in Numbers 19?",
+          answer: "Its ashes are used with water for cleansing from impurity linked to death.",
+        },
+        {
+          prompt: "Why does Numbers 19 matter after Numbers 18?",
+          answer: "It shows how holiness must be restored when impurity enters the camp.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
