@@ -4991,6 +4991,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 39 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the priestly garments and the completion of the tabernacle work.",
+      detail: "This quiz helps a beginner see Exodus 39 as the chapter where the priests' garments are made and the tabernacle work is reported as finished according to God's command.",
+      start: "Take this after reading Exodus 39 carefully and noticing the repeated phrase that the work was done as the Lord commanded.",
+      tags: ["Exodus 39", "chapter", "priesthood"],
+      questions: [
+        {
+          prompt: "What does Exodus 39 describe?",
+          answer: "The making of the priestly garments and the completion report on the tabernacle work.",
+        },
+        {
+          prompt: "What refrain appears in the chapter?",
+          answer: "The work is done as the Lord commanded Moses.",
+        },
+        {
+          prompt: "Why is Exodus 39 important?",
+          answer: "It shows that the tabernacle project is nearing completion and that obedient craftsmanship matters in worship.",
+        },
+      ],
+    },
+    {
       title: "Luke and Acts Bridge Quiz",
       kicker: "Books",
       summary: "Checks how Luke's Gospel connects to the early church story in Acts.",
