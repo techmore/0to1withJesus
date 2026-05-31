@@ -4773,6 +4773,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 37 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Joseph's dreams lead to betrayal by his brothers.",
+      detail: "This quiz helps a beginner see Genesis 37 as the chapter where favoritism, dreams, and jealousy send Joseph toward Egypt.",
+      start: "Take this after reading Genesis 37 carefully and noticing the coat, the dreams, and the pit.",
+      tags: ["Genesis 37", "chapter", "joseph"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Genesis 37?",
+          answer: "The chapter emphasizes Joseph's dreams and the brothers' jealousy and betrayal.",
+        },
+        {
+          prompt: "How do Joseph's brothers treat him in Genesis 37?",
+          answer: "They sell him into slavery after first plotting against him.",
+        },
+        {
+          prompt: "Why does Genesis 37 matter after Genesis 36?",
+          answer: "It shifts the story from Esau's line back to the family of Jacob and begins Joseph's journey to Egypt.",
+        },
+      ],
+    },
+    {
       title: "Exodus Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Exodus as the Bible's great rescue story.",
