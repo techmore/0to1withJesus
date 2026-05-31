@@ -7105,6 +7105,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Deuteronomy 15 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Moses teaches release, generosity, and care for the poor.",
+      detail: "This quiz helps a beginner see Deuteronomy 15 as a chapter about mercy, debt release, and openhanded giving.",
+      start: "Take this after reading Deuteronomy 15 carefully and noticing the release of debts and the call to care for the needy.",
+      tags: ["Deuteronomy 15", "chapter", "mercy"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Deuteronomy 15?",
+          answer: "The chapter emphasizes debt release, generosity, and care for the poor.",
+        },
+        {
+          prompt: "What practical attitude should Israel have in this chapter?",
+          answer: "They should be openhanded and willing to help their brothers and sisters.",
+        },
+        {
+          prompt: "Why does Deuteronomy 15 matter?",
+          answer: "It shows that covenant obedience includes mercy and economic care, not just ritual rules.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
