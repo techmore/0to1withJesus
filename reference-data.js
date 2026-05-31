@@ -4375,6 +4375,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Luke 17 Quiz",
+      kicker: "Chapter",
+      summary: "Checks forgiveness, faith, gratitude, and the coming of the kingdom.",
+      detail: "This quiz helps a beginner see Luke 17 as the chapter where Jesus teaches endurance, thankfulness, and readiness.",
+      start: "Take this after reading Luke 17 carefully and noticing the warnings and healings.",
+      tags: ["Luke 17", "chapter", "faith"],
+      questions: [
+        {
+          prompt: "What does Jesus teach about forgiving a brother or sister?",
+          answer: "He says to forgive repeatedly when they repent.",
+        },
+        {
+          prompt: "What do the ten lepers reveal after being healed?",
+          answer: "Only one returns to give thanks, and he is a Samaritan.",
+        },
+        {
+          prompt: "What does Jesus say about the kingdom of God?",
+          answer: "It is already among them and must be entered with readiness.",
+        },
+      ],
+    },
+    {
       title: "John 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the opening claims about Jesus as the Word, light, and Son.",
