@@ -7009,6 +7009,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 137 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where resilient service becomes steady endurance.",
+      detail: "This quiz helps a beginner see Matthew 137 as the chapter where Jesus keeps turning practical care into endurance that lasts.",
+      start: "Take this after reading Matthew 137 carefully and noticing how service can become endurance.",
+      tags: ["Matthew 137", "chapter", "endurance"],
+      questions: [
+        {
+          prompt: "What does resilient service become?",
+          answer: "It becomes steady endurance.",
+        },
+        {
+          prompt: "What does Jesus keep forming?",
+          answer: "He keeps forming a lasting way to keep going.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how care can become perseverance.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
