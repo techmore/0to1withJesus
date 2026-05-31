@@ -4135,6 +4135,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 8 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where the waters recede and Noah emerges to new ground.",
+      detail: "This quiz helps a beginner see Genesis 8 as the chapter where God remembers Noah, the flood retreats, and new life begins to appear.",
+      start: "Take this after reading Genesis 8 carefully and noticing the slow return of dry land and the fresh start.",
+      tags: ["Genesis 8", "chapter", "new-beginning"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Genesis 8?",
+          answer: "The chapter emphasizes God causing the floodwaters to recede and preserving Noah.",
+        },
+        {
+          prompt: "What sign shows the land is becoming habitable again?",
+          answer: "The earth dries out and Noah sends out birds to test the waters.",
+        },
+        {
+          prompt: "Why does Genesis 8 matter after Genesis 7?",
+          answer: "It shows the transition from judgment to restoration and a new beginning.",
+        },
+      ],
+    },
+    {
       title: "Exodus Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Exodus as the Bible's great rescue story.",
