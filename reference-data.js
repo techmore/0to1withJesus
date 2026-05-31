@@ -5871,6 +5871,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 87 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the resurrection morning, where fear, joy, and surprise reshape the story.",
+      detail: "This quiz helps a beginner see Matthew 87 as the chapter where the tomb is empty and Jesus' victory begins to break into the world.",
+      start: "Take this after reading Matthew 87 carefully and noticing the empty tomb and the angelic message.",
+      tags: ["Matthew 87", "chapter", "resurrection"],
+      questions: [
+        {
+          prompt: "What changes at the tomb?",
+          answer: "The tomb is found empty.",
+        },
+        {
+          prompt: "What message is given?",
+          answer: "The message announces that Jesus is risen.",
+        },
+        {
+          prompt: "What response does the chapter provoke?",
+          answer: "It provokes fear, joy, and urgent witness.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
