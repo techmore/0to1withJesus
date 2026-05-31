@@ -8161,6 +8161,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Judges 3 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter that introduces the first major judges and the cycle of oppression and rescue.",
+      detail: "This quiz helps a beginner see Judges 3 as the start of the repeated deliverer pattern that continues through the book.",
+      start: "Take this after Judges 2 when you want to see the first examples of the cycle in action.",
+      tags: ["Judges 3", "chapter", "judges"],
+      questions: [
+        {
+          prompt: "What does Judges 3 introduce?",
+          answer: "The first major judges and the pattern of oppression and rescue.",
+        },
+        {
+          prompt: "What is the basic cycle shown in the chapter?",
+          answer: "Israel sins, is oppressed, cries out, and is rescued by a judge.",
+        },
+        {
+          prompt: "Why does Judges 3 matter?",
+          answer: "It shows how the book's repeated pattern begins to unfold in history.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
