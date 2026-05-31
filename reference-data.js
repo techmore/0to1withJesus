@@ -4771,6 +4771,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 29 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the priestly ordination and consecration instructions.",
+      detail: "This quiz helps a beginner see Exodus 29 as the chapter where Aaron and his sons are ordained, consecrated, and set apart for holy service.",
+      start: "Take this after reading Exodus 29 carefully and noticing the sacrifices and rituals that install the priests.",
+      tags: ["Exodus 29", "chapter", "priesthood"],
+      questions: [
+        {
+          prompt: "What does Exodus 29 describe?",
+          answer: "The ordination and consecration of Aaron and his sons as priests.",
+        },
+        {
+          prompt: "What stands out in the chapter?",
+          answer: "Sacrifices, washing, anointing, and repeated rituals that set the priests apart for service.",
+        },
+        {
+          prompt: "Why is Exodus 29 important?",
+          answer: "It shows that priestly service is not casual but requires consecration and obedience to God's instructions.",
+        },
+      ],
+    },
+    {
       title: "Luke and Acts Bridge Quiz",
       kicker: "Books",
       summary: "Checks how Luke's Gospel connects to the early church story in Acts.",
