@@ -4663,6 +4663,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 32 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Jacob wrestles through fear and receives a new name.",
+      detail: "This quiz helps a beginner see Genesis 32 as the chapter where Jacob prepares to meet Esau and is changed through struggle at the river.",
+      start: "Take this after reading Genesis 32 carefully and noticing the gifts sent ahead, the prayer, and the wrestling match.",
+      tags: ["Genesis 32", "chapter", "jacob"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Genesis 32?",
+          answer: "The chapter emphasizes Jacob's fear of Esau, his prayer, and his wrestling encounter with God.",
+        },
+        {
+          prompt: "What new name does Jacob receive in Genesis 32?",
+          answer: "He receives the name Israel.",
+        },
+        {
+          prompt: "Why does Genesis 32 matter after Genesis 31?",
+          answer: "It shows Jacob moving from escape to confrontation and receiving a new identity from God.",
+        },
+      ],
+    },
+    {
       title: "Exodus Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Exodus as the Bible's great rescue story.",
