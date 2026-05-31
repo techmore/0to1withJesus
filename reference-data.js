@@ -5881,6 +5881,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 175 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where steady serenity becomes quiet confidence.",
+      detail: "This quiz helps a beginner see Matthew 175 as the chapter where serenity settles into quiet confidence with Jesus.",
+      start: "Take this after reading Matthew 175 carefully and noticing how serenity becomes confidence.",
+      tags: ["Matthew 175", "chapter", "confidence"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 175?",
+          answer: "The chapter emphasizes quiet confidence in following Jesus.",
+        },
+        {
+          prompt: "What does quiet confidence look like here?",
+          answer: "It means trusting Jesus with a peaceful and sure heart.",
+        },
+        {
+          prompt: "Why does this matter after Matthew 174?",
+          answer: "It shows that steady serenity can become quiet confidence.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
