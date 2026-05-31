@@ -8029,6 +8029,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Joshua 22 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where the eastern tribes return home and build an altar that causes concern.",
+      detail: "This quiz helps a beginner see Joshua 22 as a chapter about unity, misunderstanding, and the need to clarify motives among God's people.",
+      start: "Take this after reading Joshua 22 carefully and noticing the altar, the confrontation, and the explanation that follows.",
+      tags: ["Joshua 22", "chapter", "altar"],
+      questions: [
+        {
+          prompt: "What concerns the western tribes in Joshua 22?",
+          answer: "They think the eastern tribes may have built an altar in rebellion.",
+        },
+        {
+          prompt: "What is the real purpose of the altar?",
+          answer: "It is a witness, not a rival place of worship.",
+        },
+        {
+          prompt: "Why does Joshua 22 matter?",
+          answer: "It shows the importance of communication and unity among God's people.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
