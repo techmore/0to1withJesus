@@ -7347,6 +7347,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Deuteronomy 26 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Moses teaches firstfruits, confession, and remembering God's saving acts.",
+      detail: "This quiz helps a beginner see Deuteronomy 26 as a chapter about gratitude, testimony, and worship that remembers rescue.",
+      start: "Take this after reading Deuteronomy 26 carefully and noticing the firstfruits confession and the reminder of God's mighty deeds.",
+      tags: ["Deuteronomy 26", "chapter", "thanksgiving"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Deuteronomy 26?",
+          answer: "The chapter emphasizes gratitude, confession, and remembering God's rescue.",
+        },
+        {
+          prompt: "What do the firstfruits instructions teach Israel to do?",
+          answer: "They teach Israel to bring offerings with thanksgiving and to remember God's saving work.",
+        },
+        {
+          prompt: "Why does Deuteronomy 26 matter?",
+          answer: "It turns memory of rescue into worship, testimony, and practical obedience.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
