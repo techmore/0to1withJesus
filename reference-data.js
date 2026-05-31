@@ -5235,6 +5235,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 7 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Moses and Aaron confront Pharaoh and the first plague begins.",
+      detail: "This quiz helps a beginner see Exodus 7 as the chapter where God starts displaying his power over Egypt.",
+      start: "Take this after reading Exodus 7 carefully and noticing the staff, the hardened heart, and the water turned to blood.",
+      tags: ["Exodus 7", "chapter", "moses"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Exodus 7?",
+          answer: "The chapter emphasizes the confrontation with Pharaoh and the beginning of the plagues.",
+        },
+        {
+          prompt: "What sign does God perform first in Exodus 7?",
+          answer: "He turns the Nile and other waters to blood.",
+        },
+        {
+          prompt: "Why does Exodus 7 matter after Exodus 6?",
+          answer: "It shows God's promises moving into action against Pharaoh's resistance.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
