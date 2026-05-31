@@ -7345,6 +7345,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Acts 25 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Paul's appeal to Caesar and his hearing before Festus.",
+      detail: "This quiz helps a beginner see Acts 25 as the chapter where Paul uses his Roman citizenship to move his case forward.",
+      start: "Take this after reading Acts 25 carefully and noticing the legal maneuvering and the audience with Agrippa.",
+      tags: ["Acts 25", "chapter", "Festus"],
+      questions: [
+        {
+          prompt: "What request do the Jewish leaders make about Paul?",
+          answer: "They ask to have him brought to Jerusalem, planning to ambush and kill him.",
+        },
+        {
+          prompt: "What does Paul do when Festus wants to move the case?",
+          answer: "He appeals to Caesar.",
+        },
+        {
+          prompt: "Who visits Festus and hears about Paul?",
+          answer: "King Agrippa and Bernice visit Festus and hear Paul's case.",
+        },
+      ],
+    },
+    {
       title: "Acts Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Acts as the story of the Spirit-empowered church expanding from Jerusalem outward.",
