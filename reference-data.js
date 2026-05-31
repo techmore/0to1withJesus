@@ -4177,6 +4177,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Luke 8 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the parable of the sower, Jesus calming the storm, and the healings that follow.",
+      detail: "This quiz helps a beginner see Luke 8 as the chapter where Jesus explains how people receive God's word, then shows authority over chaos, demons, sickness, and death.",
+      start: "Take this after reading Luke 8 carefully and noticing the movement from hearing to fear to faith.",
+      tags: ["Luke 8", "chapter", "parable"],
+      questions: [
+        {
+          prompt: "What does the parable of the sower describe?",
+          answer: "It describes different responses to God's word.",
+        },
+        {
+          prompt: "What does Jesus do in the storm?",
+          answer: "He calms the wind and waves.",
+        },
+        {
+          prompt: "What other signs of authority appear in Luke 8?",
+          answer: "Jesus frees the demon-possessed man, heals a woman, and raises Jairus's daughter.",
+        },
+      ],
+    },
+    {
       title: "John 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the opening claims about Jesus as the Word, light, and Son.",
