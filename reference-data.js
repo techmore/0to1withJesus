@@ -4001,6 +4001,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 2 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the visit of the wise men, Herod's threat, and the flight to Egypt.",
+      detail: "This quiz helps a beginner see Matthew 2 as the chapter where Jesus is honored by outsiders and protected from Herod's violence.",
+      start: "Take this after reading Matthew 2 carefully and noticing the contrast between worship and threat.",
+      tags: ["Matthew 2", "chapter", "Herod"],
+      questions: [
+        {
+          prompt: "Who visits Jesus after his birth in Matthew 2?",
+          answer: "The wise men come from the east to honor him.",
+        },
+        {
+          prompt: "Why does Joseph take Mary and Jesus to Egypt?",
+          answer: "He flees because Herod wants to kill the child.",
+        },
+        {
+          prompt: "What does Matthew emphasize about Jesus in this chapter?",
+          answer: "Jesus is protected by God and his story fulfills Scripture.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
