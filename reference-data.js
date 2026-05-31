@@ -9151,6 +9151,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Kings 19 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Elijah flees, meets God at Horeb, and receives new instruction.",
+      detail: "This quiz helps a beginner see 1 Kings 19 as a chapter of fear, renewal, and God's gentle guidance for Elijah.",
+      start: "Take this after 1 Kings 18 when you want to continue the book chapter by chapter.",
+      tags: ["1 Kings 19", "chapter", "Elijah"],
+      questions: [
+        {
+          prompt: "Why does Elijah flee in 1 Kings 19?",
+          answer: "He is afraid after Jezebel's threat.",
+        },
+        {
+          prompt: "Where does Elijah meet God?",
+          answer: "At Horeb.",
+        },
+        {
+          prompt: "Why does 1 Kings 19 matter?",
+          answer: "It shows that God also guides and restores his servants gently.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
