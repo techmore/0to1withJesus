@@ -7817,6 +7817,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 171 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where resilient mission becomes patient service.",
+      detail: "This quiz helps a beginner see Matthew 171 as the chapter where Jesus keeps mission from getting loud and turns it into steady service.",
+      start: "Take this after reading Matthew 171 carefully and noticing how mission can become service.",
+      tags: ["Matthew 171", "chapter", "service"],
+      questions: [
+        {
+          prompt: "What does resilient mission become?",
+          answer: "It becomes patient service.",
+        },
+        {
+          prompt: "What does Jesus keep shaping in his people?",
+          answer: "He keeps shaping a readiness to help without fanfare.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how purpose can settle into practical care.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
