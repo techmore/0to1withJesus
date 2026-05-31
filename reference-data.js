@@ -4377,6 +4377,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 19 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Lot escapes Sodom and the city is judged.",
+      detail: "This quiz helps a beginner see Genesis 19 as the chapter where destruction falls on Sodom and Lot is rescued through mercy.",
+      start: "Take this after reading Genesis 19 carefully and noticing the warning, the escape, and the judgment on the cities.",
+      tags: ["Genesis 19", "chapter", "sodom"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Genesis 19?",
+          answer: "The chapter emphasizes the destruction of Sodom and Gomorrah and the rescue of Lot.",
+        },
+        {
+          prompt: "How is Lot saved in Genesis 19?",
+          answer: "He is led out of the city by the angels before judgment falls.",
+        },
+        {
+          prompt: "Why does Genesis 19 matter after Genesis 18?",
+          answer: "It shows the seriousness of divine justice after Abraham's intercession and the contrast between mercy and judgment.",
+        },
+      ],
+    },
+    {
       title: "Exodus Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Exodus as the Bible's great rescue story.",
