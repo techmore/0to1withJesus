@@ -6533,6 +6533,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Numbers 26 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where the new census counts the next generation in the wilderness.",
+      detail: "This quiz helps a beginner see Numbers 26 as the chapter that prepares Israel for the land after the older generation has passed.",
+      start: "Take this after reading Numbers 26 carefully and noticing the census and the repeated family lists.",
+      tags: ["Numbers 26", "chapter", "census"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Numbers 26?",
+          answer: "The chapter emphasizes the census of the new generation.",
+        },
+        {
+          prompt: "Why is the census in Numbers 26 important?",
+          answer: "It prepares Israel for the next stage of life and inheritance in the land.",
+        },
+        {
+          prompt: "Why does Numbers 26 matter after Numbers 25?",
+          answer: "It shows continuity after judgment by counting the generation that will move forward.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
