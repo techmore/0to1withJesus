@@ -5123,6 +5123,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 53 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Jesus' teaching authority, healing work, and growing response from the crowds.",
+      detail: "This quiz helps a beginner see Matthew 53 as the chapter where Jesus teaches with authority and shows his power in public ministry.",
+      start: "Take this after reading Matthew 53 carefully and noticing the teaching, healing, and the reactions around Jesus.",
+      tags: ["Matthew 53", "chapter", "teaching"],
+      questions: [
+        {
+          prompt: "What stands out about Jesus' teaching?",
+          answer: "He teaches with authority, not like the scribes.",
+        },
+        {
+          prompt: "What kinds of signs follow his teaching?",
+          answer: "He heals the sick and demonstrates power over disease and spirits.",
+        },
+        {
+          prompt: "How do people respond?",
+          answer: "Crowds are amazed and gather around him.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
