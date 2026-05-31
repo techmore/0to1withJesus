@@ -8975,6 +8975,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Kings 11 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Solomon turns away from the Lord and the kingdom begins to break.",
+      detail: "This quiz helps a beginner see 1 Kings 11 as the turning point where Solomon's unfaithfulness leads to judgment and division.",
+      start: "Take this after 1 Kings 10 when you want to continue the book chapter by chapter.",
+      tags: ["1 Kings 11", "chapter", "Solomon"],
+      questions: [
+        {
+          prompt: "What problem grows in Solomon's later life in 1 Kings 11?",
+          answer: "His heart turns away to other gods.",
+        },
+        {
+          prompt: "What does God announce because of Solomon's unfaithfulness?",
+          answer: "The kingdom will be torn apart after his reign.",
+        },
+        {
+          prompt: "Why does 1 Kings 11 matter?",
+          answer: "It explains why the united kingdom does not last under Solomon's line.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
