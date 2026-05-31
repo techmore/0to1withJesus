@@ -4463,6 +4463,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "John 21 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the charcoal fire, Peter's restoration, and Jesus' call to follow.",
+      detail: "This quiz helps a beginner see John 21 as the gentle ending to John's Gospel where Jesus restores Peter and points the disciples toward their future work.",
+      start: "Take this after reading John 21 carefully and noticing the movement from failure to restoration.",
+      tags: ["John 21", "chapter", "restoration"],
+      questions: [
+        {
+          prompt: "What happens by the charcoal fire in John 21?",
+          answer: "Jesus asks Peter three times if he loves him, and Peter is restored.",
+        },
+        {
+          prompt: "What does Jesus tell Peter to do?",
+          answer: "Jesus tells Peter to feed and care for his sheep.",
+        },
+        {
+          prompt: "How does the chapter close the Gospel?",
+          answer: "It closes by calling the disciples to follow Jesus and trust his future for them.",
+        },
+      ],
+    },
+    {
       title: "John 18-21 Quiz",
       kicker: "Chapters",
       summary: "Checks the arrest, trial, cross, resurrection, and Peter's restoration.",
