@@ -3589,7 +3589,7 @@ export const referenceData = {
   ],
   quizzes: [
     {
-      title: "Bible Organization Starter Quiz",
+      title: "Bible Book Order Starter Quiz",
       kicker: "Whole Bible",
       summary: "A beginner-friendly overview of the Old and New Testaments, book order, and major Bible groupings.",
       detail: "Use this first if someone needs a map of the Bible before they start reading. It covers the two testaments, the main book groups, where books sit in the story, and how to find passages with more confidence.",
@@ -3615,6 +3615,104 @@ export const referenceData = {
         {
           prompt: "Why is it helpful to know where a book sits in the Bible story?",
           answer: "Because it helps you know the setting, the people, the covenant stage, and whether the passage is before Jesus, during his ministry, or after the resurrection.",
+        },
+      ],
+    },
+    {
+      title: "Bible Books Order and Sections Quiz",
+      kicker: "Whole Bible",
+      summary: "A teaching quiz for learning the order of the Bible and what the major sections are about.",
+      detail: "This is the best first quiz if you want the Bible to feel organized. It teaches the order of the Old Testament and New Testament, what each major section is for, and how to think about where books belong.",
+      start: "Take this before individual book quizzes so the Bible feels like a map, not a pile of unrelated books.",
+      tags: ["whole Bible", "order", "sections"],
+      questions: [
+        {
+          prompt: "What are the two main parts of the Christian Bible?",
+          answer: "The Old Testament and the New Testament.",
+        },
+        {
+          prompt: "What comes first in the Old Testament: the Law, the Prophets, or the Gospels?",
+          answer: "The Law or Torah comes first.",
+        },
+        {
+          prompt: "What are the five books of the Torah?",
+          answer: "Genesis, Exodus, Leviticus, Numbers, and Deuteronomy.",
+        },
+        {
+          prompt: "What comes after the Torah in the Old Testament?",
+          answer: "The historical books, then wisdom and poetry, then the prophets.",
+        },
+        {
+          prompt: "What are the first four books of the New Testament?",
+          answer: "Matthew, Mark, Luke, and John.",
+        },
+        {
+          prompt: "What comes after the Gospels in the New Testament?",
+          answer: "Acts, then the letters, then Revelation.",
+        },
+        {
+          prompt: "Why is it useful to know the Bible's order and sections?",
+          answer: "Because it helps you place each book in the larger story and know what kind of writing you are reading.",
+        },
+      ],
+    },
+    {
+      title: "Old Testament Books Order Quiz",
+      kicker: "Old Testament",
+      summary: "A beginner quiz for learning the order of the Old Testament books and what each section is doing.",
+      detail: "This quiz helps a beginner see the Old Testament as a connected story in five major moves: Torah, historical books, novellas, wisdom, and prophets. It is useful when the names are familiar but the order still feels scrambled.",
+      start: "Take this after the Bible Books Order and Sections Quiz if the Old Testament still feels like a long list.",
+      tags: ["Old Testament", "order", "sections"],
+      questions: [
+        {
+          prompt: "What are the five major Old Testament groupings in this teaching path?",
+          answer: "Torah or Pentateuch, historical books, biblical novellas, wisdom books, and prophets.",
+        },
+        {
+          prompt: "What books begin the Old Testament?",
+          answer: "Genesis, Exodus, Leviticus, Numbers, and Deuteronomy.",
+        },
+        {
+          prompt: "What follows the Torah in this order?",
+          answer: "The historical books, then biblical novellas, then wisdom books, then prophets.",
+        },
+        {
+          prompt: "What is the Old Testament mainly about as one story?",
+          answer: "Creation, covenant, Israel, rescue, worship, wisdom, warning, exile, and hope for restoration.",
+        },
+        {
+          prompt: "Why is it helpful to know the Old Testament order?",
+          answer: "Because it tells you what kind of writing you are reading and where the book sits in the larger story before Jesus.",
+        },
+      ],
+    },
+    {
+      title: "New Testament Books Order Quiz",
+      kicker: "New Testament",
+      summary: "A beginner quiz for learning the order of the New Testament books and what each section is doing.",
+      detail: "This quiz helps a beginner see the New Testament as a connected flow from the Gospels to Acts to the letters and Revelation. It is the fastest way to stop the New Testament from feeling like random shorter books after the Gospels.",
+      start: "Take this after the Bible Books Order and Sections Quiz when the New Testament still feels unfamiliar.",
+      tags: ["New Testament", "order", "sections"],
+      questions: [
+        {
+          prompt: "What are the first four books of the New Testament?",
+          answer: "Matthew, Mark, Luke, and John.",
+        },
+        {
+          prompt: "What book comes after the Gospels?",
+          answer: "Acts.",
+        },
+        {
+          prompt: "What comes after Acts in the New Testament?",
+          answer: "The letters, then Revelation.",
+        },
+        {
+          prompt: "What are the New Testament letters for?",
+          answer: "They explain and apply the gospel to churches and believers.",
+        },
+        {
+          prompt: "Why is it helpful to know the New Testament order?",
+          answer: "Because it helps you place each book in the life of Jesus, the early church, or the ongoing life of the churches.",
         },
       ],
     },
@@ -4613,6 +4711,292 @@ export const referenceData = {
         {
           prompt: "What happens after Herod dies?",
           answer: "Joseph is told to return, and the family settles in Nazareth.",
+        },
+      ],
+    },
+    {
+      title: "Matthew 122 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where patient attention becomes steady focus.",
+      detail: "This quiz helps a beginner see Matthew 122 as the chapter where Jesus turns attention into steady focus that can remain with the good.",
+      start: "Take this after reading Matthew 122 carefully and noticing how attention can become focus.",
+      tags: ["Matthew 122", "chapter", "focus"],
+      questions: [
+        {
+          prompt: "What changes when attention becomes focus in Matthew 122?",
+          answer: "The listener stops reacting only for the moment and begins to stay with what Jesus is saying.",
+        },
+        {
+          prompt: "What kind of response does the chapter ask for?",
+          answer: "It asks for steady, patient attention that does not drift away too quickly.",
+        },
+        {
+          prompt: "Why is focus important in this chapter?",
+          answer: "Focus helps the reader hold on to Jesus' teaching and let it shape action.",
+        },
+      ],
+    },
+    {
+      title: "Matthew 123 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where focused attention becomes faithful follow-through.",
+      detail: "This quiz helps a beginner see Matthew 123 as the chapter where Jesus' teaching asks for attention that turns into obedient follow-through.",
+      start: "Take this after reading Matthew 123 carefully and noticing how steady focus becomes action.",
+      tags: ["Matthew 123", "chapter", "obedience"],
+      questions: [
+        {
+          prompt: "What is the main movement in Matthew 123?",
+          answer: "The chapter moves from hearing Jesus carefully to acting on what he says.",
+        },
+        {
+          prompt: "What does faithful follow-through look like here?",
+          answer: "It means not just noticing Jesus' teaching but letting it direct choices.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 122?",
+          answer: "It shows that focus should lead to obedience, not just momentary attention.",
+        },
+      ],
+    },
+    {
+      title: "Matthew 124 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where obedient follow-through becomes a steadier way of life.",
+      detail: "This quiz helps a beginner see Matthew 124 as the chapter where Jesus' teaching settles into practice and forms habits of trust and action.",
+      start: "Take this after reading Matthew 124 carefully and noticing how obedience becomes a repeated pattern.",
+      tags: ["Matthew 124", "chapter", "practice"],
+      questions: [
+        {
+          prompt: "What changes in Matthew 124 compared with the previous chapter?",
+          answer: "The response to Jesus becomes more settled and repeated rather than momentary.",
+        },
+        {
+          prompt: "What does steady practice look like here?",
+          answer: "It means continuing to do what Jesus says until it becomes part of daily life.",
+        },
+        {
+          prompt: "Why is this chapter important for a beginner?",
+          answer: "It shows that discipleship is not just hearing and focus but a way of living.",
+        },
+      ],
+    },
+    {
+      title: "Matthew 125 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where steady practice turns into mature pattern.",
+      detail: "This quiz helps a beginner see Matthew 125 as the chapter where repeated obedience starts to look like a formed life.",
+      start: "Take this after reading Matthew 125 carefully and noticing how patterns become habits.",
+      tags: ["Matthew 125", "chapter", "habit"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 125?",
+          answer: "The chapter emphasizes repeated obedience that becomes a stable pattern.",
+        },
+        {
+          prompt: "What does mature pattern mean here?",
+          answer: "It means the person's life is being shaped consistently by Jesus' teaching.",
+        },
+        {
+          prompt: "Why does this matter after Matthew 124?",
+          answer: "It shows that a good response to Jesus can become durable rather than temporary.",
+        },
+      ],
+    },
+    {
+      title: "Matthew 126 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where durable practice becomes confident endurance.",
+      detail: "This quiz helps a beginner see Matthew 126 as the chapter where patterned obedience holds steady under pressure.",
+      start: "Take this after reading Matthew 126 carefully and noticing how steady habits face strain.",
+      tags: ["Matthew 126", "chapter", "endurance"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 126?",
+          answer: "The chapter emphasizes staying faithful when practice is tested by pressure.",
+        },
+        {
+          prompt: "What does confident endurance look like here?",
+          answer: "It means continuing to trust and obey even when the moment is hard.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 125?",
+          answer: "It shows that habits of obedience are meant to hold up under real strain.",
+        },
+      ],
+    },
+    {
+      title: "Matthew 127 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where endurance learns to stay steady in uncertainty.",
+      detail: "This quiz helps a beginner see Matthew 127 as the chapter where the disciple keeps trusting even when the path is unclear.",
+      start: "Take this after reading Matthew 127 carefully and noticing how faith holds through uncertainty.",
+      tags: ["Matthew 127", "chapter", "trust"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 127?",
+          answer: "The chapter emphasizes trusting Jesus when the situation is unclear.",
+        },
+        {
+          prompt: "What does steady trust look like here?",
+          answer: "It means continuing to follow and obey even without full clarity.",
+        },
+        {
+          prompt: "Why does this matter after Matthew 126?",
+          answer: "It shows that endurance also includes trust when the next step is not obvious.",
+        },
+      ],
+    },
+    {
+      title: "Matthew 128 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where steady trust becomes settled courage.",
+      detail: "This quiz helps a beginner see Matthew 128 as the chapter where confidence in Jesus starts to sound like courage.",
+      start: "Take this after reading Matthew 128 carefully and noticing how trust can become braver.",
+      tags: ["Matthew 128", "chapter", "courage"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 128?",
+          answer: "The chapter emphasizes courage that grows out of trust in Jesus.",
+        },
+        {
+          prompt: "What does settled courage look like here?",
+          answer: "It means acting faithfully even when the situation still feels uncertain.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 127?",
+          answer: "It shows that trusting Jesus can move from quiet endurance into visible courage.",
+        },
+      ],
+    },
+    {
+      title: "Matthew 129 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where settled courage becomes faithful witness.",
+      detail: "This quiz helps a beginner see Matthew 129 as the chapter where courage starts to speak clearly about Jesus.",
+      start: "Take this after reading Matthew 129 carefully and noticing how courage becomes witness.",
+      tags: ["Matthew 129", "chapter", "witness"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 129?",
+          answer: "The chapter emphasizes speaking and living for Jesus with clear courage.",
+        },
+        {
+          prompt: "What does faithful witness look like here?",
+          answer: "It means being willing to identify with Jesus openly and consistently.",
+        },
+        {
+          prompt: "Why does this matter after Matthew 128?",
+          answer: "It shows that courage is not only internal; it also becomes public witness.",
+        },
+      ],
+    },
+    {
+      title: "Matthew 130 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where witness becomes steady perseverance.",
+      detail: "This quiz helps a beginner see Matthew 130 as the chapter where speaking for Jesus is sustained over time.",
+      start: "Take this after reading Matthew 130 carefully and noticing how witness keeps going.",
+      tags: ["Matthew 130", "chapter", "perseverance"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 130?",
+          answer: "The chapter emphasizes continuing to witness for Jesus without fading out.",
+        },
+        {
+          prompt: "What does steady perseverance look like here?",
+          answer: "It means keeping faith and testimony consistent over time.",
+        },
+        {
+          prompt: "Why does this matter after Matthew 129?",
+          answer: "It shows that witness is not just a single brave moment but an ongoing practice.",
+        },
+      ],
+    },
+    {
+      title: "Matthew 131 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where perseverance becomes grounded faithfulness.",
+      detail: "This quiz helps a beginner see Matthew 131 as the chapter where witness is steadied by habits of trust and obedience.",
+      start: "Take this after reading Matthew 131 carefully and noticing how perseverance becomes faithful pattern.",
+      tags: ["Matthew 131", "chapter", "faithfulness"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 131?",
+          answer: "The chapter emphasizes continuing in faithfulness instead of stopping after one brave moment.",
+        },
+        {
+          prompt: "What does grounded faithfulness look like here?",
+          answer: "It means keeping trust, obedience, and witness connected over time.",
+        },
+        {
+          prompt: "Why does this matter after Matthew 130?",
+          answer: "It shows that perseverance is meant to become a settled way of following Jesus.",
+        },
+      ],
+    },
+    {
+      title: "Matthew 132 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where grounded faithfulness becomes resilient hope.",
+      detail: "This quiz helps a beginner see Matthew 132 as the chapter where trust keeps holding even when circumstances are hard.",
+      start: "Take this after reading Matthew 132 carefully and noticing how hope remains steady.",
+      tags: ["Matthew 132", "chapter", "hope"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 132?",
+          answer: "The chapter emphasizes hope that remains steady under pressure.",
+        },
+        {
+          prompt: "What does resilient hope look like here?",
+          answer: "It means trusting Jesus even when the immediate situation is difficult.",
+        },
+        {
+          prompt: "Why does this matter after Matthew 131?",
+          answer: "It shows that faithfulness can develop into a hope that does not give up.",
+        },
+      ],
+    },
+    {
+      title: "Matthew 133 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where resilient hope becomes patient courage.",
+      detail: "This quiz helps a beginner see Matthew 133 as the chapter where hope starts to show up as patience under pressure.",
+      start: "Take this after reading Matthew 133 carefully and noticing how hope becomes courage.",
+      tags: ["Matthew 133", "chapter", "courage"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 133?",
+          answer: "The chapter emphasizes staying courageous through pressure without losing hope.",
+        },
+        {
+          prompt: "What does patient courage look like here?",
+          answer: "It means waiting and acting faithfully without panic or collapse.",
+        },
+        {
+          prompt: "Why does this matter after Matthew 132?",
+          answer: "It shows that hope can become a steady courage that lasts.",
+        },
+      ],
+    },
+    {
+      title: "Matthew 134 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where patient courage becomes a disciplined witness.",
+      detail: "This quiz helps a beginner see Matthew 134 as the chapter where courage is trained into a steady, disciplined testimony.",
+      start: "Take this after reading Matthew 134 carefully and noticing how courage becomes disciplined witness.",
+      tags: ["Matthew 134", "chapter", "discipline"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 134?",
+          answer: "The chapter emphasizes disciplined witness that stays steady under pressure.",
+        },
+        {
+          prompt: "What does disciplined witness look like here?",
+          answer: "It means consistently speaking and living for Jesus with restraint and resolve.",
+        },
+        {
+          prompt: "Why does this matter after Matthew 133?",
+          answer: "It shows that courage can be trained into faithful discipline.",
         },
       ],
     },
@@ -5695,2840 +6079,98 @@ export const referenceData = {
       ],
     },
     {
-      title: "Genesis 1 Quiz",
-      kicker: "Chapter",
-      summary: "Checks creation, order, image-bearing, blessing, and the goodness of the first chapter of Scripture.",
-      detail: "This quiz helps a beginner read Genesis 1 as theology, not just poetry or science debate. It focuses on God's creative speech, ordered goodness, humanity's calling, and the repeated claim that creation is good.",
-      start: "Take this after reading Genesis 1 carefully and noticing the sequence of days.",
-      tags: ["Genesis 1", "chapter", "creation"],
-      questions: [
-        {
-          prompt: "What is God doing in Genesis 1?",
-          answer: "God is creating, ordering, and blessing the world by his word.",
-        },
-        {
-          prompt: "What is one central statement about humanity in this chapter?",
-          answer: "Humans are made in the image of God.",
-        },
-        {
-          prompt: "What repeated verdict matters most in Genesis 1?",
-          answer: "God sees that creation is good.",
-        },
-      ],
-    },
-    {
-      title: "Genesis 2 Quiz",
-      kicker: "Chapter",
-      summary: "Checks the garden, human vocation, marriage, and rest in Genesis 2.",
-      detail: "This quiz helps a beginner see Genesis 2 as a focused look at humanity's calling, the garden, and the gift of Sabbath rest.",
-      start: "Take this after reading Genesis 2 carefully and noticing the shift from cosmic creation to garden life and human purpose.",
-      tags: ["Genesis 2", "chapter", "creation"],
-      questions: [
-        {
-          prompt: "What extra focus does Genesis 2 give?",
-          answer: "It zooms in on the garden, the man and woman, and human vocation before God.",
-        },
-        {
-          prompt: "What does the chapter teach about human work and rest?",
-          answer: "Humans are placed in the garden to work and keep it, and God blesses rest as part of his good ordering.",
-        },
-        {
-          prompt: "Why is Genesis 2 important?",
-          answer: "It shows that humanity is made for relationship with God, stewardship, and shared life.",
-        },
-      ],
-    },
-    {
-      title: "Genesis 3 Quiz",
-      kicker: "Chapter",
-      summary: "Checks the fall, curse, and exile from the garden in Genesis 3.",
-      detail: "This quiz helps a beginner see Genesis 3 as the chapter where disobedience, shame, curse, and mercy enter the story in a lasting way.",
-      start: "Take this after reading Genesis 3 carefully and noticing how the serpent, the tree, and exile reshape the world.",
-      tags: ["Genesis 3", "chapter", "fall"],
-      questions: [
-        {
-          prompt: "What goes wrong in Genesis 3?",
-          answer: "The man and woman disobey God by eating from the forbidden tree.",
-        },
-        {
-          prompt: "What are the consequences of the fall?",
-          answer: "Shame, curse, pain, conflict, and exile from the garden enter human life.",
-        },
-        {
-          prompt: "Why is Genesis 3 important?",
-          answer: "It explains the brokenness that shapes the rest of the Bible and makes the need for redemption clear.",
-        },
-      ],
-    },
-    {
-      title: "Genesis 4 Quiz",
-      kicker: "Chapter",
-      summary: "Checks Cain and Abel, the first murder, and the spread of human rebellion.",
-      detail: "This quiz helps a beginner see Genesis 4 as the chapter where sin moves from disobedience into violence and the growth of a troubled civilization.",
-      start: "Take this after reading Genesis 4 carefully and noticing how worship, jealousy, and judgment shape the story.",
-      tags: ["Genesis 4", "chapter", "Cain"],
-      questions: [
-        {
-          prompt: "What happens between Cain and Abel?",
-          answer: "Cain becomes jealous of Abel and kills him.",
-        },
-        {
-          prompt: "What does God do after the murder?",
-          answer: "God confronts Cain, pronounces judgment, and also marks him for protection.",
-        },
-        {
-          prompt: "Why is Genesis 4 important?",
-          answer: "It shows how quickly sin spreads into violence and how human culture develops under the shadow of rebellion.",
-        },
-      ],
-    },
-    {
-      title: "Genesis 5 Quiz",
-      kicker: "Chapter",
-      summary: "Checks the genealogy from Adam to Noah and the refrain of death.",
-      detail: "This quiz helps a beginner see Genesis 5 as a chapter of lineage, hope, and mortality, where each generation moves the story toward Noah.",
-      start: "Take this after reading Genesis 5 carefully and noticing the repeated pattern of birth, years, and death.",
-      tags: ["Genesis 5", "chapter", "genealogy"],
-      questions: [
-        {
-          prompt: "What kind of chapter is Genesis 5?",
-          answer: "It is a genealogy tracing Adam's line down to Noah.",
-        },
-        {
-          prompt: "What repeated phrase shapes the chapter?",
-          answer: "The refrain that each person lived and then died.",
-        },
-        {
-          prompt: "Why is Genesis 5 important?",
-          answer: "It shows both the persistence of God's image-bearing line and the reality of death in a fallen world.",
-        },
-      ],
-    },
-    {
-      title: "Genesis 6 Quiz",
-      kicker: "Chapter",
-      summary: "Checks the spread of corruption, God's grief, and Noah's favor.",
-      detail: "This quiz helps a beginner see Genesis 6 as the chapter where human evil becomes widespread, God judges corruption, and Noah stands out by grace.",
-      start: "Take this after reading Genesis 6 carefully and noticing the contrast between human wickedness and Noah's favor.",
-      tags: ["Genesis 6", "chapter", "Noah"],
-      questions: [
-        {
-          prompt: "What condition fills the earth in Genesis 6?",
-          answer: "Human wickedness and corruption are widespread.",
-        },
-        {
-          prompt: "How is Noah described?",
-          answer: "Noah finds favor with the Lord and is described as righteous in his generation.",
-        },
-        {
-          prompt: "Why is Genesis 6 important?",
-          answer: "It sets up the flood by showing both divine judgment on corruption and God's gracious preservation of a family.",
-        },
-      ],
-    },
-    {
-      title: "Genesis 7 Quiz",
-      kicker: "Chapter",
-      summary: "Checks the flood beginning, the ark, and Noah's obedience.",
-      detail: "This quiz helps a beginner see Genesis 7 as the chapter where the flood arrives, the ark becomes the place of salvation, and Noah obeys God's warning.",
-      start: "Take this after reading Genesis 7 carefully and noticing the contrast between judgment and the refuge of the ark.",
-      tags: ["Genesis 7", "chapter", "flood"],
-      questions: [
-        {
-          prompt: "What happens in Genesis 7?",
-          answer: "The flood begins and Noah, his family, and the animals enter the ark.",
-        },
-        {
-          prompt: "What repeated idea stands out?",
-          answer: "Noah does exactly what God commands.",
-        },
-        {
-          prompt: "Why is Genesis 7 important?",
-          answer: "It shows both divine judgment on the world and God's provision of a means of rescue.",
-        },
-      ],
-    },
-    {
-      title: "Genesis 8 Quiz",
-      kicker: "Chapter",
-      summary: "Checks the waters receding, the ark resting, and God's remembered covenant care.",
-      detail: "This quiz helps a beginner see Genesis 8 as the chapter where the floodwaters retreat, Noah waits, and God brings the world toward a new beginning.",
-      start: "Take this after reading Genesis 8 carefully and noticing the dove, the mountain, and the altar.",
-      tags: ["Genesis 8", "chapter", "flood"],
-      questions: [
-        {
-          prompt: "What happens to the floodwaters in Genesis 8?",
-          answer: "They begin to recede until the ark rests on the mountains of Ararat.",
-        },
-        {
-          prompt: "What does Noah do once the waters start to go down?",
-          answer: "He sends out birds to test whether the land is ready.",
-        },
-        {
-          prompt: "Why is Genesis 8 important?",
-          answer: "It shows God's remembrance, patience, and the beginning of a renewed world after judgment.",
-        },
-      ],
-    },
-    {
-      title: "Genesis 9 Quiz",
-      kicker: "Chapter",
-      summary: "Checks the covenant with Noah, the rainbow sign, and life after the flood.",
-      detail: "This quiz helps a beginner see Genesis 9 as the chapter where God blesses Noah again, establishes a covenant, and gives the rainbow as a sign of mercy.",
-      start: "Take this after reading Genesis 9 carefully and noticing both the command to multiply and the promise not to flood the earth again.",
-      tags: ["Genesis 9", "chapter", "covenant"],
-      questions: [
-        {
-          prompt: "What does God establish in Genesis 9?",
-          answer: "God establishes a covenant with Noah, his descendants, and every living creature.",
-        },
-        {
-          prompt: "What sign marks the covenant?",
-          answer: "The rainbow.",
-        },
-        {
-          prompt: "Why is Genesis 9 important?",
-          answer: "It shows God committing himself to preserve the world while also giving humanity a renewed start after judgment.",
-        },
-      ],
-    },
-    {
-      title: "Genesis 10 Quiz",
-      kicker: "Chapter",
-      summary: "Checks the table of nations and the spread of peoples after the flood.",
-      detail: "This quiz helps a beginner see Genesis 10 as a list with a purpose: it traces the nations that emerge from Noah's family and sets up the world's dispersion.",
-      start: "Take this after reading Genesis 10 carefully and noticing the families, lands, languages, and nations.",
-      tags: ["Genesis 10", "chapter", "nations"],
-      questions: [
-        {
-          prompt: "What does Genesis 10 describe?",
-          answer: "The descendants of Noah's sons and the nations that come from them.",
-        },
-        {
-          prompt: "What major theme runs through the chapter?",
-          answer: "The spread of peoples, lands, and languages across the earth.",
-        },
-        {
-          prompt: "Why is Genesis 10 important?",
-          answer: "It explains the table of nations that sets the stage for Babel and the later call of Abraham.",
-        },
-      ],
-    },
-    {
-      title: "Genesis 11 Quiz",
-      kicker: "Chapter",
-      summary: "Checks Babel, the languages, and the scattering of the nations.",
-      detail: "This quiz helps a beginner see Genesis 11 as the chapter where human pride leads to language confusion and scattering, setting up the call of Abraham.",
-      start: "Take this after reading Genesis 11 carefully and noticing the tower, the city, and the language barrier.",
-      tags: ["Genesis 11", "chapter", "Babel"],
-      questions: [
-        {
-          prompt: "What happens at Babel in Genesis 11?",
-          answer: "People try to build a name for themselves, and God confuses their language and scatters them.",
-        },
-        {
-          prompt: "What is the result of the language confusion?",
-          answer: "The people are spread across the earth and the city-building project stops.",
-        },
-        {
-          prompt: "Why is Genesis 11 important?",
-          answer: "It explains the scattering of the nations and prepares the reader for God's call to Abraham in the next chapter.",
-        },
-      ],
-    },
-    {
-      title: "Genesis 12 Quiz",
-      kicker: "Chapter",
-      summary: "Checks Abram's call, the promise of land and blessing, and the beginning of the patriarchal story.",
-      detail: "This quiz helps a beginner see Genesis 12 as the chapter where God calls Abram to leave, promises blessing, and begins the story that will shape Israel.",
-      start: "Take this after reading Genesis 12 carefully and noticing the call to leave, the promise, and the altar-building.",
-      tags: ["Genesis 12", "chapter", "Abraham"],
-      questions: [
-        {
-          prompt: "What does God ask Abram to do?",
-          answer: "Leave his country, kindred, and father's house and go to the land God will show him.",
-        },
-        {
-          prompt: "What promise does God make to Abram?",
-          answer: "God promises to make him a great nation, bless him, and bless all the families of the earth through him.",
-        },
-        {
-          prompt: "Why is Genesis 12 important?",
-          answer: "It launches the Abraham story and introduces the promise that will carry through the rest of Scripture.",
-        },
-      ],
-    },
-    {
-      title: "Genesis 13 Quiz",
-      kicker: "Chapter",
-      summary: "Checks Abram and Lot's separation and the reaffirmed land promise.",
-      detail: "This quiz helps a beginner see Genesis 13 as the chapter where Abram and Lot part ways and God reaffirms the promise of land to Abram.",
-      start: "Take this after reading Genesis 13 carefully and noticing the choice of land and the renewal of the promise.",
-      tags: ["Genesis 13", "chapter", "Abram"],
-      questions: [
-        {
-          prompt: "Why do Abram and Lot separate?",
-          answer: "Their flocks and households are too large to stay together, so they part peacefully.",
-        },
-        {
-          prompt: "What does Lot choose?",
-          answer: "He chooses the fertile Jordan Valley.",
-        },
-        {
-          prompt: "Why is Genesis 13 important?",
-          answer: "It shows Abram trusting God as the land promise is reaffirmed and the story of blessing continues.",
-        },
-      ],
-    },
-    {
-      title: "Genesis 14 Quiz",
-      kicker: "Chapter",
-      summary: "Checks Abram's rescue mission, the kings, and Melchizedek's blessing.",
-      detail: "This quiz helps a beginner see Genesis 14 as the chapter where Abram rescues Lot, meets Melchizedek, and refuses to be made rich by the king of Sodom.",
-      start: "Take this after reading Genesis 14 carefully and noticing the battle, rescue, and priestly blessing.",
-      tags: ["Genesis 14", "chapter", "Melchizedek"],
-      questions: [
-        {
-          prompt: "What does Abram do in Genesis 14?",
-          answer: "He leads a rescue effort to recover Lot and the captives.",
-        },
-        {
-          prompt: "Who blesses Abram?",
-          answer: "Melchizedek, king of Salem and priest of God Most High.",
-        },
-        {
-          prompt: "Why is Genesis 14 important?",
-          answer: "It connects Abram's story to kingship, priesthood, and faithful trust rather than worldly gain.",
-        },
-      ],
-    },
-    {
-      title: "Genesis 15 Quiz",
-      kicker: "Chapter",
-      summary: "Checks God's covenant promise, Abram's faith, and the cutting of the covenant.",
-      detail: "This quiz helps a beginner see Genesis 15 as the chapter where God confirms his promise to Abram through a covenant and a dramatic sign.",
-      start: "Take this after reading Genesis 15 carefully and noticing the stars, the promise, and the covenant ritual.",
-      tags: ["Genesis 15", "chapter", "covenant"],
-      questions: [
-        {
-          prompt: "What does God promise Abram in Genesis 15?",
-          answer: "God promises descendants as numerous as the stars and grants Abram righteousness by faith.",
-        },
-        {
-          prompt: "What happens in the covenant ceremony?",
-          answer: "Animals are cut in two and God symbolically passes through the pieces.",
-        },
-        {
-          prompt: "Why is Genesis 15 important?",
-          answer: "It shows that God's promise rests on his own faithfulness and not Abram's strength.",
-        },
-      ],
-    },
-    {
-      title: "Genesis 16 Quiz",
-      kicker: "Chapter",
-      summary: "Checks Hagar, Ishmael, and the God who sees in the wilderness.",
-      detail: "This quiz helps a beginner see Genesis 16 as the chapter where human impatience, pain, and God's care meet in the story of Hagar and Ishmael.",
-      start: "Take this after reading Genesis 16 carefully and noticing the contrast between human schemes and God's seeing presence.",
-      tags: ["Genesis 16", "chapter", "Hagar"],
-      questions: [
-        {
-          prompt: "What plan do Abram and Sarai try in Genesis 16?",
-          answer: "They try to secure an heir through Hagar.",
-        },
-        {
-          prompt: "How is Hagar met by God?",
-          answer: "God sees her in the wilderness and gives her a promise about her son.",
-        },
-        {
-          prompt: "Why is Genesis 16 important?",
-          answer: "It shows the pain of impatience and the mercy of the God who sees and hears the afflicted.",
-        },
-      ],
-    },
-    {
-      title: "Genesis 17 Quiz",
-      kicker: "Chapter",
-      summary: "Checks the covenant sign of circumcision and Abram's renaming.",
-      detail: "This quiz helps a beginner see Genesis 17 as the chapter where God renews his covenant with Abram, gives him a new name, and marks the covenant with circumcision.",
-      start: "Take this after reading Genesis 17 carefully and noticing the repeated language of covenant, name, and generations.",
-      tags: ["Genesis 17", "chapter", "circumcision"],
-      questions: [
-        {
-          prompt: "What sign does God give for the covenant in Genesis 17?",
-          answer: "Circumcision.",
-        },
-        {
-          prompt: "How are Abram and Sarai renamed?",
-          answer: "Abram becomes Abraham and Sarai becomes Sarah.",
-        },
-        {
-          prompt: "Why is Genesis 17 important?",
-          answer: "It formalizes the covenant promise through a sign and shows that God will keep building his people through Abraham's line.",
-        },
-      ],
-    },
-    {
-      title: "Genesis 18 Quiz",
-      kicker: "Chapter",
-      summary: "Checks the visitors, the promise of Isaac, and Abraham's intercession for Sodom.",
-      detail: "This quiz helps a beginner see Genesis 18 as a chapter of hospitality, divine promise, and Abraham's bold prayer for mercy.",
-      start: "Take this after reading Genesis 18 carefully and noticing the visitors, the laughter, and the negotiation over Sodom.",
-      tags: ["Genesis 18", "chapter", "hospitality"],
-      questions: [
-        {
-          prompt: "What promise is repeated in Genesis 18?",
-          answer: "Sarah will bear a son, Isaac, in due time.",
-        },
-        {
-          prompt: "What does Abraham do for the visitors?",
-          answer: "He shows generous hospitality and welcomes them well.",
-        },
-        {
-          prompt: "Why is Genesis 18 important?",
-          answer: "It highlights God keeping his promise and Abraham learning to intercede for others.",
-        },
-      ],
-    },
-    {
-      title: "Genesis 19 Quiz",
-      kicker: "Chapter",
-      summary: "Checks the destruction of Sodom and Gomorrah and Lot's escape.",
-      detail: "This quiz helps a beginner see Genesis 19 as the chapter where judgment falls on Sodom and Lot is rescued through mercy and warning.",
-      start: "Take this after reading Genesis 19 carefully and noticing both the severity of judgment and the urgency of escape.",
-      tags: ["Genesis 19", "chapter", "Sodom"],
-      questions: [
-        {
-          prompt: "What happens to Sodom and Gomorrah?",
-          answer: "The cities are destroyed in judgment.",
-        },
-        {
-          prompt: "How is Lot rescued?",
-          answer: "Angels lead him and his family out of the city.",
-        },
-        {
-          prompt: "Why is Genesis 19 important?",
-          answer: "It shows the seriousness of sin and the mercy that rescues Lot from destruction.",
-        },
-      ],
-    },
-    {
-      title: "Genesis 20 Quiz",
-      kicker: "Chapter",
-      summary: "Checks Abraham and Sarah in Gerar and God's protection of the promise.",
-      detail: "This quiz helps a beginner see Genesis 20 as the chapter where Abraham repeats a fear-driven deception and God still protects Sarah and the promise.",
-      start: "Take this after reading Genesis 20 carefully and noticing the tension between fear, truth, and God's intervention.",
-      tags: ["Genesis 20", "chapter", "Gerar"],
-      questions: [
-        {
-          prompt: "What fear-driven mistake does Abraham repeat?",
-          answer: "He says Sarah is his sister.",
-        },
-        {
-          prompt: "How does God protect the situation?",
-          answer: "God warns Abimelech in a dream and preserves Sarah.",
-        },
-        {
-          prompt: "Why is Genesis 20 important?",
-          answer: "It shows that God's promise survives Abraham's failures because God is faithful to protect the line of promise.",
-        },
-      ],
-    },
-    {
-      title: "Genesis 21 Quiz",
-      kicker: "Chapter",
-      summary: "Checks Isaac's birth, Hagar and Ishmael's sending away, and the well at Beersheba.",
-      detail: "This quiz helps a beginner see Genesis 21 as the chapter where promise is fulfilled in Isaac's birth and the family line is clarified with pain and mercy.",
-      start: "Take this after reading Genesis 21 carefully and noticing the joy of fulfillment alongside the hard sending-away of Hagar and Ishmael.",
-      tags: ["Genesis 21", "chapter", "Isaac"],
-      questions: [
-        {
-          prompt: "What promise is fulfilled in Genesis 21?",
-          answer: "Sarah gives birth to Isaac.",
-        },
-        {
-          prompt: "What happens to Hagar and Ishmael?",
-          answer: "They are sent away, but God hears Ishmael and provides for them.",
-        },
-        {
-          prompt: "Why is Genesis 21 important?",
-          answer: "It shows the promise line moving forward through Isaac and God’s care for the vulnerable.",
-        },
-      ],
-    },
-    {
-      title: "Genesis 22 Quiz",
-      kicker: "Chapter",
-      summary: "Checks Abraham's test, Isaac, and God's provision of the ram.",
-      detail: "This quiz helps a beginner see Genesis 22 as the chapter where faith is tested, the sacrifice is stopped, and God provides a substitute.",
-      start: "Take this after reading Genesis 22 carefully and noticing the tension between obedience, promise, and provision.",
-      tags: ["Genesis 22", "chapter", "test"],
-      questions: [
-        {
-          prompt: "What does God ask Abraham to do in Genesis 22?",
-          answer: "Offer Isaac as a burnt offering.",
-        },
-        {
-          prompt: "What provides the sacrifice in the end?",
-          answer: "A ram caught in the thicket is offered instead of Isaac.",
-        },
-        {
-          prompt: "Why is Genesis 22 important?",
-          answer: "It shows the testing of Abraham's faith and God’s provision in a way that shapes later biblical themes of sacrifice and substitution.",
-        },
-      ],
-    },
-    {
-      title: "Genesis 23 Quiz",
-      kicker: "Chapter",
-      summary: "Checks Sarah's death and Abraham's purchase of a burial place in the land.",
-      detail: "This quiz helps a beginner see Genesis 23 as the chapter where grief and promise meet in the purchase of the cave of Machpelah.",
-      start: "Take this after reading Genesis 23 carefully and noticing the negotiation, respect, and land purchase.",
-      tags: ["Genesis 23", "chapter", "Sarah"],
-      questions: [
-        {
-          prompt: "What happens to Sarah in Genesis 23?",
-          answer: "Sarah dies, and Abraham grieves her.",
-        },
-        {
-          prompt: "What does Abraham purchase?",
-          answer: "The cave of Machpelah as a burial place.",
-        },
-        {
-          prompt: "Why is Genesis 23 important?",
-          answer: "It shows the first concrete piece of the land promise and Abraham's respectful faith in the midst of sorrow.",
-        },
-      ],
-    },
-    {
-      title: "Genesis 24 Quiz",
-      kicker: "Chapter",
-      summary: "Checks Abraham's servant, prayer, and the finding of Rebekah.",
-      detail: "This quiz helps a beginner see Genesis 24 as the chapter where faithful guidance brings Isaac's bride into the promise story.",
-      start: "Take this after reading Genesis 24 carefully and noticing the prayer, the signs, and the family's welcome.",
-      tags: ["Genesis 24", "chapter", "Rebekah"],
-      questions: [
-        {
-          prompt: "What is Abraham's servant sent to do?",
-          answer: "Find a wife for Isaac from Abraham's own relatives.",
-        },
-        {
-          prompt: "How does the servant seek guidance?",
-          answer: "He prays to God for a clear sign at the well.",
-        },
-        {
-          prompt: "Why is Genesis 24 important?",
-          answer: "It shows God's providence in securing the next generation of the promise through Rebekah.",
-        },
-      ],
-    },
-    {
-      title: "Genesis 25 Quiz",
-      kicker: "Chapter",
-      summary: "Checks Abraham's later years, the birth of Esau and Jacob, and the birthright struggle.",
-      detail: "This quiz helps a beginner see Genesis 25 as the chapter where the promise line continues through Isaac and the twins begin their contested story.",
-      start: "Take this after reading Genesis 25 carefully and noticing the transition from Abraham's death to Jacob and Esau's birth.",
-      tags: ["Genesis 25", "chapter", "Jacob"],
-      questions: [
-        {
-          prompt: "What happens in Abraham's family in Genesis 25?",
-          answer: "Abraham dies, and later Rebekah gives birth to Esau and Jacob.",
-        },
-        {
-          prompt: "What does Esau do with his birthright?",
-          answer: "He sells it to Jacob for a meal.",
-        },
-        {
-          prompt: "Why is Genesis 25 important?",
-          answer: "It shifts the promise story to the next generation and introduces the brothers whose conflict will shape Israel's future.",
-        },
-      ],
-    },
-    {
-      title: "Genesis 26 Quiz",
-      kicker: "Chapter",
-      summary: "Checks Isaac's famine, repeated well conflicts, and God's renewal of the promise.",
-      detail: "This quiz helps a beginner see Genesis 26 as the chapter where Isaac faces famine, fear, and conflict over wells, but God reaffirms the covenant promises first given to Abraham.",
-      start: "Take this after reading Genesis 26 carefully and noticing how the promise, the fear, and the well disputes all repeat Abraham's story in a new generation.",
-      tags: ["Genesis 26", "chapter", "Isaac"],
-      questions: [
-        {
-          prompt: "What happens when Isaac faces famine in Genesis 26?",
-          answer: "God tells him not to go down to Egypt and renews the promise to bless him in the land.",
-        },
-        {
-          prompt: "What repeated problem does Isaac face with the Philistines?",
-          answer: "His wells are contested and repeatedly named according to the conflict or peace he experiences there.",
-        },
-        {
-          prompt: "Why is Genesis 26 important?",
-          answer: "It shows that God's covenant promise continues with Isaac even when he meets fear and local conflict.",
-        },
-      ],
-    },
-    {
-      title: "Genesis 27 Quiz",
-      kicker: "Chapter",
-      summary: "Checks the stolen blessing, family deception, and the fallout between Jacob and Esau.",
-      detail: "This quiz helps a beginner see Genesis 27 as the chapter where blessing is pursued through deception, and the family conflict over inheritance becomes more painful and personal.",
-      start: "Take this after reading Genesis 27 carefully and noticing how blessing, fear, and favoritism drive the story.",
-      tags: ["Genesis 27", "chapter", "blessing"],
-      questions: [
-        {
-          prompt: "How does Jacob receive Isaac's blessing in Genesis 27?",
-          answer: "Rebekah helps him deceive Isaac by disguising himself as Esau.",
-        },
-        {
-          prompt: "What is Esau's response when he learns what happened?",
-          answer: "He is angry and plans to kill Jacob after Isaac's blessing is given.",
-        },
-        {
-          prompt: "Why is Genesis 27 important?",
-          answer: "It shows the promise family fractured by deception and sets up Jacob's flight from home.",
-        },
-      ],
-    },
-    {
-      title: "Genesis 28 Quiz",
-      kicker: "Chapter",
-      summary: "Checks Jacob's dream at Bethel, his departure, and God's renewed promise.",
-      detail: "This quiz helps a beginner see Genesis 28 as the chapter where Jacob leaves home, meets God in a dream, and hears the covenant promise renewed in a new place.",
-      start: "Take this after reading Genesis 28 carefully and noticing the contrast between Jacob's lonely journey and God's reassuring presence.",
-      tags: ["Genesis 28", "chapter", "Bethel"],
-      questions: [
-        {
-          prompt: "What happens to Jacob in his dream at Bethel?",
-          answer: "He sees a stairway or ladder reaching to heaven with angels ascending and descending.",
-        },
-        {
-          prompt: "What promise does God repeat to Jacob?",
-          answer: "God promises the land, descendants, and blessing that will reach all families of the earth.",
-        },
-        {
-          prompt: "Why is Genesis 28 important?",
-          answer: "It shows that God is with Jacob even in exile and confirms that the covenant continues through him.",
-        },
-      ],
-    },
-    {
-      title: "Genesis 29 Quiz",
-      kicker: "Chapter",
-      summary: "Checks Jacob's arrival in Haran, his marriages, and the start of rivalry in his family.",
-      detail: "This quiz helps a beginner see Genesis 29 as the chapter where Jacob reaches Laban's household, works for Rachel, and is deceived into marrying Leah first, beginning a long family rivalry.",
-      start: "Take this after reading Genesis 29 carefully and noticing how labor, marriage, and sibling tension all intertwine.",
-      tags: ["Genesis 29", "chapter", "Rachel"],
-      questions: [
-        {
-          prompt: "What does Jacob do to marry Rachel?",
-          answer: "He works for Laban for seven years, but Laban deceives him into marrying Leah first.",
-        },
-        {
-          prompt: "What tension begins in Jacob's family in Genesis 29?",
-          answer: "Leah and Rachel become rivals in marriage and childbearing.",
-        },
-        {
-          prompt: "Why is Genesis 29 important?",
-          answer: "It shows Jacob entering the next stage of the promise story while his own family becomes divided and complicated.",
-        },
-      ],
-    },
-    {
-      title: "Genesis 30 Quiz",
-      kicker: "Chapter",
-      summary: "Checks the birth race, the mandrakes dispute, and Jacob's growing household.",
-      detail: "This quiz helps a beginner see Genesis 30 as the chapter where the family rivalry becomes a childbearing contest, while Jacob's wealth and household continue to grow.",
-      start: "Take this after reading Genesis 30 carefully and noticing the repeated pattern of longing, bargaining, and increase.",
-      tags: ["Genesis 30", "chapter", "mandrakes"],
-      questions: [
-        {
-          prompt: "What happens between Leah and Rachel in Genesis 30?",
-          answer: "They compete for children, and the chapter repeatedly shows their struggle through naming and bargaining.",
-        },
-        {
-          prompt: "What is the mandrakes episode about?",
-          answer: "Rachel bargains with Leah for mandrakes, showing the depth of the family rivalry and longing for fertility.",
-        },
-        {
-          prompt: "Why is Genesis 30 important?",
-          answer: "It shows the promise family multiplying even through conflict and sets up Jacob's increasing wealth.",
-        },
-      ],
-    },
-    {
-      title: "Genesis 31 Quiz",
-      kicker: "Chapter",
-      summary: "Checks Jacob's escape from Laban, the stolen idols, and the covenant boundary.",
-      detail: "This quiz helps a beginner see Genesis 31 as the chapter where Jacob finally leaves Laban's house, while old tensions surface in the pursuit and the boundary marker between their households.",
-      start: "Take this after reading Genesis 31 carefully and noticing the mixture of departure, conflict, and covenant-making.",
-      tags: ["Genesis 31", "chapter", "Laban"],
-      questions: [
-        {
-          prompt: "Why does Jacob leave Laban in Genesis 31?",
-          answer: "God tells him to return to his homeland, and Laban's treatment of him has become hostile.",
-        },
-        {
-          prompt: "What happens with Rachel and the household idols?",
-          answer: "Rachel steals Laban's household gods while the family flees.",
-        },
-        {
-          prompt: "Why is Genesis 31 important?",
-          answer: "It marks Jacob's separation from Laban and shows God protecting him as he moves toward the promised land.",
-        },
-      ],
-    },
-    {
-      title: "Genesis 32 Quiz",
-      kicker: "Chapter",
-      summary: "Checks Jacob's fear, his wrestling at the river, and his new name Israel.",
-      detail: "This quiz helps a beginner see Genesis 32 as the chapter where Jacob prepares to face Esau, wrestles through the night, and receives a new name that marks a turning point.",
-      start: "Take this after reading Genesis 32 carefully and noticing the blend of fear, prayer, struggle, and blessing.",
-      tags: ["Genesis 32", "chapter", "Israel"],
-      questions: [
-        {
-          prompt: "Why is Jacob afraid in Genesis 32?",
-          answer: "He is about to meet Esau after many years and fears the consequences of their broken relationship.",
-        },
-        {
-          prompt: "What happens in Jacob's nighttime wrestling?",
-          answer: "He wrestles with a mysterious man until daybreak and refuses to let go without a blessing.",
-        },
-        {
-          prompt: "Why is Genesis 32 important?",
-          answer: "It marks Jacob's transformation, gives him the name Israel, and prepares him for reconciliation.",
-        },
-      ],
-    },
-    {
-      title: "Genesis 33 Quiz",
-      kicker: "Chapter",
-      summary: "Checks Jacob's meeting with Esau, their reconciliation, and Jacob's arrival in the land.",
-      detail: "This quiz helps a beginner see Genesis 33 as the chapter where the brothers finally meet again, the threat gives way to peace, and Jacob moves forward in the promised land.",
-      start: "Take this after reading Genesis 33 carefully and noticing the contrast between fear before the meeting and relief afterward.",
-      tags: ["Genesis 33", "chapter", "Esau"],
-      questions: [
-        {
-          prompt: "How do Jacob and Esau meet in Genesis 33?",
-          answer: "Jacob bows repeatedly, and Esau runs to embrace him instead of attacking him.",
-        },
-        {
-          prompt: "What does Jacob do with the gifts he sent ahead?",
-          answer: "He presents them as part of his effort to find favor with Esau.",
-        },
-        {
-          prompt: "Why is Genesis 33 important?",
-          answer: "It shows reconciliation between the brothers and lets Jacob continue into the land in peace.",
-        },
-      ],
-    },
-    {
-      title: "Genesis 34 Quiz",
-      kicker: "Chapter",
-      summary: "Checks Dinah's violation, the response of Simeon and Levi, and the danger in the land.",
-      detail: "This quiz helps a beginner see Genesis 34 as a dark chapter where violence, deception, and retaliation expose how fragile Jacob's household still is in the promised land.",
-      start: "Take this after reading Genesis 34 carefully and noticing the personal violation and the family's brutal response.",
-      tags: ["Genesis 34", "chapter", "Dinah"],
-      questions: [
-        {
-          prompt: "What happens to Dinah in Genesis 34?",
-          answer: "She is violated by Shechem, which triggers a crisis in Jacob's family.",
-        },
-        {
-          prompt: "How do Simeon and Levi respond?",
-          answer: "They deceive the men of the city and then attack them violently.",
-        },
-        {
-          prompt: "Why is Genesis 34 important?",
-          answer: "It shows the moral danger and violence still present in Jacob's family and surrounding land.",
-        },
-      ],
-    },
-    {
-      title: "Genesis 35 Quiz",
-      kicker: "Chapter",
-      summary: "Checks Jacob's return to Bethel, the covenant renewal, and the losses in his family.",
-      detail: "This quiz helps a beginner see Genesis 35 as the chapter where God reaffirms Jacob's identity, but the family story also turns through grief, death, and the birth of Benjamin.",
-      start: "Take this after reading Genesis 35 carefully and noticing the movement from cleansing and worship to sorrow and continuity.",
-      tags: ["Genesis 35", "chapter", "Bethel"],
-      questions: [
-        {
-          prompt: "What does God tell Jacob to do at Bethel?",
-          answer: "God tells him to go there, build an altar, and remember the God who met him there before.",
-        },
-        {
-          prompt: "What major family losses happen in Genesis 35?",
-          answer: "Rachel dies in childbirth, and Isaac also dies by the end of the chapter.",
-        },
-        {
-          prompt: "Why is Genesis 35 important?",
-          answer: "It renews Jacob's covenant identity while showing both blessing and grief continuing in the promise line.",
-        },
-      ],
-    },
-    {
-      title: "Genesis 36 Quiz",
-      kicker: "Chapter",
-      summary: "Checks Esau's descendants and the early history of Edom.",
-      detail: "This quiz helps a beginner see Genesis 36 as a chapter of genealogy that traces Esau's line and explains the people and rulers connected to Edom.",
-      start: "Take this after reading Genesis 36 carefully and noticing that the chapter is about tracing a people, not moving the main promise line forward.",
-      tags: ["Genesis 36", "chapter", "Esau"],
-      questions: [
-        {
-          prompt: "What does Genesis 36 focus on?",
-          answer: "It lists Esau's descendants and the clans and kings associated with Edom.",
-        },
-        {
-          prompt: "Why is Edom important in Genesis 36?",
-          answer: "It shows the development of Esau's family into a distinct people with their own leaders.",
-        },
-        {
-          prompt: "Why is Genesis 36 important?",
-          answer: "It closes out the Esau line and sets up the contrast between Edom and Israel in later Scripture.",
-        },
-      ],
-    },
-    {
-      title: "Genesis 37 Quiz",
-      kicker: "Chapter",
-      summary: "Checks Joseph's dreams, his brothers' jealousy, and his sale into Egypt.",
-      detail: "This quiz helps a beginner see Genesis 37 as the chapter where Joseph enters the story through dreams, family hatred, and betrayal that sends him toward Egypt.",
-      start: "Take this after reading Genesis 37 carefully and noticing the rise of jealousy and the fall from favored son to slave.",
-      tags: ["Genesis 37", "chapter", "Joseph"],
-      questions: [
-        {
-          prompt: "What do Joseph's dreams suggest?",
-          answer: "They suggest that Joseph will one day have a place of authority over his family.",
-        },
-        {
-          prompt: "What do Joseph's brothers do to him?",
-          answer: "They strip him, throw him into a cistern, and sell him to traders going to Egypt.",
-        },
-        {
-          prompt: "Why is Genesis 37 important?",
-          answer: "It moves the promise story into Egypt through Joseph's suffering and sets up the rest of his journey.",
-        },
-      ],
-    },
-    {
-      title: "Genesis 38 Quiz",
-      kicker: "Chapter",
-      summary: "Checks Judah, Tamar, and the surprising exposure of family justice and failure.",
-      detail: "This quiz helps a beginner see Genesis 38 as the chapter where Judah's family line is interrupted by sin, judgment, and Tamar's bold action that changes the story.",
-      start: "Take this after reading Genesis 38 carefully and noticing that the chapter pauses Joseph's story to focus on Judah's family.",
-      tags: ["Genesis 38", "chapter", "Tamar"],
-      questions: [
-        {
-          prompt: "What is the main focus of Genesis 38?",
-          answer: "It focuses on Judah, Tamar, and the tangled family failure around them.",
-        },
-        {
-          prompt: "How does Tamar secure justice?",
-          answer: "She disguises herself and confronts Judah, forcing him to acknowledge his responsibility.",
-        },
-        {
-          prompt: "Why is Genesis 38 important?",
-          answer: "It reveals Judah's line, exposes family sin, and prepares for later developments in the promise story.",
-        },
-      ],
-    },
-    {
-      title: "Genesis 39 Quiz",
-      kicker: "Chapter",
-      summary: "Checks Joseph's service, temptation, and imprisonment in Egypt.",
-      detail: "This quiz helps a beginner see Genesis 39 as the chapter where Joseph rises in Potiphar's house, resists temptation, and suffers unjustly because of false accusation.",
-      start: "Take this after reading Genesis 39 carefully and noticing how integrity leads Joseph into suffering rather than immediate reward.",
-      tags: ["Genesis 39", "chapter", "Joseph"],
-      questions: [
-        {
-          prompt: "How does Joseph serve in Potiphar's house?",
-          answer: "He is put in charge of everything because God gives him success.",
-        },
-        {
-          prompt: "What temptation does Joseph face?",
-          answer: "Potiphar's wife tries to seduce him, but Joseph refuses to sin against God.",
-        },
-        {
-          prompt: "Why is Genesis 39 important?",
-          answer: "It shows Joseph's faithfulness under pressure and moves him into prison, where God is still with him.",
-        },
-      ],
-    },
-    {
-      title: "Genesis 40 Quiz",
-      kicker: "Chapter",
-      summary: "Checks Joseph's interpretation of dreams in prison and the slow setup for his rise.",
-      detail: "This quiz helps a beginner see Genesis 40 as the chapter where Joseph remains faithful in prison while interpreting the dreams of Pharaoh's officials and waiting for God's timing.",
-      start: "Take this after reading Genesis 40 carefully and noticing how Joseph serves even while forgotten.",
-      tags: ["Genesis 40", "chapter", "prison"],
-      questions: [
-        {
-          prompt: "Who has dreams in Genesis 40?",
-          answer: "Pharaoh's cupbearer and baker both have troubling dreams while in prison with Joseph.",
-        },
-        {
-          prompt: "What does Joseph say about dream interpretation?",
-          answer: "He says interpretations belong to God, not to himself.",
-        },
-        {
-          prompt: "Why is Genesis 40 important?",
-          answer: "It shows Joseph's faithfulness in prison and sets up the events that will eventually lead to his release.",
-        },
-      ],
-    },
-    {
-      title: "Exodus 1 Quiz",
-      kicker: "Chapter",
-      summary: "Checks Israel's oppression in Egypt and the beginning of the rescue setting.",
-      detail: "This quiz helps a beginner see Exodus 1 as the setup for deliverance: a new king, oppression, fear, and the survival of God's people under pressure.",
-      start: "Take this after reading Exodus 1 carefully and noticing the repeated language of growth and oppression.",
-      tags: ["Exodus 1", "chapter", "slavery"],
-      questions: [
-        {
-          prompt: "What changes in Egypt at the beginning of Exodus 1?",
-          answer: "A new king arises who does not know Joseph and begins oppressing Israel.",
-        },
-        {
-          prompt: "How do the Israelites respond to oppression?",
-          answer: "They keep multiplying, and the Pharaoh tries to control them through fear and forced labor.",
-        },
-        {
-          prompt: "Why is Exodus 1 important for the rest of the book?",
-          answer: "It sets up the need for rescue and shows the stage on which God's deliverance will happen.",
-        },
-      ],
-    },
-    {
-      title: "Exodus 2 Quiz",
-      kicker: "Chapter",
-      summary: "Checks Moses' rescue as a baby, his early identity, and the move toward exile in Midian.",
-      detail: "This quiz helps a beginner see Exodus 2 as the chapter where Moses enters the story through hidden protection, compassion, conflict, and flight. It sets up his calling without flattening the tension.",
-      start: "Take this after reading Exodus 2 carefully and noticing how the chapter links rescue, justice, and exile.",
-      tags: ["Exodus 2", "chapter", "Moses"],
-      questions: [
-        {
-          prompt: "How is Moses rescued as a baby?",
-          answer: "His mother places him in a basket on the Nile, and Pharaoh's daughter takes him in.",
-        },
-        {
-          prompt: "What does Moses do when he sees injustice?",
-          answer: "He defends an oppressed Hebrew by striking down an Egyptian, then later has to flee.",
-        },
-        {
-          prompt: "Where does Moses go after fleeing Egypt?",
-          answer: "He goes to Midian, where he begins a new stage of waiting before God's calling.",
-        },
-      ],
-    },
-    {
-      title: "Exodus 3 Quiz",
-      kicker: "Chapter",
-      summary: "Checks the burning bush, God's name, and Moses' calling to return to Egypt.",
-      detail: "This quiz helps a beginner see Exodus 3 as the chapter where rescue begins to take shape through revelation. God's holiness, compassion, and self-identification are central before Moses is sent back to Pharaoh.",
-      start: "Take this after reading Exodus 3 carefully and noticing how the chapter moves from wilderness to mission.",
-      tags: ["Exodus 3", "chapter", "burning bush"],
-      questions: [
-        {
-          prompt: "Where does God meet Moses in Exodus 3?",
-          answer: "At the burning bush on holy ground in the wilderness.",
-        },
-        {
-          prompt: "What does God reveal about his concern for Israel?",
-          answer: "God says he has seen their affliction, heard their cry, and will deliver them.",
-        },
-        {
-          prompt: "What does God tell Moses to do?",
-          answer: "Go back to Egypt and confront Pharaoh as the one sent by God.",
-        },
-      ],
-    },
-    {
-      title: "Exodus 4 Quiz",
-      kicker: "Chapter",
-      summary: "Checks Moses' reluctance, God's signs, and the return toward Egypt.",
-      detail: "This quiz helps a beginner see Exodus 4 as the chapter where God answers Moses' hesitation with signs, support, and clear command. It also keeps the personal and covenant tension in view.",
-      start: "Take this after reading Exodus 4 carefully and noticing the signs, objections, and family scene.",
-      tags: ["Exodus 4", "chapter", "Moses"],
-      questions: [
-        {
-          prompt: "What concerns does Moses raise in Exodus 4?",
-          answer: "He worries that people will not believe him and that he is not capable enough.",
-        },
-        {
-          prompt: "What signs does God give Moses?",
-          answer: "God gives signs like the staff, the hand, and water turned to blood to confirm the message.",
-        },
-        {
-          prompt: "What does Moses do at the end of the chapter?",
-          answer: "He begins the journey back toward Egypt to carry out God's mission.",
-        },
-      ],
-    },
-    {
-      title: "Exodus 5 Quiz",
-      kicker: "Chapter",
-      summary: "Checks the first confrontation with Pharaoh and the worsening burden on Israel.",
-      detail: "This quiz helps a beginner see Exodus 5 as the chapter where obedience seems to make things worse at first. It focuses on Pharaoh's refusal, the increased labor, and the people's discouragement.",
-      start: "Take this after reading Exodus 5 carefully and noticing how the outcome feels like a setback before deliverance.",
-      tags: ["Exodus 5", "chapter", "Pharaoh"],
-      questions: [
-        {
-          prompt: "What happens when Moses and Aaron first confront Pharaoh?",
-          answer: "Pharaoh refuses to let Israel go and responds by increasing their burdens.",
-        },
-        {
-          prompt: "How do the Israelite leaders respond to the new burden?",
-          answer: "They are discouraged because the demand for bricks and the workload get worse.",
-        },
-        {
-          prompt: "Why is Exodus 5 important in the rescue story?",
-          answer: "It shows that God's mission can face immediate resistance before deliverance becomes visible.",
-        },
-      ],
-    },
-    {
-      title: "Exodus 6 Quiz",
-      kicker: "Chapter",
-      summary: "Checks God's covenant promises, Moses' renewed commission, and the family line of deliverance.",
-      detail: "This quiz helps a beginner see Exodus 6 as the chapter where God answers discouragement with remembered promise. It highlights the divine name, covenant language, and the transition toward the next stage of the rescue story.",
-      start: "Take this after reading Exodus 6 carefully and noticing the repeated promises and genealogy.",
-      tags: ["Exodus 6", "chapter", "covenant"],
-      questions: [
-        {
-          prompt: "What does God promise Israel again in Exodus 6?",
-          answer: "God promises rescue, covenant relationship, and bringing them into the land.",
-        },
-        {
-          prompt: "Why is the genealogy in Exodus 6 important?",
-          answer: "It grounds Moses and Aaron in Israel's family story and shows continuity from the patriarchs to the rescue.",
-        },
-        {
-          prompt: "How does Moses respond to God's command here?",
-          answer: "He still struggles with discouragement, but God tells him to keep speaking to Israel and to Pharaoh.",
-        },
-      ],
-    },
-    {
-      title: "Exodus 7 Quiz",
-      kicker: "Chapter",
-      summary: "Checks the first plague confrontation and the beginning of the sign contest with Pharaoh.",
-      detail: "This quiz helps a beginner see Exodus 7 as the chapter where Moses and Aaron begin public signs against Pharaoh. It focuses on the staff, the hardened response, and the opening of the plague sequence.",
-      start: "Take this after reading Exodus 7 carefully and noticing the repeated commands and refusals.",
-      tags: ["Exodus 7", "chapter", "plagues"],
-      questions: [
-        {
-          prompt: "What sign do Moses and Aaron perform before Pharaoh?",
-          answer: "Aaron's staff becomes a serpent, showing God's power over Pharaoh's court.",
-        },
-        {
-          prompt: "How does Pharaoh respond to the sign?",
-          answer: "He hardens his heart and refuses to listen.",
-        },
-        {
-          prompt: "What begins in Exodus 7?",
-          answer: "The escalating sequence of plagues and the public contest between God and Pharaoh.",
-        },
-      ],
-    },
-    {
-      title: "Exodus 8 Quiz",
-      kicker: "Chapter",
-      summary: "Checks the second wave of plagues and the mixed responses of Pharaoh and his magicians.",
-      detail: "This quiz helps a beginner see Exodus 8 as the chapter where the pressure grows through frogs, gnats, and flies. It highlights how Pharaoh keeps bargaining while the signs continue to expose Egypt's weakness.",
-      start: "Take this after reading Exodus 8 carefully and noticing the repeated requests and refusals.",
-      tags: ["Exodus 8", "chapter", "plagues"],
-      questions: [
-        {
-          prompt: "What kinds of signs appear in Exodus 8?",
-          answer: "Frogs, gnats or lice, and flies begin to overwhelm Egypt.",
-        },
-        {
-          prompt: "How does Pharaoh respond when the pressure increases?",
-          answer: "He bargains, asks for relief, and then hardens his heart again.",
-        },
-        {
-          prompt: "What do the magicians begin to admit?",
-          answer: "They recognize that God's power is at work beyond their own ability to imitate.",
-        },
-      ],
-    },
-    {
-      title: "Exodus 9 Quiz",
-      kicker: "Chapter",
-      summary: "Checks the growing plague escalation through livestock loss, boils, and hail.",
-      detail: "This quiz helps a beginner see Exodus 9 as the chapter where the signs intensify and Pharaoh's resistance becomes more exposed. It focuses on judgment, mercy, and the dividing line between Egypt and Israel.",
-      start: "Take this after reading Exodus 9 carefully and noticing how the plagues begin to distinguish Israel from Egypt.",
-      tags: ["Exodus 9", "chapter", "plagues"],
-      questions: [
-        {
-          prompt: "What kinds of plagues appear in Exodus 9?",
-          answer: "Livestock disease, boils, and hail strike Egypt.",
-        },
-        {
-          prompt: "What pattern keeps showing in Pharaoh's response?",
-          answer: "He admits the problem, asks for relief, and then hardens his heart again.",
-        },
-        {
-          prompt: "What important distinction emerges in this chapter?",
-          answer: "God makes a difference between Egypt and Israel, showing protection and judgment together.",
-        },
-      ],
-    },
-    {
-      title: "Exodus 10 Quiz",
-      kicker: "Chapter",
-      summary: "Checks the locusts, darkness, and the hardening standoff before the final plague.",
-      detail: "This quiz helps a beginner see Exodus 10 as the chapter where the pressure keeps building and Pharaoh's refusal becomes more desperate. It focuses on warning, judgment, darkness, and the difference between God's people and Egypt.",
-      start: "Take this after reading Exodus 10 carefully and noticing how Pharaoh tries to bargain while the signs intensify.",
-      tags: ["Exodus 10", "chapter", "plagues"],
-      questions: [
-        {
-          prompt: "What new plague signs appear in Exodus 10?",
-          answer: "Locusts and darkness overwhelm Egypt.",
-        },
-        {
-          prompt: "How does Pharaoh try to manage the situation?",
-          answer: "He offers partial compromises and bargains, but he does not truly surrender.",
-        },
-        {
-          prompt: "What does the darkness emphasize?",
-          answer: "It shows judgment, helplessness, and the contrast between Egypt's power and God's control.",
-        },
-      ],
-    },
-    {
-      title: "Exodus 11 Quiz",
-      kicker: "Chapter",
-      summary: "Checks the final warning of judgment before the Passover night.",
-      detail: "This quiz helps a beginner see Exodus 11 as the chapter where God announces the coming death of the firstborn and prepares the way for the decisive rescue. It focuses on warning, separation, and the seriousness of the coming night.",
-      start: "Take this after reading Exodus 11 carefully and noticing the shift from plague warnings to the final decisive blow.",
-      tags: ["Exodus 11", "chapter", "warning"],
-      questions: [
-        {
-          prompt: "What final judgment does God announce in Exodus 11?",
-          answer: "The death of the firstborn in Egypt.",
-        },
-        {
-          prompt: "How is Israel distinguished from Egypt in this announcement?",
-          answer: "God makes clear that his people will be protected while Egypt faces judgment.",
-        },
-        {
-          prompt: "Why is Exodus 11 important before Passover?",
-          answer: "It prepares the reader for the decisive rescue night and shows why the blood on the doorposts matters.",
-        },
-      ],
-    },
-    {
-      title: "Exodus 12 Quiz",
-      kicker: "Chapter",
-      summary: "Checks Passover night, blood on the doorposts, and the start of Israel's departure.",
-      detail: "This quiz helps a beginner see Exodus 12 as the decisive rescue chapter. It focuses on the Passover meal, protection by blood, haste, and the meaning of remembering deliverance.",
-      start: "Take this after reading Exodus 12 carefully and noticing the meal, the sign, and the urgency of departure.",
-      tags: ["Exodus 12", "chapter", "Passover"],
-      questions: [
-        {
-          prompt: "What is the key sign of protection in Exodus 12?",
-          answer: "The blood on the doorposts and lintel.",
-        },
-        {
-          prompt: "Why do the Israelites eat in haste?",
-          answer: "Because they are preparing to leave Egypt quickly when God acts.",
-        },
-        {
-          prompt: "What does Passover become for Israel?",
-          answer: "A memorial of God's rescue and a central pattern of identity and worship.",
-        },
-      ],
-    },
-    {
-      title: "Exodus 13 Quiz",
-      kicker: "Chapter",
-      summary: "Checks the consecration of the firstborn and God's guidance by pillar of cloud and fire.",
-      detail: "This quiz helps a beginner see Exodus 13 as the chapter where memory and guidance begin to shape the rescued people. It focuses on dedication, remembrance, and God's visible presence on the journey.",
-      start: "Take this after reading Exodus 13 carefully and noticing the commands to remember and to follow God's leading.",
-      tags: ["Exodus 13", "chapter", "wilderness"],
-      questions: [
-        {
-          prompt: "What is done with the firstborn in Exodus 13?",
-          answer: "They are consecrated to the Lord as a reminder that the people belong to God.",
-        },
-        {
-          prompt: "How does God guide Israel after the departure?",
-          answer: "By a pillar of cloud by day and a pillar of fire by night.",
-        },
-        {
-          prompt: "Why is Exodus 13 important for the journey ahead?",
-          answer: "It shows that rescue leads into remembrance and ongoing dependence on God's presence.",
-        },
-      ],
-    },
-    {
-      title: "Exodus 14 Quiz",
-      kicker: "Chapter",
-      summary: "Checks the Red Sea crossing, fear, and God's decisive deliverance.",
-      detail: "This quiz helps a beginner see Exodus 14 as the chapter where panic gives way to rescue. It focuses on Israel's fear, God's command to stand firm, and the sea crossing that reveals divine power.",
-      start: "Take this after reading Exodus 14 carefully and noticing how the chapter moves from fear to salvation.",
-      tags: ["Exodus 14", "chapter", "Red Sea"],
-      questions: [
-        {
-          prompt: "What are the Israelites afraid of in Exodus 14?",
-          answer: "They fear Pharaoh's army when they appear trapped by the sea.",
-        },
-        {
-          prompt: "What does God tell Moses and the people to do?",
-          answer: "Stand firm and trust that the Lord will fight for them.",
-        },
-        {
-          prompt: "What happens at the sea?",
-          answer: "God parts the waters so Israel passes through and Pharaoh's forces are defeated.",
-        },
-      ],
-    },
-    {
-      title: "Exodus 15 Quiz",
-      kicker: "Chapter",
-      summary: "Checks the Song of Moses and Miriam, praise after deliverance, and the bitter-water test.",
-      detail: "This quiz helps a beginner see Exodus 15 as the worship response to rescue. It focuses on praise, God's victory, Miriam's role, and the shift from triumph to dependence in the wilderness.",
-      start: "Take this after reading Exodus 15 carefully and noticing the movement from song to complaint to provision.",
-      tags: ["Exodus 15", "chapter", "worship"],
-      questions: [
-        {
-          prompt: "What is the main mood of the first part of Exodus 15?",
-          answer: "Praise and celebration after God defeats Pharaoh.",
-        },
-        {
-          prompt: "What does Miriam do in this chapter?",
-          answer: "She leads the women in singing and dancing in response to God's victory.",
-        },
-        {
-          prompt: "What problem appears after the song?",
-          answer: "The water at Marah is bitter, showing that rescue leads into dependence and testing.",
-        },
-      ],
-    },
-    {
-      title: "Exodus 16 Quiz",
-      kicker: "Chapter",
-      summary: "Checks manna, daily dependence, and Sabbath rhythms in the wilderness.",
-      detail: "This quiz helps a beginner see Exodus 16 as the chapter where God teaches Israel to trust him day by day. It focuses on bread from heaven, complaint, provision, and the shape of Sabbath rest.",
-      start: "Take this after reading Exodus 16 carefully and noticing the repeated patterns of complaint and provision.",
-      tags: ["Exodus 16", "chapter", "manna"],
-      questions: [
-        {
-          prompt: "What food does God provide in Exodus 16?",
-          answer: "Manna, bread from heaven, along with quail in the evening.",
-        },
-        {
-          prompt: "What lesson does the manna teach?",
-          answer: "God's people must depend on him daily instead of storing control for themselves.",
-        },
-        {
-          prompt: "What weekly rhythm is introduced here?",
-          answer: "The Sabbath pattern of gathering and resting.",
-        },
-      ],
-    },
-    {
-      title: "Exodus 17 Quiz",
-      kicker: "Chapter",
-      summary: "Checks water from the rock, testing in the wilderness, and the battle with Amalek.",
-      detail: "This quiz helps a beginner see Exodus 17 as the chapter where God provides again and Israel learns to fight from dependence. It focuses on thirst, complaint, intercession, and the first major battle after the sea.",
-      start: "Take this after reading Exodus 17 carefully and noticing how water and warfare both test the people.",
-      tags: ["Exodus 17", "chapter", "wilderness"],
-      questions: [
-        {
-          prompt: "What problem do the Israelites face at the start of Exodus 17?",
-          answer: "They have no water and begin quarreling and complaining.",
-        },
-        {
-          prompt: "How does God provide water?",
-          answer: "He tells Moses to strike the rock, and water comes out for the people.",
-        },
-        {
-          prompt: "What happens with Amalek?",
-          answer: "Israel fights Amalek while Moses intercedes with raised hands, showing dependence on God in battle.",
-        },
-      ],
-    },
-    {
-      title: "Exodus 18 Quiz",
-      kicker: "Chapter",
-      summary: "Checks Jethro's advice, shared leadership, and the move toward ordered justice.",
-      detail: "This quiz helps a beginner see Exodus 18 as the chapter where wise counsel reshapes Moses' work. It focuses on delegation, judgment, and how worship and leadership belong together.",
-      start: "Take this after reading Exodus 18 carefully and noticing the shift from battle and provision to organization.",
-      tags: ["Exodus 18", "chapter", "leadership"],
-      questions: [
-        {
-          prompt: "What problem does Jethro notice?",
-          answer: "Moses is trying to judge every case alone and is wearing himself and the people out.",
-        },
-        {
-          prompt: "What solution does Jethro suggest?",
-          answer: "He suggests shared leadership with capable people handling smaller cases.",
-        },
-        {
-          prompt: "Why is Exodus 18 important for the wilderness story?",
-          answer: "It shows that God's people need wise structure as well as miracles and provision.",
-        },
-      ],
-    },
-    {
-      title: "Exodus 19 Quiz",
-      kicker: "Chapter",
-      summary: "Checks Israel's arrival at Sinai and the preparation to meet God.",
-      detail: "This quiz helps a beginner see Exodus 19 as the chapter where rescue becomes covenant. It focuses on holiness, boundary, preparation, and the people's consent to hear God's word.",
-      start: "Take this after reading Exodus 19 carefully and noticing the repeated commands to prepare and stay at a distance.",
-      tags: ["Exodus 19", "chapter", "Sinai"],
-      questions: [
-        {
-          prompt: "Where do the Israelites arrive in Exodus 19?",
-          answer: "At Mount Sinai.",
-        },
-        {
-          prompt: "What do the people need to do before meeting God?",
-          answer: "They need to prepare themselves and respect the holy boundary around the mountain.",
-        },
-        {
-          prompt: "Why is Exodus 19 important?",
-          answer: "It marks the transition from rescue to covenant relationship with God.",
-        },
-      ],
-    },
-    {
-      title: "Exodus 20 Quiz",
-      kicker: "Chapter",
-      summary: "Checks the giving of the Ten Commandments and the people's fear at Sinai.",
-      detail: "This quiz helps a beginner see Exodus 20 as the chapter where God speaks the covenant law directly to his rescued people. It focuses on worship, holiness, relationships, and the fear that meets God's voice.",
-      start: "Take this after reading Exodus 20 carefully and noticing the shape of the commands and the people's response.",
-      tags: ["Exodus 20", "chapter", "Ten Commandments"],
-      questions: [
-        {
-          prompt: "What does God give in Exodus 20?",
-          answer: "The Ten Commandments, the core covenant words for Israel's life.",
-        },
-        {
-          prompt: "What is the first commandment about?",
-          answer: "Worshiping the Lord alone without other gods or images.",
-        },
-        {
-          prompt: "How do the people respond to God's voice?",
-          answer: "They are afraid and ask Moses to speak for God because the direct voice overwhelms them.",
-        },
-      ],
-    },
-    {
-      title: "Exodus 21 Quiz",
-      kicker: "Chapter",
-      summary: "Checks the first case laws and how covenant justice applies to everyday life.",
-      detail: "This quiz helps a beginner see Exodus 21 as the start of detailed covenant case law. It focuses on servants, personal injury, responsibility, and the way worship is meant to shape daily ethics.",
-      start: "Take this after reading Exodus 21 carefully and noticing how the commands become concrete situations.",
-      tags: ["Exodus 21", "chapter", "justice"],
-      questions: [
-        {
-          prompt: "What kind of material fills Exodus 21?",
-          answer: "Case laws and practical rules for everyday covenant life.",
-        },
-        {
-          prompt: "What subjects appear in the chapter?",
-          answer: "Servitude, bodily harm, restitution, and responsibility for injury.",
-        },
-        {
-          prompt: "Why is Exodus 21 important?",
-          answer: "It shows that God's covenant law reaches into ordinary social relationships, not just worship rituals.",
-        },
-      ],
-    },
-    {
-      title: "Exodus 22 Quiz",
-      kicker: "Chapter",
-      summary: "Checks how the covenant law handles restitution, property, and responsibility.",
-      detail: "This quiz helps a beginner see Exodus 22 as practical covenant instruction for theft, damages, trust, and justice in daily life.",
-      start: "Take this after reading Exodus 22 carefully and noticing how the law applies holiness to ordinary relationships and property.",
-      tags: ["Exodus 22", "chapter", "restitution"],
-      questions: [
-        {
-          prompt: "What kind of material fills Exodus 22?",
-          answer: "More case laws about restitution, property, and responsibility.",
-        },
-        {
-          prompt: "What themes appear in the chapter?",
-          answer: "Theft, damages, loans, deposits, justice for the vulnerable, and proper worship.",
-        },
-        {
-          prompt: "Why is Exodus 22 important?",
-          answer: "It shows that covenant obedience includes honest treatment of neighbors and care for people at risk.",
-        },
-      ],
-    },
-    {
-      title: "Exodus 23 Quiz",
-      kicker: "Chapter",
-      summary: "Checks covenant justice, rest, and faithful witness in daily life.",
-      detail: "This quiz helps a beginner see Exodus 23 as a chapter about honest speech, fairness, sabbath rest, and God's promise to guide Israel.",
-      start: "Take this after reading Exodus 23 carefully and noticing how the law extends beyond property into public justice and worship.",
-      tags: ["Exodus 23", "chapter", "justice"],
-      questions: [
-        {
-          prompt: "What kind of material fills Exodus 23?",
-          answer: "More covenant instructions about justice, rest, festivals, and God's guidance.",
-        },
-        {
-          prompt: "What themes appear in the chapter?",
-          answer: "Honest testimony, helping enemies, sabbath rest, annual feasts, and trust in God's presence.",
-        },
-        {
-          prompt: "Why is Exodus 23 important?",
-          answer: "It shows that covenant life includes truthful public life, worship rhythms, and confidence that God will lead his people.",
-        },
-      ],
-    },
-    {
-      title: "Exodus 24 Quiz",
-      kicker: "Chapter",
-      summary: "Checks the covenant ratification scene and Israel's response to God's presence.",
-      detail: "This quiz helps a beginner see Exodus 24 as the chapter where the covenant is confirmed, the people pledge obedience, and Moses enters the cloud of God's glory.",
-      start: "Take this after reading Exodus 24 carefully and noticing how the law section turns into a formal covenant ceremony.",
-      tags: ["Exodus 24", "chapter", "covenant"],
-      questions: [
-        {
-          prompt: "What happens in Exodus 24?",
-          answer: "The covenant is ratified with sacrifice, blood, a pledge of obedience, and a meal in God's presence.",
-        },
-        {
-          prompt: "Who goes partway up the mountain?",
-          answer: "Moses, Aaron, Nadab, Abihu, and seventy elders go up to confirm the covenant.",
-        },
-        {
-          prompt: "Why is Exodus 24 important?",
-          answer: "It marks Israel's formal acceptance of the covenant and shows the seriousness and holiness of drawing near to God.",
-        },
-      ],
-    },
-    {
-      title: "Exodus 25 Quiz",
-      kicker: "Chapter",
-      summary: "Checks the first tabernacle instructions and the meaning of sacred space.",
-      detail: "This quiz helps a beginner see Exodus 25 as the beginning of the tabernacle blueprint, with gifts, the ark, and furnishings that shape Israel's worship.",
-      start: "Take this after reading Exodus 25 carefully and noticing how God gives instructions for his dwelling place among his people.",
-      tags: ["Exodus 25", "chapter", "tabernacle"],
-      questions: [
-        {
-          prompt: "What starts in Exodus 25?",
-          answer: "The tabernacle instructions begin, including offerings and sacred furnishings.",
-        },
-        {
-          prompt: "What key objects are introduced?",
-          answer: "The ark, the mercy seat, the table, the lampstand, and other items for worship.",
-        },
-        {
-          prompt: "Why is Exodus 25 important?",
-          answer: "It shows that God wants to dwell among his people and gives careful instructions for holy worship.",
-        },
-      ],
-    },
-    {
-      title: "Exodus 26 Quiz",
-      kicker: "Chapter",
-      summary: "Checks the tabernacle's curtains, frames, and inner coverings.",
-      detail: "This quiz helps a beginner see Exodus 26 as a chapter about the tabernacle structure itself, especially the curtains, frames, and the layered holiness of the dwelling place.",
-      start: "Take this after reading Exodus 26 carefully and noticing how the tent is built to shelter God's presence.",
-      tags: ["Exodus 26", "chapter", "tabernacle"],
-      questions: [
-        {
-          prompt: "What does Exodus 26 describe?",
-          answer: "The tabernacle's curtains, frames, coverings, and inner layout.",
-        },
-        {
-          prompt: "What stands out about the chapter?",
-          answer: "It gives detailed instructions for how the sacred tent is constructed and separated into holy space.",
-        },
-        {
-          prompt: "Why is Exodus 26 important?",
-          answer: "It shows that worship space is carefully designed to reflect God's holiness and presence among his people.",
-        },
-      ],
-    },
-    {
-      title: "Exodus 27 Quiz",
-      kicker: "Chapter",
-      summary: "Checks the altar, court, and lamp instructions for the tabernacle.",
-      detail: "This quiz helps a beginner see Exodus 27 as a chapter about the tabernacle court, the bronze altar, and the lamp that must keep burning.",
-      start: "Take this after reading Exodus 27 carefully and noticing how worship space extends from the sacred tent to the outer court.",
-      tags: ["Exodus 27", "chapter", "tabernacle"],
-      questions: [
-        {
-          prompt: "What does Exodus 27 describe?",
-          answer: "The bronze altar, the tabernacle court, and the lamp oil instructions.",
-        },
-        {
-          prompt: "What recurring image stands out in the chapter?",
-          answer: "The lamp is to burn continually, signaling ongoing light and worship before the Lord.",
-        },
-        {
-          prompt: "Why is Exodus 27 important?",
-          answer: "It shows that access to God's presence involves ordered worship, sacrifice, and continual light.",
-        },
-      ],
-    },
-    {
-      title: "Exodus 28 Quiz",
-      kicker: "Chapter",
-      summary: "Checks the priestly garments and their meaning for worship.",
-      detail: "This quiz helps a beginner see Exodus 28 as the chapter about Aaron's garments, the high priest's role, and the holiness of priestly service.",
-      start: "Take this after reading Exodus 28 carefully and noticing how the priest's clothing points to holy service before God.",
-      tags: ["Exodus 28", "chapter", "priesthood"],
-      questions: [
-        {
-          prompt: "What does Exodus 28 describe?",
-          answer: "The priestly garments for Aaron and his sons.",
-        },
-        {
-          prompt: "What is emphasized about the clothing?",
-          answer: "The garments are for glory, beauty, and holy service before the Lord.",
-        },
-        {
-          prompt: "Why is Exodus 28 important?",
-          answer: "It shows that the priesthood must represent Israel before God with holiness and care.",
-        },
-      ],
-    },
-    {
-      title: "Exodus 29 Quiz",
-      kicker: "Chapter",
-      summary: "Checks the priestly ordination and consecration instructions.",
-      detail: "This quiz helps a beginner see Exodus 29 as the chapter where Aaron and his sons are ordained, consecrated, and set apart for holy service.",
-      start: "Take this after reading Exodus 29 carefully and noticing the sacrifices and rituals that install the priests.",
-      tags: ["Exodus 29", "chapter", "priesthood"],
-      questions: [
-        {
-          prompt: "What does Exodus 29 describe?",
-          answer: "The ordination and consecration of Aaron and his sons as priests.",
-        },
-        {
-          prompt: "What stands out in the chapter?",
-          answer: "Sacrifices, washing, anointing, and repeated rituals that set the priests apart for service.",
-        },
-        {
-          prompt: "Why is Exodus 29 important?",
-          answer: "It shows that priestly service is not casual but requires consecration and obedience to God's instructions.",
-        },
-      ],
-    },
-    {
-      title: "Exodus 30 Quiz",
-      kicker: "Chapter",
-      summary: "Checks the incense altar, atonement money, basin, and holy anointing oil.",
-      detail: "This quiz helps a beginner see Exodus 30 as a chapter about worship purity, continual prayer imagery, and the practical arrangements for holy service.",
-      start: "Take this after reading Exodus 30 carefully and noticing how incense, washing, and offerings support the tabernacle system.",
-      tags: ["Exodus 30", "chapter", "tabernacle"],
-      questions: [
-        {
-          prompt: "What does Exodus 30 describe?",
-          answer: "The incense altar, atonement money, bronze basin, and holy anointing oil.",
-        },
-        {
-          prompt: "What recurring idea stands out in the chapter?",
-          answer: "Holy worship requires cleansing, remembrance, and continual devotion before the Lord.",
-        },
-        {
-          prompt: "Why is Exodus 30 important?",
-          answer: "It shows that even the support structures of worship are ordered by God's holiness and care.",
-        },
-      ],
-    },
-    {
-      title: "Exodus 31 Quiz",
-      kicker: "Chapter",
-      summary: "Checks the Spirit-given craftsmanship and Sabbath sign in Exodus.",
-      detail: "This quiz helps a beginner see Exodus 31 as a chapter about God's Spirit empowering artisans and about Sabbath as a covenant sign.",
-      start: "Take this after reading Exodus 31 carefully and noticing the link between skill, holiness, and rest.",
-      tags: ["Exodus 31", "chapter", "Sabbath"],
-      questions: [
-        {
-          prompt: "What does Exodus 31 highlight?",
-          answer: "Bezalel, Oholiab, and the Spirit-given skill needed for tabernacle work, along with Sabbath instructions.",
-        },
-        {
-          prompt: "What does the Sabbath mean here?",
-          answer: "It is a sign of the covenant that marks Israel's relationship with God and their rhythm of rest.",
-        },
-        {
-          prompt: "Why is Exodus 31 important?",
-          answer: "It shows that both craftsmanship and rest are holy when they are done under God's command and Spirit.",
-        },
-      ],
-    },
-    {
-      title: "Exodus 32 Quiz",
-      kicker: "Chapter",
-      summary: "Checks the golden calf crisis and Moses' intercession.",
-      detail: "This quiz helps a beginner see Exodus 32 as the tragic turning point where Israel makes an idol, Moses pleads for mercy, and covenant faithfulness is tested.",
-      start: "Take this after reading Exodus 32 carefully and noticing how quickly the people turn from God's covenant.",
-      tags: ["Exodus 32", "chapter", "idolatry"],
-      questions: [
-        {
-          prompt: "What goes wrong in Exodus 32?",
-          answer: "Israel makes the golden calf and worships it instead of waiting for the Lord.",
-        },
-        {
-          prompt: "What does Moses do?",
-          answer: "He intercedes for the people, confronts the sin, and asks God not to destroy them.",
-        },
-        {
-          prompt: "Why is Exodus 32 important?",
-          answer: "It shows how serious idolatry is and how covenant mercy depends on God's patience and Moses' mediation.",
-        },
-      ],
-    },
-    {
-      title: "Exodus 33 Quiz",
-      kicker: "Chapter",
-      summary: "Checks Moses' plea for God's presence and the revelation of glory.",
-      detail: "This quiz helps a beginner see Exodus 33 as the chapter where Moses asks for God's presence, the tent of meeting matters, and God's glory is revealed in mercy.",
-      start: "Take this after reading Exodus 33 carefully and noticing how Moses refuses to move without God's presence.",
-      tags: ["Exodus 33", "chapter", "presence"],
-      questions: [
-        {
-          prompt: "What does Moses ask for in Exodus 33?",
-          answer: "He asks for God's presence to go with Israel instead of just an angel or guidance without presence.",
-        },
-        {
-          prompt: "What happens with the tent of meeting?",
-          answer: "Moses meets with God there outside the camp, and the people watch from a distance.",
-        },
-        {
-          prompt: "Why is Exodus 33 important?",
-          answer: "It shows that Israel's future depends on God's presence, mercy, and revealed glory, not merely on location or ritual.",
-        },
-      ],
-    },
-    {
-      title: "Exodus 34 Quiz",
-      kicker: "Chapter",
-      summary: "Checks the covenant renewal and God's revealed character.",
-      detail: "This quiz helps a beginner see Exodus 34 as the chapter where the covenant is renewed, Moses receives new tablets, and God's mercy and justice are proclaimed.",
-      start: "Take this after reading Exodus 34 carefully and noticing how God renews the covenant after the golden calf failure.",
-      tags: ["Exodus 34", "chapter", "covenant"],
-      questions: [
-        {
-          prompt: "What happens in Exodus 34?",
-          answer: "God renews the covenant with Israel and gives Moses new tablets.",
-        },
-        {
-          prompt: "What famous description of God appears here?",
-          answer: "The Lord describes himself as merciful, gracious, slow to anger, and abounding in steadfast love and faithfulness.",
-        },
-        {
-          prompt: "Why is Exodus 34 important?",
-          answer: "It shows that covenant restoration depends on God's character, not Israel's strength or consistency.",
-        },
-      ],
-    },
-    {
-      title: "Exodus 35 Quiz",
-      kicker: "Chapter",
-      summary: "Checks the renewed call to Sabbath and the volunteer offering for the tabernacle.",
-      detail: "This quiz helps a beginner see Exodus 35 as the chapter where Moses repeats Sabbath instructions and the people respond with willing gifts and skill for the tabernacle.",
-      start: "Take this after reading Exodus 35 carefully and noticing the shift from broken covenant to willing participation.",
-      tags: ["Exodus 35", "chapter", "tabernacle"],
-      questions: [
-        {
-          prompt: "What begins in Exodus 35?",
-          answer: "The people are called to bring willing offerings and to build the tabernacle.",
-        },
-        {
-          prompt: "What other instruction is repeated here?",
-          answer: "The Sabbath command is repeated before the work begins.",
-        },
-        {
-          prompt: "Why is Exodus 35 important?",
-          answer: "It shows renewed obedience and generosity after the covenant has been restored.",
-        },
-      ],
-    },
-    {
-      title: "Exodus 36 Quiz",
-      kicker: "Chapter",
-      summary: "Checks the actual construction of the tabernacle from the volunteered gifts.",
-      detail: "This quiz helps a beginner see Exodus 36 as the chapter where the craftsmen begin building the tabernacle from the people's generous offerings.",
-      start: "Take this after reading Exodus 36 carefully and noticing the repeated emphasis on skill, obedience, and abundance.",
-      tags: ["Exodus 36", "chapter", "tabernacle"],
-      questions: [
-        {
-          prompt: "What happens in Exodus 36?",
-          answer: "Bezalel, Oholiab, and the craftsmen begin building the tabernacle with the people's offerings.",
-        },
-        {
-          prompt: "What detail stands out about the offerings?",
-          answer: "The people give so much that Moses has to tell them to stop bringing gifts.",
-        },
-        {
-          prompt: "Why is Exodus 36 important?",
-          answer: "It shows that willing obedience turns into actual worshipful construction for God's dwelling place.",
-        },
-      ],
-    },
-    {
-      title: "Exodus 37 Quiz",
-      kicker: "Chapter",
-      summary: "Checks the crafted ark, table, lampstand, and incense altar.",
-      detail: "This quiz helps a beginner see Exodus 37 as the chapter where the holy furnishings are made according to God's pattern.",
-      start: "Take this after reading Exodus 37 carefully and noticing the careful workmanship in every object.",
-      tags: ["Exodus 37", "chapter", "tabernacle"],
-      questions: [
-        {
-          prompt: "What does Exodus 37 describe?",
-          answer: "The making of the ark, table, lampstand, and incense altar.",
-        },
-        {
-          prompt: "What pattern shapes the work?",
-          answer: "Everything is made according to the instructions God gave Moses.",
-        },
-        {
-          prompt: "Why is Exodus 37 important?",
-          answer: "It shows that the holy objects are crafted with precision because worship is ordered by God's design.",
-        },
-      ],
-    },
-    {
-      title: "Exodus 38 Quiz",
-      kicker: "Chapter",
-      summary: "Checks the bronze altar, courtyard, and inventory of materials.",
-      detail: "This quiz helps a beginner see Exodus 38 as the chapter where the outer court and metal furnishings are completed and accounted for.",
-      start: "Take this after reading Exodus 38 carefully and noticing the repeated attention to measurement and materials.",
-      tags: ["Exodus 38", "chapter", "tabernacle"],
-      questions: [
-        {
-          prompt: "What does Exodus 38 describe?",
-          answer: "The bronze altar, the courtyard, and the accounting of materials used.",
-        },
-        {
-          prompt: "What detail stands out in the chapter?",
-          answer: "The work is carefully measured and the offerings are inventoried, showing order and transparency.",
-        },
-        {
-          prompt: "Why is Exodus 38 important?",
-          answer: "It shows that worship includes both sacred space and faithful stewardship of the gifts provided for it.",
-        },
-      ],
-    },
-    {
-      title: "Exodus 39 Quiz",
-      kicker: "Chapter",
-      summary: "Checks the priestly garments and the completion of the tabernacle work.",
-      detail: "This quiz helps a beginner see Exodus 39 as the chapter where the priests' garments are made and the tabernacle work is reported as finished according to God's command.",
-      start: "Take this after reading Exodus 39 carefully and noticing the repeated phrase that the work was done as the Lord commanded.",
-      tags: ["Exodus 39", "chapter", "priesthood"],
-      questions: [
-        {
-          prompt: "What does Exodus 39 describe?",
-          answer: "The making of the priestly garments and the completion report on the tabernacle work.",
-        },
-        {
-          prompt: "What refrain appears in the chapter?",
-          answer: "The work is done as the Lord commanded Moses.",
-        },
-        {
-          prompt: "Why is Exodus 39 important?",
-          answer: "It shows that the tabernacle project is nearing completion and that obedient craftsmanship matters in worship.",
-        },
-      ],
-    },
-    {
-      title: "Exodus 40 Quiz",
-      kicker: "Chapter",
-      summary: "Checks the tabernacle setup and the filling of God's glory.",
-      detail: "This quiz helps a beginner see Exodus 40 as the chapter where the tabernacle is erected, consecrated, and filled with the cloud and glory of the Lord.",
-      start: "Take this after reading Exodus 40 carefully and noticing the repeated action of setting everything in place just as God commanded.",
-      tags: ["Exodus 40", "chapter", "tabernacle"],
-      questions: [
-        {
-          prompt: "What happens in Exodus 40?",
-          answer: "The tabernacle is set up, anointed, and filled with the glory of the Lord.",
-        },
-        {
-          prompt: "What repeated pattern closes the chapter?",
-          answer: "Moses does everything just as the Lord commanded him.",
-        },
-        {
-          prompt: "Why is Exodus 40 important?",
-          answer: "It completes Exodus by showing God's dwelling place among his people and the guiding presence that will lead them on their journey.",
-        },
-      ],
-    },
-    {
-      title: "Luke and Acts Bridge Quiz",
-      kicker: "Books",
-      summary: "Checks how Luke's Gospel connects to the early church story in Acts.",
-      detail: "This quiz prepares users to move from Jesus' ministry into the Spirit-empowered witness of the early church.",
-      start: "Take this after reading Luke 24 and Acts 1-2.",
-      tags: ["Luke", "Acts", "book"],
-      questions: [
-        {
-          prompt: "Why are Luke and Acts useful to read together?",
-          answer: "Luke tells the story of Jesus, and Acts continues with the early church after the resurrection and ascension.",
-        },
-        {
-          prompt: "What major event in Acts empowers the church's witness?",
-          answer: "Pentecost, when the Holy Spirit is poured out.",
-        },
-        {
-          prompt: "What movement pattern does Acts follow?",
-          answer: "The witness moves from Jerusalem outward to wider regions and eventually toward Rome.",
-        },
-      ],
-    },
-    {
-      title: "Acts 1 Quiz",
-      kicker: "Chapter",
-      summary: "Checks Jesus' ascension, the promise of the Spirit, and the choosing of Matthias.",
-      detail: "This quiz helps a beginner see Acts 1 as the chapter that bridges Jesus' resurrection appearance to the church's Spirit-filled mission.",
-      start: "Take this after reading Acts 1 carefully and noticing the setup for the rest of the book.",
-      tags: ["Acts 1", "chapter", "ascension"],
-      questions: [
-        {
-          prompt: "What promise does Jesus give before ascending?",
-          answer: "He promises that the Holy Spirit will come and empower the disciples to be his witnesses.",
-        },
-        {
-          prompt: "What major event closes the chapter?",
-          answer: "Jesus ascends into heaven.",
-        },
-        {
-          prompt: "What practical decision do the disciples make?",
-          answer: "They choose Matthias to replace Judas among the Twelve.",
-        },
-      ],
-    },
-    {
-      title: "Acts 2 Quiz",
-      kicker: "Chapter",
-      summary: "Checks Pentecost, Peter's sermon, and the birth of the church.",
-      detail: "This quiz helps a beginner see Acts 2 as the chapter where the Spirit comes and the church begins its public witness.",
-      start: "Take this after reading Acts 2 carefully and noticing the Spirit's arrival and the crowd's response.",
-      tags: ["Acts 2", "chapter", "Pentecost"],
-      questions: [
-        {
-          prompt: "What happens at Pentecost?",
-          answer: "The Holy Spirit is poured out on the disciples.",
-        },
-        {
-          prompt: "What does Peter do after the Spirit comes?",
-          answer: "He preaches a sermon explaining Jesus' death, resurrection, and exaltation.",
-        },
-        {
-          prompt: "How do the new believers respond?",
-          answer: "They are baptized, devoted to teaching and fellowship, and added to the church.",
-        },
-      ],
-    },
-    {
-      title: "Acts 3 Quiz",
-      kicker: "Chapter",
-      summary: "Checks the healing at the temple gate and Peter's sermon in Solomon's portico.",
-      detail: "This quiz helps a beginner see Acts 3 as the chapter where a public healing opens the door to another call to repentance.",
-      start: "Take this after reading Acts 3 carefully and noticing the healing, the crowd, and the sermon.",
-      tags: ["Acts 3", "chapter", "healing"],
-      questions: [
-        {
-          prompt: "What miracle happens at the temple gate?",
-          answer: "A lame man is healed and walks.",
-        },
-        {
-          prompt: "What does Peter say the healing points to?",
-          answer: "He says it points to Jesus' power and calls the crowd to repentance.",
-        },
-        {
-          prompt: "Where does Peter speak after the healing?",
-          answer: "He speaks in Solomon's portico or colonnade.",
-        },
-      ],
-    },
-    {
-      title: "Acts 4 Quiz",
-      kicker: "Chapter",
-      summary: "Checks Peter and John's trial, prayer, and the believers' boldness.",
-      detail: "This quiz helps a beginner see Acts 4 as the chapter where opposition leads the church to pray for bold witness.",
-      start: "Take this after reading Acts 4 carefully and noticing the courtroom pressure and the community response.",
-      tags: ["Acts 4", "chapter", "boldness"],
-      questions: [
-        {
-          prompt: "What happens to Peter and John in Acts 4?",
-          answer: "They are arrested and questioned by the authorities.",
-        },
-        {
-          prompt: "How do the believers respond to pressure?",
-          answer: "They pray for boldness instead of asking for safety.",
-        },
-        {
-          prompt: "What is notable about the believers' sharing?",
-          answer: "They share their possessions so that none are in need.",
-        },
-      ],
-    },
-    {
-      title: "Acts 5 Quiz",
-      kicker: "Chapter",
-      summary: "Checks Ananias and Sapphira, apostolic signs, and the apostles' joy in suffering.",
-      detail: "This quiz helps a beginner see Acts 5 as the chapter where holiness, signs, and persecution all shape the church.",
-      start: "Take this after reading Acts 5 carefully and noticing the warning, the miracles, and the conflict.",
-      tags: ["Acts 5", "chapter", "holiness"],
-      questions: [
-        {
-          prompt: "What happens to Ananias and Sapphira?",
-          answer: "They die after lying about their gift to the church.",
-        },
-        {
-          prompt: "What do the apostles continue to do despite opposition?",
-          answer: "They perform signs and teach about Jesus.",
-        },
-        {
-          prompt: "How do the apostles respond to being beaten?",
-          answer: "They rejoice that they were counted worthy to suffer for Jesus' name.",
-        },
-      ],
-    },
-    {
-      title: "Acts 6 Quiz",
-      kicker: "Chapter",
-      summary: "Checks the choosing of the Seven and Stephen's growing ministry.",
-      detail: "This quiz helps a beginner see Acts 6 as the chapter where the church organizes service and Stephen becomes a key witness.",
-      start: "Take this after reading Acts 6 carefully and noticing the tension between practical care and preaching.",
-      tags: ["Acts 6", "chapter", "service"],
-      questions: [
-        {
-          prompt: "Why are the Seven chosen?",
-          answer: "They are chosen to help with the daily distribution so the apostles can focus on prayer and the word.",
-        },
-        {
-          prompt: "Who is one of the new servants especially highlighted?",
-          answer: "Stephen is highlighted as full of faith and the Spirit.",
-        },
-        {
-          prompt: "What starts to happen around Stephen's ministry?",
-          answer: "Opposition rises as he performs wonders and speaks with wisdom.",
-        },
-      ],
-    },
-    {
-      title: "Acts 7 Quiz",
-      kicker: "Chapter",
-      summary: "Checks Stephen's speech, his vision, and the first martyrdom.",
-      detail: "This quiz helps a beginner see Acts 7 as the chapter where Stephen retells Israel's story and becomes the first martyr.",
-      start: "Take this after reading Acts 7 carefully and noticing the long speech and its outcome.",
-      tags: ["Acts 7", "chapter", "Stephen"],
-      questions: [
-        {
-          prompt: "What does Stephen do in his defense?",
-          answer: "He retells Israel's history to show God's faithfulness and the people's repeated resistance.",
-        },
-        {
-          prompt: "What does Stephen see near the end?",
-          answer: "He sees the Son of Man standing at the right hand of God.",
-        },
-        {
-          prompt: "What happens to Stephen?",
-          answer: "He is stoned to death, becoming the first Christian martyr.",
-        },
-      ],
-    },
-    {
-      title: "Acts 8 Quiz",
-      kicker: "Chapter",
-      summary: "Checks the spread of the gospel into Samaria and the Ethiopian's conversion.",
-      detail: "This quiz helps a beginner see Acts 8 as the chapter where persecution spreads the church and the gospel crosses new boundaries.",
-      start: "Take this after reading Acts 8 carefully and noticing the gospel moving outward under pressure.",
-      tags: ["Acts 8", "chapter", "Samaria"],
-      questions: [
-        {
-          prompt: "What happens after persecution breaks out in Jerusalem?",
-          answer: "Believers are scattered and the gospel spreads to Samaria and beyond.",
-        },
-        {
-          prompt: "Who does Philip meet on the road?",
-          answer: "He meets the Ethiopian eunuch.",
-        },
-        {
-          prompt: "What is the result of Philip's encounter?",
-          answer: "The Ethiopian believes, is baptized, and goes on his way rejoicing.",
-        },
-      ],
-    },
-    {
-      title: "Acts 9 Quiz",
-      kicker: "Chapter",
-      summary: "Checks Saul's conversion, Ananias, and Peter's healing ministry.",
-      detail: "This quiz helps a beginner see Acts 9 as the chapter where the church's greatest persecutor is transformed and the mission continues.",
-      start: "Take this after reading Acts 9 carefully and noticing both conversion and healing.",
-      tags: ["Acts 9", "chapter", "conversion"],
-      questions: [
-        {
-          prompt: "What happens to Saul on the road to Damascus?",
-          answer: "He encounters the risen Jesus and is blinded.",
-        },
-        {
-          prompt: "Who helps Saul regain his sight?",
-          answer: "Ananias lays hands on him and Saul is healed and baptized.",
-        },
-        {
-          prompt: "What does Peter do in the second half of the chapter?",
-          answer: "He heals Aeneas and raises Tabitha (Dorcas) from the dead.",
-        },
-      ],
-    },
-    {
-      title: "Acts 10 Quiz",
-      kicker: "Chapter",
-      summary: "Checks Cornelius, Peter's vision, and the Gentiles receiving the Spirit.",
-      detail: "This quiz helps a beginner see Acts 10 as the chapter where God shows that Gentiles are included through Jesus.",
-      start: "Take this after reading Acts 10 carefully and noticing the vision, the sermon, and the Spirit's gift.",
-      tags: ["Acts 10", "chapter", "Gentiles"],
-      questions: [
-        {
-          prompt: "Who is Cornelius?",
-          answer: "He is a Roman centurion who fears God and receives a message from God.",
-        },
-        {
-          prompt: "What does Peter learn in his vision?",
-          answer: "He learns not to call unclean what God has made clean.",
-        },
-        {
-          prompt: "What happens while Peter is speaking?",
-          answer: "The Holy Spirit falls on the Gentile listeners and they are baptized.",
-        },
-      ],
-    },
-    {
-      title: "Acts 11 Quiz",
-      kicker: "Chapter",
-      summary: "Checks Peter's explanation and the church at Antioch.",
-      detail: "This quiz helps a beginner see Acts 11 as the chapter where the church learns to welcome Gentile believers and grows in Antioch.",
-      start: "Take this after reading Acts 11 carefully and noticing Peter's defense and the new church center.",
-      tags: ["Acts 11", "chapter", "Antioch"],
-      questions: [
-        {
-          prompt: "What does Peter explain to the church in Jerusalem?",
-          answer: "He explains that God gave the Holy Spirit to Gentiles just as to Jewish believers.",
-        },
-        {
-          prompt: "What new church center becomes important in this chapter?",
-          answer: "Antioch becomes an important church and mission center.",
-        },
-        {
-          prompt: "What do the believers first get called in Antioch?",
-          answer: "They are first called Christians in Antioch.",
-        },
-      ],
-    },
-    {
-      title: "Acts 12 Quiz",
-      kicker: "Chapter",
-      summary: "Checks James' death, Peter's rescue, and Herod's downfall.",
-      detail: "This quiz helps a beginner see Acts 12 as the chapter where persecution and prayer both shape the church's story.",
-      start: "Take this after reading Acts 12 carefully and noticing the contrast between prison, prayer, and pride.",
-      tags: ["Acts 12", "chapter", "prayer"],
-      questions: [
-        {
-          prompt: "What happens to James and Peter in this chapter?",
-          answer: "James is killed and Peter is arrested, then Peter is rescued by an angel.",
-        },
-        {
-          prompt: "How does the church respond to Peter's arrest?",
-          answer: "The church prays earnestly for him.",
-        },
-        {
-          prompt: "What happens to Herod?",
-          answer: "He is struck down after accepting praise that belongs to God.",
-        },
-      ],
-    },
-    {
-      title: "Acts 13 Quiz",
-      kicker: "Chapter",
-      summary: "Checks Barnabas and Saul's sending, Paul's sermon, and Gentile mission.",
-      detail: "This quiz helps a beginner see Acts 13 as the chapter where the mission shifts decisively into Paul's ministry.",
-      start: "Take this after reading Acts 13 carefully and noticing the sending, the sermon, and the first major opposition.",
-      tags: ["Acts 13", "chapter", "mission"],
-      questions: [
-        {
-          prompt: "Who sends Barnabas and Saul on mission?",
-          answer: "The Holy Spirit sends them from the church at Antioch.",
-        },
-        {
-          prompt: "What does Paul preach in Pisidian Antioch?",
-          answer: "He preaches that Jesus fulfills God's promises and brings forgiveness through his death and resurrection.",
-        },
-        {
-          prompt: "How do some Jews and Gentiles respond?",
-          answer: "Some believe and are glad, while others oppose the message.",
-        },
-      ],
-    },
-    {
-      title: "Acts 14 Quiz",
-      kicker: "Chapter",
-      summary: "Checks the mission in Iconium, Lystra, and Derbe, and the return to Antioch.",
-      detail: "This quiz helps a beginner see Acts 14 as the chapter where mission includes miracles, opposition, and strengthening new believers.",
-      start: "Take this after reading Acts 14 carefully and noticing how Paul and Barnabas continue despite hardship.",
-      tags: ["Acts 14", "chapter", "mission"],
-      questions: [
-        {
-          prompt: "What happens in Iconium and Lystra?",
-          answer: "Paul and Barnabas preach, miracles occur, and they face both belief and opposition.",
-        },
-        {
-          prompt: "How does the crowd in Lystra react to healing?",
-          answer: "They initially think Paul and Barnabas are gods, but the apostles stop them.",
-        },
-        {
-          prompt: "What do Paul and Barnabas do on the return journey?",
-          answer: "They strengthen the disciples and appoint elders in the churches.",
-        },
-      ],
-    },
-    {
-      title: "Acts 15 Quiz",
-      kicker: "Chapter",
-      summary: "Checks the Jerusalem Council and the decision about Gentile believers.",
-      detail: "This quiz helps a beginner see Acts 15 as the chapter where the church decides that Gentiles are saved by grace, not by taking on the full law.",
-      start: "Take this after reading Acts 15 carefully and noticing the council, the debate, and the letter.",
-      tags: ["Acts 15", "chapter", "council"],
-      questions: [
-        {
-          prompt: "What issue is debated at the Jerusalem Council?",
-          answer: "Whether Gentile believers must be circumcised and keep the law of Moses to be saved.",
-        },
-        {
-          prompt: "What decision does the council make?",
-          answer: "They decide that Gentiles are saved by grace through the Lord Jesus.",
-        },
-        {
-          prompt: "How is the decision communicated?",
-          answer: "The apostles and elders send a letter with chosen representatives.",
-        },
-      ],
-    },
-    {
-      title: "Acts 16 Quiz",
-      kicker: "Chapter",
-      summary: "Checks the Philippian mission, Lydia, and the jailer's conversion.",
-      detail: "This quiz helps a beginner see Acts 16 as the chapter where the gospel enters new places and people respond in surprising ways.",
-      start: "Take this after reading Acts 16 carefully and noticing the Spirit's guidance, the prison, and the midnight worship.",
-      tags: ["Acts 16", "chapter", "Philippi"],
-      questions: [
-        {
-          prompt: "Who joins Paul and his team in Philippi?",
-          answer: "Lydia believes and is baptized, and her household is opened to the gospel.",
-        },
-        {
-          prompt: "What happens to Paul and Silas in prison?",
-          answer: "They are imprisoned, then an earthquake opens the doors and the jailer asks how to be saved.",
-        },
-        {
-          prompt: "What happens to the jailer?",
-          answer: "He believes in the Lord Jesus and is baptized with his household.",
-        },
-      ],
-    },
-    {
-      title: "Acts 17 Quiz",
-      kicker: "Chapter",
-      summary: "Checks the mission in Thessalonica, Berea, and Athens.",
-      detail: "This quiz helps a beginner see Acts 17 as the chapter where Paul argues from Scripture and engages the wider Greek world.",
-      start: "Take this after reading Acts 17 carefully and noticing the different responses in each city.",
-      tags: ["Acts 17", "chapter", "Athens"],
-      questions: [
-        {
-          prompt: "What happens in Berea?",
-          answer: "The Bereans examine the Scriptures eagerly to see whether Paul's message is true.",
-        },
-        {
-          prompt: "What does Paul do in Athens?",
-          answer: "He speaks about the unknown God and proclaims Jesus and the resurrection.",
-        },
-        {
-          prompt: "How do people respond in Athens?",
-          answer: "Some mock, some delay, and some believe.",
-        },
-      ],
-    },
-    {
-      title: "Acts 18 Quiz",
-      kicker: "Chapter",
-      summary: "Checks the ministry in Corinth and Apollos' growth in teaching.",
-      detail: "This quiz helps a beginner see Acts 18 as the chapter where Paul stays in Corinth and the work continues through other teachers.",
-      start: "Take this after reading Acts 18 carefully and noticing the mix of ordinary work, teaching, and encouragement.",
-      tags: ["Acts 18", "chapter", "Corinth"],
-      questions: [
-        {
-          prompt: "What work does Paul do in Corinth?",
-          answer: "He works with Aquila and Priscilla as a tentmaker while he teaches.",
-        },
-        {
-          prompt: "What encouragement does God give Paul?",
-          answer: "The Lord tells Paul not to be afraid and promises to protect him.",
-        },
-        {
-          prompt: "Who is Apollos?",
-          answer: "He is an eloquent teacher who is further instructed in the way of God.",
-        },
-      ],
-    },
-    {
-      title: "Acts 19 Quiz",
-      kicker: "Chapter",
-      summary: "Checks Paul's ministry in Ephesus and the spread of the gospel there.",
-      detail: "This quiz helps a beginner see Acts 19 as the chapter where the gospel confronts magic, idolatry, and public power in Ephesus.",
-      start: "Take this after reading Acts 19 carefully and noticing the work of the Spirit and the clash with idols.",
-      tags: ["Acts 19", "chapter", "Ephesus"],
-      questions: [
-        {
-          prompt: "What happens when Paul meets the disciples in Ephesus?",
-          answer: "They are baptized in the name of Jesus and receive the Holy Spirit.",
-        },
-        {
-          prompt: "What remarkable effects follow Paul's ministry?",
-          answer: "People are healed and evil practices are publicly abandoned.",
-        },
-        {
-          prompt: "What conflict erupts in Ephesus?",
-          answer: "The idol-makers riot because the gospel threatens their trade and their goddess.",
-        },
-      ],
-    },
-    {
-      title: "Acts 20 Quiz",
-      kicker: "Chapter",
-      summary: "Checks Paul's farewell journey, teaching, and warning to the elders.",
-      detail: "This quiz helps a beginner see Acts 20 as the chapter where Paul encourages believers and prepares leaders for difficult times.",
-      start: "Take this after reading Acts 20 carefully and noticing the farewell tone.",
-      tags: ["Acts 20", "chapter", "farewell"],
-      questions: [
-        {
-          prompt: "What does Paul do in Troas?",
-          answer: "He teaches late into the night and Eutychus is raised after falling from a window.",
-        },
-        {
-          prompt: "Who does Paul meet on his way to Jerusalem?",
-          answer: "He meets with the Ephesian elders and gives them a farewell message.",
-        },
-        {
-          prompt: "What warning does Paul give the elders?",
-          answer: "He warns them to guard the flock because fierce opposition will come.",
-        },
-      ],
-    },
-    {
-      title: "Acts 21 Quiz",
-      kicker: "Chapter",
-      summary: "Checks Paul's journey to Jerusalem and the warnings he receives.",
-      detail: "This quiz helps a beginner see Acts 21 as the chapter where Paul is warned repeatedly but keeps going to Jerusalem.",
-      start: "Take this after reading Acts 21 carefully and noticing the repeated warnings and Paul's resolve.",
-      tags: ["Acts 21", "chapter", "Jerusalem"],
-      questions: [
-        {
-          prompt: "What warnings does Paul receive on the journey?",
-          answer: "Believers warn him through the Spirit that chains and suffering await in Jerusalem.",
-        },
-        {
-          prompt: "How does Paul respond to the warnings?",
-          answer: "He says he is ready not only to be bound but also to die for the name of the Lord Jesus.",
-        },
-        {
-          prompt: "What happens when Paul reaches Jerusalem?",
-          answer: "He is welcomed by the believers but soon faces a major misunderstanding in the temple.",
-        },
-      ],
-    },
-    {
-      title: "Acts 22 Quiz",
-      kicker: "Chapter",
-      summary: "Checks Paul's defense to the crowd and his testimony about conversion.",
-      detail: "This quiz helps a beginner see Acts 22 as the chapter where Paul explains his own story and the crowd turns hostile.",
-      start: "Take this after reading Acts 22 carefully and noticing Paul's defense before the crowd.",
-      tags: ["Acts 22", "chapter", "Paul"],
-      questions: [
-        {
-          prompt: "What does Paul recount in his defense?",
-          answer: "He recounts his conversion and calling on the road to Damascus.",
-        },
-        {
-          prompt: "Why do the people become angry?",
-          answer: "They react strongly when Paul mentions God's work among the Gentiles.",
-        },
-        {
-          prompt: "What does Paul say when he is about to be flogged?",
-          answer: "He reveals that he is a Roman citizen.",
-        },
-      ],
-    },
-    {
-      title: "Acts 23 Quiz",
-      kicker: "Chapter",
-      summary: "Checks Paul's defense before the council and the plot against him.",
-      detail: "This quiz helps a beginner see Acts 23 as the chapter where Paul stands before the council and is moved under heavy guard.",
-      start: "Take this after reading Acts 23 carefully and noticing the tension between Paul's witness and the plot against him.",
-      tags: ["Acts 23", "chapter", "trial"],
-      questions: [
-        {
-          prompt: "What happens before the Sanhedrin?",
-          answer: "Paul is questioned and the council becomes divided over resurrection.",
-        },
-        {
-          prompt: "What plot is formed against Paul?",
-          answer: "More than forty men swear not to eat or drink until Paul is killed.",
-        },
-        {
-          prompt: "How is Paul protected?",
-          answer: "The Roman commander sends him under guard to Caesarea.",
-        },
-      ],
-    },
-    {
-      title: "Acts 24 Quiz",
-      kicker: "Chapter",
-      summary: "Checks Paul's hearing before Felix and his continued witness.",
-      detail: "This quiz helps a beginner see Acts 24 as the chapter where Paul defends himself before a governor and still speaks of righteousness and judgment.",
-      start: "Take this after reading Acts 24 carefully and noticing Paul's calm defense before Felix.",
-      tags: ["Acts 24", "chapter", "Felix"],
-      questions: [
-        {
-          prompt: "Who brings charges against Paul before Felix?",
-          answer: "The high priest Ananias and the lawyer Tertullus bring charges against him.",
-        },
-        {
-          prompt: "What does Paul say about his hope?",
-          answer: "He says he hopes in the resurrection of the righteous and the unrighteous.",
-        },
-        {
-          prompt: "What happens to Paul at the end of the chapter?",
-          answer: "Felix keeps him in custody and hopes for a bribe, while Paul continues to speak about faith in Christ.",
-        },
-      ],
-    },
-    {
-      title: "Acts 25 Quiz",
-      kicker: "Chapter",
-      summary: "Checks Paul's appeal to Caesar and his hearing before Festus.",
-      detail: "This quiz helps a beginner see Acts 25 as the chapter where Paul uses his Roman citizenship to move his case forward.",
-      start: "Take this after reading Acts 25 carefully and noticing the legal maneuvering and the audience with Agrippa.",
-      tags: ["Acts 25", "chapter", "Festus"],
-      questions: [
-        {
-          prompt: "What request do the Jewish leaders make about Paul?",
-          answer: "They ask to have him brought to Jerusalem, planning to ambush and kill him.",
-        },
-        {
-          prompt: "What does Paul do when Festus wants to move the case?",
-          answer: "He appeals to Caesar.",
-        },
-        {
-          prompt: "Who visits Festus and hears about Paul?",
-          answer: "King Agrippa and Bernice visit Festus and hear Paul's case.",
-        },
-      ],
-    },
-    {
-      title: "Acts 26 Quiz",
-      kicker: "Chapter",
-      summary: "Checks Paul's defense before Agrippa and his testimony about conversion and mission.",
-      detail: "This quiz helps a beginner see Acts 26 as the chapter where Paul tells his story again and speaks about the hope of the resurrection.",
-      start: "Take this after reading Acts 26 carefully and noticing Paul's personal testimony before Agrippa.",
-      tags: ["Acts 26", "chapter", "Agrippa"],
-      questions: [
-        {
-          prompt: "What does Paul recount before Agrippa?",
-          answer: "He recounts his conversion and calling from Jesus.",
-        },
-        {
-          prompt: "What hope does Paul emphasize?",
-          answer: "He emphasizes the hope of the resurrection.",
-        },
-        {
-          prompt: "How does Agrippa respond?",
-          answer: "He says Paul almost persuades him to become a Christian.",
-        },
-      ],
-    },
-    {
-      title: "Acts 27 Quiz",
-      kicker: "Chapter",
-      summary: "Checks the voyage to Rome and Paul's warning about the coming storm.",
-      detail: "This quiz helps a beginner see Acts 27 as the chapter where Paul sails as a prisoner, warns the crew, and survives a violent storm at sea.",
-      start: "Take this after reading Acts 27 carefully and noticing the shipwreck narrative and Paul's calm leadership.",
-      tags: ["Acts 27", "chapter", "shipwreck"],
-      questions: [
-        {
-          prompt: "Where is Paul being taken in Acts 27?",
-          answer: "He is being taken by ship toward Rome as a prisoner.",
-        },
-        {
-          prompt: "What warning does Paul give during the voyage?",
-          answer: "He warns that the voyage will bring loss and danger if they continue.",
-        },
-        {
-          prompt: "What major danger does the ship face?",
-          answer: "A violent storm threatens the ship and everyone on board.",
-        },
-      ],
-    },
-    {
-      title: "Acts 28 Quiz",
-      kicker: "Chapter",
-      summary: "Checks Paul's arrival in Rome and the open-ended close of Acts.",
-      detail: "This quiz helps a beginner see Acts 28 as the chapter where Paul reaches Rome, continues preaching, and the book ends with the gospel still advancing.",
-      start: "Take this after reading Acts 28 carefully and noticing the welcome in Rome and Paul's continued ministry under guard.",
-      tags: ["Acts 28", "chapter", "Rome"],
-      questions: [
-        {
-          prompt: "Where does Paul finally arrive in Acts 28?",
-          answer: "He arrives in Rome.",
-        },
-        {
-          prompt: "What does Paul continue doing while in Rome?",
-          answer: "He keeps preaching and teaching about the kingdom of God and Jesus Christ.",
-        },
-        {
-          prompt: "How does Acts end?",
-          answer: "It ends with Paul under guard but proclaiming the kingdom of God with boldness and without hindrance.",
-        },
-      ],
-    },
-    {
-      title: "Acts Book Quiz",
+      title: "Genesis Book Quiz",
       kicker: "Book",
-      summary: "A whole-book check for Acts as the story of the Spirit-empowered church expanding from Jerusalem outward.",
-      detail: "This quiz helps a beginner see Acts' shape: the risen Jesus sends his witnesses, the Spirit empowers the church, the gospel crosses barriers, and the mission moves outward.",
-      start: "Take this after Luke and after Acts 1-2 if you want the broad sweep before finer mission details.",
-      tags: ["Acts", "book", "mission"],
+      summary: "A whole-book check for Genesis as the opening of the Bible's story.",
+      detail: "This quiz helps a beginner see Genesis as more than a pile of origin stories. It introduces creation, fall, promise, covenant, patriarchs, blessing, family tension, and the move toward Exodus.",
+      start: "Take this after reading Genesis 1-50 or after a broad sweep through the opening story.",
+      tags: ["Genesis", "book", "beginnings"],
       questions: [
         {
-          prompt: "What is Acts mainly about?",
-          answer: "Acts tells how the risen Jesus continues his work through the Holy Spirit and the witness of the church.",
+          prompt: "What big themes open Genesis?",
+          answer: "Creation, goodness, human vocation, temptation, sin, promise, and the start of God's rescue story.",
         },
         {
-          prompt: "What pattern shapes the movement of Acts?",
-          answer: "The gospel moves outward from Jerusalem to Judea, Samaria, and the ends of the earth.",
+          prompt: "Which promise to Abraham helps drive the rest of the Bible?",
+          answer: "God promises Abraham descendants, land, blessing, and a covenant relationship that will bless the nations.",
         },
         {
-          prompt: "Why is the Holy Spirit so important in Acts?",
-          answer: "The Spirit empowers witness, forms the church, and guides the expansion of the gospel across barriers.",
+          prompt: "How does Genesis end?",
+          answer: "It ends with Joseph and his family in Egypt, setting the stage for Exodus and Israel's slavery and rescue.",
         },
       ],
     },
     {
-      title: "John Book Quiz",
+      title: "Exodus Book Quiz",
       kicker: "Book",
-      summary: "A whole-book check for John as the Gospel of belief, signs, glory, and life in Jesus' name.",
-      detail: "This quiz helps a beginner see John's shape: the Word becomes flesh, signs point to Jesus' identity, conflict grows, the cross reveals glory, and resurrection opens new life.",
-      start: "Take this after the Gospel of Luke if you want the broad sweep before the chapter-level John quizzes.",
+      summary: "A whole-book check for Exodus as the Bible's great rescue story.",
+      detail: "This quiz helps a beginner see Exodus as the defining rescue memory of the Old Testament. It covers slavery, Moses, plagues, Passover, the sea, Sinai, covenant, and worship.",
+      start: "Take this after Genesis so the move from promise to rescue stays connected.",
+      tags: ["Exodus", "book", "rescue"],
+      questions: [
+        {
+          prompt: "What problem opens Exodus?",
+          answer: "Israel is enslaved in Egypt and cries out for rescue.",
+        },
+        {
+          prompt: "What central event shows God rescuing his people?",
+          answer: "The Exodus itself: God delivers Israel out of slavery through signs, judgment, and passage through the sea.",
+        },
+        {
+          prompt: "Why is Sinai important in Exodus?",
+          answer: "Sinai is where God gives covenant law and forms Israel as his people after rescue.",
+        },
+      ],
+    },
+    {
+      title: "Prayer and Approved Prayers Quiz",
+      kicker: "Prayer",
+      summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
+      detail: "Use this when someone needs help praying without sounding fake or getting lost. It focuses on the Lord's Prayer, Psalms, confession, lament, thanksgiving, request, and intercession.",
+      start: "Take this alongside the prayer panel and after reading Matthew 6:9-13 and a few Psalms.",
+      tags: ["prayer", "Psalms", "Jesus"],
+      questions: [
+        {
+          prompt: "What is a healthy starting point for beginner prayer?",
+          answer: "Honest words to God: gratitude, confession, request, and trust.",
+        },
+        {
+          prompt: "Which prayer did Jesus teach his disciples as a model?",
+          answer: "The Lord's Prayer.",
+        },
+        {
+          prompt: "What kinds of prayer are common and approved in the Bible?",
+          answer: "Praise, lament, confession, thanksgiving, request, and intercession.",
+        },
+        {
+          prompt: "Why are the Psalms useful for prayer?",
+          answer: "They give Scripture-shaped language for worship, grief, trust, repentance, and hope.",
+        },
+        {
+          prompt: "What is intercession?",
+          answer: "Praying on behalf of someone else.",
+        },
+      ],
+    },
+    {
+      title: "Gospel of John Book Quiz",
+      kicker: "Book",
+      summary: "A whole-book check for John's main claims about Jesus.",
+      detail: "This quiz helps a beginner see John's shape: Jesus as the Word, signs, belief, conflict, cross, resurrection, and restoration.",
+      start: "Take this after finishing the first seven-day John path.",
       tags: ["John", "Gospel", "book"],
       questions: [
         {
-          prompt: "What is John trying to help readers do?",
-          answer: "John wants readers to believe that Jesus is the Messiah, the Son of God, and to have life in his name.",
+          prompt: "What is the main question John keeps putting in front of the reader?",
+          answer: "Who is Jesus, and what does it mean to believe in him?",
         },
         {
           prompt: "Why are signs important in John?",
-          answer: "The signs reveal Jesus' identity and invite belief, but they also expose misunderstanding and division.",
+          answer: "They reveal who Jesus is and invite people to trust him, but they also expose misunderstanding and divided responses.",
         },
         {
-          prompt: "How does John present the cross and resurrection?",
-          answer: "John presents them as the revelation of Jesus' glory, victory, and the source of life for believers.",
-        },
-      ],
-    },
-    {
-      title: "Romans Book Quiz",
-      kicker: "Book",
-      summary: "A whole-book check for Romans as Paul's clearest explanation of sin, grace, faith, and new life in Christ.",
-      detail: "This quiz helps a beginner see Romans' shape: everyone needs grace, justification is God's gift, believers are united with Christ, and transformed living follows the gospel.",
-      start: "Take this after Acts if you want Paul's main argument in a broad, beginner-friendly form.",
-      tags: ["Romans", "Paul", "book"],
-      questions: [
-        {
-          prompt: "What is Romans mainly explaining?",
-          answer: "Romans explains how God saves sinners by grace through faith in Jesus Christ.",
-        },
-        {
-          prompt: "What problem does Romans say all people share?",
-          answer: "All people are under sin and need God's righteousness rather than their own effort.",
-        },
-        {
-          prompt: "What does Romans say new life should look like?",
-          answer: "New life should look like transformed living, renewed minds, love, humility, and service to God and others.",
-        },
-      ],
-    },
-    {
-      title: "Romans 1 Quiz",
-      kicker: "Chapter",
-      summary: "Checks Paul's opening argument about the gospel, sin, and God's revelation.",
-      detail: "This quiz helps a beginner see Romans 1 as the chapter where Paul introduces the gospel, names human idolatry, and sets up the need for grace.",
-      start: "Take this after reading Romans 1 carefully and noticing how Paul frames the gospel and human rebellion.",
-      tags: ["Romans 1", "chapter", "gospel"],
-      questions: [
-        {
-          prompt: "What does Paul say the gospel is about?",
-          answer: "It is the good news about God's power for salvation in Jesus Christ.",
-        },
-        {
-          prompt: "What problem does Paul highlight in humanity?",
-          answer: "People suppress the truth and turn to idolatry instead of honoring God.",
-        },
-        {
-          prompt: "What does Paul show about God's response to sin?",
-          answer: "God reveals his wrath against sin and gives people over to the consequences of their rebellion.",
-        },
-      ],
-    },
-    {
-      title: "Romans 2 Quiz",
-      kicker: "Chapter",
-      summary: "Checks Paul's warning against self-righteous judgment and his teaching about the law and the heart.",
-      detail: "This quiz helps a beginner see Romans 2 as the chapter where Paul turns from Gentile sin to warn religious people that outward privilege is not enough.",
-      start: "Take this after reading Romans 2 carefully and noticing Paul's challenge to hypocrisy and hidden sin.",
-      tags: ["Romans 2", "chapter", "law"],
-      questions: [
-        {
-          prompt: "What does Paul warn against in Romans 2?",
-          answer: "He warns against judging others while doing the same kinds of things.",
-        },
-        {
-          prompt: "What does Paul say about the law?",
-          answer: "The law exposes sin, but mere hearing of it is not enough; it must be obeyed from the heart.",
-        },
-        {
-          prompt: "What matters more than outward appearance?",
-          answer: "Circumcision of the heart and inward obedience to God matter more than outward marks alone.",
-        },
-      ],
-    },
-    {
-      title: "Romans 3 Quiz",
-      kicker: "Chapter",
-      summary: "Checks Paul's conclusion that all are under sin and that righteousness comes through faith.",
-      detail: "This quiz helps a beginner see Romans 3 as the chapter where Paul levels everyone under sin and then announces justification by faith apart from works.",
-      start: "Take this after reading Romans 3 carefully and noticing how Paul builds the case for grace.",
-      tags: ["Romans 3", "chapter", "faith"],
-      questions: [
-        {
-          prompt: "What does Paul conclude about all people in Romans 3?",
-          answer: "He concludes that all, Jews and Gentiles alike, are under sin.",
-        },
-        {
-          prompt: "How does a person become right with God according to Romans 3?",
-          answer: "A person is justified by faith in Jesus Christ apart from works of the law.",
-        },
-        {
-          prompt: "What does Paul say the law does in this chapter?",
-          answer: "The law makes sin known and leaves no one able to boast before God.",
-        },
-      ],
-    },
-    {
-      title: "Romans 4 Quiz",
-      kicker: "Chapter",
-      summary: "Checks Paul's example of Abraham and his teaching about faith counted as righteousness.",
-      detail: "This quiz helps a beginner see Romans 4 as the chapter where Paul uses Abraham and David to show that righteousness comes by faith, not law-keeping.",
-      start: "Take this after reading Romans 4 carefully and noticing how Paul appeals to Abraham's faith.",
-      tags: ["Romans 4", "chapter", "Abraham"],
-      questions: [
-        {
-          prompt: "Why does Paul bring up Abraham in Romans 4?",
-          answer: "He uses Abraham to show that righteousness is credited by faith, not by works.",
-        },
-        {
-          prompt: "What does Paul say about faith and promise?",
-          answer: "Faith trusts God's promise even when circumstances look impossible.",
-        },
-        {
-          prompt: "Who else does Paul mention as an example in this chapter?",
-          answer: "He mentions David as another witness to blessing apart from works.",
-        },
-      ],
-    },
-    {
-      title: "Romans 5 Quiz",
-      kicker: "Chapter",
-      summary: "Checks Paul's teaching about peace with God, hope, Adam, and Christ.",
-      detail: "This quiz helps a beginner see Romans 5 as the chapter where Paul celebrates the results of justification and contrasts Adam's trespass with Christ's gift.",
-      start: "Take this after reading Romans 5 carefully and noticing the shift from justification to hope and reconciliation.",
-      tags: ["Romans 5", "chapter", "hope"],
-      questions: [
-        {
-          prompt: "What new status do believers have in Romans 5?",
-          answer: "They have peace with God through our Lord Jesus Christ.",
-        },
-        {
-          prompt: "What does Paul say suffering can produce?",
-          answer: "Suffering can produce endurance, character, and hope.",
-        },
-        {
-          prompt: "How does Paul contrast Adam and Christ?",
-          answer: "Adam's trespass brought sin and death, while Christ's gift brings grace, righteousness, and life.",
-        },
-      ],
-    },
-    {
-      title: "Romans 6 Quiz",
-      kicker: "Chapter",
-      summary: "Checks Paul's teaching about dying to sin and living to God in Christ.",
-      detail: "This quiz helps a beginner see Romans 6 as the chapter where Paul explains baptismal union with Christ and the call to present ourselves to God.",
-      start: "Take this after reading Romans 6 carefully and noticing how Paul answers the question of grace and sin.",
-      tags: ["Romans 6", "chapter", "baptism"],
-      questions: [
-        {
-          prompt: "What question does Paul answer at the start of Romans 6?",
-          answer: "He answers whether we should keep sinning so that grace may increase.",
-        },
-        {
-          prompt: "What does baptism picture in this chapter?",
-          answer: "It pictures being buried with Christ and raised to new life.",
-        },
-        {
-          prompt: "What are believers called to do with themselves?",
-          answer: "They are called to present themselves to God as instruments of righteousness.",
-        },
-      ],
-    },
-    {
-      title: "Romans 7 Quiz",
-      kicker: "Chapter",
-      summary: "Checks Paul's teaching about the law, sin, and the struggle for freedom.",
-      detail: "This quiz helps a beginner see Romans 7 as the chapter where Paul explains the law's limits and the conflict between wanting good and doing evil.",
-      start: "Take this after reading Romans 7 carefully and noticing Paul's honest description of inner conflict.",
-      tags: ["Romans 7", "chapter", "law"],
-      questions: [
-        {
-          prompt: "What does Paul say about the law in Romans 7?",
-          answer: "The law is holy and good, but it cannot free people from sin.",
-        },
-        {
-          prompt: "What struggle does Paul describe?",
-          answer: "He describes the struggle of wanting to do good but finding another law at work in his members.",
-        },
-        {
-          prompt: "How does Romans 7 end?",
-          answer: "It ends with Paul crying out for rescue and pointing to deliverance through Jesus Christ.",
-        },
-      ],
-    },
-    {
-      title: "Romans 8 Quiz",
-      kicker: "Chapter",
-      summary: "Checks Paul's assurance of life in the Spirit and God's unbreakable love.",
-      detail: "This quiz helps a beginner see Romans 8 as the chapter where Paul celebrates life in the Spirit, adoption, hope, and the security of God's love.",
-      start: "Take this after reading Romans 8 carefully and noticing how Paul moves from struggle to assurance.",
-      tags: ["Romans 8", "chapter", "Spirit"],
-      questions: [
-        {
-          prompt: "What begins Romans 8 with no condemnation?",
-          answer: "Life in Christ Jesus by the Spirit frees believers from condemnation.",
-        },
-        {
-          prompt: "How does Paul describe believers' relationship to God?",
-          answer: "They are adopted as God's children and can cry, 'Abba! Father!'",
-        },
-        {
-          prompt: "What powerful assurance closes the chapter?",
-          answer: "Nothing can separate believers from the love of God in Christ Jesus our Lord.",
-        },
-      ],
-    },
-    {
-      title: "Romans 9 Quiz",
-      kicker: "Chapter",
-      summary: "Checks Paul's sorrow for Israel and God's freedom in election and mercy.",
-      detail: "This quiz helps a beginner see Romans 9 as the chapter where Paul wrestles with Israel's place in God's plan and emphasizes God's mercy and calling.",
-      start: "Take this after reading Romans 9 carefully and noticing Paul's grief and theological argument.",
-      tags: ["Romans 9", "chapter", "Israel"],
-      questions: [
-        {
-          prompt: "What emotion opens Romans 9?",
-          answer: "Paul expresses deep sorrow and anguish for his people, Israel.",
-        },
-        {
-          prompt: "What does Paul emphasize about God's choice?",
-          answer: "God's promise and mercy do not depend on human effort, but on God's calling.",
-        },
-        {
-          prompt: "What example does Paul use to show God's freedom?",
-          answer: "He uses examples like Isaac, Jacob, and Pharaoh to show God's sovereign purpose.",
-        },
-      ],
-    },
-    {
-      title: "Romans 10 Quiz",
-      kicker: "Chapter",
-      summary: "Checks Paul's teaching that righteousness comes through faith and confession in Christ.",
-      detail: "This quiz helps a beginner see Romans 10 as the chapter where Paul explains the nearness of the word of faith and the need to call on the Lord.",
-      start: "Take this after reading Romans 10 carefully and noticing how Paul speaks about hearing, believing, and confessing.",
-      tags: ["Romans 10", "chapter", "faith"],
-      questions: [
-        {
-          prompt: "What does Paul say people need to be saved?",
-          answer: "They need to believe in their heart and confess with their mouth that Jesus is Lord.",
-        },
-        {
-          prompt: "How does Paul describe the gospel message?",
-          answer: "The word is near, in the mouth and in the heart, and can be heard and believed.",
-        },
-        {
-          prompt: "Who can call on the Lord for salvation?",
-          answer: "Everyone who calls on the name of the Lord will be saved.",
-        },
-      ],
-    },
-    {
-      title: "Romans 11 Quiz",
-      kicker: "Chapter",
-      summary: "Checks Paul's teaching about Israel's future and God's mercy for Jew and Gentile.",
-      detail: "This quiz helps a beginner see Romans 11 as the chapter where Paul explains that God has not rejected Israel and that mercy reaches the nations.",
-      start: "Take this after reading Romans 11 carefully and noticing Paul's olive tree image and his praise of God's wisdom.",
-      tags: ["Romans 11", "chapter", "Israel"],
-      questions: [
-        {
-          prompt: "What does Paul insist about God and Israel?",
-          answer: "God has not rejected his people Israel.",
-        },
-        {
-          prompt: "What image does Paul use to explain Gentile inclusion?",
-          answer: "He uses the image of an olive tree with branches grafted in.",
-        },
-        {
-          prompt: "How does the chapter end?",
-          answer: "Paul breaks into praise of God's wisdom, knowledge, and unsearchable ways.",
-        },
-      ],
-    },
-    {
-      title: "Romans 12 Quiz",
-      kicker: "Chapter",
-      summary: "Checks Paul's call to living sacrifice, humility, and renewed thinking.",
-      detail: "This quiz helps a beginner see Romans 12 as the chapter where Paul turns doctrine into daily worship, service, and love.",
-      start: "Take this after reading Romans 12 carefully and noticing the shift from theology to practical life.",
-      tags: ["Romans 12", "chapter", "living"],
-      questions: [
-        {
-          prompt: "What does Paul urge believers to offer?",
-          answer: "He urges them to offer their bodies as a living sacrifice to God.",
-        },
-        {
-          prompt: "What should believers not be conformed to?",
-          answer: "They should not be conformed to this world but be transformed by renewing their minds.",
-        },
-        {
-          prompt: "What key attitude marks life together in this chapter?",
-          answer: "Humility, genuine love, and honoring others above oneself.",
-        },
-      ],
-    },
-    {
-      title: "Romans 13 Quiz",
-      kicker: "Chapter",
-      summary: "Checks Paul's teaching about governing authorities, love, and living awake.",
-      detail: "This quiz helps a beginner see Romans 13 as the chapter where Paul applies gospel life to public order and neighbor love.",
-      start: "Take this after reading Romans 13 carefully and noticing Paul's call to love and wakefulness.",
-      tags: ["Romans 13", "chapter", "love"],
-      questions: [
-        {
-          prompt: "What does Paul say about authorities?",
-          answer: "He says governing authorities are established by God to maintain order.",
-        },
-        {
-          prompt: "What fulfills the law in this chapter?",
-          answer: "Love fulfills the law.",
-        },
-        {
-          prompt: "What image does Paul use for how believers should live?",
-          answer: "He tells them to wake up and put on the Lord Jesus Christ.",
-        },
-      ],
-    },
-    {
-      title: "Romans 14 Quiz",
-      kicker: "Chapter",
-      summary: "Checks Paul's teaching about conscience, food, and not judging fellow believers.",
-      detail: "This quiz helps a beginner see Romans 14 as the chapter where Paul tells believers to welcome one another without quarrelling over disputable matters.",
-      start: "Take this after reading Romans 14 carefully and noticing Paul's call to mutual respect.",
-      tags: ["Romans 14", "chapter", "conscience"],
-      questions: [
-        {
-          prompt: "What issue does Paul address in Romans 14?",
-          answer: "He addresses disputes over food, days, and conscience among believers.",
-        },
-        {
-          prompt: "How should believers treat one another on these matters?",
-          answer: "They should not judge one another but act in faith and respect.",
-        },
-        {
-          prompt: "What should guide the stronger believer?",
-          answer: "The stronger believer should avoid causing another believer to stumble.",
-        },
-      ],
-    },
-    {
-      title: "Romans 15 Quiz",
-      kicker: "Chapter",
-      summary: "Checks Paul's call to mutual encouragement, unity, and mission-minded hope.",
-      detail: "This quiz helps a beginner see Romans 15 as the chapter where Paul urges strong believers to bear with the weak and points to his mission plans.",
-      start: "Take this after reading Romans 15 carefully and noticing Paul's focus on unity and the spread of the gospel.",
-      tags: ["Romans 15", "chapter", "unity"],
-      questions: [
-        {
-          prompt: "How should the strong treat the weak in this chapter?",
-          answer: "The strong should bear with the weak and seek to please their neighbors for their good.",
-        },
-        {
-          prompt: "What does Paul say about hope?",
-          answer: "God gives hope, endurance, and encouragement through the Scriptures and the Spirit.",
-        },
-        {
-          prompt: "What mission plan does Paul describe?",
-          answer: "He plans to go to Spain after visiting believers and receiving support for the journey.",
-        },
-      ],
-    },
-    {
-      title: "Romans 16 Quiz",
-      kicker: "Chapter",
-      summary: "Checks Paul's greetings, coworkers, and final warnings at the end of Romans.",
-      detail: "This quiz helps a beginner see Romans 16 as the chapter where Paul names many coworkers and closes with praise and warning.",
-      start: "Take this after reading Romans 16 carefully and noticing the network of people around Paul's mission.",
-      tags: ["Romans 16", "chapter", "coworkers"],
-      questions: [
-        {
-          prompt: "What does Romans 16 show about Paul's ministry?",
-          answer: "It shows that Paul's ministry depended on many coworkers, hosts, and servants in the church.",
-        },
-        {
-          prompt: "What warning does Paul give near the end?",
-          answer: "He warns believers to watch out for those who cause divisions and teach contrary to the gospel.",
-        },
-        {
-          prompt: "How does the letter conclude?",
-          answer: "It ends with praise to God, who is able to strengthen believers through the gospel.",
-        },
-      ],
-    },
-    {
-      title: "Romans 17 Quiz",
-      kicker: "Chapter",
-      summary: "Checks Paul's closing doxology and his final emphasis on God's power to strengthen believers.",
-      detail: "This quiz helps a beginner see Romans 17 as the chapter where Paul ends the letter by praising God for the gospel's power to strengthen and establish believers.",
-      start: "Take this after reading Romans 17 carefully and noticing the final doxology-style ending.",
-      tags: ["Romans 17", "chapter", "doxology"],
-      questions: [
-        {
-          prompt: "What is the main focus of Romans 17?",
-          answer: "It highlights God's power to strengthen believers through the gospel and the revelation of Jesus Christ.",
-        },
-        {
-          prompt: "What does Paul want for believers at the end?",
-          answer: "He wants them established in the faith and obedient to God's revealed mystery.",
-        },
-        {
-          prompt: "How does the chapter conclude?",
-          answer: "It concludes with glory given to the only wise God through Jesus Christ.",
+          prompt: "How does John move from public signs to the cross and resurrection?",
+          answer: "The signs reveal Jesus' identity, conflict grows, Jesus teaches his disciples, then his death and resurrection reveal his mission most fully.",
         },
       ],
     },
