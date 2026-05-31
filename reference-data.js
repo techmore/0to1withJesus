@@ -7521,6 +7521,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Romans 2 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Paul's warning against self-righteous judgment and his teaching about the law and the heart.",
+      detail: "This quiz helps a beginner see Romans 2 as the chapter where Paul turns from Gentile sin to warn religious people that outward privilege is not enough.",
+      start: "Take this after reading Romans 2 carefully and noticing Paul's challenge to hypocrisy and hidden sin.",
+      tags: ["Romans 2", "chapter", "law"],
+      questions: [
+        {
+          prompt: "What does Paul warn against in Romans 2?",
+          answer: "He warns against judging others while doing the same kinds of things.",
+        },
+        {
+          prompt: "What does Paul say about the law?",
+          answer: "The law exposes sin, but mere hearing of it is not enough; it must be obeyed from the heart.",
+        },
+        {
+          prompt: "What matters more than outward appearance?",
+          answer: "Circumcision of the heart and inward obedience to God matter more than outward marks alone.",
+        },
+      ],
+    },
+    {
       title: "Ephesians Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Ephesians as Paul's letter about identity in Christ, unity, the church, and standing firm.",
