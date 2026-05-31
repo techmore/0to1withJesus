@@ -4839,6 +4839,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 40 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Joseph interprets the dreams of Pharaoh's officials in prison.",
+      detail: "This quiz helps a beginner see Genesis 40 as the chapter where Joseph's gift for interpretation begins opening a path toward release.",
+      start: "Take this after reading Genesis 40 carefully and noticing the cupbearer, the baker, and Joseph's request to be remembered.",
+      tags: ["Genesis 40", "chapter", "joseph"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Genesis 40?",
+          answer: "The chapter emphasizes Joseph interpreting dreams for Pharaoh's cupbearer and baker.",
+        },
+        {
+          prompt: "What request does Joseph make in Genesis 40?",
+          answer: "He asks the cupbearer to remember him and mention him to Pharaoh.",
+        },
+        {
+          prompt: "Why does Genesis 40 matter after Genesis 39?",
+          answer: "It shows Joseph's gift at work in prison and sets up the events that will lead to his release.",
+        },
+      ],
+    },
+    {
       title: "Exodus Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Exodus as the Bible's great rescue story.",
