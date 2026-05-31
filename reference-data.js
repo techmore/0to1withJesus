@@ -6839,6 +6839,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Acts 2 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Pentecost, Peter's sermon, and the birth of the church.",
+      detail: "This quiz helps a beginner see Acts 2 as the chapter where the Spirit comes and the church begins its public witness.",
+      start: "Take this after reading Acts 2 carefully and noticing the Spirit's arrival and the crowd's response.",
+      tags: ["Acts 2", "chapter", "Pentecost"],
+      questions: [
+        {
+          prompt: "What happens at Pentecost?",
+          answer: "The Holy Spirit is poured out on the disciples.",
+        },
+        {
+          prompt: "What does Peter do after the Spirit comes?",
+          answer: "He preaches a sermon explaining Jesus' death, resurrection, and exaltation.",
+        },
+        {
+          prompt: "How do the new believers respond?",
+          answer: "They are baptized, devoted to teaching and fellowship, and added to the church.",
+        },
+      ],
+    },
+    {
       title: "Acts Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Acts as the story of the Spirit-empowered church expanding from Jerusalem outward.",
