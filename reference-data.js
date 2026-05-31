@@ -5785,6 +5785,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 32 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where the golden calf crisis breaks Israel's covenant faithfulness.",
+      detail: "This quiz helps a beginner see Exodus 32 as the tragic chapter where the people turn quickly from the Lord to idolatry.",
+      start: "Take this after reading Exodus 32 carefully and noticing the golden calf, Moses' anger, and the breaking of covenant loyalty.",
+      tags: ["Exodus 32", "chapter", "golden calf"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Exodus 32?",
+          answer: "The chapter emphasizes Israel's sin with the golden calf.",
+        },
+        {
+          prompt: "How does Moses respond to the golden calf crisis in Exodus 32?",
+          answer: "He confronts the sin, breaks the tablets, and intercedes for the people.",
+        },
+        {
+          prompt: "Why does Exodus 32 matter after Exodus 31?",
+          answer: "It shows how quickly covenant faithfulness can collapse when people turn from God.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
