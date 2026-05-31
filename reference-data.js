@@ -7677,6 +7677,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Joshua 6 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Jericho falls after Israel follows the Lord's unusual battle plan.",
+      detail: "This quiz helps a beginner see Joshua 6 as the chapter where obedience comes before victory and the Lord shows his power in a surprising way.",
+      start: "Take this after reading Joshua 6 carefully and noticing the marching, the trumpets, and the wall coming down.",
+      tags: ["Joshua 6", "chapter", "Jericho"],
+      questions: [
+        {
+          prompt: "What happens in Joshua 6?",
+          answer: "Jericho's walls fall after Israel marches around the city as the Lord instructed.",
+        },
+        {
+          prompt: "What role do the trumpets play?",
+          answer: "They are part of God's battle plan and signal the people's obedience.",
+        },
+        {
+          prompt: "Why does Joshua 6 matter?",
+          answer: "It shows that victory belongs to the Lord and comes through trusting his word.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
