@@ -9239,6 +9239,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Samuel 24 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where David's census leads to judgment and the site for the temple is prepared.",
+      detail: "This quiz helps a beginner see 2 Samuel 24 as the final chapter of the book, where sin, judgment, mercy, and worship all converge.",
+      start: "Take this after 2 Samuel 23 when you want to see how David's story ends.",
+      tags: ["2 Samuel 24", "chapter", "David"],
+      questions: [
+        {
+          prompt: "What does David do that brings judgment in 2 Samuel 24?",
+          answer: "He orders a census of Israel.",
+        },
+        {
+          prompt: "How does God respond?",
+          answer: "He sends judgment, and David seeks mercy.",
+        },
+        {
+          prompt: "Why does 2 Samuel 24 matter?",
+          answer: "It closes the book with sin, repentance, mercy, and preparation for the future temple site.",
+        },
+      ],
+    },
+    {
       title: "1 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where Hannah prays for a son and Samuel's story begins.",
