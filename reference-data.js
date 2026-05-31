@@ -4573,6 +4573,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 21 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Isaac's birth, Hagar and Ishmael's sending away, and the well at Beersheba.",
+      detail: "This quiz helps a beginner see Genesis 21 as the chapter where promise is fulfilled in Isaac's birth and the family line is clarified with pain and mercy.",
+      start: "Take this after reading Genesis 21 carefully and noticing the joy of fulfillment alongside the hard sending-away of Hagar and Ishmael.",
+      tags: ["Genesis 21", "chapter", "Isaac"],
+      questions: [
+        {
+          prompt: "What promise is fulfilled in Genesis 21?",
+          answer: "Sarah gives birth to Isaac.",
+        },
+        {
+          prompt: "What happens to Hagar and Ishmael?",
+          answer: "They are sent away, but God hears Ishmael and provides for them.",
+        },
+        {
+          prompt: "Why is Genesis 21 important?",
+          answer: "It shows the promise line moving forward through Isaac and God’s care for the vulnerable.",
+        },
+      ],
+    },
+    {
       title: "Exodus 1 Quiz",
       kicker: "Chapter",
       summary: "Checks Israel's oppression in Egypt and the beginning of the rescue setting.",
