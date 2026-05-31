@@ -10119,6 +10119,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Chronicles 14 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter that describes David's growing strength in Jerusalem.",
+      detail: "This quiz helps a beginner see 1 Chronicles 14 as a chapter about David's household, his building up in the city, and God's help against enemies.",
+      start: "Take this after 1 Chronicles 13 when you want to continue the book chapter by chapter.",
+      tags: ["1 Chronicles 14", "chapter", "David"],
+      questions: [
+        {
+          prompt: "What happens to David's standing in 1 Chronicles 14?",
+          answer: "He grows stronger and more established.",
+        },
+        {
+          prompt: "What does the chapter show about God's help?",
+          answer: "God gives David victory over his enemies.",
+        },
+        {
+          prompt: "Why does 1 Chronicles 14 matter?",
+          answer: "It shows David being established in Jerusalem with God's favor.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
