@@ -4069,6 +4069,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 5 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the genealogy chapter, where the line from Adam to Noah moves forward.",
+      detail: "This quiz helps a beginner see Genesis 5 as the chapter that traces the family line through the long march of mortality and hope.",
+      start: "Take this after reading Genesis 5 carefully and noticing the repeated pattern of life, sons, and death.",
+      tags: ["Genesis 5", "chapter", "genealogy"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Genesis 5?",
+          answer: "The chapter traces the genealogy from Adam to Noah and repeats the pattern of life and death.",
+        },
+        {
+          prompt: "What stands out in the repeated pattern of Genesis 5?",
+          answer: "People live, have children, and then die, showing the reality of mortality.",
+        },
+        {
+          prompt: "Why does Genesis 5 matter after Genesis 4?",
+          answer: "It shows the ongoing human story moving toward Noah and the flood narrative.",
+        },
+      ],
+    },
+    {
       title: "Exodus Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Exodus as the Bible's great rescue story.",
