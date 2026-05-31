@@ -4265,6 +4265,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 6 Quiz",
+      kicker: "Chapter",
+      summary: "Checks God's covenant promises, Moses' renewed commission, and the family line of deliverance.",
+      detail: "This quiz helps a beginner see Exodus 6 as the chapter where God answers discouragement with remembered promise. It highlights the divine name, covenant language, and the transition toward the next stage of the rescue story.",
+      start: "Take this after reading Exodus 6 carefully and noticing the repeated promises and genealogy.",
+      tags: ["Exodus 6", "chapter", "covenant"],
+      questions: [
+        {
+          prompt: "What does God promise Israel again in Exodus 6?",
+          answer: "God promises rescue, covenant relationship, and bringing them into the land.",
+        },
+        {
+          prompt: "Why is the genealogy in Exodus 6 important?",
+          answer: "It grounds Moses and Aaron in Israel's family story and shows continuity from the patriarchs to the rescue.",
+        },
+        {
+          prompt: "How does Moses respond to God's command here?",
+          answer: "He still struggles with discouragement, but God tells him to keep speaking to Israel and to Pharaoh.",
+        },
+      ],
+    },
+    {
       title: "Luke and Acts Bridge Quiz",
       kicker: "Books",
       summary: "Checks how Luke's Gospel connects to the early church story in Acts.",
