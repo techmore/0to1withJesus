@@ -8403,6 +8403,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Judges 14 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Samson begins to confront the Philistines through a marriage conflict and a riddle.",
+      detail: "This quiz helps a beginner see Judges 14 as the start of Samson's personal conflicts that are tied to God's larger plan.",
+      start: "Take this after Judges 13 when you want to see the first stage of Samson's unusual story.",
+      tags: ["Judges 14", "chapter", "Samson"],
+      questions: [
+        {
+          prompt: "What happens in Judges 14?",
+          answer: "Samson seeks a Philistine wife and tells a riddle at his wedding feast.",
+        },
+        {
+          prompt: "What does the chapter show about Samson?",
+          answer: "It shows his strength and also his impulsive, complicated choices.",
+        },
+        {
+          prompt: "Why does Judges 14 matter?",
+          answer: "It begins Samson's conflict with the Philistines and shows how the story moves forward.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
