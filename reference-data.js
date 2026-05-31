@@ -10691,6 +10691,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Chronicles 10 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where the kingdom divides after Rehoboam's decision.",
+      detail: "This quiz helps a beginner see 2 Chronicles 10 as the turning point where the united kingdom splits because of harsh leadership.",
+      start: "Take this after 2 Chronicles 9 when you want to continue the chapter-by-chapter reading.",
+      tags: ["2 Chronicles 10", "chapter", "Rehoboam"],
+      questions: [
+        {
+          prompt: "What happens in 2 Chronicles 10?",
+          answer: "The kingdom divides into northern and southern parts.",
+        },
+        {
+          prompt: "What causes the split?",
+          answer: "Rehoboam's harsh answer to the people.",
+        },
+        {
+          prompt: "Why does 2 Chronicles 10 matter?",
+          answer: "It marks the break in the kingdom after Solomon.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
