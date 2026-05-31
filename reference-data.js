@@ -5169,6 +5169,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 4 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Moses resists the call and God provides signs and help.",
+      detail: "This quiz helps a beginner see Exodus 4 as the chapter where God answers Moses' objections and sets him on the road to Egypt.",
+      start: "Take this after reading Exodus 4 carefully and noticing the staff sign, the hesitation, and Aaron's role.",
+      tags: ["Exodus 4", "chapter", "moses"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Exodus 4?",
+          answer: "The chapter emphasizes Moses' reluctance and God's provision of signs and support.",
+        },
+        {
+          prompt: "How does God help Moses in Exodus 4?",
+          answer: "He gives signs, appoints Aaron to speak, and reminds Moses of his authority.",
+        },
+        {
+          prompt: "Why does Exodus 4 matter after Exodus 3?",
+          answer: "It moves Moses from calling to obedience and prepares him to confront Pharaoh.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
