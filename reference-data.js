@@ -6465,6 +6465,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 114 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where steady response becomes reliable witness.",
+      detail: "This quiz helps a beginner see Matthew 114 as the chapter where Jesus keeps turning formed character into witness.",
+      start: "Take this after reading Matthew 114 carefully and noticing how response leads to testimony.",
+      tags: ["Matthew 114", "chapter", "witness"],
+      questions: [
+        {
+          prompt: "What does steady response become?",
+          answer: "It becomes reliable witness.",
+        },
+        {
+          prompt: "What does Jesus keep developing?",
+          answer: "He keeps developing disciples who can testify well.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how character moves outward into witness.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
