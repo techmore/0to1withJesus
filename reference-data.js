@@ -6247,6 +6247,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Numbers 13 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where the spies inspect the promised land.",
+      detail: "This quiz helps a beginner see Numbers 13 as the chapter where Israel sees the land and must decide how to respond in faith.",
+      start: "Take this after reading Numbers 13 carefully and noticing the spy mission, the fruit of the land, and the difference in reports.",
+      tags: ["Numbers 13", "chapter", "spies"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Numbers 13?",
+          answer: "The chapter emphasizes the scouting of the promised land.",
+        },
+        {
+          prompt: "What do the spies bring back from Numbers 13?",
+          answer: "They bring back fruit from the land and reports about what they saw.",
+        },
+        {
+          prompt: "Why does Numbers 13 matter after Numbers 12?",
+          answer: "It moves Israel from internal conflict to the challenge of trusting God about the land.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
