@@ -7267,6 +7267,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 146 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where steady fellowship becomes resilient community.",
+      detail: "This quiz helps a beginner see Matthew 146 as the chapter where Jesus keeps turning shared life into a community that can hold up and stay together.",
+      start: "Take this after reading Matthew 146 carefully and noticing how fellowship can become community.",
+      tags: ["Matthew 146", "chapter", "community"],
+      questions: [
+        {
+          prompt: "What does steady fellowship become?",
+          answer: "It becomes resilient community.",
+        },
+        {
+          prompt: "What does Jesus keep strengthening?",
+          answer: "He keeps strengthening the group as a whole.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how shared life can become durable togetherness.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
