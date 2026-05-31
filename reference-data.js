@@ -4991,6 +4991,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 47 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the trial, denial, and condemnation that deepen Jesus' suffering.",
+      detail: "This quiz helps a beginner see Matthew 47 as the chapter where the pressure on Jesus intensifies and the disciples falter around him.",
+      start: "Take this after reading Matthew 47 carefully and noticing the false testimony, Peter's denial, and the verdict against Jesus.",
+      tags: ["Matthew 47", "chapter", "trial"],
+      questions: [
+        {
+          prompt: "What happens in the trial scenes?",
+          answer: "False witnesses appear and Jesus is questioned by the authorities.",
+        },
+        {
+          prompt: "What does Peter do?",
+          answer: "Peter denies knowing Jesus three times.",
+        },
+        {
+          prompt: "How do the authorities treat Jesus?",
+          answer: "They condemn him and mock his kingship.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
