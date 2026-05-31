@@ -4221,6 +4221,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 12 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Sabbath controversy, conflict with the Pharisees, and Jesus' true family.",
+      detail: "This quiz helps a beginner see Matthew 12 as the chapter where Jesus challenges hard-hearted religion and redefines kinship around obedience to God.",
+      start: "Take this after reading Matthew 12 carefully and noticing the mounting conflict and Jesus' explanation of his identity.",
+      tags: ["Matthew 12", "chapter", "Sabbath"],
+      questions: [
+        {
+          prompt: "What dispute arises at the beginning of Matthew 12?",
+          answer: "The Pharisees challenge Jesus and his disciples over the Sabbath.",
+        },
+        {
+          prompt: "What does Jesus say about his kingdom and his power?",
+          answer: "He says his kingdom is not divided against itself and that his works show the Spirit's power.",
+        },
+        {
+          prompt: "How does Jesus describe his true family?",
+          answer: "His true family is those who do the will of his Father.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
