@@ -5037,6 +5037,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 49 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Jacob blesses his sons and speaks over the future of the tribes.",
+      detail: "This quiz helps a beginner see Genesis 49 as the chapter where Jacob's final words shape the identity of Israel's tribes.",
+      start: "Take this after reading Genesis 49 carefully and noticing the blessings, warnings, and the lion image for Judah.",
+      tags: ["Genesis 49", "chapter", "jacob"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Genesis 49?",
+          answer: "The chapter emphasizes Jacob's blessings and prophetic words over his sons.",
+        },
+        {
+          prompt: "Which son receives a prominent blessing image in Genesis 49?",
+          answer: "Judah is described with royal and lion imagery.",
+        },
+        {
+          prompt: "Why does Genesis 49 matter after Genesis 48?",
+          answer: "It gives the tribes their forward-looking identity before Jacob's death.",
+        },
+      ],
+    },
+    {
       title: "Exodus Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Exodus as the Bible's great rescue story.",
