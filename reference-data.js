@@ -4727,6 +4727,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 27 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the altar, court, and lamp instructions for the tabernacle.",
+      detail: "This quiz helps a beginner see Exodus 27 as a chapter about the tabernacle court, the bronze altar, and the lamp that must keep burning.",
+      start: "Take this after reading Exodus 27 carefully and noticing how worship space extends from the sacred tent to the outer court.",
+      tags: ["Exodus 27", "chapter", "tabernacle"],
+      questions: [
+        {
+          prompt: "What does Exodus 27 describe?",
+          answer: "The bronze altar, the tabernacle court, and the lamp oil instructions.",
+        },
+        {
+          prompt: "What recurring image stands out in the chapter?",
+          answer: "The lamp is to burn continually, signaling ongoing light and worship before the Lord.",
+        },
+        {
+          prompt: "Why is Exodus 27 important?",
+          answer: "It shows that access to God's presence involves ordered worship, sacrifice, and continual light.",
+        },
+      ],
+    },
+    {
       title: "Luke and Acts Bridge Quiz",
       kicker: "Books",
       summary: "Checks how Luke's Gospel connects to the early church story in Acts.",
