@@ -6839,6 +6839,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 131 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where durable mission becomes a settled path.",
+      detail: "This quiz helps a beginner see Matthew 131 as the chapter where Jesus keeps turning a lasting task into a steady path to follow.",
+      start: "Take this after reading Matthew 131 carefully and noticing how mission can become a settled path.",
+      tags: ["Matthew 131", "chapter", "path"],
+      questions: [
+        {
+          prompt: "What does durable mission become?",
+          answer: "It becomes a settled path.",
+        },
+        {
+          prompt: "What does Jesus keep clarifying?",
+          answer: "He keeps clarifying the way forward.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how witness can become a daily route.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
