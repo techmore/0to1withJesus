@@ -7587,6 +7587,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Romans 5 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Paul's teaching about peace with God, hope, Adam, and Christ.",
+      detail: "This quiz helps a beginner see Romans 5 as the chapter where Paul celebrates the results of justification and contrasts Adam's trespass with Christ's gift.",
+      start: "Take this after reading Romans 5 carefully and noticing the shift from justification to hope and reconciliation.",
+      tags: ["Romans 5", "chapter", "hope"],
+      questions: [
+        {
+          prompt: "What new status do believers have in Romans 5?",
+          answer: "They have peace with God through our Lord Jesus Christ.",
+        },
+        {
+          prompt: "What does Paul say suffering can produce?",
+          answer: "Suffering can produce endurance, character, and hope.",
+        },
+        {
+          prompt: "How does Paul contrast Adam and Christ?",
+          answer: "Adam's trespass brought sin and death, while Christ's gift brings grace, righteousness, and life.",
+        },
+      ],
+    },
+    {
       title: "Ephesians Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Ephesians as Paul's letter about identity in Christ, unity, the church, and standing firm.",
