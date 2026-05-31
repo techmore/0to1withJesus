@@ -4465,6 +4465,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 23 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Sarah dies and Abraham secures a burial place.",
+      detail: "This quiz helps a beginner see Genesis 23 as the chapter where Abraham mourns Sarah and purchases the cave of Machpelah.",
+      start: "Take this after reading Genesis 23 carefully and noticing the mourning, the negotiation, and the burial site.",
+      tags: ["Genesis 23", "chapter", "sarah"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Genesis 23?",
+          answer: "The chapter emphasizes Sarah's death, Abraham's mourning, and the purchase of a burial place.",
+        },
+        {
+          prompt: "What place does Abraham buy in Genesis 23?",
+          answer: "He buys the cave of Machpelah as a burial place for Sarah.",
+        },
+        {
+          prompt: "Why does Genesis 23 matter after Genesis 22?",
+          answer: "It shows Abraham living with the consequences of promise and death while securing a foothold in the promised land.",
+        },
+      ],
+    },
+    {
       title: "Exodus Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Exodus as the Bible's great rescue story.",
