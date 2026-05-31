@@ -4265,6 +4265,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 14 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the feeding of the five thousand, Jesus on the water, and the movement of faith and fear.",
+      detail: "This quiz helps a beginner see Matthew 14 as the chapter where Jesus feeds the crowd, walks on the sea, and reveals both his power and the disciples' weakness.",
+      start: "Take this after reading Matthew 14 carefully and noticing the feast, the storm, and Peter's response.",
+      tags: ["Matthew 14", "chapter", "feeding"],
+      questions: [
+        {
+          prompt: "What miracle feeds the crowd in Matthew 14?",
+          answer: "Jesus feeds the five thousand with five loaves and two fish.",
+        },
+        {
+          prompt: "What happens when the disciples are on the sea?",
+          answer: "Jesus comes to them walking on the water and calms their fear.",
+        },
+        {
+          prompt: "What does Peter learn in this chapter?",
+          answer: "He learns to keep his eyes on Jesus, since fear and doubt make him sink.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
