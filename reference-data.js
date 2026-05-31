@@ -4487,6 +4487,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 24 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Abraham's servant finds a wife for Isaac.",
+      detail: "This quiz helps a beginner see Genesis 24 as the chapter where God's guidance leads to Rebekah and the next stage of the promise story.",
+      start: "Take this after reading Genesis 24 carefully and noticing the journey, the prayers, and Rebekah's hospitality.",
+      tags: ["Genesis 24", "chapter", "rebekah"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Genesis 24?",
+          answer: "The chapter emphasizes the search for Isaac's wife and God's guidance in bringing Rebekah to Abraham's family.",
+        },
+        {
+          prompt: "Who does Abraham's servant meet in Genesis 24?",
+          answer: "He meets Rebekah at the well and recognizes her as God's answer.",
+        },
+        {
+          prompt: "Why does Genesis 24 matter after Genesis 23?",
+          answer: "It keeps the promise story moving by providing a wife for Isaac and continuing the family line.",
+        },
+      ],
+    },
+    {
       title: "Exodus Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Exodus as the Bible's great rescue story.",
