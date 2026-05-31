@@ -7125,6 +7125,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Acts 15 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the Jerusalem Council and the decision about Gentile believers.",
+      detail: "This quiz helps a beginner see Acts 15 as the chapter where the church decides that Gentiles are saved by grace, not by taking on the full law.",
+      start: "Take this after reading Acts 15 carefully and noticing the council, the debate, and the letter.",
+      tags: ["Acts 15", "chapter", "council"],
+      questions: [
+        {
+          prompt: "What issue is debated at the Jerusalem Council?",
+          answer: "Whether Gentile believers must be circumcised and keep the law of Moses to be saved.",
+        },
+        {
+          prompt: "What decision does the council make?",
+          answer: "They decide that Gentiles are saved by grace through the Lord Jesus.",
+        },
+        {
+          prompt: "How is the decision communicated?",
+          answer: "The apostles and elders send a letter with chosen representatives.",
+        },
+      ],
+    },
+    {
       title: "Acts Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Acts as the story of the Spirit-empowered church expanding from Jerusalem outward.",
