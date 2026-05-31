@@ -4199,6 +4199,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Luke 9 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the feeding of the five thousand, Peter's confession, the transfiguration, and the cost of following Jesus.",
+      detail: "This quiz helps a beginner see Luke 9 as the chapter where Jesus reveals his glory and then explains what it means to follow him on the path of suffering and mission.",
+      start: "Take this after reading Luke 9 carefully and noticing the movement from miracle to confession to the cross.",
+      tags: ["Luke 9", "chapter", "transfiguration"],
+      questions: [
+        {
+          prompt: "What miracle feeds the crowd in Luke 9?",
+          answer: "Jesus feeds the five thousand with five loaves and two fish.",
+        },
+        {
+          prompt: "What does Peter confess about Jesus?",
+          answer: "Peter confesses Jesus as the Christ of God.",
+        },
+        {
+          prompt: "What major vision happens on the mountain?",
+          answer: "Jesus is transfigured before Peter, James, and John.",
+        },
+      ],
+    },
+    {
       title: "John 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the opening claims about Jesus as the Word, light, and Son.",
