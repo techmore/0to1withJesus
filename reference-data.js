@@ -9129,6 +9129,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Kings 18 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Elijah confronts the prophets of Baal on Mount Carmel.",
+      detail: "This quiz helps a beginner see 1 Kings 18 as a showdown between the Lord and Baal that reveals God's power.",
+      start: "Take this after 1 Kings 17 when you want to continue the book chapter by chapter.",
+      tags: ["1 Kings 18", "chapter", "Elijah"],
+      questions: [
+        {
+          prompt: "What confrontation happens in 1 Kings 18?",
+          answer: "Elijah confronts the prophets of Baal on Mount Carmel.",
+        },
+        {
+          prompt: "What does God do in the chapter?",
+          answer: "He answers by fire and proves that he is the true God.",
+        },
+        {
+          prompt: "Why does 1 Kings 18 matter?",
+          answer: "It shows God's power and calls Israel back to wholehearted worship.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
