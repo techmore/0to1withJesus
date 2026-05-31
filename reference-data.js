@@ -4991,6 +4991,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 40 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Joseph's interpretation of dreams in prison and the slow setup for his rise.",
+      detail: "This quiz helps a beginner see Genesis 40 as the chapter where Joseph remains faithful in prison while interpreting the dreams of Pharaoh's officials and waiting for God's timing.",
+      start: "Take this after reading Genesis 40 carefully and noticing how Joseph serves even while forgotten.",
+      tags: ["Genesis 40", "chapter", "prison"],
+      questions: [
+        {
+          prompt: "Who has dreams in Genesis 40?",
+          answer: "Pharaoh's cupbearer and baker both have troubling dreams while in prison with Joseph.",
+        },
+        {
+          prompt: "What does Joseph say about dream interpretation?",
+          answer: "He says interpretations belong to God, not to himself.",
+        },
+        {
+          prompt: "Why is Genesis 40 important?",
+          answer: "It shows Joseph's faithfulness in prison and sets up the events that will eventually lead to his release.",
+        },
+      ],
+    },
+    {
       title: "Exodus 1 Quiz",
       kicker: "Chapter",
       summary: "Checks Israel's oppression in Egypt and the beginning of the rescue setting.",
