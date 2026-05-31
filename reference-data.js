@@ -7851,6 +7851,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Romans 17 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Paul's closing doxology and his final emphasis on God's power to strengthen believers.",
+      detail: "This quiz helps a beginner see Romans 17 as the chapter where Paul ends the letter by praising God for the gospel's power to strengthen and establish believers.",
+      start: "Take this after reading Romans 17 carefully and noticing the final doxology-style ending.",
+      tags: ["Romans 17", "chapter", "doxology"],
+      questions: [
+        {
+          prompt: "What is the main focus of Romans 17?",
+          answer: "It highlights God's power to strengthen believers through the gospel and the revelation of Jesus Christ.",
+        },
+        {
+          prompt: "What does Paul want for believers at the end?",
+          answer: "He wants them established in the faith and obedient to God's revealed mystery.",
+        },
+        {
+          prompt: "How does the chapter conclude?",
+          answer: "It concludes with glory given to the only wise God through Jesus Christ.",
+        },
+      ],
+    },
+    {
       title: "Ephesians Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Ephesians as Paul's letter about identity in Christ, unity, the church, and standing firm.",
