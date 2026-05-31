@@ -5485,6 +5485,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 157 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where enduring faith becomes quiet confidence.",
+      detail: "This quiz helps a beginner see Matthew 157 as the chapter where faith settles into quiet confidence in Jesus.",
+      start: "Take this after reading Matthew 157 carefully and noticing how faith becomes confidence.",
+      tags: ["Matthew 157", "chapter", "confidence"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 157?",
+          answer: "The chapter emphasizes quiet confidence in following Jesus.",
+        },
+        {
+          prompt: "What does quiet confidence look like here?",
+          answer: "It means trusting Jesus calmly and steadily without boasting.",
+        },
+        {
+          prompt: "Why does this matter after Matthew 156?",
+          answer: "It shows that enduring faith can deepen into quiet confidence.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
