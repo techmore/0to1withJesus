@@ -8843,6 +8843,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Kings 5 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Solomon prepares to build the temple with help from Hiram.",
+      detail: "This quiz helps a beginner see 1 Kings 5 as the start of the temple-building project and Solomon's preparations for worship.",
+      start: "Take this after 1 Kings 4 when you want to continue the book chapter by chapter.",
+      tags: ["1 Kings 5", "chapter", "Solomon"],
+      questions: [
+        {
+          prompt: "What does Solomon begin preparing for in 1 Kings 5?",
+          answer: "He prepares to build the temple.",
+        },
+        {
+          prompt: "Who helps Solomon with materials?",
+          answer: "Hiram of Tyre.",
+        },
+        {
+          prompt: "Why does 1 Kings 5 matter?",
+          answer: "It begins the work of building a house for the Lord.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
