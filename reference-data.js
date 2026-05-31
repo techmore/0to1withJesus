@@ -4287,6 +4287,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 8 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the waters receding, the ark resting, and God's remembered covenant care.",
+      detail: "This quiz helps a beginner see Genesis 8 as the chapter where the floodwaters retreat, Noah waits, and God brings the world toward a new beginning.",
+      start: "Take this after reading Genesis 8 carefully and noticing the dove, the mountain, and the altar.",
+      tags: ["Genesis 8", "chapter", "flood"],
+      questions: [
+        {
+          prompt: "What happens to the floodwaters in Genesis 8?",
+          answer: "They begin to recede until the ark rests on the mountains of Ararat.",
+        },
+        {
+          prompt: "What does Noah do once the waters start to go down?",
+          answer: "He sends out birds to test whether the land is ready.",
+        },
+        {
+          prompt: "Why is Genesis 8 important?",
+          answer: "It shows God's remembrance, patience, and the beginning of a renewed world after judgment.",
+        },
+      ],
+    },
+    {
       title: "Exodus 1 Quiz",
       kicker: "Chapter",
       summary: "Checks Israel's oppression in Egypt and the beginning of the rescue setting.",
