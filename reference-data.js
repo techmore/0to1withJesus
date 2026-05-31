@@ -7235,6 +7235,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Acts 20 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Paul's farewell journey, teaching, and warning to the elders.",
+      detail: "This quiz helps a beginner see Acts 20 as the chapter where Paul encourages believers and prepares leaders for difficult times.",
+      start: "Take this after reading Acts 20 carefully and noticing the farewell tone.",
+      tags: ["Acts 20", "chapter", "farewell"],
+      questions: [
+        {
+          prompt: "What does Paul do in Troas?",
+          answer: "He teaches late into the night and Eutychus is raised after falling from a window.",
+        },
+        {
+          prompt: "Who does Paul meet on his way to Jerusalem?",
+          answer: "He meets with the Ephesian elders and gives them a farewell message.",
+        },
+        {
+          prompt: "What warning does Paul give the elders?",
+          answer: "He warns them to guard the flock because fierce opposition will come.",
+        },
+      ],
+    },
+    {
       title: "Acts Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Acts as the story of the Spirit-empowered church expanding from Jerusalem outward.",
