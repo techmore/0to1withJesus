@@ -7589,6 +7589,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Joshua 2 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Rahab protects the spies and confesses faith in Israel's God.",
+      detail: "This quiz helps a beginner see Joshua 2 as the chapter where an outsider trusts the Lord and helps Israel move toward the land.",
+      start: "Take this after reading Joshua 2 carefully and noticing Rahab's faith and the spies' safe return.",
+      tags: ["Joshua 2", "chapter", "Rahab"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Joshua 2?",
+          answer: "The chapter emphasizes Rahab's faith and the spies' mission.",
+        },
+        {
+          prompt: "Why is Rahab important in this chapter?",
+          answer: "She protects the spies and confesses faith in the Lord's power.",
+        },
+        {
+          prompt: "Why does Joshua 2 matter?",
+          answer: "It shows that faith can appear in surprising places and that God is already at work in the land.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
