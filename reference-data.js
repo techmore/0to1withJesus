@@ -7149,6 +7149,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Deuteronomy 17 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Moses gives instructions for judges, kings, and difficult legal cases.",
+      detail: "This quiz helps a beginner see Deuteronomy 17 as a chapter about justice, leadership limits, and faithful rule under God's law.",
+      start: "Take this after reading Deuteronomy 17 carefully and noticing the roles of judges, the future king, and the warning against idolatry.",
+      tags: ["Deuteronomy 17", "chapter", "justice"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Deuteronomy 17?",
+          answer: "The chapter emphasizes just judgment and faithful leadership under God's law.",
+        },
+        {
+          prompt: "What warning is given to future kings?",
+          answer: "Kings must not multiply horses, wives, or wealth and must keep God's law before them.",
+        },
+        {
+          prompt: "Why does Deuteronomy 17 matter?",
+          answer: "It shows that leadership in Israel is limited by covenant faithfulness and justice.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
