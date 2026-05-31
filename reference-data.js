@@ -5783,6 +5783,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 83 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the final lead-in to Mark with Jesus' suffering, betrayal, and costly loyalty.",
+      detail: "This quiz helps a beginner see Matthew 83 as the chapter where loyalty is tested and Jesus moves toward suffering with purpose.",
+      start: "Take this after reading Matthew 83 carefully and noticing the tension around betrayal and faithfulness.",
+      tags: ["Matthew 83", "chapter", "betrayal"],
+      questions: [
+        {
+          prompt: "What tension shapes the chapter?",
+          answer: "The tension between loyalty and betrayal shapes the chapter.",
+        },
+        {
+          prompt: "How does Jesus move through it?",
+          answer: "He moves toward suffering with calm purpose.",
+        },
+        {
+          prompt: "What does the chapter teach disciples?",
+          answer: "It teaches that following Jesus may involve costly faithfulness.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
