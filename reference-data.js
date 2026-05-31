@@ -8887,6 +8887,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Samuel 9 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Saul looks for donkeys and meets Samuel.",
+      detail: "This quiz helps a beginner see 1 Samuel 9 as the moment Saul is introduced and guided toward Samuel.",
+      start: "Take this after 1 Samuel 8 when you want to see Saul enter the story.",
+      tags: ["1 Samuel 9", "chapter", "Saul"],
+      questions: [
+        {
+          prompt: "What is Saul doing at the start of 1 Samuel 9?",
+          answer: "He is searching for his father's lost donkeys.",
+        },
+        {
+          prompt: "Who does Saul meet?",
+          answer: "Samuel.",
+        },
+        {
+          prompt: "Why does 1 Samuel 9 matter?",
+          answer: "It introduces Saul as the man who will become Israel's first king.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
