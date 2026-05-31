@@ -7037,6 +7037,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Acts 11 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Peter's explanation and the church at Antioch.",
+      detail: "This quiz helps a beginner see Acts 11 as the chapter where the church learns to welcome Gentile believers and grows in Antioch.",
+      start: "Take this after reading Acts 11 carefully and noticing Peter's defense and the new church center.",
+      tags: ["Acts 11", "chapter", "Antioch"],
+      questions: [
+        {
+          prompt: "What does Peter explain to the church in Jerusalem?",
+          answer: "He explains that God gave the Holy Spirit to Gentiles just as to Jewish believers.",
+        },
+        {
+          prompt: "What new church center becomes important in this chapter?",
+          answer: "Antioch becomes an important church and mission center.",
+        },
+        {
+          prompt: "What do the believers first get called in Antioch?",
+          answer: "They are first called Christians in Antioch.",
+        },
+      ],
+    },
+    {
       title: "Acts Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Acts as the story of the Spirit-empowered church expanding from Jerusalem outward.",
