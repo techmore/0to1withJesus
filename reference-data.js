@@ -17879,6 +17879,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Romans Book Quiz",
+      kicker: "Book",
+      summary: "A whole-book check for Romans as Paul's clearest explanation of grace, faith, Israel, and life in the Spirit.",
+      detail: "This quiz helps a beginner see Romans as a deep but structured letter about sin, justification, new life, Israel, and transformed living.",
+      start: "Take this after Acts or after hearing the main gospel story and Paul's missionary work.",
+      tags: ["Romans", "Paul", "book"],
+      questions: [
+        {
+          prompt: "What major problem does Romans begin by naming?",
+          answer: "Human sin and the need for God's saving righteousness.",
+        },
+        {
+          prompt: "How are people made right with God in Romans?",
+          answer: "By grace through faith in Jesus Christ, not by works of the law.",
+        },
+        {
+          prompt: "What does Romans say the Christian life is powered by?",
+          answer: "Life in the Spirit.",
+        },
+      ],
+    },
+    {
       title: "Ephesians Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Ephesians as Paul's letter about identity in Christ, unity, the church, and standing firm.",
