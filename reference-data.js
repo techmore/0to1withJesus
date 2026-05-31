@@ -9877,6 +9877,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Chronicles 3 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter that traces David's descendants and the royal line.",
+      detail: "This quiz helps a beginner see 1 Chronicles 3 as a record of David's family line that follows Judah's royal descendants.",
+      start: "Take this after 1 Chronicles 2 when you want to continue the book chapter by chapter.",
+      tags: ["1 Chronicles 3", "chapter", "David"],
+      questions: [
+        {
+          prompt: "Whose descendants are traced in 1 Chronicles 3?",
+          answer: "David's descendants.",
+        },
+        {
+          prompt: "What broader theme does the chapter continue?",
+          answer: "The royal line of Judah.",
+        },
+        {
+          prompt: "Why does 1 Chronicles 3 matter?",
+          answer: "It keeps the story focused on the family line of the kingdom.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
