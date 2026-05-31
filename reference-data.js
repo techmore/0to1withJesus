@@ -7499,6 +7499,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Romans 1 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Paul's opening argument about the gospel, sin, and God's revelation.",
+      detail: "This quiz helps a beginner see Romans 1 as the chapter where Paul introduces the gospel, names human idolatry, and sets up the need for grace.",
+      start: "Take this after reading Romans 1 carefully and noticing how Paul frames the gospel and human rebellion.",
+      tags: ["Romans 1", "chapter", "gospel"],
+      questions: [
+        {
+          prompt: "What does Paul say the gospel is about?",
+          answer: "It is the good news about God's power for salvation in Jesus Christ.",
+        },
+        {
+          prompt: "What problem does Paul highlight in humanity?",
+          answer: "People suppress the truth and turn to idolatry instead of honoring God.",
+        },
+        {
+          prompt: "What does Paul show about God's response to sin?",
+          answer: "God reveals his wrath against sin and gives people over to the consequences of their rebellion.",
+        },
+      ],
+    },
+    {
       title: "Ephesians Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Ephesians as Paul's letter about identity in Christ, unity, the church, and standing firm.",
