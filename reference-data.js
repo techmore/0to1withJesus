@@ -8711,6 +8711,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Samuel Book Quiz",
+      kicker: "Book",
+      summary: "Checks the big picture of 2 Samuel as David's reign, God's covenant promise, and the consequences of sin.",
+      detail: "This quiz helps a beginner see 2 Samuel as the book where David becomes king, receives God's promise, falls into serious sin, repents, and faces the fallout.",
+      start: "Take this after the 1 Samuel overview when you want to continue the kingdom story.",
+      tags: ["2 Samuel", "book", "David"],
+      questions: [
+        {
+          prompt: "What major change happens at the start of 2 Samuel?",
+          answer: "David becomes king and his rule is established.",
+        },
+        {
+          prompt: "What promise does God make to David?",
+          answer: "God promises to establish David's house and kingdom.",
+        },
+        {
+          prompt: "What major tension runs through 2 Samuel?",
+          answer: "David's reign includes great victory, serious sin, repentance, and painful consequences.",
+        },
+      ],
+    },
+    {
       title: "1 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where Hannah prays for a son and Samuel's story begins.",
