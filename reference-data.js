@@ -4509,6 +4509,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 25 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Abraham's line continues through Jacob and Esau.",
+      detail: "This quiz helps a beginner see Genesis 25 as the chapter where the family line moves forward and the younger son receives the birthright theme.",
+      start: "Take this after reading Genesis 25 carefully and noticing Abraham's descendants, the twins, and the birthright episode.",
+      tags: ["Genesis 25", "chapter", "jacob"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Genesis 25?",
+          answer: "The chapter emphasizes Abraham's later life, his death, and the birth of Jacob and Esau.",
+        },
+        {
+          prompt: "What struggle appears between Jacob and Esau in Genesis 25?",
+          answer: "Esau sells his birthright to Jacob for a meal.",
+        },
+        {
+          prompt: "Why does Genesis 25 matter after Genesis 24?",
+          answer: "It shows the promise line continuing through Isaac and sets up the tension between Jacob and Esau.",
+        },
+      ],
+    },
+    {
       title: "Exodus Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Exodus as the Bible's great rescue story.",
