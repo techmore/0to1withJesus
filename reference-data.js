@@ -7193,6 +7193,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Deuteronomy 19 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Moses teaches about cities of refuge, witnesses, and truthful justice.",
+      detail: "This quiz helps a beginner see Deuteronomy 19 as a chapter about protecting life, requiring honest testimony, and keeping justice fair.",
+      start: "Take this after reading Deuteronomy 19 carefully and noticing the cities of refuge and the rules for witnesses.",
+      tags: ["Deuteronomy 19", "chapter", "justice"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Deuteronomy 19?",
+          answer: "The chapter emphasizes refuge, truth-telling, and fair judgment.",
+        },
+        {
+          prompt: "Why are witnesses important in this chapter?",
+          answer: "Witnesses protect justice from false accusations and misleading testimony.",
+        },
+        {
+          prompt: "Why does Deuteronomy 19 matter?",
+          answer: "It shows that covenant life must protect life and tell the truth in court.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
