@@ -4683,6 +4683,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 33 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Jesus' teaching about prayer, secrecy, fasting, and trust in the Father.",
+      detail: "This quiz helps a beginner see Matthew 33 as the chapter where Jesus teaches private devotion and freedom from anxious striving.",
+      start: "Take this after reading Matthew 33 carefully and noticing the teaching on prayer, treasure, and worry.",
+      tags: ["Matthew 33", "chapter", "prayer"],
+      questions: [
+        {
+          prompt: "How does Jesus teach his followers to pray?",
+          answer: "He teaches them the Lord's Prayer.",
+        },
+        {
+          prompt: "What does Jesus say about practicing piety?",
+          answer: "He says to pray, give, and fast in secret before the Father rather than for public praise.",
+        },
+        {
+          prompt: "What does Jesus say about worry?",
+          answer: "He tells his followers not to worry about tomorrow and to seek first God's kingdom.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
