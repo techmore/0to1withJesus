@@ -6973,6 +6973,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Deuteronomy 9 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Moses warns Israel not to think they earned the land by their own righteousness.",
+      detail: "This quiz helps a beginner see Deuteronomy 9 as a chapter about grace, stubbornness, and Moses' intercession after the golden calf.",
+      start: "Take this after reading Deuteronomy 9 carefully and noticing the warning against self-righteousness and the reminder of the golden calf.",
+      tags: ["Deuteronomy 9", "chapter", "grace"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Deuteronomy 9?",
+          answer: "The chapter emphasizes that Israel did not receive the land because of their righteousness.",
+        },
+        {
+          prompt: "What failure from Israel's past does Moses recall?",
+          answer: "He recalls the golden calf and Israel's stubborn rebellion.",
+        },
+        {
+          prompt: "Why does Deuteronomy 9 matter?",
+          answer: "It teaches that the land is a gift of God's grace, not a reward for human goodness.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
