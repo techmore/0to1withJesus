@@ -4199,6 +4199,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "John 9 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the healing of the man born blind and the growing conflict over witness and sight.",
+      detail: "This quiz helps a beginner see John 9 as the chapter where physical healing becomes a picture of spiritual sight, and where the healed man grows in boldness while the leaders harden.",
+      start: "Take this after reading John 9 carefully and noticing how the healed man keeps testifying about Jesus.",
+      tags: ["John 9", "chapter", "blindness"],
+      questions: [
+        {
+          prompt: "What miracle does Jesus perform in John 9?",
+          answer: "Jesus heals a man who was born blind.",
+        },
+        {
+          prompt: "How does the healed man respond to the Pharisees?",
+          answer: "He keeps testifying about Jesus even as the interrogation grows more intense.",
+        },
+        {
+          prompt: "What larger theme does this chapter develop?",
+          answer: "It contrasts physical sight with spiritual blindness.",
+        },
+      ],
+    },
+    {
       title: "John 11 Quiz",
       kicker: "Chapter",
       summary: "Checks Lazarus, resurrection, grief, faith, and rising conflict.",
