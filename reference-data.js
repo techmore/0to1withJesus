@@ -4221,6 +4221,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Luke 10 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the mission of the seventy, the Good Samaritan, and Mary and Martha.",
+      detail: "This quiz helps a beginner see Luke 10 as the chapter where Jesus sends out workers, expands neighbor-love, and teaches about listening to him.",
+      start: "Take this after reading Luke 10 carefully and noticing how mission and mercy fit together.",
+      tags: ["Luke 10", "chapter", "neighbor"],
+      questions: [
+        {
+          prompt: "What does Jesus send out in Luke 10?",
+          answer: "Jesus sends out seventy-two disciples on mission.",
+        },
+        {
+          prompt: "What story teaches who a neighbor is?",
+          answer: "The parable of the Good Samaritan teaches that loving a neighbor crosses ethnic and social boundaries.",
+        },
+        {
+          prompt: "How does Luke 10 end with Mary and Martha?",
+          answer: "Mary sits at Jesus' feet and listens, while Martha is distracted by much serving.",
+        },
+      ],
+    },
+    {
       title: "John 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the opening claims about Jesus as the Word, light, and Son.",
