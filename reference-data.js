@@ -8799,6 +8799,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Samuel 4 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Saul's house is shaken by violence and David rejects murder as a way forward.",
+      detail: "This quiz helps a beginner see 2 Samuel 4 as a chapter of political collapse around Saul's house and David's refusal to reward bloodshed.",
+      start: "Take this after 2 Samuel 3 when you want to see the last steps of Saul's house and David's response.",
+      tags: ["2 Samuel 4", "chapter", "David"],
+      questions: [
+        {
+          prompt: "What happens to Ish-bosheth in 2 Samuel 4?",
+          answer: "He is murdered by his own men.",
+        },
+        {
+          prompt: "How does David respond to the murder?",
+          answer: "He rejects the violence and has the murderers executed.",
+        },
+        {
+          prompt: "Why does 2 Samuel 4 matter?",
+          answer: "It shows David refusing to build his kingdom through treachery and bloodshed.",
+        },
+      ],
+    },
+    {
       title: "1 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where Hannah prays for a son and Samuel's story begins.",
