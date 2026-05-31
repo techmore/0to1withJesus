@@ -7457,6 +7457,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Deuteronomy 31 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Moses commissions Joshua, writes the law, and prepares Israel for the future.",
+      detail: "This quiz helps a beginner see Deuteronomy 31 as a chapter about transition, courage, and hearing God's word publicly.",
+      start: "Take this after reading Deuteronomy 31 carefully and noticing Moses' charge to Joshua and the public reading of the law.",
+      tags: ["Deuteronomy 31", "chapter", "transition"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Deuteronomy 31?",
+          answer: "The chapter emphasizes leadership transition and public attention to God's law.",
+        },
+        {
+          prompt: "Who is commissioned to lead Israel next?",
+          answer: "Joshua is commissioned to lead Israel.",
+        },
+        {
+          prompt: "Why does Deuteronomy 31 matter?",
+          answer: "It shows how God's people are prepared to move forward by hearing and remembering his word.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
