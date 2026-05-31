@@ -4157,6 +4157,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 9 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the covenant chapter, where God blesses Noah and sets the rainbow sign.",
+      detail: "This quiz helps a beginner see Genesis 9 as the chapter where God reaffirms the world after the flood and gives a covenant promise.",
+      start: "Take this after reading Genesis 9 carefully and noticing the blessing, the command, and the rainbow sign.",
+      tags: ["Genesis 9", "chapter", "covenant"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Genesis 9?",
+          answer: "The chapter emphasizes God's covenant with Noah and the promise symbolized by the rainbow.",
+        },
+        {
+          prompt: "What command does God give after the flood?",
+          answer: "God blesses Noah, permits eating meat, and forbids the shedding of human blood.",
+        },
+        {
+          prompt: "Why does Genesis 9 matter after Genesis 8?",
+          answer: "It shows God establishing a lasting promise after the floodwaters recede.",
+        },
+      ],
+    },
+    {
       title: "Exodus Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Exodus as the Bible's great rescue story.",
