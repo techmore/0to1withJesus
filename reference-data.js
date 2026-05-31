@@ -13251,6 +13251,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 32 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where consistent focus becomes steady understanding.",
+      detail: "This quiz helps a beginner see Matthew 32 as the chapter where attention has settled enough to produce clearer understanding.",
+      start: "Take this after reading Matthew 32 carefully and noticing how clarity grows from focus.",
+      tags: ["Matthew 32", "chapter", "understanding"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 32?",
+          answer: "The chapter emphasizes focus that has matured into clearer understanding.",
+        },
+        {
+          prompt: "What does steady understanding look like here?",
+          answer: "It means seeing Jesus' words more clearly and holding onto them with less distraction.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 31?",
+          answer: "It shows that consistent focus can lead to a deeper grasp of what Jesus is teaching.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
