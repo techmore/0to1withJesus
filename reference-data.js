@@ -10009,6 +10009,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Chronicles 9 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter that transitions from genealogy to the people serving in Jerusalem.",
+      detail: "This quiz helps a beginner see 1 Chronicles 9 as a bridge from family records into the restored community and temple service after exile.",
+      start: "Take this after 1 Chronicles 8 when you want to continue the book chapter by chapter.",
+      tags: ["1 Chronicles 9", "chapter", "Jerusalem"],
+      questions: [
+        {
+          prompt: "What shift happens in 1 Chronicles 9?",
+          answer: "The book moves from genealogies to the people living and serving in Jerusalem.",
+        },
+        {
+          prompt: "What theme connects the chapter to the rest of 1 Chronicles?",
+          answer: "Temple service and restored community life.",
+        },
+        {
+          prompt: "Why does 1 Chronicles 9 matter?",
+          answer: "It bridges the family records into the life of worship in the city.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
