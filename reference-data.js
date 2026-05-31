@@ -6377,6 +6377,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 110 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where consistency becomes a settled way of life.",
+      detail: "This quiz helps a beginner see Matthew 110 as the chapter where Jesus keeps turning repeated obedience into a settled pattern.",
+      start: "Take this after reading Matthew 110 carefully and noticing how practice becomes second nature.",
+      tags: ["Matthew 110", "chapter", "pattern"],
+      questions: [
+        {
+          prompt: "What does consistency become?",
+          answer: "It becomes a settled way of life.",
+        },
+        {
+          prompt: "What does Jesus keep building?",
+          answer: "He keeps building a steady pattern of discipleship.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how repeated obedience forms a pattern.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
