@@ -12789,6 +12789,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Micah Book Quiz",
+      kicker: "Book",
+      summary: "A whole-book check for Micah as a prophet of justice, mercy, and Bethlehem hope.",
+      detail: "This quiz helps a beginner see Micah as a sharp book calling for justice while pointing toward a ruler from Bethlehem and humble faithfulness.",
+      start: "Take this after Jonah and after noticing that the prophets warn Israel and Judah in complementary ways.",
+      tags: ["Micah", "book", "justice"],
+      questions: [
+        {
+          prompt: "What issue does Micah confront?",
+          answer: "Injustice, corruption, and empty religion.",
+        },
+        {
+          prompt: "What hopeful future ruler does Micah mention?",
+          answer: "A ruler from Bethlehem.",
+        },
+        {
+          prompt: "What is Micah's famous summary of faithful life?",
+          answer: "Do justice, love mercy, and walk humbly with your God.",
+        },
+      ],
+    },
+    {
       title: "Gospel of John Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for John's main claims about Jesus.",
