@@ -9965,6 +9965,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Chronicles 7 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter that records more tribal genealogies after Levi.",
+      detail: "This quiz helps a beginner see 1 Chronicles 7 as continuing the family records of Israel's tribes with particular attention to Issachar, Benjamin, and Naphtali.",
+      start: "Take this after 1 Chronicles 6 when you want to continue the book chapter by chapter.",
+      tags: ["1 Chronicles 7", "chapter", "tribes"],
+      questions: [
+        {
+          prompt: "Which tribal records appear in 1 Chronicles 7?",
+          answer: "Records for tribes such as Issachar, Benjamin, and Naphtali.",
+        },
+        {
+          prompt: "What does the chapter continue?",
+          answer: "The genealogies of Israel.",
+        },
+        {
+          prompt: "Why does 1 Chronicles 7 matter?",
+          answer: "It keeps building the picture of Israel's family lines.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
