@@ -4957,6 +4957,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 133 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where resilient hope becomes patient courage.",
+      detail: "This quiz helps a beginner see Matthew 133 as the chapter where hope starts to show up as patience under pressure.",
+      start: "Take this after reading Matthew 133 carefully and noticing how hope becomes courage.",
+      tags: ["Matthew 133", "chapter", "courage"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 133?",
+          answer: "The chapter emphasizes staying courageous through pressure without losing hope.",
+        },
+        {
+          prompt: "What does patient courage look like here?",
+          answer: "It means waiting and acting faithfully without panic or collapse.",
+        },
+        {
+          prompt: "Why does this matter after Matthew 132?",
+          answer: "It shows that hope can become a steady courage that lasts.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
