@@ -8909,6 +8909,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Samuel 9 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where David shows kindness to Mephibosheth for Jonathan's sake.",
+      detail: "This quiz helps a beginner see 2 Samuel 9 as a chapter of covenant kindness, where David keeps his promise and honors Jonathan's family.",
+      start: "Take this after 2 Samuel 8 when you want to see David's mercy in action.",
+      tags: ["2 Samuel 9", "chapter", "David"],
+      questions: [
+        {
+          prompt: "Who does David seek out in 2 Samuel 9?",
+          answer: "Mephibosheth, Jonathan's son.",
+        },
+        {
+          prompt: "Why does David show kindness to him?",
+          answer: "For Jonathan's sake and because of covenant loyalty.",
+        },
+        {
+          prompt: "Why does 2 Samuel 9 matter?",
+          answer: "It shows David using power to show mercy and keep covenant promises.",
+        },
+      ],
+    },
+    {
       title: "1 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where Hannah prays for a son and Samuel's story begins.",
