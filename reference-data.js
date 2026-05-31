@@ -14175,6 +14175,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 74 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where unshaken patience becomes steadfast calm.",
+      detail: "This quiz helps a beginner see Matthew 74 as the chapter where patience settles into a calm, steady stance.",
+      start: "Take this after reading Matthew 74 carefully and noticing how patience becomes calmness.",
+      tags: ["Matthew 74", "chapter", "calm"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 74?",
+          answer: "The chapter emphasizes patience that is becoming steadfast calm.",
+        },
+        {
+          prompt: "What does steadfast calm look like here?",
+          answer: "It means continuing faithfully without panic or distraction.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 73?",
+          answer: "It shows that unshaken patience should become steadfast calm.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
