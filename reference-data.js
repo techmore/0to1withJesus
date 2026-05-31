@@ -13493,6 +13493,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 43 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where steady obedience becomes reliable practice.",
+      detail: "This quiz helps a beginner see Matthew 43 as the chapter where obedience starts to look like an established habit.",
+      start: "Take this after reading Matthew 43 carefully and noticing how obedience becomes a regular pattern.",
+      tags: ["Matthew 43", "chapter", "practice"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 43?",
+          answer: "The chapter emphasizes obedience that is now a regular practice.",
+        },
+        {
+          prompt: "What does reliable practice look like here?",
+          answer: "It means doing what Jesus says consistently and without surprise.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 42?",
+          answer: "It shows that visible obedience can become a reliable pattern.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
