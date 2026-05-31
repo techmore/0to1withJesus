@@ -7531,6 +7531,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 158 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where shared peace becomes resilient unity.",
+      detail: "This quiz helps a beginner see Matthew 158 as the chapter where Jesus strengthens his people so they can stay together under pressure.",
+      start: "Take this after reading Matthew 158 carefully and noticing how peace can become unity.",
+      tags: ["Matthew 158", "chapter", "unity"],
+      questions: [
+        {
+          prompt: "What does shared peace become?",
+          answer: "It becomes resilient unity.",
+        },
+        {
+          prompt: "What does Jesus keep strengthening?",
+          answer: "He keeps strengthening their bond and mutual trust.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how peace can hold people together.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
