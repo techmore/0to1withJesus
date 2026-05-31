@@ -13449,6 +13449,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 41 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where stable perseverance becomes quiet faithfulness.",
+      detail: "This quiz helps a beginner see Matthew 41 as the chapter where perseverance settles into a reliable way of following Jesus.",
+      start: "Take this after reading Matthew 41 carefully and noticing how perseverance becomes quieter and more settled.",
+      tags: ["Matthew 41", "chapter", "faithfulness"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 41?",
+          answer: "The chapter emphasizes perseverance that becomes steady faithfulness.",
+        },
+        {
+          prompt: "What does quiet faithfulness look like here?",
+          answer: "It means continuing to follow Jesus without needing constant drama.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 40?",
+          answer: "It shows that perseverance should settle into consistent faithfulness.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
