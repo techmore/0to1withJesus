@@ -10867,6 +10867,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Chronicles 18 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Jehoshaphat allies with Ahab and Micaiah speaks truth.",
+      detail: "This quiz helps a beginner see 2 Chronicles 18 as a warning about bad alliances and a reminder to listen to God's word.",
+      start: "Take this after 2 Chronicles 17 when you want to continue the chapter-by-chapter reading.",
+      tags: ["2 Chronicles 18", "chapter", "Jehoshaphat"],
+      questions: [
+        {
+          prompt: "Who does Jehoshaphat ally with in 2 Chronicles 18?",
+          answer: "King Ahab of Israel.",
+        },
+        {
+          prompt: "Who speaks the truth about the battle?",
+          answer: "The prophet Micaiah.",
+        },
+        {
+          prompt: "Why does 2 Chronicles 18 matter?",
+          answer: "It warns against compromising alliances and ignoring God's word.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
