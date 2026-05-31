@@ -10493,6 +10493,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Chronicles 1 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Solomon asks God for wisdom.",
+      detail: "This quiz helps a beginner see 2 Chronicles 1 as the beginning of Solomon's reign and the moment he asks for wisdom instead of riches.",
+      start: "Take this after the 2 Chronicles book quiz when you want to begin the chapter-by-chapter reading.",
+      tags: ["2 Chronicles 1", "chapter", "Solomon"],
+      questions: [
+        {
+          prompt: "What does Solomon ask God for in 2 Chronicles 1?",
+          answer: "Wisdom and knowledge.",
+        },
+        {
+          prompt: "What does God promise to give him?",
+          answer: "Wisdom and also riches, wealth, and honor.",
+        },
+        {
+          prompt: "Why does 2 Chronicles 1 matter?",
+          answer: "It shows the kind of heart that begins Solomon's reign.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
