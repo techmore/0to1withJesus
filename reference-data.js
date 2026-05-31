@@ -7367,6 +7367,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Acts 26 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Paul's defense before Agrippa and his testimony about conversion and mission.",
+      detail: "This quiz helps a beginner see Acts 26 as the chapter where Paul tells his story again and speaks about the hope of the resurrection.",
+      start: "Take this after reading Acts 26 carefully and noticing Paul's personal testimony before Agrippa.",
+      tags: ["Acts 26", "chapter", "Agrippa"],
+      questions: [
+        {
+          prompt: "What does Paul recount before Agrippa?",
+          answer: "He recounts his conversion and calling from Jesus.",
+        },
+        {
+          prompt: "What hope does Paul emphasize?",
+          answer: "He emphasizes the hope of the resurrection.",
+        },
+        {
+          prompt: "How does Agrippa respond?",
+          answer: "He says Paul almost persuades him to become a Christian.",
+        },
+      ],
+    },
+    {
       title: "Acts Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Acts as the story of the Spirit-empowered church expanding from Jerusalem outward.",
