@@ -14549,6 +14549,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 91 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where quiet perseverance becomes measured steadiness.",
+      detail: "This quiz helps a beginner see Matthew 91 as the chapter where perseverance starts to settle into measured steadiness.",
+      start: "Take this after reading Matthew 91 carefully and noticing how perseverance becomes steadiness.",
+      tags: ["Matthew 91", "chapter", "steadiness"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 91?",
+          answer: "The chapter emphasizes perseverance that is becoming measured steadiness.",
+        },
+        {
+          prompt: "What does measured steadiness look like here?",
+          answer: "It means continuing with balance, patience, and clear purpose.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 90?",
+          answer: "It shows that quiet perseverance should become measured steadiness.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
