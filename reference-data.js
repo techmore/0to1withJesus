@@ -13471,6 +13471,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 42 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where quiet faithfulness becomes steady obedience.",
+      detail: "This quiz helps a beginner see Matthew 42 as the chapter where faithfulness starts showing up as dependable action.",
+      start: "Take this after reading Matthew 42 carefully and noticing how faithfulness turns into obedience.",
+      tags: ["Matthew 42", "chapter", "obedience"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 42?",
+          answer: "The chapter emphasizes faithfulness that becomes steady obedience.",
+        },
+        {
+          prompt: "What does steady obedience look like here?",
+          answer: "It means following Jesus in ordinary, dependable ways.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 41?",
+          answer: "It shows that quiet faithfulness should turn into visible obedience.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
