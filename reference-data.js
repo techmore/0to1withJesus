@@ -8777,6 +8777,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Kings 2 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where David gives final instructions and Solomon secures the kingdom.",
+      detail: "This quiz helps a beginner see 1 Kings 2 as the chapter where Solomon's rule is established and David's reign closes with key instructions.",
+      start: "Take this after 1 Kings 1 when you want to continue the book chapter by chapter.",
+      tags: ["1 Kings 2", "chapter", "Solomon"],
+      questions: [
+        {
+          prompt: "What does David do in 1 Kings 2?",
+          answer: "He gives final instructions to Solomon.",
+        },
+        {
+          prompt: "What happens to Solomon's rule in the chapter?",
+          answer: "He secures the kingdom and deals with threats to his throne.",
+        },
+        {
+          prompt: "Why does 1 Kings 2 matter?",
+          answer: "It shows the transition from David's reign to Solomon's established rule.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
