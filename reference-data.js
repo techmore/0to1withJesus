@@ -12591,6 +12591,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Jeremiah Book Quiz",
+      kicker: "Book",
+      summary: "A whole-book check for Jeremiah as a prophet of warning, grief, and new covenant hope.",
+      detail: "This quiz helps a beginner see Jeremiah as a painful but faithful witness who announces judgment and promises a renewed covenant and restored future.",
+      start: "Take this after Isaiah and after noticing that prophetic books often combine grief and hope.",
+      tags: ["Jeremiah", "book", "prophets"],
+      questions: [
+        {
+          prompt: "What is one major burden of Jeremiah?",
+          answer: "Warning Judah about coming judgment.",
+        },
+        {
+          prompt: "What hopeful promise is Jeremiah known for?",
+          answer: "The promise of a new covenant written on the heart.",
+        },
+        {
+          prompt: "Why is Jeremiah important for beginners?",
+          answer: "It shows faithful ministry can include tears, rejection, and deep hope.",
+        },
+      ],
+    },
+    {
       title: "Gospel of John Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for John's main claims about Jesus.",
