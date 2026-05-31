@@ -5111,6 +5111,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 140 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where calm courage becomes clear witness.",
+      detail: "This quiz helps a beginner see Matthew 140 as the chapter where brave confidence starts speaking plainly.",
+      start: "Take this after reading Matthew 140 carefully and noticing how courage turns into witness.",
+      tags: ["Matthew 140", "chapter", "witness"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 140?",
+          answer: "The chapter emphasizes clear witness that rises from calm courage.",
+        },
+        {
+          prompt: "What does clear witness look like here?",
+          answer: "It means speaking about Jesus plainly and confidently.",
+        },
+        {
+          prompt: "Why does this matter after Matthew 139?",
+          answer: "It shows that calm courage should lead to clear testimony.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
