@@ -7697,6 +7697,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Romans 10 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Paul's teaching that righteousness comes through faith and confession in Christ.",
+      detail: "This quiz helps a beginner see Romans 10 as the chapter where Paul explains the nearness of the word of faith and the need to call on the Lord.",
+      start: "Take this after reading Romans 10 carefully and noticing how Paul speaks about hearing, believing, and confessing.",
+      tags: ["Romans 10", "chapter", "faith"],
+      questions: [
+        {
+          prompt: "What does Paul say people need to be saved?",
+          answer: "They need to believe in their heart and confess with their mouth that Jesus is Lord.",
+        },
+        {
+          prompt: "How does Paul describe the gospel message?",
+          answer: "The word is near, in the mouth and in the heart, and can be heard and believed.",
+        },
+        {
+          prompt: "Who can call on the Lord for salvation?",
+          answer: "Everyone who calls on the name of the Lord will be saved.",
+        },
+      ],
+    },
+    {
       title: "Ephesians Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Ephesians as Paul's letter about identity in Christ, unity, the church, and standing firm.",
