@@ -18231,6 +18231,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Jude Book Quiz",
+      kicker: "Book",
+      summary: "A whole-book check for Jude as a short warning letter about false teachers and keeping the faith.",
+      detail: "This quiz helps a beginner see Jude as a compact but forceful letter that urges believers to contend for the faith and stay in God's love.",
+      start: "Take this after 3 John and after noticing how the short letters balance encouragement with warning.",
+      tags: ["Jude", "book", "warning"],
+      questions: [
+        {
+          prompt: "What is Jude urging believers to do?",
+          answer: "Contend for the faith once delivered to the saints.",
+        },
+        {
+          prompt: "What kind of people does Jude warn about?",
+          answer: "Ungodly intruders and corrupt teachers who distort grace.",
+        },
+        {
+          prompt: "How does Jude end?",
+          answer: "With praise to God who can keep believers from stumbling.",
+        },
+      ],
+    },
+    {
       title: "Romans and Ephesians Doctrine Quiz",
       kicker: "Books",
       summary: "Checks grace, faith, church, unity, and new life in Christ.",
