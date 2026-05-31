@@ -8711,6 +8711,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Samuel 1 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Hannah prays for a son and Samuel's story begins.",
+      detail: "This quiz helps a beginner see 1 Samuel 1 as a chapter of prayer, sorrow, and the start of God's answer through Samuel.",
+      start: "Take this after the 1 Samuel overview when you want to begin the book chapter by chapter.",
+      tags: ["1 Samuel 1", "chapter", "Hannah"],
+      questions: [
+        {
+          prompt: "Who is the main person praying in 1 Samuel 1?",
+          answer: "Hannah.",
+        },
+        {
+          prompt: "What does Hannah ask God for?",
+          answer: "A son.",
+        },
+        {
+          prompt: "Why does 1 Samuel 1 matter?",
+          answer: "It begins Samuel's story and shows the power of honest prayer.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
