@@ -7905,6 +7905,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 175 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where stable care becomes lasting kindness.",
+      detail: "This quiz helps a beginner see Matthew 175 as the chapter where Jesus turns dependable care into kindness that keeps going.",
+      start: "Take this after reading Matthew 175 carefully and noticing how care can become kindness.",
+      tags: ["Matthew 175", "chapter", "kindness"],
+      questions: [
+        {
+          prompt: "What does stable care become?",
+          answer: "It becomes lasting kindness.",
+        },
+        {
+          prompt: "What does Jesus keep encouraging in his people?",
+          answer: "He keeps encouraging gentle, steady support for others.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how help can stay warm and faithful.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
