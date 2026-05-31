@@ -6269,6 +6269,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Numbers 14 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where the people refuse to enter the land and God judges the rebellion.",
+      detail: "This quiz helps a beginner see Numbers 14 as the chapter where unbelief leads to wandering and delayed promise.",
+      start: "Take this after reading Numbers 14 carefully and noticing the fear, the rebellion, and Moses' intercession.",
+      tags: ["Numbers 14", "chapter", "rebellion"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Numbers 14?",
+          answer: "The chapter emphasizes Israel's refusal to trust God and enter the land.",
+        },
+        {
+          prompt: "What does Moses do in Numbers 14?",
+          answer: "He intercedes for the people when God is ready to judge them.",
+        },
+        {
+          prompt: "Why does Numbers 14 matter after Numbers 13?",
+          answer: "It shows the consequence of fear and unbelief after the spies' report.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
