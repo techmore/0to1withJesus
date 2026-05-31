@@ -4331,6 +4331,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 10 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the table of nations and the spread of peoples after the flood.",
+      detail: "This quiz helps a beginner see Genesis 10 as a list with a purpose: it traces the nations that emerge from Noah's family and sets up the world's dispersion.",
+      start: "Take this after reading Genesis 10 carefully and noticing the families, lands, languages, and nations.",
+      tags: ["Genesis 10", "chapter", "nations"],
+      questions: [
+        {
+          prompt: "What does Genesis 10 describe?",
+          answer: "The descendants of Noah's sons and the nations that come from them.",
+        },
+        {
+          prompt: "What major theme runs through the chapter?",
+          answer: "The spread of peoples, lands, and languages across the earth.",
+        },
+        {
+          prompt: "Why is Genesis 10 important?",
+          answer: "It explains the table of nations that sets the stage for Babel and the later call of Abraham.",
+        },
+      ],
+    },
+    {
       title: "Exodus 1 Quiz",
       kicker: "Chapter",
       summary: "Checks Israel's oppression in Egypt and the beginning of the rescue setting.",
