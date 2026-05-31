@@ -4639,6 +4639,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 24 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Abraham's servant, prayer, and the finding of Rebekah.",
+      detail: "This quiz helps a beginner see Genesis 24 as the chapter where faithful guidance brings Isaac's bride into the promise story.",
+      start: "Take this after reading Genesis 24 carefully and noticing the prayer, the signs, and the family's welcome.",
+      tags: ["Genesis 24", "chapter", "Rebekah"],
+      questions: [
+        {
+          prompt: "What is Abraham's servant sent to do?",
+          answer: "Find a wife for Isaac from Abraham's own relatives.",
+        },
+        {
+          prompt: "How does the servant seek guidance?",
+          answer: "He prays to God for a clear sign at the well.",
+        },
+        {
+          prompt: "Why is Genesis 24 important?",
+          answer: "It shows God's providence in securing the next generation of the promise through Rebekah.",
+        },
+      ],
+    },
+    {
       title: "Exodus 1 Quiz",
       kicker: "Chapter",
       summary: "Checks Israel's oppression in Egypt and the beginning of the rescue setting.",
