@@ -19,7 +19,7 @@ const roadmap = [
     id: "john",
     title: "Start Here: John",
     short: "Meet Jesus directly",
-    tier: "Core path",
+    track: "Core path",
     cadence: "Daily",
     duration: "2 to 3 weeks",
     position: { x: 20, y: 200 },
@@ -32,7 +32,7 @@ const roadmap = [
     id: "listen-john",
     title: "Listen Through John",
     short: "Hear the Gospel aloud",
-    tier: "Core path",
+    track: "Core path",
     cadence: "Daily",
     duration: "1 week",
     position: { x: 280, y: 80 },
@@ -45,7 +45,7 @@ const roadmap = [
     id: "versions",
     title: "Compare Bible Versions",
     short: "See why wording differs",
-    tier: "Addendum unlock",
+    track: "Addendum unlock",
     cadence: "Weekly",
     duration: "1 to 2 weeks",
     position: { x: 280, y: 320 },
@@ -58,7 +58,7 @@ const roadmap = [
     id: "canon",
     title: "Why John Is Not First",
     short: "Understand canon and ordering",
-    tier: "Addendum unlock",
+    track: "Addendum unlock",
     cadence: "Weekly",
     duration: "1 week",
     position: { x: 540, y: 320 },
@@ -71,7 +71,7 @@ const roadmap = [
     id: "luke-acts",
     title: "Luke and Acts",
     short: "See the full movement",
-    tier: "Core path",
+    track: "Core path",
     cadence: "Daily and weekly",
     duration: "4 to 6 weeks",
     position: { x: 560, y: 80 },
@@ -84,7 +84,7 @@ const roadmap = [
     id: "gospels",
     title: "Matthew and Mark",
     short: "Compare the four portraits",
-    tier: "Core path",
+    track: "Core path",
     cadence: "Weekly",
     duration: "3 to 5 weeks",
     position: { x: 860, y: 80 },
@@ -97,7 +97,7 @@ const roadmap = [
     id: "traditions",
     title: "Christian Traditions Map",
     short: "Catholic, Orthodox, Protestant",
-    tier: "Addendum unlock",
+    track: "Addendum unlock",
     cadence: "Weekly",
     duration: "1 to 2 weeks",
     position: { x: 1110, y: 260 },
@@ -110,7 +110,7 @@ const roadmap = [
     id: "storyline",
     title: "Bible Storyline",
     short: "Creation to new creation",
-    tier: "Core path",
+    track: "Core path",
     cadence: "Weekly",
     duration: "6 to 8 weeks",
     position: { x: 1110, y: 80 },
@@ -123,7 +123,7 @@ const roadmap = [
     id: "letters",
     title: "Romans and Ephesians",
     short: "Understand core doctrine",
-    tier: "Core path",
+    track: "Core path",
     cadence: "Weekly",
     duration: "3 to 4 weeks",
     position: { x: 1380, y: 80 },
@@ -136,7 +136,7 @@ const roadmap = [
     id: "context",
     title: "Historical World",
     short: "Judaism, Rome, geography",
-    tier: "Addendum unlock",
+    track: "Addendum unlock",
     cadence: "Weekly or monthly",
     duration: "6 weeks",
     position: { x: 1380, y: 300 },
@@ -149,7 +149,7 @@ const roadmap = [
     id: "languages",
     title: "Greek and Latin Tools",
     short: "Use language responsibly",
-    tier: "Deep dive",
+    track: "Deep dive",
     cadence: "Monthly",
     duration: "Ongoing",
     position: { x: 1660, y: 300 },
@@ -162,7 +162,7 @@ const roadmap = [
     id: "apologetics",
     title: "Apologetics",
     short: "Trustworthiness and objections",
-    tier: "Deep dive",
+    track: "Deep dive",
     cadence: "Weekly or monthly",
     duration: "Ongoing",
     position: { x: 1660, y: 80 },
@@ -175,7 +175,7 @@ const roadmap = [
     id: "integrate",
     title: "Teach and Integrate",
     short: "Connect the branches",
-    tier: "Mastery",
+    track: "Mastery",
     cadence: "Yearly",
     duration: "Ongoing",
     position: { x: 1940, y: 190 },
@@ -259,7 +259,7 @@ function getUnlockedChildren(nodeId) {
 }
 
 function RoadmapNode({ data }) {
-  const { title, short, tier, state, selected } = data;
+  const { title, short, track, state, selected } = data;
 
   return html`
     <div className=${`rf-node rf-node-${state} ${selected ? "rf-node-selected" : ""}`}>
@@ -269,7 +269,7 @@ function RoadmapNode({ data }) {
         className: "rf-handle",
       })}
       <div className="rf-node-top">
-        <span className="rf-node-tier">${tier}</span>
+        <span className="rf-node-track">${track}</span>
         <span className=${`rf-node-state rf-node-state-${state}`}>${state}</span>
       </div>
       <h3>${title}</h3>
@@ -308,7 +308,7 @@ function RoadmapApp() {
           data: {
             title: item.title,
             short: item.short,
-            tier: item.tier,
+            track: item.track,
             state,
             selected: selectedId === item.id,
           },
@@ -425,7 +425,7 @@ function RoadmapApp() {
 
         <aside className="roadmap-detail-panel">
           <div className="roadmap-detail-head">
-            <p className="eyebrow">${selected.tier}</p>
+            <p className="eyebrow">${selected.track}</p>
             <h3>${selected.title}</h3>
             <p>${selected.why}</p>
           </div>
