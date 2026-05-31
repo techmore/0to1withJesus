@@ -4793,6 +4793,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 31 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Jacob's escape from Laban, the stolen idols, and the covenant boundary.",
+      detail: "This quiz helps a beginner see Genesis 31 as the chapter where Jacob finally leaves Laban's house, while old tensions surface in the pursuit and the boundary marker between their households.",
+      start: "Take this after reading Genesis 31 carefully and noticing the mixture of departure, conflict, and covenant-making.",
+      tags: ["Genesis 31", "chapter", "Laban"],
+      questions: [
+        {
+          prompt: "Why does Jacob leave Laban in Genesis 31?",
+          answer: "God tells him to return to his homeland, and Laban's treatment of him has become hostile.",
+        },
+        {
+          prompt: "What happens with Rachel and the household idols?",
+          answer: "Rachel steals Laban's household gods while the family flees.",
+        },
+        {
+          prompt: "Why is Genesis 31 important?",
+          answer: "It marks Jacob's separation from Laban and shows God protecting him as he moves toward the promised land.",
+        },
+      ],
+    },
+    {
       title: "Exodus 1 Quiz",
       kicker: "Chapter",
       summary: "Checks Israel's oppression in Egypt and the beginning of the rescue setting.",
