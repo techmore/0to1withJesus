@@ -6927,6 +6927,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Acts 6 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the choosing of the Seven and Stephen's growing ministry.",
+      detail: "This quiz helps a beginner see Acts 6 as the chapter where the church organizes service and Stephen becomes a key witness.",
+      start: "Take this after reading Acts 6 carefully and noticing the tension between practical care and preaching.",
+      tags: ["Acts 6", "chapter", "service"],
+      questions: [
+        {
+          prompt: "Why are the Seven chosen?",
+          answer: "They are chosen to help with the daily distribution so the apostles can focus on prayer and the word.",
+        },
+        {
+          prompt: "Who is one of the new servants especially highlighted?",
+          answer: "Stephen is highlighted as full of faith and the Spirit.",
+        },
+        {
+          prompt: "What starts to happen around Stephen's ministry?",
+          answer: "Opposition rises as he performs wonders and speaks with wisdom.",
+        },
+      ],
+    },
+    {
       title: "Acts Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Acts as the story of the Spirit-empowered church expanding from Jerusalem outward.",
