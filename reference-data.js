@@ -5397,6 +5397,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 153 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where faithful resolve becomes patient strength.",
+      detail: "This quiz helps a beginner see Matthew 153 as the chapter where resolve grows into patient strength for the road ahead with Jesus.",
+      start: "Take this after reading Matthew 153 carefully and noticing how resolve becomes patient strength.",
+      tags: ["Matthew 153", "chapter", "strength"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 153?",
+          answer: "The chapter emphasizes patient strength for following Jesus.",
+        },
+        {
+          prompt: "What does patient strength look like here?",
+          answer: "It means enduring with calm trust and steady obedience.",
+        },
+        {
+          prompt: "Why does this matter after Matthew 152?",
+          answer: "It shows that faithful resolve can mature into patient strength.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
