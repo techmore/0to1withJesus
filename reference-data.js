@@ -4881,6 +4881,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 42 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Jesus' return to his hometown, the feeding miracle, and the walking on water.",
+      detail: "This quiz helps a beginner see Matthew 42 as the chapter where Jesus faces unbelief at home and then reveals his power over hunger and the sea.",
+      start: "Take this after reading Matthew 42 carefully and noticing the rejection, the feeding, and the storm.",
+      tags: ["Matthew 42", "chapter", "miracles"],
+      questions: [
+        {
+          prompt: "How do people in Jesus' hometown respond to him?",
+          answer: "They take offense at him and show unbelief.",
+        },
+        {
+          prompt: "What miracle feeds the crowd?",
+          answer: "Jesus feeds the multitude with a few loaves and fishes.",
+        },
+        {
+          prompt: "What happens on the water?",
+          answer: "Jesus walks on the sea and calms the disciples' fear.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
