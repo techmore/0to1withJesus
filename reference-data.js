@@ -4047,6 +4047,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 4 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter of Cain and Abel, where worship, jealousy, and violence erupt.",
+      detail: "This quiz helps a beginner see Genesis 4 as the chapter where the first family conflict shows how sin spreads beyond Eden.",
+      start: "Take this after reading Genesis 4 carefully and noticing the contrast between worship and violence.",
+      tags: ["Genesis 4", "chapter", "cain-abel"],
+      questions: [
+        {
+          prompt: "What is the main conflict in Genesis 4?",
+          answer: "Cain grows jealous of Abel, and the conflict ends in violence.",
+        },
+        {
+          prompt: "What warning does God give Cain?",
+          answer: "God warns Cain that sin is crouching at the door and he must rule over it.",
+        },
+        {
+          prompt: "Why does Genesis 4 matter after Genesis 3?",
+          answer: "It shows how sin quickly spreads into human relationships and community.",
+        },
+      ],
+    },
+    {
       title: "Exodus Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Exodus as the Bible's great rescue story.",
