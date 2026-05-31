@@ -7543,6 +7543,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Romans 3 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Paul's conclusion that all are under sin and that righteousness comes through faith.",
+      detail: "This quiz helps a beginner see Romans 3 as the chapter where Paul levels everyone under sin and then announces justification by faith apart from works.",
+      start: "Take this after reading Romans 3 carefully and noticing how Paul builds the case for grace.",
+      tags: ["Romans 3", "chapter", "faith"],
+      questions: [
+        {
+          prompt: "What does Paul conclude about all people in Romans 3?",
+          answer: "He concludes that all, Jews and Gentiles alike, are under sin.",
+        },
+        {
+          prompt: "How does a person become right with God according to Romans 3?",
+          answer: "A person is justified by faith in Jesus Christ apart from works of the law.",
+        },
+        {
+          prompt: "What does Paul say the law does in this chapter?",
+          answer: "The law makes sin known and leaves no one able to boast before God.",
+        },
+      ],
+    },
+    {
       title: "Ephesians Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Ephesians as Paul's letter about identity in Christ, unity, the church, and standing firm.",
