@@ -4155,6 +4155,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 9 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Jesus' forgiveness, healing, calling of Matthew, and compassion for the lost.",
+      detail: "This quiz helps a beginner see Matthew 9 as the chapter where Jesus forgives sins, calls a tax collector, and shows mercy to the needy.",
+      start: "Take this after reading Matthew 9 carefully and noticing Jesus' mercy and authority.",
+      tags: ["Matthew 9", "chapter", "mercy"],
+      questions: [
+        {
+          prompt: "What does Jesus do for the paralyzed man?",
+          answer: "He forgives the man's sins and heals him.",
+        },
+        {
+          prompt: "Who does Jesus call at the tax booth?",
+          answer: "He calls Matthew (Levi) to follow him.",
+        },
+        {
+          prompt: "What does Jesus say about the crowds?",
+          answer: "He sees them as harassed and helpless, like sheep without a shepherd.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
