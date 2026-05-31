@@ -4485,6 +4485,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 17 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the covenant sign of circumcision and Abram's renaming.",
+      detail: "This quiz helps a beginner see Genesis 17 as the chapter where God renews his covenant with Abram, gives him a new name, and marks the covenant with circumcision.",
+      start: "Take this after reading Genesis 17 carefully and noticing the repeated language of covenant, name, and generations.",
+      tags: ["Genesis 17", "chapter", "circumcision"],
+      questions: [
+        {
+          prompt: "What sign does God give for the covenant in Genesis 17?",
+          answer: "Circumcision.",
+        },
+        {
+          prompt: "How are Abram and Sarai renamed?",
+          answer: "Abram becomes Abraham and Sarai becomes Sarah.",
+        },
+        {
+          prompt: "Why is Genesis 17 important?",
+          answer: "It formalizes the covenant promise through a sign and shows that God will keep building his people through Abraham's line.",
+        },
+      ],
+    },
+    {
       title: "Exodus 1 Quiz",
       kicker: "Chapter",
       summary: "Checks Israel's oppression in Egypt and the beginning of the rescue setting.",
