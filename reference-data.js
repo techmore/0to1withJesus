@@ -5145,6 +5145,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 54 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the parables, the crowds, and Jesus' expanding ministry reach.",
+      detail: "This quiz helps a beginner see Matthew 54 as the chapter where Jesus teaches in stories and continues gathering responses from different groups.",
+      start: "Take this after reading Matthew 54 carefully and noticing the parables and the way the crowds hear Jesus.",
+      tags: ["Matthew 54", "chapter", "parables"],
+      questions: [
+        {
+          prompt: "What teaching method does Jesus use here?",
+          answer: "He teaches with parables.",
+        },
+        {
+          prompt: "What do the parables invite people to do?",
+          answer: "They invite people to listen carefully and understand the kingdom.",
+        },
+        {
+          prompt: "How does Jesus' ministry continue?",
+          answer: "He keeps teaching and drawing different responses from the crowds.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
