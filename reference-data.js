@@ -13229,6 +13229,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 31 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where settled attention becomes consistent focus.",
+      detail: "This quiz helps a beginner see Matthew 31 as the chapter where attention is held long enough to become reliable focus.",
+      start: "Take this after reading Matthew 31 carefully and noticing how focus becomes more sustained.",
+      tags: ["Matthew 31", "chapter", "focus"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 31?",
+          answer: "The chapter emphasizes moving from stable attention to consistent focus.",
+        },
+        {
+          prompt: "What does reliable focus look like here?",
+          answer: "It means staying with Jesus' words instead of letting attention break apart.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 30?",
+          answer: "It shows that attention can keep maturing into a more dependable way of listening.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
