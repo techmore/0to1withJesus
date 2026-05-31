@@ -7785,6 +7785,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Romans 14 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Paul's teaching about conscience, food, and not judging fellow believers.",
+      detail: "This quiz helps a beginner see Romans 14 as the chapter where Paul tells believers to welcome one another without quarrelling over disputable matters.",
+      start: "Take this after reading Romans 14 carefully and noticing Paul's call to mutual respect.",
+      tags: ["Romans 14", "chapter", "conscience"],
+      questions: [
+        {
+          prompt: "What issue does Paul address in Romans 14?",
+          answer: "He addresses disputes over food, days, and conscience among believers.",
+        },
+        {
+          prompt: "How should believers treat one another on these matters?",
+          answer: "They should not judge one another but act in faith and respect.",
+        },
+        {
+          prompt: "What should guide the stronger believer?",
+          answer: "The stronger believer should avoid causing another believer to stumble.",
+        },
+      ],
+    },
+    {
       title: "Ephesians Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Ephesians as Paul's letter about identity in Christ, unity, the church, and standing firm.",
