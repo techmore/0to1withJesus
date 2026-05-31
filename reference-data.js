@@ -14637,6 +14637,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 95 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where steady trust becomes calm confidence.",
+      detail: "This quiz helps a beginner see Matthew 95 as the chapter where trust starts to settle into calm confidence.",
+      start: "Take this after reading Matthew 95 carefully and noticing how trust becomes confidence.",
+      tags: ["Matthew 95", "chapter", "confidence"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 95?",
+          answer: "The chapter emphasizes trust that is becoming calm confidence.",
+        },
+        {
+          prompt: "What does calm confidence look like here?",
+          answer: "It means remaining sure of Jesus' care without anxiety.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 94?",
+          answer: "It shows that steady trust should become calm confidence.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
