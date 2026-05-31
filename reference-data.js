@@ -5893,6 +5893,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 88 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the risen Jesus' instructions, where mission and worship come together.",
+      detail: "This quiz helps a beginner see Matthew 88 as the chapter where the risen Jesus sends his followers out with authority and a clear mission.",
+      start: "Take this after reading Matthew 88 carefully and noticing the commission to the disciples.",
+      tags: ["Matthew 88", "chapter", "mission"],
+      questions: [
+        {
+          prompt: "What does the risen Jesus tell his followers?",
+          answer: "He tells them to go and make disciples.",
+        },
+        {
+          prompt: "What authority supports the mission?",
+          answer: "Jesus' own authority supports the mission.",
+        },
+        {
+          prompt: "What does the chapter close with?",
+          answer: "It closes with promise, presence, and ongoing mission.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
