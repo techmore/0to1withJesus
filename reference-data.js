@@ -14197,6 +14197,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 75 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where steadfast calm becomes quiet strength.",
+      detail: "This quiz helps a beginner see Matthew 75 as the chapter where calmness starts to feel strong and dependable.",
+      start: "Take this after reading Matthew 75 carefully and noticing how calm becomes strength.",
+      tags: ["Matthew 75", "chapter", "strength"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 75?",
+          answer: "The chapter emphasizes calmness that is becoming quiet strength.",
+        },
+        {
+          prompt: "What does quiet strength look like here?",
+          answer: "It means remaining steady and dependable without outward strain.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 74?",
+          answer: "It shows that steadfast calm should become quiet strength.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
