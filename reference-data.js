@@ -15209,6 +15209,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 121 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where calm generosity becomes patient welcome.",
+      detail: "This quiz helps a beginner see Matthew 121 as the chapter where generosity starts to settle into patient welcome.",
+      start: "Take this after reading Matthew 121 carefully and noticing how generosity becomes welcome.",
+      tags: ["Matthew 121", "chapter", "welcome"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 121?",
+          answer: "The chapter emphasizes generosity that is becoming patient welcome.",
+        },
+        {
+          prompt: "What does patient welcome look like here?",
+          answer: "It means receiving others kindly and calmly without hesitation.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 120?",
+          answer: "It shows that calm generosity should become patient welcome.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
