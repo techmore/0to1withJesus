@@ -9129,6 +9129,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Samuel 20 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Jonathan and David make a covenant and David learns Saul still wants him dead.",
+      detail: "This quiz helps a beginner see 1 Samuel 20 as the chapter where loyal friendship, warning, and hidden danger all come together.",
+      start: "Take this after 1 Samuel 19 when you want to see Jonathan protect David with a covenant plan.",
+      tags: ["1 Samuel 20", "chapter", "David"],
+      questions: [
+        {
+          prompt: "What do Jonathan and David do in 1 Samuel 20?",
+          answer: "They renew their covenant friendship and make a plan to test Saul's intentions.",
+        },
+        {
+          prompt: "What does Jonathan learn about Saul?",
+          answer: "That Saul still wants to kill David.",
+        },
+        {
+          prompt: "Why does 1 Samuel 20 matter?",
+          answer: "It shows the strength of covenant friendship and confirms that David must keep fleeing Saul.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
