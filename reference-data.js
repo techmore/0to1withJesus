@@ -18143,6 +18143,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Peter Book Quiz",
+      kicker: "Book",
+      summary: "A whole-book check for 2 Peter as a warning letter about false teachers and a call to growth.",
+      detail: "This quiz helps a beginner see 2 Peter as urging believers to grow in knowledge, resist corruption, and remember the Lord's coming.",
+      start: "Take this after 1 Peter and after noticing the Catholic Letters include both encouragement and warning.",
+      tags: ["2 Peter", "book", "warning"],
+      questions: [
+        {
+          prompt: "What main danger does 2 Peter warn about?",
+          answer: "False teachers and destructive error.",
+        },
+        {
+          prompt: "What does 2 Peter call believers to do?",
+          answer: "Grow in grace and knowledge of Jesus Christ.",
+        },
+        {
+          prompt: "What future hope does 2 Peter keep in view?",
+          answer: "The coming day of the Lord and God's final renewal.",
+        },
+      ],
+    },
+    {
       title: "Romans and Ephesians Doctrine Quiz",
       kicker: "Books",
       summary: "Checks grace, faith, church, unity, and new life in Christ.",
