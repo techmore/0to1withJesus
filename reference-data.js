@@ -8601,6 +8601,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Ruth 1 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the opening chapter where Naomi returns from Moab with Ruth after loss and hardship.",
+      detail: "This quiz helps a beginner see Ruth 1 as the beginning of a story shaped by grief, loyalty, and the first signs of hope.",
+      start: "Take this after the Ruth overview when you want to begin the chapter-by-chapter story.",
+      tags: ["Ruth 1", "chapter", "Naomi"],
+      questions: [
+        {
+          prompt: "What happens in Ruth 1?",
+          answer: "Naomi returns to Bethlehem with Ruth after losing her husband and sons.",
+        },
+        {
+          prompt: "What does Ruth's choice show?",
+          answer: "It shows loyal love and commitment to Naomi and Naomi's God.",
+        },
+        {
+          prompt: "Why does Ruth 1 matter?",
+          answer: "It sets up the story's hope by showing faithfulness in a painful situation.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
