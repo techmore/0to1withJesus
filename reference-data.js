@@ -12899,6 +12899,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Zechariah Book Quiz",
+      kicker: "Book",
+      summary: "A whole-book check for Zechariah as a vision-filled call to hope, cleansing, and kingship.",
+      detail: "This quiz helps a beginner see Zechariah as prophecy that points from rebuilding toward God's coming king and renewed people.",
+      start: "Take this after Haggai and after noticing how post-exile prophecy mixes visions with hope.",
+      tags: ["Zechariah", "book", "visions"],
+      questions: [
+        {
+          prompt: "What kind of book is Zechariah?",
+          answer: "It uses visions and symbols to call the people back to God.",
+        },
+        {
+          prompt: "What hope does Zechariah point toward?",
+          answer: "God will cleanse his people and bring his king.",
+        },
+        {
+          prompt: "Why is Zechariah important for beginners?",
+          answer: "It connects restoration after exile with later messianic hope.",
+        },
+      ],
+    },
+    {
       title: "Gospel of John Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for John's main claims about Jesus.",
