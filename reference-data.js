@@ -14505,6 +14505,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 89 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where steady obedience becomes calm steadfastness.",
+      detail: "This quiz helps a beginner see Matthew 89 as the chapter where obedience starts to settle into calm steadfastness.",
+      start: "Take this after reading Matthew 89 carefully and noticing how obedience becomes steadfastness.",
+      tags: ["Matthew 89", "chapter", "steadfastness"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 89?",
+          answer: "The chapter emphasizes obedience that is becoming calm steadfastness.",
+        },
+        {
+          prompt: "What does calm steadfastness look like here?",
+          answer: "It means staying faithful and unshaken while continuing to obey.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 88?",
+          answer: "It shows that steady obedience should become calm steadfastness.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
