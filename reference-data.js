@@ -7861,6 +7861,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 173 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where durable witness becomes quiet leadership.",
+      detail: "This quiz helps a beginner see Matthew 173 as the chapter where Jesus turns visible faithfulness into a calm kind of leadership.",
+      start: "Take this after reading Matthew 173 carefully and noticing how witness can become leadership.",
+      tags: ["Matthew 173", "chapter", "leadership"],
+      questions: [
+        {
+          prompt: "What does durable witness become?",
+          answer: "It becomes quiet leadership.",
+        },
+        {
+          prompt: "What does Jesus keep teaching his people?",
+          answer: "He keeps teaching them to lead by serving.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how faithfulness can guide others.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
