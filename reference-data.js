@@ -15099,6 +15099,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 116 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where steady mercy becomes gentle compassion.",
+      detail: "This quiz helps a beginner see Matthew 116 as the chapter where mercy starts to settle into gentle compassion.",
+      start: "Take this after reading Matthew 116 carefully and noticing how mercy becomes compassion.",
+      tags: ["Matthew 116", "chapter", "compassion"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 116?",
+          answer: "The chapter emphasizes mercy that is becoming gentle compassion.",
+        },
+        {
+          prompt: "What does gentle compassion look like here?",
+          answer: "It means caring kindly and personally for others with patience.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 115?",
+          answer: "It shows that steady mercy should become gentle compassion.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
