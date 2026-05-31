@@ -4707,6 +4707,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 34 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Dinah is harmed and Jacob's family responds with violence.",
+      detail: "This quiz helps a beginner see Genesis 34 as the chapter where a family tragedy leads to deception and a dangerous reaction.",
+      start: "Take this after reading Genesis 34 carefully and noticing Dinah's assault, the negotiations, and Simeon and Levi's response.",
+      tags: ["Genesis 34", "chapter", "dinah"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Genesis 34?",
+          answer: "The chapter emphasizes Dinah's violation and the violent retaliation by Simeon and Levi.",
+        },
+        {
+          prompt: "How do Simeon and Levi respond in Genesis 34?",
+          answer: "They deceive the men of Shechem and then attack the city.",
+        },
+        {
+          prompt: "Why does Genesis 34 matter after Genesis 33?",
+          answer: "It shows that peace with Esau does not remove family conflict and that the clan is still threatened by violence.",
+        },
+      ],
+    },
+    {
       title: "Exodus Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Exodus as the Bible's great rescue story.",
