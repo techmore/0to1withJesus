@@ -4881,6 +4881,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 35 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Jacob's return to Bethel, the covenant renewal, and the losses in his family.",
+      detail: "This quiz helps a beginner see Genesis 35 as the chapter where God reaffirms Jacob's identity, but the family story also turns through grief, death, and the birth of Benjamin.",
+      start: "Take this after reading Genesis 35 carefully and noticing the movement from cleansing and worship to sorrow and continuity.",
+      tags: ["Genesis 35", "chapter", "Bethel"],
+      questions: [
+        {
+          prompt: "What does God tell Jacob to do at Bethel?",
+          answer: "God tells him to go there, build an altar, and remember the God who met him there before.",
+        },
+        {
+          prompt: "What major family losses happen in Genesis 35?",
+          answer: "Rachel dies in childbirth, and Isaac also dies by the end of the chapter.",
+        },
+        {
+          prompt: "Why is Genesis 35 important?",
+          answer: "It renews Jacob's covenant identity while showing both blessing and grief continuing in the promise line.",
+        },
+      ],
+    },
+    {
       title: "Exodus 1 Quiz",
       kicker: "Chapter",
       summary: "Checks Israel's oppression in Egypt and the beginning of the rescue setting.",
