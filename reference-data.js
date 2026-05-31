@@ -4443,6 +4443,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 22 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Abraham is asked to offer Isaac and God provides a ram.",
+      detail: "This quiz helps a beginner see Genesis 22 as the chapter where trust is tested and God's provision is revealed on the mountain.",
+      start: "Take this after reading Genesis 22 carefully and noticing the command, the journey, and the ram provided in place of Isaac.",
+      tags: ["Genesis 22", "chapter", "isaac"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Genesis 22?",
+          answer: "The chapter emphasizes Abraham's obedience, God's testing, and God's provision of a sacrifice.",
+        },
+        {
+          prompt: "What does God provide in Genesis 22?",
+          answer: "God provides a ram caught in a thicket to be offered instead of Isaac.",
+        },
+        {
+          prompt: "Why does Genesis 22 matter after Genesis 21?",
+          answer: "It shows that the promised son is still under God's care and that faith trusts God's provision.",
+        },
+      ],
+    },
+    {
       title: "Exodus Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Exodus as the Bible's great rescue story.",
