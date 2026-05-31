@@ -4815,6 +4815,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 31 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the Spirit-given craftsmanship and Sabbath sign in Exodus.",
+      detail: "This quiz helps a beginner see Exodus 31 as a chapter about God's Spirit empowering artisans and about Sabbath as a covenant sign.",
+      start: "Take this after reading Exodus 31 carefully and noticing the link between skill, holiness, and rest.",
+      tags: ["Exodus 31", "chapter", "Sabbath"],
+      questions: [
+        {
+          prompt: "What does Exodus 31 highlight?",
+          answer: "Bezalel, Oholiab, and the Spirit-given skill needed for tabernacle work, along with Sabbath instructions.",
+        },
+        {
+          prompt: "What does the Sabbath mean here?",
+          answer: "It is a sign of the covenant that marks Israel's relationship with God and their rhythm of rest.",
+        },
+        {
+          prompt: "Why is Exodus 31 important?",
+          answer: "It shows that both craftsmanship and rest are holy when they are done under God's command and Spirit.",
+        },
+      ],
+    },
+    {
       title: "Luke and Acts Bridge Quiz",
       kicker: "Books",
       summary: "Checks how Luke's Gospel connects to the early church story in Acts.",
