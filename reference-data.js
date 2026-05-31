@@ -8843,6 +8843,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Samuel 7 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Samuel calls Israel to repentance and the Lord gives victory over the Philistines.",
+      detail: "This quiz helps a beginner see 1 Samuel 7 as a chapter of repentance, prayer, and renewed deliverance.",
+      start: "Take this after 1 Samuel 6 when you want to see Israel respond to God's holiness.",
+      tags: ["1 Samuel 7", "chapter", "Samuel"],
+      questions: [
+        {
+          prompt: "What does Samuel call Israel to do in 1 Samuel 7?",
+          answer: "He calls them to put away idols and return to the Lord.",
+        },
+        {
+          prompt: "What happens when Samuel prays?",
+          answer: "The Lord gives victory over the Philistines.",
+        },
+        {
+          prompt: "Why does 1 Samuel 7 matter?",
+          answer: "It shows repentance leading to deliverance under Samuel's leadership.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
