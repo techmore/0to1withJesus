@@ -3589,7 +3589,7 @@ export const referenceData = {
   ],
   quizzes: [
     {
-      title: "Bible Organization Starter Quiz",
+      title: "Bible Book Order Starter Quiz",
       kicker: "Whole Bible",
       summary: "A beginner-friendly overview of the Old and New Testaments, book order, and major Bible groupings.",
       detail: "Use this first if someone needs a map of the Bible before they start reading. It covers the two testaments, the main book groups, where books sit in the story, and how to find passages with more confidence.",
@@ -6857,6 +6857,28 @@ export const referenceData = {
         {
           prompt: "What should a beginner notice?",
           answer: "They should notice how witness can become a daily route.",
+        },
+      ],
+    },
+    {
+      title: "Matthew 132 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where a settled path becomes a steady habit.",
+      detail: "This quiz helps a beginner see Matthew 132 as the chapter where Jesus keeps turning a clear route into a life rhythm.",
+      start: "Take this after reading Matthew 132 carefully and noticing how a path can become a habit.",
+      tags: ["Matthew 132", "chapter", "habit"],
+      questions: [
+        {
+          prompt: "What does a settled path become?",
+          answer: "It becomes a steady habit.",
+        },
+        {
+          prompt: "What does Jesus keep reinforcing?",
+          answer: "He keeps reinforcing a life rhythm.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how mission can become daily practice.",
         },
       ],
     },
