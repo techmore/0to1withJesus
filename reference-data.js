@@ -12811,6 +12811,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Nahum Book Quiz",
+      kicker: "Book",
+      summary: "A whole-book check for Nahum as a prophecy about Nineveh's judgment and God's justice.",
+      detail: "This quiz helps a beginner see Nahum as a stark reminder that God's patience has a moral edge and that oppressive violence does not last forever.",
+      start: "Take this after Micah and after noticing that prophets can speak hope for some and judgment for violent empires.",
+      tags: ["Nahum", "book", "judgment"],
+      questions: [
+        {
+          prompt: "What city is at the center of Nahum's message?",
+          answer: "Nineveh.",
+        },
+        {
+          prompt: "What is Nahum proclaiming about God?",
+          answer: "God is just and judges violent oppression.",
+        },
+        {
+          prompt: "Why is Nahum important for beginners?",
+          answer: "It shows that God's mercy does not erase his justice.",
+        },
+      ],
+    },
+    {
       title: "Gospel of John Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for John's main claims about Jesus.",
