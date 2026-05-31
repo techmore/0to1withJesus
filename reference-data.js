@@ -10537,6 +10537,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Chronicles 3 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Solomon begins building the temple.",
+      detail: "This quiz helps a beginner see 2 Chronicles 3 as the start of temple construction in Jerusalem.",
+      start: "Take this after 2 Chronicles 2 when you want to continue the chapter-by-chapter reading.",
+      tags: ["2 Chronicles 3", "chapter", "temple"],
+      questions: [
+        {
+          prompt: "Where is the temple built in 2 Chronicles 3?",
+          answer: "On Mount Moriah in Jerusalem.",
+        },
+        {
+          prompt: "What major work begins in the chapter?",
+          answer: "The building of the temple.",
+        },
+        {
+          prompt: "Why does 2 Chronicles 3 matter?",
+          answer: "It marks the start of the temple itself.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
