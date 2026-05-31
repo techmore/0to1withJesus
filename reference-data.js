@@ -4573,6 +4573,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 28 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the resurrection, the disciples' commission, and the end of Matthew.",
+      detail: "This quiz helps a beginner see Matthew 28 as the chapter where Jesus is raised and sends his followers to make disciples.",
+      start: "Take this after reading Matthew 28 carefully and noticing the empty tomb, the meeting on the mountain, and the commission.",
+      tags: ["Matthew 28", "chapter", "resurrection"],
+      questions: [
+        {
+          prompt: "What do the women find at the tomb?",
+          answer: "They find that Jesus has risen and the tomb is empty.",
+        },
+        {
+          prompt: "What news do the disciples receive from Jesus?",
+          answer: "They are told that Jesus has been raised and will go ahead of them.",
+        },
+        {
+          prompt: "What command ends Matthew 28?",
+          answer: "Jesus commands his followers to make disciples of all nations, baptizing and teaching them.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
