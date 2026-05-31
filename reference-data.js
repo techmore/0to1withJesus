@@ -17989,6 +17989,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Galatians Book Quiz",
+      kicker: "Book",
+      summary: "A whole-book check for Galatians as Paul's urgent defense of grace, freedom, and justification by faith.",
+      detail: "This quiz helps a beginner see Galatians as a sharp letter insisting that Gentiles and Jews alike belong to God's people by grace through faith, not law performance.",
+      start: "Take this after Acts 15 or after seeing why circumcision and identity were such heated issues.",
+      tags: ["Galatians", "Paul", "book"],
+      questions: [
+        {
+          prompt: "What is Paul defending in Galatians?",
+          answer: "The gospel of grace apart from law-keeping as the basis for belonging to God's people.",
+        },
+        {
+          prompt: "What famous contrast appears in Galatians 5?",
+          answer: "The works of the flesh and the fruit of the Spirit.",
+        },
+        {
+          prompt: "What does Galatians say about justification?",
+          answer: "People are justified by faith in Christ, not by works of the law.",
+        },
+      ],
+    },
+    {
       title: "Romans and Ephesians Doctrine Quiz",
       kicker: "Books",
       summary: "Checks grace, faith, church, unity, and new life in Christ.",
