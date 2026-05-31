@@ -4925,6 +4925,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 37 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Joseph's dreams, his brothers' jealousy, and his sale into Egypt.",
+      detail: "This quiz helps a beginner see Genesis 37 as the chapter where Joseph enters the story through dreams, family hatred, and betrayal that sends him toward Egypt.",
+      start: "Take this after reading Genesis 37 carefully and noticing the rise of jealousy and the fall from favored son to slave.",
+      tags: ["Genesis 37", "chapter", "Joseph"],
+      questions: [
+        {
+          prompt: "What do Joseph's dreams suggest?",
+          answer: "They suggest that Joseph will one day have a place of authority over his family.",
+        },
+        {
+          prompt: "What do Joseph's brothers do to him?",
+          answer: "They strip him, throw him into a cistern, and sell him to traders going to Egypt.",
+        },
+        {
+          prompt: "Why is Genesis 37 important?",
+          answer: "It moves the promise story into Egypt through Joseph's suffering and sets up the rest of his journey.",
+        },
+      ],
+    },
+    {
       title: "Exodus 1 Quiz",
       kicker: "Chapter",
       summary: "Checks Israel's oppression in Egypt and the beginning of the rescue setting.",
