@@ -6599,6 +6599,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Numbers 29 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where the trumpet, Day of Atonement, and festival offerings continue.",
+      detail: "This quiz helps a beginner see Numbers 29 as a chapter that extends the worship calendar with more appointed offerings.",
+      start: "Take this after reading Numbers 29 carefully and noticing the repeated festival instructions and sacrifice patterns.",
+      tags: ["Numbers 29", "chapter", "festivals"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Numbers 29?",
+          answer: "The chapter emphasizes additional appointed offerings for festivals and holy days.",
+        },
+        {
+          prompt: "Which special times are included in Numbers 29?",
+          answer: "The Feast of Trumpets, the Day of Atonement, and the Feast of Booths are included.",
+        },
+        {
+          prompt: "Why does Numbers 29 matter after Numbers 28?",
+          answer: "It continues the pattern of ordered worship by filling out the festival calendar.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
