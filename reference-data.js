@@ -6773,6 +6773,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 128 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where resilient hope becomes outward courage.",
+      detail: "This quiz helps a beginner see Matthew 128 as the chapter where Jesus keeps turning waiting and trust into courage that can be seen.",
+      start: "Take this after reading Matthew 128 carefully and noticing how hope can become outward courage.",
+      tags: ["Matthew 128", "chapter", "courage"],
+      questions: [
+        {
+          prompt: "What does resilient hope become?",
+          answer: "It becomes outward courage.",
+        },
+        {
+          prompt: "What does Jesus keep making visible?",
+          answer: "He keeps making trust visible in action.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how hope can lead to brave witness.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
