@@ -5585,6 +5585,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 74 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the summary of Jesus' kingdom teaching and the call to practice it.",
+      detail: "This quiz helps a beginner see Matthew 74 as the chapter where Jesus wraps up his teaching by calling for obedience and wise response.",
+      start: "Take this after reading Matthew 74 carefully and noticing the summary sayings and the call to practice what Jesus taught.",
+      tags: ["Matthew 74", "chapter", "obedience"],
+      questions: [
+        {
+          prompt: "What does Jesus call for at the end of this section?",
+          answer: "He calls for obedience and wise response.",
+        },
+        {
+          prompt: "What do his words summarize?",
+          answer: "They summarize the kingdom teaching he has given.",
+        },
+        {
+          prompt: "What does the chapter emphasize?",
+          answer: "It emphasizes living out Jesus' teaching.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
