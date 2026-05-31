@@ -5739,6 +5739,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 81 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Jesus' teaching on greatness, service, and the cost of following him.",
+      detail: "This quiz helps a beginner see Matthew 81 as the chapter where Jesus redefines greatness by pointing to humility, service, and faithful sacrifice.",
+      start: "Take this after reading Matthew 81 carefully and noticing how Jesus teaches the disciples to think about leadership.",
+      tags: ["Matthew 81", "chapter", "service"],
+      questions: [
+        {
+          prompt: "How does Jesus define greatness?",
+          answer: "He defines greatness through humility and service.",
+        },
+        {
+          prompt: "What does the chapter say about following Jesus?",
+          answer: "Following Jesus means choosing sacrifice instead of self-importance.",
+        },
+        {
+          prompt: "What lesson do the disciples need?",
+          answer: "They need to learn that real leadership looks like serving others.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
