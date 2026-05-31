@@ -5541,6 +5541,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 72 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the treasures, worries, and trust lessons of kingdom life.",
+      detail: "This quiz helps a beginner see Matthew 72 as the chapter where Jesus teaches about what to value and how to trust God daily.",
+      start: "Take this after reading Matthew 72 carefully and noticing the warnings about riches, anxiety, and divided loyalties.",
+      tags: ["Matthew 72", "chapter", "trust"],
+      questions: [
+        {
+          prompt: "What does Jesus warn about?",
+          answer: "He warns against storing up earthly treasures and worrying.",
+        },
+        {
+          prompt: "What does he encourage instead?",
+          answer: "He encourages trust in God's provision.",
+        },
+        {
+          prompt: "What does the chapter emphasize?",
+          answer: "It emphasizes priorities and daily dependence on God.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
