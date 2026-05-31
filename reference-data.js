@@ -5873,6 +5873,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 36 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where the tabernacle construction actually begins with skilled workmanship.",
+      detail: "This quiz helps a beginner see Exodus 36 as the chapter where the materials become a real structure through faithful work.",
+      start: "Take this after reading Exodus 36 carefully and noticing the skilled workers, the abundance of materials, and the start of construction.",
+      tags: ["Exodus 36", "chapter", "tabernacle"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Exodus 36?",
+          answer: "The chapter emphasizes the actual construction of the tabernacle.",
+        },
+        {
+          prompt: "What stands out about the materials in Exodus 36?",
+          answer: "The people bring so much that the workers have more than enough.",
+        },
+        {
+          prompt: "Why does Exodus 36 matter after Exodus 35?",
+          answer: "It shows the offerings becoming real tabernacle work through skilled craftsmanship.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
