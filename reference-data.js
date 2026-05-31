@@ -7301,6 +7301,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Acts 23 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Paul's defense before the council and the plot against him.",
+      detail: "This quiz helps a beginner see Acts 23 as the chapter where Paul stands before the council and is moved under heavy guard.",
+      start: "Take this after reading Acts 23 carefully and noticing the tension between Paul's witness and the plot against him.",
+      tags: ["Acts 23", "chapter", "trial"],
+      questions: [
+        {
+          prompt: "What happens before the Sanhedrin?",
+          answer: "Paul is questioned and the council becomes divided over resurrection.",
+        },
+        {
+          prompt: "What plot is formed against Paul?",
+          answer: "More than forty men swear not to eat or drink until Paul is killed.",
+        },
+        {
+          prompt: "How is Paul protected?",
+          answer: "The Roman commander sends him under guard to Caesarea.",
+        },
+      ],
+    },
+    {
       title: "Acts Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Acts as the story of the Spirit-empowered church expanding from Jerusalem outward.",
