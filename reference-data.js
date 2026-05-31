@@ -9613,6 +9613,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Kings 17 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Israel falls into exile after repeated rebellion.",
+      detail: "This quiz helps a beginner see 2 Kings 17 as the turning point where the northern kingdom is removed because of unfaithfulness.",
+      start: "Take this after 2 Kings 16 when you want to continue the book chapter by chapter.",
+      tags: ["2 Kings 17", "chapter", "Exile"],
+      questions: [
+        {
+          prompt: "What happens to Israel in 2 Kings 17?",
+          answer: "It falls into exile.",
+        },
+        {
+          prompt: "Why does this happen?",
+          answer: "Because of repeated rebellion and unfaithfulness.",
+        },
+        {
+          prompt: "Why does 2 Kings 17 matter?",
+          answer: "It marks the fall of the northern kingdom.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
