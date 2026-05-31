@@ -4903,6 +4903,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 36 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Esau's descendants and the early history of Edom.",
+      detail: "This quiz helps a beginner see Genesis 36 as a chapter of genealogy that traces Esau's line and explains the people and rulers connected to Edom.",
+      start: "Take this after reading Genesis 36 carefully and noticing that the chapter is about tracing a people, not moving the main promise line forward.",
+      tags: ["Genesis 36", "chapter", "Esau"],
+      questions: [
+        {
+          prompt: "What does Genesis 36 focus on?",
+          answer: "It lists Esau's descendants and the clans and kings associated with Edom.",
+        },
+        {
+          prompt: "Why is Edom important in Genesis 36?",
+          answer: "It shows the development of Esau's family into a distinct people with their own leaders.",
+        },
+        {
+          prompt: "Why is Genesis 36 important?",
+          answer: "It closes out the Esau line and sets up the contrast between Edom and Israel in later Scripture.",
+        },
+      ],
+    },
+    {
       title: "Exodus 1 Quiz",
       kicker: "Chapter",
       summary: "Checks Israel's oppression in Egypt and the beginning of the rescue setting.",
