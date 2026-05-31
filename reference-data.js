@@ -9085,6 +9085,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Samuel 18 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Jonathan and David become close and Saul begins to resent David.",
+      detail: "This quiz helps a beginner see 1 Samuel 18 as the chapter where David's success grows, Jonathan's friendship deepens, and Saul's jealousy starts to harden.",
+      start: "Take this after 1 Samuel 17 when you want to see the social fallout of David's victory.",
+      tags: ["1 Samuel 18", "chapter", "David"],
+      questions: [
+        {
+          prompt: "Who becomes deeply committed to David in 1 Samuel 18?",
+          answer: "Jonathan.",
+        },
+        {
+          prompt: "How does Saul react to David's success?",
+          answer: "He becomes jealous and suspicious of David.",
+        },
+        {
+          prompt: "Why does 1 Samuel 18 matter?",
+          answer: "It shows both the beauty of covenant friendship and the danger of jealousy.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
