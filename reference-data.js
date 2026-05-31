@@ -4265,6 +4265,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "John 12 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the anointing at Bethany, the triumphal entry, and Jesus' announcement that his hour has come.",
+      detail: "This quiz helps a beginner see John 12 as the turning point where public praise grows, but Jesus also speaks clearly about death, glory, and the coming crisis.",
+      start: "Take this after reading John 12 carefully and noticing the mix of worship, misunderstanding, and looming sacrifice.",
+      tags: ["John 12", "chapter", "hour"],
+      questions: [
+        {
+          prompt: "What act of devotion happens in Bethany?",
+          answer: "Mary anoints Jesus with expensive perfume.",
+        },
+        {
+          prompt: "How does the crowd greet Jesus in Jerusalem?",
+          answer: "They welcome him with palm branches and praise as he enters the city.",
+        },
+        {
+          prompt: "What does Jesus say about the significance of this moment?",
+          answer: "He says that his hour has come and that the seed must die to bear much fruit.",
+        },
+      ],
+    },
+    {
       title: "John 18-21 Quiz",
       kicker: "Chapters",
       summary: "Checks the arrest, trial, cross, resurrection, and Peter's restoration.",
