@@ -8249,6 +8249,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Judges 7 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Gideon's army is reduced and the Lord gives victory with a small force.",
+      detail: "This quiz helps a beginner see Judges 7 as the chapter where God makes it clear that the victory belongs to him, not human strength.",
+      start: "Take this after Judges 6 when you want to see how God narrows the army before the battle.",
+      tags: ["Judges 7", "chapter", "Gideon"],
+      questions: [
+        {
+          prompt: "What happens to Gideon's army in Judges 7?",
+          answer: "It is reduced to a very small number of men.",
+        },
+        {
+          prompt: "Why does God reduce the army?",
+          answer: "So Israel will know that the victory comes from the Lord.",
+        },
+        {
+          prompt: "Why does Judges 7 matter?",
+          answer: "It shows that God can save with very little human strength.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
