@@ -6423,6 +6423,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Numbers 21 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where the journey continues with victories, complaints, and the bronze serpent.",
+      detail: "This quiz helps a beginner see Numbers 21 as the chapter that mixes struggle, deliverance, and the sign of healing in the wilderness.",
+      start: "Take this after reading Numbers 21 carefully and noticing the battles, the complaints, and the bronze serpent.",
+      tags: ["Numbers 21", "chapter", "bronze serpent"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Numbers 21?",
+          answer: "The chapter emphasizes victories on the journey, complaints, and God's provision of healing.",
+        },
+        {
+          prompt: "What sign does God give in Numbers 21 for healing?",
+          answer: "He provides the bronze serpent lifted up on a pole.",
+        },
+        {
+          prompt: "Why does Numbers 21 matter after Numbers 20?",
+          answer: "It shows that the journey continues even after tragedy, with both conflict and divine rescue.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
