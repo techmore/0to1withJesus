@@ -5741,6 +5741,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 30 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where incense, atonement money, and cleansing oil are described.",
+      detail: "This quiz helps a beginner see Exodus 30 as the chapter that continues the tabernacle instructions with worship, ransom, and holy use.",
+      start: "Take this after reading Exodus 30 carefully and noticing the altar of incense, the census offering, and the washing basin.",
+      tags: ["Exodus 30", "chapter", "incense"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Exodus 30?",
+          answer: "The chapter emphasizes incense, atonement money, and holy cleansing.",
+        },
+        {
+          prompt: "What other tabernacle-related items are described in Exodus 30?",
+          answer: "The chapter describes the incense altar, the census offering, and the washing basin.",
+        },
+        {
+          prompt: "Why does Exodus 30 matter after Exodus 29?",
+          answer: "It continues shaping how holy worship and priestly service will work in the tabernacle.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
