@@ -9745,6 +9745,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Kings 23 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Josiah cleans house and renews the covenant with the Lord.",
+      detail: "This quiz helps a beginner see 2 Kings 23 as a chapter of reform, removal of idolatry, and covenant renewal.",
+      start: "Take this after 2 Kings 22 when you want to continue the book chapter by chapter.",
+      tags: ["2 Kings 23", "chapter", "Josiah"],
+      questions: [
+        {
+          prompt: "What does Josiah do in 2 Kings 23?",
+          answer: "He removes idolatry and renews the covenant.",
+        },
+        {
+          prompt: "What kind of changes happen in Judah?",
+          answer: "Major reform and cleansing of false worship.",
+        },
+        {
+          prompt: "Why does 2 Kings 23 matter?",
+          answer: "It shows a serious effort to return Judah to the Lord.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
