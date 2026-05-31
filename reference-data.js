@@ -14329,6 +14329,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 81 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where steady commitment becomes patient constancy.",
+      detail: "This quiz helps a beginner see Matthew 81 as the chapter where commitment starts to settle into patient constancy.",
+      start: "Take this after reading Matthew 81 carefully and noticing how commitment becomes constancy.",
+      tags: ["Matthew 81", "chapter", "constancy"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 81?",
+          answer: "The chapter emphasizes commitment that is becoming patient constancy.",
+        },
+        {
+          prompt: "What does patient constancy look like here?",
+          answer: "It means remaining steady and continuing without wavering.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 80?",
+          answer: "It shows that steady commitment should become patient constancy.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
