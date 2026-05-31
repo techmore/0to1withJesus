@@ -4287,6 +4287,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Luke 13 Quiz",
+      kicker: "Chapter",
+      summary: "Checks repentance, the narrow door, and Jesus' compassion on the bent woman.",
+      detail: "This quiz helps a beginner see Luke 13 as the chapter where Jesus presses the need for repentance, urgency, and mercy.",
+      start: "Take this after reading Luke 13 carefully and noticing the warning, the parables, and the healing.",
+      tags: ["Luke 13", "chapter", "repentance"],
+      questions: [
+        {
+          prompt: "What theme does Jesus emphasize when people mention tragedy in Luke 13?",
+          answer: "He emphasizes the need for repentance.",
+        },
+        {
+          prompt: "What image does Jesus use to describe entering God's kingdom?",
+          answer: "He speaks of the narrow door.",
+        },
+        {
+          prompt: "Whom does Jesus heal in the synagogue on the Sabbath?",
+          answer: "He heals a woman who had been bent over for eighteen years.",
+        },
+      ],
+    },
+    {
       title: "John 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the opening claims about Jesus as the Word, light, and Son.",
