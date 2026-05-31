@@ -6049,6 +6049,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Numbers 4 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where the Levites' duties for moving the tabernacle are assigned.",
+      detail: "This quiz helps a beginner see Numbers 4 as the chapter that gives careful instructions for carrying holy things on the journey.",
+      start: "Take this after reading Numbers 4 carefully and noticing the assigned tasks for the Kohathites, Gershonites, and Merarites.",
+      tags: ["Numbers 4", "chapter", "levites"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Numbers 4?",
+          answer: "The chapter emphasizes the Levites' duties for transporting the tabernacle.",
+        },
+        {
+          prompt: "Who receives specific duties in Numbers 4?",
+          answer: "The Kohathites, Gershonites, and Merarites each receive assigned tasks.",
+        },
+        {
+          prompt: "Why does Numbers 4 matter after Numbers 3?",
+          answer: "It explains how the Levites will carry out the service they were set apart to perform.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
