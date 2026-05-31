@@ -4597,6 +4597,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 29 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Jacob reaches Laban's house and marries Leah and Rachel.",
+      detail: "This quiz helps a beginner see Genesis 29 as the chapter where Jacob's love story becomes complicated and family rivalry begins again.",
+      start: "Take this after reading Genesis 29 carefully and noticing the well, the weeks of labor, and the sisters.",
+      tags: ["Genesis 29", "chapter", "leah"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Genesis 29?",
+          answer: "The chapter emphasizes Jacob meeting Laban's family and marrying Leah and Rachel through a long labor arrangement.",
+        },
+        {
+          prompt: "How is Jacob deceived in Genesis 29?",
+          answer: "Laban gives him Leah first instead of Rachel.",
+        },
+        {
+          prompt: "Why does Genesis 29 matter after Genesis 28?",
+          answer: "It moves Jacob into the next stage of the promise story and shows the same kind of family conflict repeating in a new generation.",
+        },
+      ],
+    },
+    {
       title: "Exodus Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Exodus as the Bible's great rescue story.",
