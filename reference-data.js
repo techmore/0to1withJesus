@@ -4287,6 +4287,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 15 Quiz",
+      kicker: "Chapter",
+      summary: "Checks questions of purity, tradition, and the faith of the Canaanite woman.",
+      detail: "This quiz helps a beginner see Matthew 15 as the chapter where Jesus confronts human tradition, teaches what truly defiles, and shows mercy to a Gentile petitioner.",
+      start: "Take this after reading Matthew 15 carefully and noticing the tradition debate and the story of healing and bread.",
+      tags: ["Matthew 15", "chapter", "purity"],
+      questions: [
+        {
+          prompt: "What issue do the Pharisees raise at the start of Matthew 15?",
+          answer: "They ask why Jesus' disciples break the tradition of the elders by not washing their hands.",
+        },
+        {
+          prompt: "What does Jesus say really defiles a person?",
+          answer: "He says what comes out of the heart defiles a person, not merely what goes in.",
+        },
+        {
+          prompt: "How does the chapter end?",
+          answer: "Jesus heals many and feeds four thousand people with a few loaves and fish.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
