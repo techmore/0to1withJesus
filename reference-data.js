@@ -8865,6 +8865,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Kings 6 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Solomon begins and completes the temple building.",
+      detail: "This quiz helps a beginner see 1 Kings 6 as the chapter where the temple structure is built according to God's design.",
+      start: "Take this after 1 Kings 5 when you want to continue the book chapter by chapter.",
+      tags: ["1 Kings 6", "chapter", "Solomon"],
+      questions: [
+        {
+          prompt: "What major project happens in 1 Kings 6?",
+          answer: "The temple is built.",
+        },
+        {
+          prompt: "What does the chapter emphasize about the temple?",
+          answer: "That it is built according to God's instructions and design.",
+        },
+        {
+          prompt: "Why does 1 Kings 6 matter?",
+          answer: "It shows the central place of worship being prepared for Israel.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
