@@ -9811,6 +9811,50 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Chronicles Book Quiz",
+      kicker: "Book",
+      summary: "Checks the big picture of 1 Chronicles as a retelling of Israel's story centered on David, worship, and covenant hope.",
+      detail: "This quiz helps a beginner see 1 Chronicles as a book that looks back at Israel's history to remind God's people of worship and faithfulness.",
+      start: "Take this after the 2 Kings overview when you want to continue the story from a different angle.",
+      tags: ["1 Chronicles", "book", "David"],
+      questions: [
+        {
+          prompt: "What is 1 Chronicles mainly about?",
+          answer: "A retelling of Israel's story centered on David and worship.",
+        },
+        {
+          prompt: "Why does 1 Chronicles matter?",
+          answer: "It reminds God's people of covenant faithfulness, worship, and hope.",
+        },
+        {
+          prompt: "What viewpoint shapes the book?",
+          answer: "It looks back at history with an emphasis on David and the temple.",
+        },
+      ],
+    },
+    {
+      title: "1 Chronicles 1 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter that starts with Adam and traces the family's early line.",
+      detail: "This quiz helps a beginner see 1 Chronicles 1 as a broad introduction that moves from creation into the family line of God's people.",
+      start: "Take this after the 1 Chronicles overview when you want to begin the book chapter by chapter.",
+      tags: ["1 Chronicles 1", "chapter", "Adam"],
+      questions: [
+        {
+          prompt: "What does 1 Chronicles 1 begin with?",
+          answer: "A genealogy starting with Adam.",
+        },
+        {
+          prompt: "Why does the chapter start this way?",
+          answer: "It sets the stage for tracing God's people through history.",
+        },
+        {
+          prompt: "Why does 1 Chronicles 1 matter?",
+          answer: "It roots the story in the whole sweep of God's work from creation onward.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
