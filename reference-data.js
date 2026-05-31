@@ -8931,6 +8931,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Samuel 11 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Saul rescues Jabesh-gilead and Israel confirms his kingship.",
+      detail: "This quiz helps a beginner see 1 Samuel 11 as the chapter where Saul's leadership is tested and publicly strengthened.",
+      start: "Take this after 1 Samuel 10 when you want to see Saul's first major victory as king.",
+      tags: ["1 Samuel 11", "chapter", "Saul"],
+      questions: [
+        {
+          prompt: "What city does Saul rescue in 1 Samuel 11?",
+          answer: "Jabesh-gilead.",
+        },
+        {
+          prompt: "What does the victory lead to?",
+          answer: "The people renew their support for Saul's kingship.",
+        },
+        {
+          prompt: "Why does 1 Samuel 11 matter?",
+          answer: "It shows Saul beginning well as king through a real act of deliverance.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
