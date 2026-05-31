@@ -7567,6 +7567,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Joshua 1 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Joshua is commissioned and told to be strong and courageous.",
+      detail: "This quiz helps a beginner see Joshua 1 as the chapter where leadership begins with courage, meditation on the law, and confidence in God's presence.",
+      start: "Take this after reading Joshua 1 carefully and noticing the repeated command to be strong and courageous.",
+      tags: ["Joshua 1", "chapter", "courage"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Joshua 1?",
+          answer: "The chapter emphasizes Joshua's commission, courage, and trust in God's presence.",
+        },
+        {
+          prompt: "What must Joshua meditate on day and night?",
+          answer: "He must meditate on the Book of the Law.",
+        },
+        {
+          prompt: "Why does Joshua 1 matter?",
+          answer: "It sets the tone for the book by linking success to obedience and God's presence.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
