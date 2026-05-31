@@ -8513,6 +8513,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Judges 19 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where a horrific crime exposes the depth of Israel's moral collapse.",
+      detail: "This quiz helps a beginner see Judges 19 as one of the darkest chapters in the Bible, showing the chaos that comes when there is no king in Israel.",
+      start: "Take this after Judges 18 when you want to understand why the book is moving toward crisis.",
+      tags: ["Judges 19", "chapter", "dark"],
+      questions: [
+        {
+          prompt: "What happens in Judges 19?",
+          answer: "A Levite's concubine is abused and dies in a terrible act of violence.",
+        },
+        {
+          prompt: "What does the chapter reveal about Israel?",
+          answer: "It reveals deep moral collapse and the breakdown of justice.",
+        },
+        {
+          prompt: "Why does Judges 19 matter?",
+          answer: "It shows how desperately Israel needed godly leadership and order.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
