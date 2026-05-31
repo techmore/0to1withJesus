@@ -8931,6 +8931,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Kings 9 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where the Lord appears again to Solomon and warns him to remain faithful.",
+      detail: "This quiz helps a beginner see 1 Kings 9 as a turning point where blessing continues but faithfulness remains essential.",
+      start: "Take this after 1 Kings 8 when you want to continue the book chapter by chapter.",
+      tags: ["1 Kings 9", "chapter", "Solomon"],
+      questions: [
+        {
+          prompt: "What does the Lord do in 1 Kings 9?",
+          answer: "He appears to Solomon again.",
+        },
+        {
+          prompt: "What warning does God give Solomon?",
+          answer: "To remain faithful and not turn away to other gods.",
+        },
+        {
+          prompt: "Why does 1 Kings 9 matter?",
+          answer: "It shows that blessing continues only if Solomon stays faithful to God.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
