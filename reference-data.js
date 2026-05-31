@@ -5521,6 +5521,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 20 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where God gives the Ten Commandments at Sinai.",
+      detail: "This quiz helps a beginner see Exodus 20 as the chapter where God's covenant people receive the foundation of holy living.",
+      start: "Take this after reading Exodus 20 carefully and noticing the Ten Commandments, the fear of the people, and the call to worship only the Lord.",
+      tags: ["Exodus 20", "chapter", "ten commandments"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Exodus 20?",
+          answer: "The chapter emphasizes the giving of the Ten Commandments.",
+        },
+        {
+          prompt: "What does Exodus 20 show about God's covenant with Israel?",
+          answer: "It shows that God gives his people instructions for worship and holy living.",
+        },
+        {
+          prompt: "Why does Exodus 20 matter after Exodus 19?",
+          answer: "It gives the content of the covenant call that Israel prepared to receive.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
