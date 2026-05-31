@@ -9459,6 +9459,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Kings 10 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Jehu destroys Ahab's house and Baal worship is cut down.",
+      detail: "This quiz helps a beginner see 2 Kings 10 as a chapter of sweeping judgment and a sharp break with Baal worship.",
+      start: "Take this after 2 Kings 9 when you want to continue the book chapter by chapter.",
+      tags: ["2 Kings 10", "chapter", "Jehu"],
+      questions: [
+        {
+          prompt: "What happens to Ahab's house in 2 Kings 10?",
+          answer: "It is destroyed.",
+        },
+        {
+          prompt: "What happens to Baal worship?",
+          answer: "It is cut down.",
+        },
+        {
+          prompt: "Why does 2 Kings 10 matter?",
+          answer: "It shows Jehu carrying out judgment and removing Baal worship.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
