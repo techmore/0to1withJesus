@@ -5895,6 +5895,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 37 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where the sacred furnishings are made.",
+      detail: "This quiz helps a beginner see Exodus 37 as the chapter where the ark, table, lampstand, and incense altar are crafted.",
+      start: "Take this after reading Exodus 37 carefully and noticing the furnishings being made according to the pattern.",
+      tags: ["Exodus 37", "chapter", "furnishings"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Exodus 37?",
+          answer: "The chapter emphasizes the making of the sacred tabernacle furnishings.",
+        },
+        {
+          prompt: "Which key items are made in Exodus 37?",
+          answer: "The ark, table, lampstand, and incense altar are made.",
+        },
+        {
+          prompt: "Why does Exodus 37 matter after Exodus 36?",
+          answer: "It continues the tabernacle work by forming the central holy objects for worship.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
