@@ -8777,6 +8777,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Samuel 3 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where David's house grows stronger and Abner shifts allegiance.",
+      detail: "This quiz helps a beginner see 2 Samuel 3 as the chapter where David's rule keeps advancing while the old Saul-centered house weakens.",
+      start: "Take this after 2 Samuel 2 when you want to see how David's kingdom gains strength.",
+      tags: ["2 Samuel 3", "chapter", "David"],
+      questions: [
+        {
+          prompt: "What is happening to David's house in 2 Samuel 3?",
+          answer: "It is growing stronger while Saul's house grows weaker.",
+        },
+        {
+          prompt: "Who begins to shift allegiance toward David?",
+          answer: "Abner.",
+        },
+        {
+          prompt: "Why does 2 Samuel 3 matter?",
+          answer: "It shows the kingdom moving toward David even amid political conflict and personal grief.",
+        },
+      ],
+    },
+    {
       title: "1 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where Hannah prays for a son and Samuel's story begins.",
