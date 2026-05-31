@@ -13581,6 +13581,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 47 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where resilient service becomes dependable ministry.",
+      detail: "This quiz helps a beginner see Matthew 47 as the chapter where service starts to look like a stable ministry pattern.",
+      start: "Take this after reading Matthew 47 carefully and noticing how service becomes ministry.",
+      tags: ["Matthew 47", "chapter", "ministry"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 47?",
+          answer: "The chapter emphasizes service that has become dependable ministry.",
+        },
+        {
+          prompt: "What does dependable ministry look like here?",
+          answer: "It means serving in a way that is consistent and trustworthy.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 46?",
+          answer: "It shows that service can grow into a stable ministry pattern.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
