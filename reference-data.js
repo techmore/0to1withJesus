@@ -4243,6 +4243,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 6 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the spread of corruption, God's grief, and Noah's favor.",
+      detail: "This quiz helps a beginner see Genesis 6 as the chapter where human evil becomes widespread, God judges corruption, and Noah stands out by grace.",
+      start: "Take this after reading Genesis 6 carefully and noticing the contrast between human wickedness and Noah's favor.",
+      tags: ["Genesis 6", "chapter", "Noah"],
+      questions: [
+        {
+          prompt: "What condition fills the earth in Genesis 6?",
+          answer: "Human wickedness and corruption are widespread.",
+        },
+        {
+          prompt: "How is Noah described?",
+          answer: "Noah finds favor with the Lord and is described as righteous in his generation.",
+        },
+        {
+          prompt: "Why is Genesis 6 important?",
+          answer: "It sets up the flood by showing both divine judgment on corruption and God's gracious preservation of a family.",
+        },
+      ],
+    },
+    {
       title: "Exodus 1 Quiz",
       kicker: "Chapter",
       summary: "Checks Israel's oppression in Egypt and the beginning of the rescue setting.",
