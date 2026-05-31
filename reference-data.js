@@ -7323,6 +7323,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Acts 24 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Paul's hearing before Felix and his continued witness.",
+      detail: "This quiz helps a beginner see Acts 24 as the chapter where Paul defends himself before a governor and still speaks of righteousness and judgment.",
+      start: "Take this after reading Acts 24 carefully and noticing Paul's calm defense before Felix.",
+      tags: ["Acts 24", "chapter", "Felix"],
+      questions: [
+        {
+          prompt: "Who brings charges against Paul before Felix?",
+          answer: "The high priest Ananias and the lawyer Tertullus bring charges against him.",
+        },
+        {
+          prompt: "What does Paul say about his hope?",
+          answer: "He says he hopes in the resurrection of the righteous and the unrighteous.",
+        },
+        {
+          prompt: "What happens to Paul at the end of the chapter?",
+          answer: "Felix keeps him in custody and hopes for a bribe, while Paul continues to speak about faith in Christ.",
+        },
+      ],
+    },
+    {
       title: "Acts Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Acts as the story of the Spirit-empowered church expanding from Jerusalem outward.",
