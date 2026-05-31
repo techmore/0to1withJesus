@@ -5763,6 +5763,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 31 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where the tabernacle workers, Sabbath, and covenant signs are named.",
+      detail: "This quiz helps a beginner see Exodus 31 as the chapter where God appoints craftsmen and reminds Israel about rest.",
+      start: "Take this after reading Exodus 31 carefully and noticing Bezalel, Oholiab, the Sabbath, and the tablets.",
+      tags: ["Exodus 31", "chapter", "sabbath"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Exodus 31?",
+          answer: "The chapter emphasizes appointed workers for the tabernacle and the importance of the Sabbath.",
+        },
+        {
+          prompt: "Who are the key workers named in Exodus 31?",
+          answer: "Bezalel and Oholiab are named as the craftsmen for the work.",
+        },
+        {
+          prompt: "Why does Exodus 31 matter after Exodus 30?",
+          answer: "It shows who will carry out the tabernacle work and ties that work to holy rest.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
