@@ -4781,6 +4781,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 121 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where calm listening becomes patient attention.",
+      detail: "This quiz helps a beginner see Matthew 121 as the chapter where Jesus turns listening into patient attention that stays with the truth.",
+      start: "Take this after reading Matthew 121 carefully and noticing how listening can become attention.",
+      tags: ["Matthew 121", "chapter", "attention"],
+      questions: [
+        {
+          prompt: "What does calm listening become?",
+          answer: "It becomes patient attention.",
+        },
+        {
+          prompt: "What does Jesus keep developing in his followers?",
+          answer: "He keeps developing the ability to stay focused without rushing.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how listening can turn into attention.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
