@@ -18319,6 +18319,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Titus Book Quiz",
+      kicker: "Book",
+      summary: "A whole-book check for Titus as Paul's letter about ordering churches and living soundly.",
+      detail: "This quiz helps a beginner see Titus as practical guidance for churches that need credible leaders, healthy teaching, and good works that match the gospel.",
+      start: "Take this after 2 Timothy and after noticing Paul's concern for church order and public witness.",
+      tags: ["Titus", "book", "church order"],
+      questions: [
+        {
+          prompt: "What is one major concern in Titus?",
+          answer: "Putting churches in order with sound teaching and qualified leaders.",
+        },
+        {
+          prompt: "How does Titus connect belief and behavior?",
+          answer: "It urges believers to live in ways that fit healthy doctrine.",
+        },
+        {
+          prompt: "What kind of emphasis appears in Titus 3?",
+          answer: "Good works, mercy, and the kindness of God in salvation.",
+        },
+      ],
+    },
+    {
       title: "Romans and Ephesians Doctrine Quiz",
       kicker: "Books",
       summary: "Checks grace, faith, church, unity, and new life in Christ.",
