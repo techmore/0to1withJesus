@@ -7699,6 +7699,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Joshua 7 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Achan's sin brings trouble and Joshua learns the seriousness of covenant faithfulness.",
+      detail: "This quiz helps a beginner see Joshua 7 as the chapter of hidden disobedience, where one person's sin affects the whole people and calls for repentance.",
+      start: "Take this after reading Joshua 7 carefully and noticing the defeat at Ai, the search for the cause, and Achan's confession.",
+      tags: ["Joshua 7", "chapter", "Achan"],
+      questions: [
+        {
+          prompt: "What goes wrong in Joshua 7?",
+          answer: "Israel is defeated at Ai because of hidden sin in the camp.",
+        },
+        {
+          prompt: "Who is responsible for the trouble in Joshua 7?",
+          answer: "Achan, who took forbidden things from Jericho.",
+        },
+        {
+          prompt: "Why does Joshua 7 matter?",
+          answer: "It shows that sin matters, God sees what is hidden, and the people must deal with wrongdoing honestly.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
