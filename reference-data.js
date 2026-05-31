@@ -9041,6 +9041,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Samuel 16 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Samuel anoints David and the Lord looks at the heart.",
+      detail: "This quiz helps a beginner see 1 Samuel 16 as the chapter where God chooses David, not by outward appearance but by the heart.",
+      start: "Take this after 1 Samuel 15 when you want to see the beginning of David's rise.",
+      tags: ["1 Samuel 16", "chapter", "David"],
+      questions: [
+        {
+          prompt: "Who does Samuel anoint in 1 Samuel 16?",
+          answer: "David.",
+        },
+        {
+          prompt: "What key lesson does the Lord teach Samuel?",
+          answer: "People look at the outward appearance, but the Lord looks at the heart.",
+        },
+        {
+          prompt: "Why does 1 Samuel 16 matter?",
+          answer: "It begins David's rise and shows how God chooses differently from people.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
