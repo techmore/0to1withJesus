@@ -6905,6 +6905,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Acts 5 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Ananias and Sapphira, apostolic signs, and the apostles' joy in suffering.",
+      detail: "This quiz helps a beginner see Acts 5 as the chapter where holiness, signs, and persecution all shape the church.",
+      start: "Take this after reading Acts 5 carefully and noticing the warning, the miracles, and the conflict.",
+      tags: ["Acts 5", "chapter", "holiness"],
+      questions: [
+        {
+          prompt: "What happens to Ananias and Sapphira?",
+          answer: "They die after lying about their gift to the church.",
+        },
+        {
+          prompt: "What do the apostles continue to do despite opposition?",
+          answer: "They perform signs and teach about Jesus.",
+        },
+        {
+          prompt: "How do the apostles respond to being beaten?",
+          answer: "They rejoice that they were counted worthy to suffer for Jesus' name.",
+        },
+      ],
+    },
+    {
       title: "Acts Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Acts as the story of the Spirit-empowered church expanding from Jerusalem outward.",
