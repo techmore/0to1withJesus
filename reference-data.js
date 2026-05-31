@@ -9195,6 +9195,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Samuel 22 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where David sings a song of deliverance and praises the Lord.",
+      detail: "This quiz helps a beginner see 2 Samuel 22 as a summary of God's rescue and faithfulness in David's life.",
+      start: "Take this after 2 Samuel 21 when you want to hear David's praise after God's rescue.",
+      tags: ["2 Samuel 22", "chapter", "David"],
+      questions: [
+        {
+          prompt: "What is 2 Samuel 22?",
+          answer: "A song of praise and deliverance from David.",
+        },
+        {
+          prompt: "What does David celebrate in the song?",
+          answer: "He celebrates that the Lord rescued him from his enemies.",
+        },
+        {
+          prompt: "Why does 2 Samuel 22 matter?",
+          answer: "It gives a poetic summary of God's faithfulness throughout David's life.",
+        },
+      ],
+    },
+    {
       title: "1 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where Hannah prays for a son and Samuel's story begins.",
