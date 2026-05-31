@@ -6665,6 +6665,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Numbers 32 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where the tribes east of the Jordan ask to settle early.",
+      detail: "This quiz helps a beginner see Numbers 32 as a chapter about inheritance, compromise, and shared responsibility.",
+      start: "Take this after reading Numbers 32 carefully and noticing the request, Moses' response, and the agreement to help the rest of Israel.",
+      tags: ["Numbers 32", "chapter", "inheritance"],
+      questions: [
+        {
+          prompt: "What request do the tribes of Reuben and Gad make in Numbers 32?",
+          answer: "They ask to settle on the east side of the Jordan because the land suits their livestock.",
+        },
+        {
+          prompt: "What condition does Moses place on their request?",
+          answer: "They must help the other tribes conquer the land before returning home.",
+        },
+        {
+          prompt: "Why does Numbers 32 matter?",
+          answer: "It shows how personal convenience has to be balanced with covenant responsibility to the whole people.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
