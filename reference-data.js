@@ -14087,6 +14087,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 70 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where settled commitment becomes steady dedication.",
+      detail: "This quiz helps a beginner see Matthew 70 as the chapter where commitment begins to feel dedicated and firm.",
+      start: "Take this after reading Matthew 70 carefully and noticing how commitment becomes dedication.",
+      tags: ["Matthew 70", "chapter", "dedication"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 70?",
+          answer: "The chapter emphasizes commitment that is becoming steady dedication.",
+        },
+        {
+          prompt: "What does steady dedication look like here?",
+          answer: "It means staying focused and faithful with a clear sense of purpose.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 69?",
+          answer: "It shows that settled commitment should deepen into steady dedication.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
