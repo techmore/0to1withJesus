@@ -6027,6 +6027,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Numbers 3 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where the Levites are set apart for tabernacle service.",
+      detail: "This quiz helps a beginner see Numbers 3 as the chapter that explains the Levites' special role in relation to the tabernacle and the firstborn.",
+      start: "Take this after reading Numbers 3 carefully and noticing the Levite census and the exchange for Israel's firstborn.",
+      tags: ["Numbers 3", "chapter", "levites"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Numbers 3?",
+          answer: "The chapter emphasizes the Levites being set apart for tabernacle service.",
+        },
+        {
+          prompt: "What special role do the Levites have in Numbers 3?",
+          answer: "They are set apart to serve the tabernacle in place of the firstborn.",
+        },
+        {
+          prompt: "Why does Numbers 3 matter after Numbers 2?",
+          answer: "It adds the priestly and Levite service structure to the camp arrangement around the tabernacle.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
