@@ -4595,6 +4595,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 29 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Joseph's revelation, Herod's threat, and the flight to Egypt.",
+      detail: "This quiz helps a beginner see Matthew 29 as the chapter where Jesus is protected in his infancy and the early danger surrounding him is made plain.",
+      start: "Take this after reading Matthew 29 carefully and noticing the dreams, warnings, and returns.",
+      tags: ["Matthew 29", "chapter", "infancy"],
+      questions: [
+        {
+          prompt: "What does Joseph learn in a dream?",
+          answer: "He learns that Mary has conceived by the Holy Spirit and that he should take her as his wife.",
+        },
+        {
+          prompt: "What warning does the angel give about Herod?",
+          answer: "The angel warns that Herod seeks the child's life, so the family must flee.",
+        },
+        {
+          prompt: "What happens after Herod dies?",
+          answer: "Joseph is told to return, and the family settles in Nazareth.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
