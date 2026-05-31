@@ -5411,6 +5411,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 15 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Moses and Israel sing after the sea rescue.",
+      detail: "This quiz helps a beginner see Exodus 15 as a praise chapter that celebrates God's victory and starts to show the people's next steps.",
+      start: "Take this after reading Exodus 15 carefully and noticing the song, the praise, and the shift from rescue to trust in the wilderness.",
+      tags: ["Exodus 15", "chapter", "song"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Exodus 15?",
+          answer: "The chapter emphasizes praise for the Lord's victory over Egypt.",
+        },
+        {
+          prompt: "What does Moses and Israel do in Exodus 15?",
+          answer: "They sing a song celebrating the Lord's deliverance.",
+        },
+        {
+          prompt: "Why does Exodus 15 matter after Exodus 14?",
+          answer: "It turns the rescue into worship and confidence in the Lord's rule.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
