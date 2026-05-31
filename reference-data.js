@@ -4243,6 +4243,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Luke 11 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the Lord's Prayer, Jesus' teaching on prayer, and the conflict with religious hypocrisy.",
+      detail: "This quiz helps a beginner see Luke 11 as the chapter where Jesus teaches prayer, warns about spiritual opposition, and confronts empty religion.",
+      start: "Take this after reading Luke 11 carefully and noticing the movement from prayer to warning to confrontation.",
+      tags: ["Luke 11", "chapter", "prayer"],
+      questions: [
+        {
+          prompt: "What prayer does Jesus teach his disciples in Luke 11?",
+          answer: "Jesus teaches them the Lord's Prayer.",
+        },
+        {
+          prompt: "What image does Jesus use for spiritual conflict?",
+          answer: "He speaks of the strong man and the stronger one who overcomes him.",
+        },
+        {
+          prompt: "What does Jesus warn against in the chapter?",
+          answer: "He warns against hypocrisy and outward religion that ignores justice and mercy.",
+        },
+      ],
+    },
+    {
       title: "John 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the opening claims about Jesus as the Word, light, and Son.",
