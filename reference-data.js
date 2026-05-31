@@ -8645,6 +8645,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Ruth 3 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Ruth seeks Boaz's help and asks him to act as redeemer.",
+      detail: "This quiz helps a beginner see Ruth 3 as the turning point where Ruth and Naomi move toward resolution and rescue.",
+      start: "Take this after Ruth 2 when you want to see the story's tension move toward hope.",
+      tags: ["Ruth 3", "chapter", "Boaz"],
+      questions: [
+        {
+          prompt: "What does Ruth do in Ruth 3?",
+          answer: "She goes to Boaz and asks him to act as redeemer.",
+        },
+        {
+          prompt: "What does the chapter show about Ruth and Naomi?",
+          answer: "It shows bold faith and hope for a future home and family line.",
+        },
+        {
+          prompt: "Why does Ruth 3 matter?",
+          answer: "It moves the story toward redemption and the resolution of Naomi's bitterness.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
