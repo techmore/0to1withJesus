@@ -5453,6 +5453,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 68 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the Sermon on the Mount themes and Jesus' authority over the law.",
+      detail: "This quiz helps a beginner see Matthew 68 as the chapter where Jesus teaches deeply about kingdom life and fulfills the law.",
+      start: "Take this after reading Matthew 68 carefully and noticing the teaching, the blessings, and the hard sayings.",
+      tags: ["Matthew 68", "chapter", "sermon"],
+      questions: [
+        {
+          prompt: "What major teaching collection appears here?",
+          answer: "The Sermon on the Mount themes are presented.",
+        },
+        {
+          prompt: "How does Jesus speak about the law?",
+          answer: "He teaches with authority and fulfills it.",
+        },
+        {
+          prompt: "What kind of life does he describe?",
+          answer: "He describes kingdom life and discipleship.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
