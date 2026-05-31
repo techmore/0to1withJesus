@@ -4705,6 +4705,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 26 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the tabernacle's curtains, frames, and inner coverings.",
+      detail: "This quiz helps a beginner see Exodus 26 as a chapter about the tabernacle structure itself, especially the curtains, frames, and the layered holiness of the dwelling place.",
+      start: "Take this after reading Exodus 26 carefully and noticing how the tent is built to shelter God's presence.",
+      tags: ["Exodus 26", "chapter", "tabernacle"],
+      questions: [
+        {
+          prompt: "What does Exodus 26 describe?",
+          answer: "The tabernacle's curtains, frames, coverings, and inner layout.",
+        },
+        {
+          prompt: "What stands out about the chapter?",
+          answer: "It gives detailed instructions for how the sacred tent is constructed and separated into holy space.",
+        },
+        {
+          prompt: "Why is Exodus 26 important?",
+          answer: "It shows that worship space is carefully designed to reflect God's holiness and presence among his people.",
+        },
+      ],
+    },
+    {
       title: "Luke and Acts Bridge Quiz",
       kicker: "Books",
       summary: "Checks how Luke's Gospel connects to the early church story in Acts.",
