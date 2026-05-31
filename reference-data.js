@@ -4749,6 +4749,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 28 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the priestly garments and their meaning for worship.",
+      detail: "This quiz helps a beginner see Exodus 28 as the chapter about Aaron's garments, the high priest's role, and the holiness of priestly service.",
+      start: "Take this after reading Exodus 28 carefully and noticing how the priest's clothing points to holy service before God.",
+      tags: ["Exodus 28", "chapter", "priesthood"],
+      questions: [
+        {
+          prompt: "What does Exodus 28 describe?",
+          answer: "The priestly garments for Aaron and his sons.",
+        },
+        {
+          prompt: "What is emphasized about the clothing?",
+          answer: "The garments are for glory, beauty, and holy service before the Lord.",
+        },
+        {
+          prompt: "Why is Exodus 28 important?",
+          answer: "It shows that the priesthood must represent Israel before God with holiness and care.",
+        },
+      ],
+    },
+    {
       title: "Luke and Acts Bridge Quiz",
       kicker: "Books",
       summary: "Checks how Luke's Gospel connects to the early church story in Acts.",
