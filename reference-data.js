@@ -8557,6 +8557,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Judges 21 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Israel tries to repair the damage after the civil war.",
+      detail: "This quiz helps a beginner see Judges 21 as a chapter of uneasy attempts to fix a broken situation after the violence in Judges 20.",
+      start: "Take this after Judges 20 when you want to see how Israel responds to the aftermath of civil war.",
+      tags: ["Judges 21", "chapter", "aftermath"],
+      questions: [
+        {
+          prompt: "What problem is addressed in Judges 21?",
+          answer: "Israel tries to deal with the aftermath of the civil war and the near loss of a tribe.",
+        },
+        {
+          prompt: "What does the chapter reveal about Israel?",
+          answer: "It reveals a people trying to fix problems caused by their own disorder.",
+        },
+        {
+          prompt: "Why does Judges 21 matter?",
+          answer: "It closes the book by showing how fractured Israel has become without faithful leadership.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
