@@ -8689,6 +8689,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Samuel Book Quiz",
+      kicker: "Book",
+      summary: "Checks the big picture of 1 Samuel as the book that moves Israel toward kingship through Samuel, Saul, and David.",
+      detail: "This quiz helps a beginner see 1 Samuel as the transition from judges to kings, where God raises Samuel, chooses Saul, and prepares David.",
+      start: "Take this after Ruth when you want to begin the next major stage in Israel's story.",
+      tags: ["1 Samuel", "book", "kings"],
+      questions: [
+        {
+          prompt: "What is 1 Samuel mainly about?",
+          answer: "The move from the time of the judges toward the monarchy.",
+        },
+        {
+          prompt: "Who are the main figures in 1 Samuel?",
+          answer: "Samuel, Saul, and David.",
+        },
+        {
+          prompt: "Why does 1 Samuel matter?",
+          answer: "It shows God guiding Israel toward kingship while teaching that obedience matters more than outward position.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
