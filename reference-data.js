@@ -5387,6 +5387,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 65 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the opening preaching and the call to repentance in Mark.",
+      detail: "This quiz helps a beginner see Matthew 65 as the chapter where Jesus begins preaching publicly and calling people to turn to God.",
+      start: "Take this after reading Matthew 65 carefully and noticing the proclamation, the response, and the invitation to repent.",
+      tags: ["Matthew 65", "chapter", "preaching"],
+      questions: [
+        {
+          prompt: "What does Jesus begin doing publicly?",
+          answer: "He begins preaching and announcing God's kingdom.",
+        },
+        {
+          prompt: "What response does he call for?",
+          answer: "He calls people to repent and believe.",
+        },
+        {
+          prompt: "What kind of urgency is in the chapter?",
+          answer: "There is a strong sense of urgency and movement.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
