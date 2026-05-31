@@ -5419,6 +5419,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 154 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where patient strength becomes steady endurance.",
+      detail: "This quiz helps a beginner see Matthew 154 as the chapter where strength settles into steady endurance with Jesus.",
+      start: "Take this after reading Matthew 154 carefully and noticing how strength becomes endurance.",
+      tags: ["Matthew 154", "chapter", "endurance"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 154?",
+          answer: "The chapter emphasizes steady endurance in following Jesus.",
+        },
+        {
+          prompt: "What does steady endurance look like here?",
+          answer: "It means keeping on faithfully through pressure without giving up.",
+        },
+        {
+          prompt: "Why does this matter after Matthew 153?",
+          answer: "It shows that patient strength can become steady endurance.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
