@@ -4003,6 +4003,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 2 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the garden chapter, where God forms humanity and gives a home and command.",
+      detail: "This quiz helps a beginner see Genesis 2 as the chapter where God places people in the garden and gives purpose, relationship, and limits.",
+      start: "Take this after reading Genesis 2 carefully and noticing the garden, the task, and the command.",
+      tags: ["Genesis 2", "chapter", "garden"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Genesis 2?",
+          answer: "The chapter emphasizes God forming humanity, placing them in the garden, and giving them purpose.",
+        },
+        {
+          prompt: "What important command is given in Genesis 2?",
+          answer: "God commands the man not to eat from the tree of the knowledge of good and evil.",
+        },
+        {
+          prompt: "Why does this matter after Genesis 1?",
+          answer: "It shows how the good created world includes human vocation, relationship, and responsibility.",
+        },
+      ],
+    },
+    {
       title: "Exodus Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Exodus as the Bible's great rescue story.",
