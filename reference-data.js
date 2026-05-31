@@ -17923,6 +17923,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Philippians Book Quiz",
+      kicker: "Book",
+      summary: "A whole-book check for Philippians as Paul's letter of joy, humility, partnership, and contentment in hardship.",
+      detail: "This quiz helps a beginner see Philippians as a warm, missional letter that keeps pointing believers toward Christlike humility and steadfast joy.",
+      start: "Take this after Acts 16 or after noticing Paul's friendship with the Philippian church.",
+      tags: ["Philippians", "Paul", "book"],
+      questions: [
+        {
+          prompt: "What tone is Philippians known for?",
+          answer: "Joy, gratitude, and affection even while Paul is suffering.",
+        },
+        {
+          prompt: "What famous passage in Philippians highlights Jesus' humility?",
+          answer: "Philippians 2's Christ hymn, which speaks of Jesus' self-emptying, obedience, and exaltation.",
+        },
+        {
+          prompt: "What does Paul say about contentment?",
+          answer: "He says he has learned to be content in plenty and in need through Christ who strengthens him.",
+        },
+      ],
+    },
+    {
       title: "Romans and Ephesians Doctrine Quiz",
       kicker: "Books",
       summary: "Checks grace, faith, church, unity, and new life in Christ.",
