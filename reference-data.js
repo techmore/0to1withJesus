@@ -5529,6 +5529,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 159 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where settled trust becomes calm perseverance.",
+      detail: "This quiz helps a beginner see Matthew 159 as the chapter where trust turns into calm perseverance with Jesus.",
+      start: "Take this after reading Matthew 159 carefully and noticing how trust becomes perseverance.",
+      tags: ["Matthew 159", "chapter", "perseverance"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 159?",
+          answer: "The chapter emphasizes calm perseverance in following Jesus.",
+        },
+        {
+          prompt: "What does calm perseverance look like here?",
+          answer: "It means continuing faithfully without panic when the road is difficult.",
+        },
+        {
+          prompt: "Why does this matter after Matthew 158?",
+          answer: "It shows that settled trust can become calm perseverance.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
