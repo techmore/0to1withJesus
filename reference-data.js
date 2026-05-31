@@ -4023,6 +4023,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 3 Quiz",
+      kicker: "Chapter",
+      summary: "Checks John the Baptist, repentance, and Jesus' baptism.",
+      detail: "This quiz helps a beginner see Matthew 3 as the chapter where John prepares the way, calls for repentance, and baptizes Jesus.",
+      start: "Take this after reading Matthew 3 carefully and noticing the call to turn around and the voice from heaven.",
+      tags: ["Matthew 3", "chapter", "repentance"],
+      questions: [
+        {
+          prompt: "What is John the Baptist's message in Matthew 3?",
+          answer: "He calls people to repent, because the kingdom of heaven is near.",
+        },
+        {
+          prompt: "What happens when Jesus is baptized?",
+          answer: "The Spirit descends like a dove and the Father's voice declares Jesus his beloved Son.",
+        },
+        {
+          prompt: "Why is this chapter important for Matthew's story?",
+          answer: "It introduces Jesus' public ministry and shows divine approval of him.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
