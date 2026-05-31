@@ -8205,6 +8205,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Judges 5 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the song of Deborah that celebrates the victory over Sisera.",
+      detail: "This quiz helps a beginner see Judges 5 as a poetic retelling that praises the Lord for rescuing his people.",
+      start: "Take this after Judges 4 when you want to hear the victory story in song form.",
+      tags: ["Judges 5", "chapter", "song"],
+      questions: [
+        {
+          prompt: "What kind of chapter is Judges 5?",
+          answer: "It is a song or poem celebrating victory.",
+        },
+        {
+          prompt: "Who is praised in Judges 5?",
+          answer: "The Lord, who delivered Israel.",
+        },
+        {
+          prompt: "Why does Judges 5 matter?",
+          answer: "It shows that God's rescue should lead to praise and remembrance.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
