@@ -9217,6 +9217,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Kings 22 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Ahab ignores true prophecy and dies in battle.",
+      detail: "This quiz helps a beginner see 1 Kings 22 as the closing warning of the book, where false confidence ends in judgment.",
+      start: "Take this after 1 Kings 21 when you want to finish the book chapter by chapter.",
+      tags: ["1 Kings 22", "chapter", "Ahab"],
+      questions: [
+        {
+          prompt: "What does Ahab do in 1 Kings 22?",
+          answer: "He goes to battle despite warning from true prophecy.",
+        },
+        {
+          prompt: "What happens to Ahab?",
+          answer: "He dies in battle.",
+        },
+        {
+          prompt: "Why does 1 Kings 22 matter?",
+          answer: "It closes the book by showing the danger of rejecting God's word.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
