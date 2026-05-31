@@ -8755,6 +8755,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Kings 1 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Solomon becomes king and Adonijah's attempt to take the throne is stopped.",
+      detail: "This quiz helps a beginner see 1 Kings 1 as the transition from David's reign to Solomon's rule, with palace intrigue and God's promise moving forward.",
+      start: "Take this after the 1 Kings overview when you want to begin the book chapter by chapter.",
+      tags: ["1 Kings 1", "chapter", "Solomon"],
+      questions: [
+        {
+          prompt: "Who is made king in 1 Kings 1?",
+          answer: "Solomon.",
+        },
+        {
+          prompt: "Who tries to take the throne for himself?",
+          answer: "Adonijah.",
+        },
+        {
+          prompt: "Why does 1 Kings 1 matter?",
+          answer: "It shows the throne passing to Solomon and the kingdom moving into its next stage.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
