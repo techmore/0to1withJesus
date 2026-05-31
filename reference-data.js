@@ -8623,6 +8623,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Ruth 2 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Ruth gleans in Boaz's field and experiences unexpected kindness.",
+      detail: "This quiz helps a beginner see Ruth 2 as the chapter where provision begins and Boaz becomes important in the story.",
+      start: "Take this after Ruth 1 when you want to see how God's care starts to show up.",
+      tags: ["Ruth 2", "chapter", "Boaz"],
+      questions: [
+        {
+          prompt: "What does Ruth do in Ruth 2?",
+          answer: "She gleans in the fields to provide for herself and Naomi.",
+        },
+        {
+          prompt: "Who shows kindness to Ruth?",
+          answer: "Boaz.",
+        },
+        {
+          prompt: "Why does Ruth 2 matter?",
+          answer: "It shows God's provision and begins to move the story toward redemption.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
