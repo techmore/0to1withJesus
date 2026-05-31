@@ -10427,6 +10427,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Chronicles 28 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where David charges Solomon and the leaders about the temple.",
+      detail: "This quiz helps a beginner see 1 Chronicles 28 as David's final public instructions about the temple and the kingdom.",
+      start: "Take this after 1 Chronicles 27 when you want to continue the book chapter by chapter.",
+      tags: ["1 Chronicles 28", "chapter", "Solomon"],
+      questions: [
+        {
+          prompt: "Who does David address in 1 Chronicles 28?",
+          answer: "Solomon and the leaders of Israel.",
+        },
+        {
+          prompt: "What major task is emphasized?",
+          answer: "Building the temple.",
+        },
+        {
+          prompt: "Why does 1 Chronicles 28 matter?",
+          answer: "It passes the temple work and kingship to Solomon.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
