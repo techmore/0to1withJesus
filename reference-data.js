@@ -4223,6 +4223,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 12 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the call of Abram, where blessing and promise begin a new path.",
+      detail: "This quiz helps a beginner see Genesis 12 as the chapter where God calls Abram and sets the promise-bearing story in motion.",
+      start: "Take this after reading Genesis 12 carefully and noticing the call, the promise, and the move to a new land.",
+      tags: ["Genesis 12", "chapter", "abram"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Genesis 12?",
+          answer: "The chapter emphasizes God's call of Abram and the promise of blessing.",
+        },
+        {
+          prompt: "What does God promise Abram in Genesis 12?",
+          answer: "God promises land, descendants, and blessing that will reach the nations.",
+        },
+        {
+          prompt: "Why does Genesis 12 matter after Genesis 11?",
+          answer: "It turns from scattered nations to the calling of one family through whom God will bless others.",
+        },
+      ],
+    },
+    {
       title: "Exodus Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Exodus as the Bible's great rescue story.",
