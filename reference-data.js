@@ -18811,6 +18811,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Psalms Book Quiz",
+      kicker: "Book",
+      summary: "A whole-book check for Psalms as Israel's prayer and praise book.",
+      detail: "This quiz helps a beginner see Psalms as a collection of songs and prayers that teach lament, praise, trust, repentance, and hope.",
+      start: "Take this after Job and after noticing the Bible gives many kinds of prayer language.",
+      tags: ["Psalms", "book", "prayer"],
+      questions: [
+        {
+          prompt: "What are Psalms mainly for?",
+          answer: "Prayer, praise, lament, confession, and worship.",
+        },
+        {
+          prompt: "What range of emotions do Psalms include?",
+          answer: "Joy, grief, fear, trust, anger, hope, and thanksgiving.",
+        },
+        {
+          prompt: "Why are Psalms helpful for beginners?",
+          answer: "They give faithful words to bring honestly before God.",
+        },
+      ],
+    },
+    {
       title: "Wisdom and Prayer Quiz",
       kicker: "Wisdom",
       summary: "Checks Job, Psalms, Proverbs, Ecclesiastes, and biblical prayer patterns.",
