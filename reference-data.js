@@ -8799,6 +8799,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Samuel 5 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where the Philistines discover the ark is not a trophy but a sign of the Lord's power.",
+      detail: "This quiz helps a beginner see 1 Samuel 5 as a chapter that shows God defending his own glory even while the ark is in enemy hands.",
+      start: "Take this after 1 Samuel 4 when you want to see what happens to the ark among the Philistines.",
+      tags: ["1 Samuel 5", "chapter", "ark"],
+      questions: [
+        {
+          prompt: "What happens to the Philistines in 1 Samuel 5?",
+          answer: "They suffer trouble after taking the ark.",
+        },
+        {
+          prompt: "What do the Philistines learn about the ark?",
+          answer: "It is not a trophy but a sign of the Lord's power.",
+        },
+        {
+          prompt: "Why does 1 Samuel 5 matter?",
+          answer: "It shows that God is not defeated when his ark is captured.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
