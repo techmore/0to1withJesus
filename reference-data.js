@@ -10405,6 +10405,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Chronicles 27 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter that lists David's officials and military divisions.",
+      detail: "This quiz helps a beginner see 1 Chronicles 27 as an ordered picture of the leaders and officers who supported David's kingdom.",
+      start: "Take this after 1 Chronicles 26 when you want to continue the book chapter by chapter.",
+      tags: ["1 Chronicles 27", "chapter", "officials"],
+      questions: [
+        {
+          prompt: "What does 1 Chronicles 27 list?",
+          answer: "David's officials and military divisions.",
+        },
+        {
+          prompt: "What does the chapter show about the kingdom?",
+          answer: "It was organized and supported by many leaders.",
+        },
+        {
+          prompt: "Why does 1 Chronicles 27 matter?",
+          answer: "It shows the structure behind David's rule.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
