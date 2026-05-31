@@ -13031,6 +13031,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "John Book Quiz",
+      kicker: "Book",
+      summary: "A whole-book check for John as the Gospel that centers on Jesus as the Word made flesh.",
+      detail: "This quiz helps a beginner see John as a Gospel of signs, belief, and the identity of Jesus as Son of God.",
+      start: "Take this after the Gospel of John path or alongside the other Gospel readings.",
+      tags: ["John", "book", "gospel"],
+      questions: [
+        {
+          prompt: "What is John especially trying to show about Jesus?",
+          answer: "That Jesus is the Word made flesh and the Son of God.",
+        },
+        {
+          prompt: "Why are signs important in John?",
+          answer: "They point people toward belief in Jesus' identity and mission.",
+        },
+        {
+          prompt: "Why is John important for beginners?",
+          answer: "It gives a focused picture of Jesus' identity, mission, and invitation to believe.",
+        },
+      ],
+    },
+    {
       title: "Matthew Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Matthew as the Gospel of fulfillment, kingdom, and discipleship.",
