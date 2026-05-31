@@ -16661,6 +16661,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Mark 6 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the rejection in Nazareth, the sending of the twelve, and the feeding of the five thousand.",
+      detail: "This quiz helps a beginner see Mark 6 as the chapter where Jesus faces rejection, sends his disciples, and feeds a crowd with abundance.",
+      start: "Take this after reading Mark 6 carefully and noticing how mission and provision fit together.",
+      tags: ["Mark 6", "chapter", "mission"],
+      questions: [
+        {
+          prompt: "What happens when Jesus visits Nazareth?",
+          answer: "He is rejected by many people in his hometown.",
+        },
+        {
+          prompt: "What does Jesus send the twelve to do?",
+          answer: "He sends them out to preach, heal, and depend on God.",
+        },
+        {
+          prompt: "What miracle feeds the crowd?",
+          answer: "Jesus feeds the five thousand with five loaves and two fish.",
+        },
+      ],
+    },
+    {
       title: "Luke Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Luke as the Gospel of the Spirit, outsiders, prayer, and salvation for all kinds of people.",
