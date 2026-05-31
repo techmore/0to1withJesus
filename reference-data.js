@@ -5651,6 +5651,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 77 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Mark's teaching, the crowd's amazement, and Jesus' authority.",
+      detail: "This quiz helps a beginner see Matthew 77 as the chapter where Jesus teaches, heals, and keeps showing authority in public.",
+      start: "Take this after reading Matthew 77 carefully and noticing the teaching scenes and the amazed response.",
+      tags: ["Matthew 77", "chapter", "authority"],
+      questions: [
+        {
+          prompt: "What stands out about Jesus in this chapter?",
+          answer: "He teaches and acts with authority.",
+        },
+        {
+          prompt: "How do the crowds respond?",
+          answer: "They are amazed by what he says and does.",
+        },
+        {
+          prompt: "What does the chapter emphasize?",
+          answer: "It emphasizes Jesus' authority in ministry.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
