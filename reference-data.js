@@ -4859,6 +4859,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 34 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Dinah's violation, the response of Simeon and Levi, and the danger in the land.",
+      detail: "This quiz helps a beginner see Genesis 34 as a dark chapter where violence, deception, and retaliation expose how fragile Jacob's household still is in the promised land.",
+      start: "Take this after reading Genesis 34 carefully and noticing the personal violation and the family's brutal response.",
+      tags: ["Genesis 34", "chapter", "Dinah"],
+      questions: [
+        {
+          prompt: "What happens to Dinah in Genesis 34?",
+          answer: "She is violated by Shechem, which triggers a crisis in Jacob's family.",
+        },
+        {
+          prompt: "How do Simeon and Levi respond?",
+          answer: "They deceive the men of the city and then attack them violently.",
+        },
+        {
+          prompt: "Why is Genesis 34 important?",
+          answer: "It shows the moral danger and violence still present in Jacob's family and surrounding land.",
+        },
+      ],
+    },
+    {
       title: "Exodus 1 Quiz",
       kicker: "Chapter",
       summary: "Checks Israel's oppression in Egypt and the beginning of the rescue setting.",
