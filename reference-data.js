@@ -4309,6 +4309,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 8 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the second wave of plagues and the mixed responses of Pharaoh and his magicians.",
+      detail: "This quiz helps a beginner see Exodus 8 as the chapter where the pressure grows through frogs, gnats, and flies. It highlights how Pharaoh keeps bargaining while the signs continue to expose Egypt's weakness.",
+      start: "Take this after reading Exodus 8 carefully and noticing the repeated requests and refusals.",
+      tags: ["Exodus 8", "chapter", "plagues"],
+      questions: [
+        {
+          prompt: "What kinds of signs appear in Exodus 8?",
+          answer: "Frogs, gnats or lice, and flies begin to overwhelm Egypt.",
+        },
+        {
+          prompt: "How does Pharaoh respond when the pressure increases?",
+          answer: "He bargains, asks for relief, and then hardens his heart again.",
+        },
+        {
+          prompt: "What do the magicians begin to admit?",
+          answer: "They recognize that God's power is at work beyond their own ability to imitate.",
+        },
+      ],
+    },
+    {
       title: "Luke and Acts Bridge Quiz",
       kicker: "Books",
       summary: "Checks how Luke's Gospel connects to the early church story in Acts.",
