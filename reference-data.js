@@ -5221,6 +5221,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 145 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where steady kindness becomes patient strength.",
+      detail: "This quiz helps a beginner see Matthew 145 as the chapter where gentleness is not weakness but durable strength.",
+      start: "Take this after reading Matthew 145 carefully and noticing how kindness can be strong.",
+      tags: ["Matthew 145", "chapter", "strength"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 145?",
+          answer: "The chapter emphasizes strength that is expressed through patience and kindness.",
+        },
+        {
+          prompt: "What does patient strength look like here?",
+          answer: "It means remaining gentle while still standing firm.",
+        },
+        {
+          prompt: "Why does this matter after Matthew 144?",
+          answer: "It shows that kindness can become a durable form of strength.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
