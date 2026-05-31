@@ -13691,6 +13691,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 52 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where public witness becomes sustained proclamation.",
+      detail: "This quiz helps a beginner see Matthew 52 as the chapter where testimony turns into an ongoing proclamation.",
+      start: "Take this after reading Matthew 52 carefully and noticing how witness becomes sustained.",
+      tags: ["Matthew 52", "chapter", "proclamation"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 52?",
+          answer: "The chapter emphasizes witness that keeps going as proclamation.",
+        },
+        {
+          prompt: "What does sustained proclamation look like here?",
+          answer: "It means continuing to speak clearly about what has been seen and learned.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 51?",
+          answer: "It shows that public witness should continue over time.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
