@@ -15121,6 +15121,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 117 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where gentle compassion becomes steady kindness.",
+      detail: "This quiz helps a beginner see Matthew 117 as the chapter where compassion starts to settle into steady kindness.",
+      start: "Take this after reading Matthew 117 carefully and noticing how compassion becomes kindness.",
+      tags: ["Matthew 117", "chapter", "kindness"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 117?",
+          answer: "The chapter emphasizes compassion that is becoming steady kindness.",
+        },
+        {
+          prompt: "What does steady kindness look like here?",
+          answer: "It means acting gently and reliably toward others over time.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 116?",
+          answer: "It shows that gentle compassion should become steady kindness.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
