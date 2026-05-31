@@ -4969,6 +4969,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 38 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the bronze altar, courtyard, and inventory of materials.",
+      detail: "This quiz helps a beginner see Exodus 38 as the chapter where the outer court and metal furnishings are completed and accounted for.",
+      start: "Take this after reading Exodus 38 carefully and noticing the repeated attention to measurement and materials.",
+      tags: ["Exodus 38", "chapter", "tabernacle"],
+      questions: [
+        {
+          prompt: "What does Exodus 38 describe?",
+          answer: "The bronze altar, the courtyard, and the accounting of materials used.",
+        },
+        {
+          prompt: "What detail stands out in the chapter?",
+          answer: "The work is carefully measured and the offerings are inventoried, showing order and transparency.",
+        },
+        {
+          prompt: "Why is Exodus 38 important?",
+          answer: "It shows that worship includes both sacred space and faithful stewardship of the gifts provided for it.",
+        },
+      ],
+    },
+    {
       title: "Luke and Acts Bridge Quiz",
       kicker: "Books",
       summary: "Checks how Luke's Gospel connects to the early church story in Acts.",
