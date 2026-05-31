@@ -5211,6 +5211,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 57 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the confrontation with tradition and Jesus' teaching on what truly defiles.",
+      detail: "This quiz helps a beginner see Matthew 57 as the chapter where Jesus presses the issue of inner purity over external rules.",
+      start: "Take this after reading Matthew 57 carefully and noticing the dispute, the explanation, and the challenge to the heart.",
+      tags: ["Matthew 57", "chapter", "purity"],
+      questions: [
+        {
+          prompt: "What dispute begins the chapter?",
+          answer: "Jesus is challenged about traditions and ritual purity.",
+        },
+        {
+          prompt: "What does Jesus say defiles a person?",
+          answer: "He says what comes out of the heart defiles a person.",
+        },
+        {
+          prompt: "What larger lesson does the chapter teach?",
+          answer: "It teaches that God cares about inner purity more than external rules.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
