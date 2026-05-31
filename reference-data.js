@@ -6993,6 +6993,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Acts 9 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Saul's conversion, Ananias, and Peter's healing ministry.",
+      detail: "This quiz helps a beginner see Acts 9 as the chapter where the church's greatest persecutor is transformed and the mission continues.",
+      start: "Take this after reading Acts 9 carefully and noticing both conversion and healing.",
+      tags: ["Acts 9", "chapter", "conversion"],
+      questions: [
+        {
+          prompt: "What happens to Saul on the road to Damascus?",
+          answer: "He encounters the risen Jesus and is blinded.",
+        },
+        {
+          prompt: "Who helps Saul regain his sight?",
+          answer: "Ananias lays hands on him and Saul is healed and baptized.",
+        },
+        {
+          prompt: "What does Peter do in the second half of the chapter?",
+          answer: "He heals Aeneas and raises Tabitha (Dorcas) from the dead.",
+        },
+      ],
+    },
+    {
       title: "Acts Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Acts as the story of the Spirit-empowered church expanding from Jerusalem outward.",
