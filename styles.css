@@ -1999,6 +1999,18 @@ h1 {
   align-items: center;
 }
 
+.quiz-nav-buttons .button {
+  background: rgba(31, 33, 23, 0.94);
+  color: var(--olive-200);
+  border-color: rgba(138, 146, 105, 0.38);
+  box-shadow: 0 8px 24px -16px rgba(0, 0, 0, 0.65);
+}
+
+.quiz-nav-buttons .button:hover {
+  color: var(--olive-50);
+  background: rgba(31, 33, 23, 1);
+}
+
 .quiz-nav-buttons .button.is-active,
 .quiz-nav-buttons .button[aria-current="page"] {
   background: var(--olive-100);
