@@ -9525,6 +9525,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Kings 13 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Elisha's final work and God's mercy continue despite repeated failure.",
+      detail: "This quiz helps a beginner see 2 Kings 13 as a chapter that still points to God's mercy even when leaders keep falling short.",
+      start: "Take this after 2 Kings 12 when you want to continue the book chapter by chapter.",
+      tags: ["2 Kings 13", "chapter", "Elisha"],
+      questions: [
+        {
+          prompt: "What does Elisha do in 2 Kings 13?",
+          answer: "He continues to guide Israel and speaks God's word.",
+        },
+        {
+          prompt: "What pattern keeps appearing in the chapter?",
+          answer: "Repeated failure followed by God's mercy.",
+        },
+        {
+          prompt: "Why does 2 Kings 13 matter?",
+          answer: "It shows that God's mercy remains even when people keep falling short.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
