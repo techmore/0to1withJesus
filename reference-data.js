@@ -4771,6 +4771,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 30 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the birth race, the mandrakes dispute, and Jacob's growing household.",
+      detail: "This quiz helps a beginner see Genesis 30 as the chapter where the family rivalry becomes a childbearing contest, while Jacob's wealth and household continue to grow.",
+      start: "Take this after reading Genesis 30 carefully and noticing the repeated pattern of longing, bargaining, and increase.",
+      tags: ["Genesis 30", "chapter", "mandrakes"],
+      questions: [
+        {
+          prompt: "What happens between Leah and Rachel in Genesis 30?",
+          answer: "They compete for children, and the chapter repeatedly shows their struggle through naming and bargaining.",
+        },
+        {
+          prompt: "What is the mandrakes episode about?",
+          answer: "Rachel bargains with Leah for mandrakes, showing the depth of the family rivalry and longing for fertility.",
+        },
+        {
+          prompt: "Why is Genesis 30 important?",
+          answer: "It shows the promise family multiplying even through conflict and sets up Jacob's increasing wealth.",
+        },
+      ],
+    },
+    {
       title: "Exodus 1 Quiz",
       kicker: "Chapter",
       summary: "Checks Israel's oppression in Egypt and the beginning of the rescue setting.",
