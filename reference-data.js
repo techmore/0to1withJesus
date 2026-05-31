@@ -7853,6 +7853,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Joshua 14 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Caleb receives his inheritance because he followed the Lord wholeheartedly.",
+      detail: "This quiz helps a beginner see Joshua 14 as the chapter that highlights faithful endurance and the reward of God's promise.",
+      start: "Take this after reading Joshua 14 carefully and noticing Caleb's request, his age, and the land he receives.",
+      tags: ["Joshua 14", "chapter", "Caleb"],
+      questions: [
+        {
+          prompt: "Who is highlighted in Joshua 14?",
+          answer: "Caleb.",
+        },
+        {
+          prompt: "Why does Caleb receive his land?",
+          answer: "Because he followed the Lord wholeheartedly and trusted his promise.",
+        },
+        {
+          prompt: "Why does Joshua 14 matter?",
+          answer: "It shows that faithfulness is remembered and that God keeps his promises over time.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
