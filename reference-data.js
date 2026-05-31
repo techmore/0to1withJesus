@@ -4243,6 +4243,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 13 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Jesus' parables about the kingdom and the mixed responses they provoke.",
+      detail: "This quiz helps a beginner see Matthew 13 as the chapter where Jesus teaches in parables about the kingdom, hidden growth, and the different kinds of hearers.",
+      start: "Take this after reading Matthew 13 carefully and noticing the parables and Jesus' explanation of why he teaches this way.",
+      tags: ["Matthew 13", "chapter", "parables"],
+      questions: [
+        {
+          prompt: "What teaching method dominates Matthew 13?",
+          answer: "Jesus teaches the crowds through parables.",
+        },
+        {
+          prompt: "What kinds of responses to the word does Jesus describe?",
+          answer: "He describes different kinds of hearers, including those who do not understand, those who receive it shallowly, those choked by cares, and those who bear fruit.",
+        },
+        {
+          prompt: "What does Jesus say the parables reveal about the kingdom?",
+          answer: "They show that the kingdom may seem hidden or small at first but will grow and be gathered in the end.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
