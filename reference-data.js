@@ -4529,6 +4529,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Luke 24 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the resurrection, Emmaus, and Jesus' ascension.",
+      detail: "This quiz helps a beginner see Luke 24 as the chapter where the risen Jesus is recognized and sends his followers out.",
+      start: "Take this after reading Luke 24 carefully and noticing the empty tomb, the road, and the sending.",
+      tags: ["Luke 24", "chapter", "resurrection"],
+      questions: [
+        {
+          prompt: "What do the women find at the tomb?",
+          answer: "They find the stone rolled away and Jesus' body missing.",
+        },
+        {
+          prompt: "How do the disciples on the road to Emmaus recognize Jesus?",
+          answer: "They recognize him when he breaks bread with them.",
+        },
+        {
+          prompt: "What happens at the end of Luke 24?",
+          answer: "Jesus blesses his disciples and is taken up into heaven.",
+        },
+      ],
+    },
+    {
       title: "John 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the opening claims about Jesus as the Word, light, and Son.",
