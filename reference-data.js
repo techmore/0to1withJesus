@@ -5213,6 +5213,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 6 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where God renews his covenant promises to Moses.",
+      detail: "This quiz helps a beginner see Exodus 6 as the chapter where God answers Moses' despair with his own name and promises.",
+      start: "Take this after reading Exodus 6 carefully and noticing the repeated promises, the genealogy, and the charge to speak again.",
+      tags: ["Exodus 6", "chapter", "moses"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Exodus 6?",
+          answer: "The chapter emphasizes God's renewed promise to deliver Israel and the naming of Moses and Aaron's role.",
+        },
+        {
+          prompt: "What reassurance does God give Moses in Exodus 6?",
+          answer: "God reminds Moses that he will bring Israel out with a mighty hand and keep his covenant promises.",
+        },
+        {
+          prompt: "Why does Exodus 6 matter after Exodus 5?",
+          answer: "It answers Moses' discouragement by grounding the rescue in God's covenant faithfulness.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
