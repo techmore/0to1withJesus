@@ -5101,6 +5101,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 52 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the temptation, calling of disciples, and early ministry in Galilee.",
+      detail: "This quiz helps a beginner see Matthew 52 as the chapter where Jesus resists temptation and begins gathering followers.",
+      start: "Take this after reading Matthew 52 carefully and noticing the wilderness testing, the call to follow, and the first healings.",
+      tags: ["Matthew 52", "chapter", "temptation"],
+      questions: [
+        {
+          prompt: "What happens in the wilderness?",
+          answer: "Jesus is tempted but remains faithful to God.",
+        },
+        {
+          prompt: "Who does Jesus call first?",
+          answer: "He calls fishermen to follow him as disciples.",
+        },
+        {
+          prompt: "What begins in Galilee?",
+          answer: "Jesus' public teaching and healing ministry begins.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
