@@ -13339,6 +13339,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 36 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where steady wisdom becomes consistent discernment.",
+      detail: "This quiz helps a beginner see Matthew 36 as the chapter where wisdom keeps attention on what is true and important.",
+      start: "Take this after reading Matthew 36 carefully and noticing how discernment stays steady.",
+      tags: ["Matthew 36", "chapter", "discernment"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 36?",
+          answer: "The chapter emphasizes wisdom that keeps discerning faithfully.",
+        },
+        {
+          prompt: "What does consistent discernment look like here?",
+          answer: "It means staying anchored in what Jesus has taught while making choices.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 35?",
+          answer: "It shows that steady wisdom should remain alert and discerning.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
