@@ -4177,6 +4177,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 10 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the sending of the twelve and Jesus' teaching about mission and courage.",
+      detail: "This quiz helps a beginner see Matthew 10 as the chapter where Jesus sends out the twelve and prepares them for opposition.",
+      start: "Take this after reading Matthew 10 carefully and noticing the mission instructions and warnings.",
+      tags: ["Matthew 10", "chapter", "mission"],
+      questions: [
+        {
+          prompt: "What does Jesus give the twelve in this chapter?",
+          answer: "He gives them authority and sends them out to proclaim the kingdom and heal.",
+        },
+        {
+          prompt: "What does Jesus warn the disciples about?",
+          answer: "He warns them about opposition, persecution, and the cost of following him.",
+        },
+        {
+          prompt: "What encouragement does Jesus give them?",
+          answer: "He tells them not to fear and to trust God, who values them and will care for them.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
