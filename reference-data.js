@@ -6753,6 +6753,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Numbers 36 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter that protects tribal inheritance by limiting how land can move between families.",
+      detail: "This quiz helps a beginner see Numbers 36 as a chapter about preserving the land promise within the tribes of Israel.",
+      start: "Take this after reading Numbers 36 carefully and noticing the concern about Zelophehad's daughters and tribal inheritance.",
+      tags: ["Numbers 36", "chapter", "inheritance"],
+      questions: [
+        {
+          prompt: "What problem is addressed in Numbers 36?",
+          answer: "The chapter addresses how to keep inheritance within the same tribe.",
+        },
+        {
+          prompt: "Why is this issue important in Numbers 36?",
+          answer: "It protects the land allotments given by God to each tribe.",
+        },
+        {
+          prompt: "Why does Numbers 36 matter as the book closes?",
+          answer: "It finishes the wilderness book by guarding the promises tied to the land and the tribes.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
