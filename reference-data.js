@@ -4133,6 +4133,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "John 6 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the feeding of the five thousand, walking on water, and Jesus as bread of life.",
+      detail: "This quiz helps a beginner see John 6 as the chapter where Jesus provides bread, reveals his power over the sea, and then presses the crowd to understand who he really is.",
+      start: "Take this after reading John 6 carefully and noticing both the signs and the hard teaching that follows.",
+      tags: ["John 6", "chapter", "bread of life"],
+      questions: [
+        {
+          prompt: "What miracle feeds the crowd in John 6?",
+          answer: "Jesus feeds a large crowd with five loaves and two fish.",
+        },
+        {
+          prompt: "What happens when the disciples are on the sea?",
+          answer: "Jesus comes to them walking on the water.",
+        },
+        {
+          prompt: "How does Jesus describe himself in this chapter?",
+          answer: "He says he is the bread of life.",
+        },
+      ],
+    },
+    {
       title: "John 11 Quiz",
       kicker: "Chapter",
       summary: "Checks Lazarus, resurrection, grief, faith, and rising conflict.",
