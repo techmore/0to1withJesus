@@ -5277,6 +5277,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 60 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the healing and teaching that keep the ministry moving forward.",
+      detail: "This quiz helps a beginner see Matthew 60 as the chapter where Jesus continues to heal and teach while the crowds stay close.",
+      start: "Take this after reading Matthew 60 carefully and noticing the ongoing healings, teaching, and the crowd's attention.",
+      tags: ["Matthew 60", "chapter", "ministry"],
+      questions: [
+        {
+          prompt: "What continues in Jesus' work?",
+          answer: "He continues healing and teaching.",
+        },
+        {
+          prompt: "How do the crowds respond?",
+          answer: "They remain interested and keep following him.",
+        },
+        {
+          prompt: "What does this chapter emphasize?",
+          answer: "It emphasizes steady ministry and Jesus' ongoing authority.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
