@@ -5067,6 +5067,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 138 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where resilient peace becomes settled trust.",
+      detail: "This quiz helps a beginner see Matthew 138 as the chapter where peace matures into calm confidence in Jesus.",
+      start: "Take this after reading Matthew 138 carefully and noticing how peace turns into trust.",
+      tags: ["Matthew 138", "chapter", "trust"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 138?",
+          answer: "The chapter emphasizes calm confidence that rests in Jesus.",
+        },
+        {
+          prompt: "What does settled trust look like here?",
+          answer: "It means remaining confident without needing to force control.",
+        },
+        {
+          prompt: "Why does this matter after Matthew 137?",
+          answer: "It shows that resilient peace can mature into settled trust.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
