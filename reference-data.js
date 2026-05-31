@@ -4309,6 +4309,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 16 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Peter's confession, Jesus' first passion prediction, and the call to take up the cross.",
+      detail: "This quiz helps a beginner see Matthew 16 as the chapter where Jesus is named as Messiah and immediately redefines messiahship through suffering.",
+      start: "Take this after reading Matthew 16 carefully and noticing the shift from signs to confession and cross-bearing.",
+      tags: ["Matthew 16", "chapter", "confession"],
+      questions: [
+        {
+          prompt: "What confession does Peter make about Jesus?",
+          answer: "Peter says Jesus is the Christ, the Son of the living God.",
+        },
+        {
+          prompt: "What does Jesus begin to teach after that confession?",
+          answer: "He begins to teach that he must suffer, be killed, and be raised on the third day.",
+        },
+        {
+          prompt: "What does Jesus say his followers must do?",
+          answer: "They must deny themselves, take up their cross, and follow him.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
