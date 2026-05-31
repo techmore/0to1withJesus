@@ -6343,6 +6343,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 115 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where restful peace becomes stable comfort.",
+      detail: "This quiz helps a beginner see Matthew 115 as the chapter where Jesus turns peace into stable comfort that can remain even when circumstances shift.",
+      start: "Take this after reading Matthew 115 carefully and noticing how peace can become comfort.",
+      tags: ["Matthew 115", "chapter", "comfort"],
+      questions: [
+        {
+          prompt: "What does restful peace become?",
+          answer: "It becomes stable comfort.",
+        },
+        {
+          prompt: "What does Jesus keep giving his followers?",
+          answer: "He keeps giving them a settled comfort that holds steady.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how peace can deepen into comfort.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
