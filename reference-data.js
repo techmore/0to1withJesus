@@ -9195,6 +9195,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Samuel 23 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where David keeps asking God for guidance while Saul keeps hunting him.",
+      detail: "This quiz helps a beginner see 1 Samuel 23 as the chapter where David seeks the Lord before acting and God keeps guiding him through danger.",
+      start: "Take this after 1 Samuel 22 when you want to see David depend on God's direction.",
+      tags: ["1 Samuel 23", "chapter", "David"],
+      questions: [
+        {
+          prompt: "What does David keep doing in 1 Samuel 23?",
+          answer: "He keeps asking the Lord for guidance.",
+        },
+        {
+          prompt: "Who helps David while Saul is pursuing him?",
+          answer: "The Lord gives direction through the priests and through providence.",
+        },
+        {
+          prompt: "Why does 1 Samuel 23 matter?",
+          answer: "It shows David relying on God's guidance instead of acting alone.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
