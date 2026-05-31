@@ -5353,6 +5353,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 151 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where resilient hope becomes quiet courage.",
+      detail: "This quiz helps a beginner see Matthew 151 as the chapter where hope settles into a quiet courage that keeps moving forward with Jesus.",
+      start: "Take this after reading Matthew 151 carefully and noticing how hope becomes quiet courage.",
+      tags: ["Matthew 151", "chapter", "courage"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 151?",
+          answer: "The chapter emphasizes quiet courage that keeps following Jesus.",
+        },
+        {
+          prompt: "What does quiet courage look like here?",
+          answer: "It means remaining steady and obedient without needing attention or applause.",
+        },
+        {
+          prompt: "Why does this matter after Matthew 150?",
+          answer: "It shows that resilient hope can become quiet courage.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
