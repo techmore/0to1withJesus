@@ -7223,6 +7223,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 144 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where shared direction becomes durable unity.",
+      detail: "This quiz helps a beginner see Matthew 144 as the chapter where Jesus keeps turning common direction into a group that stays together.",
+      start: "Take this after reading Matthew 144 carefully and noticing how direction can become unity.",
+      tags: ["Matthew 144", "chapter", "unity"],
+      questions: [
+        {
+          prompt: "What does shared direction become?",
+          answer: "It becomes durable unity.",
+        },
+        {
+          prompt: "What does Jesus keep holding together?",
+          answer: "He keeps holding the group together.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how direction can become shared belonging.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
