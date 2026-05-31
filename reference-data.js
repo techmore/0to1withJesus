@@ -5939,6 +5939,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 39 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where the priestly garments and final tabernacle pieces are finished.",
+      detail: "This quiz helps a beginner see Exodus 39 as the chapter where the detailed craftsmanship reaches completion and approval.",
+      start: "Take this after reading Exodus 39 carefully and noticing the garments, the woven items, and the repeated emphasis on doing what the Lord commanded.",
+      tags: ["Exodus 39", "chapter", "garments"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Exodus 39?",
+          answer: "The chapter emphasizes finishing the priestly garments and tabernacle work.",
+        },
+        {
+          prompt: "What repeated phrase stands out in Exodus 39?",
+          answer: "The work is done as the Lord commanded Moses.",
+        },
+        {
+          prompt: "Why does Exodus 39 matter after Exodus 38?",
+          answer: "It brings the tabernacle project to its final crafted form before inspection and blessing.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
