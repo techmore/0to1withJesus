@@ -4245,6 +4245,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 13 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Abram and Lot separate and the promise stays with Abram.",
+      detail: "This quiz helps a beginner see Genesis 13 as the chapter that shows the land promise continuing after Abram and Lot go their separate ways.",
+      start: "Take this after reading Genesis 13 carefully and noticing the choice of land, the separation, and the renewed promise.",
+      tags: ["Genesis 13", "chapter", "abram"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Genesis 13?",
+          answer: "The chapter emphasizes Abram and Lot separating and God reaffirming the land promise to Abram.",
+        },
+        {
+          prompt: "Why do Abram and Lot separate in Genesis 13?",
+          answer: "Their flocks and herds are too many for the land to support them together.",
+        },
+        {
+          prompt: "Why does Genesis 13 matter after Genesis 12?",
+          answer: "It shows that the promise continues through Abram even as he and Lot choose different directions.",
+        },
+      ],
+    },
+    {
       title: "Exodus Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Exodus as the Bible's great rescue story.",
