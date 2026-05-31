@@ -7179,6 +7179,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 142 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where gentle authority becomes steady leadership.",
+      detail: "This quiz helps a beginner see Matthew 142 as the chapter where Jesus keeps turning calm authority into leadership that people can trust.",
+      start: "Take this after reading Matthew 142 carefully and noticing how authority can become leadership.",
+      tags: ["Matthew 142", "chapter", "leadership"],
+      questions: [
+        {
+          prompt: "What does gentle authority become?",
+          answer: "It becomes steady leadership.",
+        },
+        {
+          prompt: "What does Jesus keep providing?",
+          answer: "He keeps providing trustable direction.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how calm authority can guide people.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
