@@ -5727,6 +5727,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 168 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where steady trust becomes grounded peace.",
+      detail: "This quiz helps a beginner see Matthew 168 as the chapter where trust settles into grounded peace with Jesus.",
+      start: "Take this after reading Matthew 168 carefully and noticing how trust becomes peace.",
+      tags: ["Matthew 168", "chapter", "peace"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 168?",
+          answer: "The chapter emphasizes grounded peace in following Jesus.",
+        },
+        {
+          prompt: "What does grounded peace look like here?",
+          answer: "It means resting in Jesus with a calm and settled heart.",
+        },
+        {
+          prompt: "Why does this matter after Matthew 167?",
+          answer: "It shows that steady trust can become grounded peace.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
