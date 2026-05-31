@@ -7919,6 +7919,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Joshua 17 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter that describes the inheritance given to Manasseh and the complaint about the remaining land.",
+      detail: "This quiz helps a beginner see Joshua 17 as a chapter about inheritance, complaint, and the challenge of finishing the work in the land.",
+      start: "Take this after reading Joshua 17 carefully and noticing the tribe of Manasseh, the daughters of Zelophehad, and the request for more land.",
+      tags: ["Joshua 17", "chapter", "Manasseh"],
+      questions: [
+        {
+          prompt: "What tribe is in focus in Joshua 17?",
+          answer: "Manasseh.",
+        },
+        {
+          prompt: "What concern do the people raise?",
+          answer: "They say the hill country is not enough and that some of the land still has strong Canaanites.",
+        },
+        {
+          prompt: "Why does Joshua 17 matter?",
+          answer: "It shows that the land allotment continues and that God's people still face unfinished work.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
