@@ -6553,6 +6553,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 118 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where invitation becomes an open call to respond.",
+      detail: "This quiz helps a beginner see Matthew 118 as the chapter where Jesus keeps turning testimony into an explicit call.",
+      start: "Take this after reading Matthew 118 carefully and noticing how witness invites decision.",
+      tags: ["Matthew 118", "chapter", "call"],
+      questions: [
+        {
+          prompt: "What does invitation become?",
+          answer: "It becomes an open call to respond.",
+        },
+        {
+          prompt: "What does Jesus keep clarifying?",
+          answer: "He keeps clarifying the call to response.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how testimony asks for a decision.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
