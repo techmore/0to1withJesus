@@ -8843,6 +8843,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Samuel 6 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where the ark comes to Jerusalem and David worships before the Lord.",
+      detail: "This quiz helps a beginner see 2 Samuel 6 as the chapter where God's presence is brought to the city and David responds with worship and humility.",
+      start: "Take this after 2 Samuel 5 when you want to see Jerusalem become the center of worship.",
+      tags: ["2 Samuel 6", "chapter", "David"],
+      questions: [
+        {
+          prompt: "What important object is brought to Jerusalem in 2 Samuel 6?",
+          answer: "The ark of the covenant.",
+        },
+        {
+          prompt: "How does David respond when the ark arrives?",
+          answer: "He worships and dances before the Lord.",
+        },
+        {
+          prompt: "Why does 2 Samuel 6 matter?",
+          answer: "It shows Jerusalem becoming a center of worship and David giving God honor.",
+        },
+      ],
+    },
+    {
       title: "1 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where Hannah prays for a son and Samuel's story begins.",
