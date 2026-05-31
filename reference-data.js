@@ -16639,6 +16639,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Mark 5 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the Gerasene demoniac, the woman with the flow of blood, and Jairus's daughter.",
+      detail: "This quiz helps a beginner see Mark 5 as the chapter where Jesus shows authority over demons, disease, and death.",
+      start: "Take this after reading Mark 5 carefully and noticing how Jesus brings freedom and life.",
+      tags: ["Mark 5", "chapter", "healing"],
+      questions: [
+        {
+          prompt: "What happens to the demon-possessed man in Mark 5?",
+          answer: "Jesus frees him from a legion of demons.",
+        },
+        {
+          prompt: "What does the woman with the flow of blood do?",
+          answer: "She reaches out in faith and is healed.",
+        },
+        {
+          prompt: "What miracle closes the chapter?",
+          answer: "Jesus raises Jairus's daughter.",
+        },
+      ],
+    },
+    {
       title: "Luke Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Luke as the Gospel of the Spirit, outsiders, prayer, and salvation for all kinds of people.",
