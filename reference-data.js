@@ -9217,6 +9217,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Samuel 23 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter that records David's last words and the list of his mighty men.",
+      detail: "This quiz helps a beginner see 2 Samuel 23 as a closing reflection on David's reign and the faithful warriors around him.",
+      start: "Take this after 2 Samuel 22 when you want to see the end of David's story in reflection and summary.",
+      tags: ["2 Samuel 23", "chapter", "David"],
+      questions: [
+        {
+          prompt: "What does 2 Samuel 23 begin with?",
+          answer: "David's last words.",
+        },
+        {
+          prompt: "What else is highlighted in the chapter?",
+          answer: "The list of David's mighty men.",
+        },
+        {
+          prompt: "Why does 2 Samuel 23 matter?",
+          answer: "It closes David's story with reflection on God's rule and the faithful people around him.",
+        },
+      ],
+    },
+    {
       title: "1 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where Hannah prays for a son and Samuel's story begins.",
