@@ -4331,6 +4331,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "John 15 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the vine and branches, abiding, and the command to love.",
+      detail: "This quiz helps a beginner see John 15 as the chapter where Jesus teaches dependence, fruitfulness, and friendship with him in the face of coming opposition.",
+      start: "Take this after reading John 15 carefully and noticing the repeated calls to remain in Jesus.",
+      tags: ["John 15", "chapter", "vine"],
+      questions: [
+        {
+          prompt: "What image does Jesus use to describe the relationship with his followers?",
+          answer: "Jesus says he is the vine and they are the branches.",
+        },
+        {
+          prompt: "What must the disciples do to bear fruit?",
+          answer: "They must abide in Jesus and remain connected to him.",
+        },
+        {
+          prompt: "What command is repeated in this chapter?",
+          answer: "Jesus commands the disciples to love one another.",
+        },
+      ],
+    },
+    {
       title: "John 18-21 Quiz",
       kicker: "Chapters",
       summary: "Checks the arrest, trial, cross, resurrection, and Peter's restoration.",
