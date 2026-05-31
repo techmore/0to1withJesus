@@ -8359,6 +8359,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Judges 12 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Jephthah's conflict with Ephraim ends and another judge period closes.",
+      detail: "This quiz helps a beginner see Judges 12 as a chapter about internal conflict and the continuing instability of Israel's leadership.",
+      start: "Take this after Judges 11 when you want to see how the aftermath of Jephthah's story unfolds.",
+      tags: ["Judges 12", "chapter", "Jephthah"],
+      questions: [
+        {
+          prompt: "What conflict happens in Judges 12?",
+          answer: "Jephthah's men clash with the Ephraimites.",
+        },
+        {
+          prompt: "What does the chapter show about Israel?",
+          answer: "It shows ongoing division and instability among the tribes.",
+        },
+        {
+          prompt: "Why does Judges 12 matter?",
+          answer: "It shows that the book's problems are not just external enemies but also internal fractures.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
