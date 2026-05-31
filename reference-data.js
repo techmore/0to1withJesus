@@ -4507,6 +4507,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 25 Quiz",
+      kicker: "Chapter",
+      summary: "Checks readiness parables, final judgment, and service to 'the least of these.'",
+      detail: "This quiz helps a beginner see Matthew 25 as the chapter where Jesus presses readiness, faithful stewardship, and mercy to others as signs of true discipleship.",
+      start: "Take this after reading Matthew 25 carefully and noticing the wise and foolish bridesmaids, the talents, and the sheep and goats.",
+      tags: ["Matthew 25", "chapter", "judgment"],
+      questions: [
+        {
+          prompt: "What do the wise and foolish bridesmaids teach?",
+          answer: "They teach that disciples must be ready for the bridegroom and not assume there will be time later.",
+        },
+        {
+          prompt: "What lesson comes from the parable of the talents?",
+          answer: "Faithfulness with what God gives matters, and servants are expected to use it well.",
+        },
+        {
+          prompt: "What distinguishes the sheep from the goats?",
+          answer: "The sheep cared for Jesus in the hungry, thirsty, stranger, naked, sick, and imprisoned; the goats did not.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
