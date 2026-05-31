@@ -4935,6 +4935,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 132 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where grounded faithfulness becomes resilient hope.",
+      detail: "This quiz helps a beginner see Matthew 132 as the chapter where trust keeps holding even when circumstances are hard.",
+      start: "Take this after reading Matthew 132 carefully and noticing how hope remains steady.",
+      tags: ["Matthew 132", "chapter", "hope"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 132?",
+          answer: "The chapter emphasizes hope that remains steady under pressure.",
+        },
+        {
+          prompt: "What does resilient hope look like here?",
+          answer: "It means trusting Jesus even when the immediate situation is difficult.",
+        },
+        {
+          prompt: "Why does this matter after Matthew 131?",
+          answer: "It shows that faithfulness can develop into a hope that does not give up.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
