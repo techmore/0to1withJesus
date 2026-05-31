@@ -4133,6 +4133,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Luke 6 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Sabbath controversies, the Sermon on the Plain, and love for enemies.",
+      detail: "This quiz helps a beginner see Luke 6 as the chapter where Jesus reorients Sabbath, disciple life, and the ethics of mercy and enemy-love.",
+      start: "Take this after reading Luke 6 carefully and noticing how Jesus turns expectations upside down.",
+      tags: ["Luke 6", "chapter", "Sermon on the Plain"],
+      questions: [
+        {
+          prompt: "What conflict starts the chapter?",
+          answer: "Jesus is challenged over Sabbath practices when the disciples pluck grain and he heals on the Sabbath.",
+        },
+        {
+          prompt: "What kind of teaching follows?",
+          answer: "Jesus gives a set of blessings and warnings often called the Sermon on the Plain.",
+        },
+        {
+          prompt: "What surprising command does Jesus give about enemies?",
+          answer: "He tells his followers to love their enemies and do good to those who hate them.",
+        },
+      ],
+    },
+    {
       title: "John 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the opening claims about Jesus as the Word, light, and Son.",
