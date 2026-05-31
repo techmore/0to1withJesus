@@ -4881,6 +4881,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 34 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the covenant renewal and God's revealed character.",
+      detail: "This quiz helps a beginner see Exodus 34 as the chapter where the covenant is renewed, Moses receives new tablets, and God's mercy and justice are proclaimed.",
+      start: "Take this after reading Exodus 34 carefully and noticing how God renews the covenant after the golden calf failure.",
+      tags: ["Exodus 34", "chapter", "covenant"],
+      questions: [
+        {
+          prompt: "What happens in Exodus 34?",
+          answer: "God renews the covenant with Israel and gives Moses new tablets.",
+        },
+        {
+          prompt: "What famous description of God appears here?",
+          answer: "The Lord describes himself as merciful, gracious, slow to anger, and abounding in steadfast love and faithfulness.",
+        },
+        {
+          prompt: "Why is Exodus 34 important?",
+          answer: "It shows that covenant restoration depends on God's character, not Israel's strength or consistency.",
+        },
+      ],
+    },
+    {
       title: "Luke and Acts Bridge Quiz",
       kicker: "Books",
       summary: "Checks how Luke's Gospel connects to the early church story in Acts.",
