@@ -7237,6 +7237,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Deuteronomy 21 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Moses teaches about unresolved cases, family order, and the value of life.",
+      detail: "This quiz helps a beginner see Deuteronomy 21 as a chapter about justice, grief, and community responsibility in difficult situations.",
+      start: "Take this after reading Deuteronomy 21 carefully and noticing the laws about unsolved crimes, family relationships, and mercy.",
+      tags: ["Deuteronomy 21", "chapter", "justice"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Deuteronomy 21?",
+          answer: "The chapter emphasizes handling hard cases justly and responsibly.",
+        },
+        {
+          prompt: "What kinds of situations are addressed in this chapter?",
+          answer: "Unsolved murders, family relationships, inheritance, and treatment of captives are addressed.",
+        },
+        {
+          prompt: "Why does Deuteronomy 21 matter?",
+          answer: "It shows that God's law addresses even painful, messy situations with order and care.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
