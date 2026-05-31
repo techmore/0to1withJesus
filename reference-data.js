@@ -14043,6 +14043,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 68 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where steady discipline becomes enduring faithfulness.",
+      detail: "This quiz helps a beginner see Matthew 68 as the chapter where reliable action begins to feel enduring.",
+      start: "Take this after reading Matthew 68 carefully and noticing how discipline becomes faithfulness.",
+      tags: ["Matthew 68", "chapter", "faithfulness"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 68?",
+          answer: "The chapter emphasizes discipline that is becoming enduring faithfulness.",
+        },
+        {
+          prompt: "What does enduring faithfulness look like here?",
+          answer: "It means keeping steady, reliable habits over time.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 67?",
+          answer: "It shows that steady discipline should become enduring faithfulness.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
