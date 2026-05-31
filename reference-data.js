@@ -5279,6 +5279,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 9 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where livestock, boils, and hail deepen the judgment on Egypt.",
+      detail: "This quiz helps a beginner see Exodus 9 as the chapter where God keeps distinguishing Israel from Egypt while Pharaoh remains stubborn.",
+      start: "Take this after reading Exodus 9 carefully and noticing the livestock plague, the boils, the hail, and Pharaoh's confession.",
+      tags: ["Exodus 9", "chapter", "plagues"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Exodus 9?",
+          answer: "The chapter emphasizes the next plagues and Pharaoh's continued refusal to submit.",
+        },
+        {
+          prompt: "What confession does Pharaoh make in Exodus 9?",
+          answer: "He admits that he has sinned and that the LORD is in the right, though he later hardens again.",
+        },
+        {
+          prompt: "Why does Exodus 9 matter after Exodus 8?",
+          answer: "It shows the judgment intensifying while God keeps distinguishing his people from Egypt.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
