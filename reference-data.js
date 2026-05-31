@@ -13515,6 +13515,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 44 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where reliable practice becomes mature consistency.",
+      detail: "This quiz helps a beginner see Matthew 44 as the chapter where obedience becomes a steady and trustworthy way of life.",
+      start: "Take this after reading Matthew 44 carefully and noticing how practice becomes consistent.",
+      tags: ["Matthew 44", "chapter", "consistency"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 44?",
+          answer: "The chapter emphasizes obedience that has become mature and consistent.",
+        },
+        {
+          prompt: "What does mature consistency look like here?",
+          answer: "It means doing what Jesus says in a dependable, repeatable way.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 43?",
+          answer: "It shows that regular practice can become a stable way of life.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
