@@ -9041,6 +9041,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Kings 14 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Jeroboam's house is judged and Rehoboam's kingdom weakens.",
+      detail: "This quiz helps a beginner see 1 Kings 14 as a chapter of judgment on both northern and southern leadership.",
+      start: "Take this after 1 Kings 13 when you want to continue the book chapter by chapter.",
+      tags: ["1 Kings 14", "chapter", "Jeroboam"],
+      questions: [
+        {
+          prompt: "What happens to Jeroboam's family in 1 Kings 14?",
+          answer: "God announces judgment on his house.",
+        },
+        {
+          prompt: "What happens in Judah during the chapter?",
+          answer: "Rehoboam's kingdom continues to weaken.",
+        },
+        {
+          prompt: "Why does 1 Kings 14 matter?",
+          answer: "It shows the consequences of unfaithfulness in both kingdoms.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
