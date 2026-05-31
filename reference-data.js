@@ -10317,6 +10317,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Chronicles 23 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where David organizes the Levites for service.",
+      detail: "This quiz helps a beginner see 1 Chronicles 23 as David arranging the Levites for their roles in temple worship and administration.",
+      start: "Take this after 1 Chronicles 22 when you want to continue the book chapter by chapter.",
+      tags: ["1 Chronicles 23", "chapter", "Levites"],
+      questions: [
+        {
+          prompt: "Who is organized in 1 Chronicles 23?",
+          answer: "The Levites.",
+        },
+        {
+          prompt: "What are they organized for?",
+          answer: "Temple service and administration.",
+        },
+        {
+          prompt: "Why does 1 Chronicles 23 matter?",
+          answer: "It prepares the worship system for the temple.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
