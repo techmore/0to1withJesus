@@ -48,7 +48,7 @@ if (typeof window !== 'undefined' && typeof document !== 'undefined') {
           <span class="pill">Study guide</span>
         </div>
         <h3>Quiz not found</h3>
-        <p>Go back to the quiz list and choose a study guide from there.</p>
+        <p>Open the quiz hub or pick a track page, then choose a study guide from there.</p>
         <div class="hero-actions">
           <a class="button button-primary" href="./quizzes/starter.html">Starter quizzes</a>
           <a class="button button-secondary" href="./quizzes.html">Quiz hub</a>
@@ -111,7 +111,7 @@ if (typeof window !== 'undefined' && typeof document !== 'undefined') {
     `;
   } else {
     document.getElementById('quiz-study-title').textContent = 'Quiz not found';
-    document.getElementById('quiz-study-lede').textContent = 'Pick a quiz from the list and open its study guide first.';
+    document.getElementById('quiz-study-lede').textContent = 'Pick a quiz from the hub or a track page and open its study guide first.';
     document.getElementById('quiz-study-actions').innerHTML = `
       <a class="button button-primary" href="./quizzes.html">Quiz hub</a>
     `;
