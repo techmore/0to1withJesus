@@ -8293,6 +8293,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Judges 9 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Abimelech's rise leads to violence, betrayal, and judgment.",
+      detail: "This quiz helps a beginner see Judges 9 as a warning chapter about power grabbed for selfish reasons and the damage it causes.",
+      start: "Take this after Judges 8 when you want to see one of the darkest stories in the book.",
+      tags: ["Judges 9", "chapter", "Abimelech"],
+      questions: [
+        {
+          prompt: "Who is central in Judges 9?",
+          answer: "Abimelech.",
+        },
+        {
+          prompt: "What kind of story is Judges 9?",
+          answer: "It is a warning story about ambition, betrayal, and violence.",
+        },
+        {
+          prompt: "Why does Judges 9 matter?",
+          answer: "It shows the destructive results of seeking power apart from the Lord.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
