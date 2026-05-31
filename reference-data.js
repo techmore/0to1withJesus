@@ -8733,6 +8733,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Samuel 1 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
+      detail: "This quiz helps a beginner see 2 Samuel 1 as the opening of David's reign in grief, not triumph, and shows how he responds with sorrow and honor.",
+      start: "Take this after the 2 Samuel overview when you want to begin the book chapter by chapter.",
+      tags: ["2 Samuel 1", "chapter", "David"],
+      questions: [
+        {
+          prompt: "What news reaches David in 2 Samuel 1?",
+          answer: "Saul and Jonathan have died in battle.",
+        },
+        {
+          prompt: "How does David respond to the news?",
+          answer: "He laments and mourns for Saul and Jonathan.",
+        },
+        {
+          prompt: "Why does 2 Samuel 1 matter?",
+          answer: "It begins David's reign with grief and honor instead of self-congratulation.",
+        },
+      ],
+    },
+    {
       title: "1 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where Hannah prays for a son and Samuel's story begins.",
