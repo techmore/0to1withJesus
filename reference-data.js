@@ -6577,6 +6577,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Numbers 28 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where the daily, Sabbath, monthly, and festival offerings are laid out.",
+      detail: "This quiz helps a beginner see Numbers 28 as a chapter about ordered worship and the regular rhythm of offerings.",
+      start: "Take this after reading Numbers 28 carefully and noticing the repeated offering pattern and feast instructions.",
+      tags: ["Numbers 28", "chapter", "offerings"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Numbers 28?",
+          answer: "The chapter emphasizes the ordered schedule of offerings and appointed times for worship.",
+        },
+        {
+          prompt: "Which regular offerings are highlighted in Numbers 28?",
+          answer: "Daily, Sabbath, monthly, and festival offerings are highlighted.",
+        },
+        {
+          prompt: "Why does Numbers 28 matter?",
+          answer: "It shows that Israel's worship was to be regular, structured, and centered on God.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
