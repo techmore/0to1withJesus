@@ -4641,6 +4641,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 31 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Jacob leaves Laban and the family conflict comes to a head.",
+      detail: "This quiz helps a beginner see Genesis 31 as the chapter where Jacob returns home under God's direction and tension with Laban is resolved for the moment.",
+      start: "Take this after reading Genesis 31 carefully and noticing the dream, the departure, and the covenant at Mizpah.",
+      tags: ["Genesis 31", "chapter", "jacob"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Genesis 31?",
+          answer: "The chapter emphasizes Jacob's departure from Laban, God's protection, and the covenant boundary set between them.",
+        },
+        {
+          prompt: "How does Jacob know to leave in Genesis 31?",
+          answer: "God tells him to return to the land of his fathers.",
+        },
+        {
+          prompt: "Why does Genesis 31 matter after Genesis 30?",
+          answer: "It shows Jacob finally leaving Laban's house and moving closer to the land of promise.",
+        },
+      ],
+    },
+    {
       title: "Exodus Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Exodus as the Bible's great rescue story.",
