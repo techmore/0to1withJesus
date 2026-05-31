@@ -4067,6 +4067,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 5 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the Beatitudes and Jesus' teaching on righteousness.",
+      detail: "This quiz helps a beginner see Matthew 5 as the chapter where Jesus blesses the poor in spirit and deepens the meaning of righteousness.",
+      start: "Take this after reading Matthew 5 carefully and noticing the Sermon on the Mount's opening teaching.",
+      tags: ["Matthew 5", "chapter", "Beatitudes"],
+      questions: [
+        {
+          prompt: "What are the Beatitudes?",
+          answer: "They are blessings Jesus speaks over people who are poor in spirit, meek, merciful, pure, and persecuted.",
+        },
+        {
+          prompt: "What does Jesus say about the law in this chapter?",
+          answer: "He says he fulfills the law and calls people to a deeper righteousness of heart and action.",
+        },
+        {
+          prompt: "What major ethical call appears in this chapter?",
+          answer: "Jesus calls his followers to love, reconcile, and live in a way that reflects God's character.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
