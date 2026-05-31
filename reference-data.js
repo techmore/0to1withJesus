@@ -5827,6 +5827,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 85 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the crucifixion scene, where sacrifice, suffering, and kingship converge.",
+      detail: "This quiz helps a beginner see Matthew 85 as the chapter where Jesus suffers on the cross and his kingship is revealed through sacrifice.",
+      start: "Take this after reading Matthew 85 carefully and noticing the cross, mockery, and final cries.",
+      tags: ["Matthew 85", "chapter", "cross"],
+      questions: [
+        {
+          prompt: "What is central in the chapter?",
+          answer: "Jesus' crucifixion is central.",
+        },
+        {
+          prompt: "How is Jesus' kingship shown?",
+          answer: "His kingship is shown through suffering and sacrificial love.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice the cost of salvation and the seriousness of the cross.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
