@@ -5433,6 +5433,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 16 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where God provides manna and teaches daily trust.",
+      detail: "This quiz helps a beginner see Exodus 16 as the chapter where God feeds his people and trains them to rely on him one day at a time.",
+      start: "Take this after reading Exodus 16 carefully and noticing the manna, the quail, and the instructions about gathering.",
+      tags: ["Exodus 16", "chapter", "manna"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Exodus 16?",
+          answer: "The chapter emphasizes God's provision of manna and quail for Israel.",
+        },
+        {
+          prompt: "What lesson does the manna teach Israel?",
+          answer: "It teaches them to trust God for daily provision.",
+        },
+        {
+          prompt: "Why does Exodus 16 matter after Exodus 15?",
+          answer: "It shows that the God who saves also sustains his people in the wilderness.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
