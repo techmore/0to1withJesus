@@ -4155,6 +4155,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 2 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the garden, human vocation, marriage, and rest in Genesis 2.",
+      detail: "This quiz helps a beginner see Genesis 2 as a focused look at humanity's calling, the garden, and the gift of Sabbath rest.",
+      start: "Take this after reading Genesis 2 carefully and noticing the shift from cosmic creation to garden life and human purpose.",
+      tags: ["Genesis 2", "chapter", "creation"],
+      questions: [
+        {
+          prompt: "What extra focus does Genesis 2 give?",
+          answer: "It zooms in on the garden, the man and woman, and human vocation before God.",
+        },
+        {
+          prompt: "What does the chapter teach about human work and rest?",
+          answer: "Humans are placed in the garden to work and keep it, and God blesses rest as part of his good ordering.",
+        },
+        {
+          prompt: "Why is Genesis 2 important?",
+          answer: "It shows that humanity is made for relationship with God, stewardship, and shared life.",
+        },
+      ],
+    },
+    {
       title: "Exodus 1 Quiz",
       kicker: "Chapter",
       summary: "Checks Israel's oppression in Egypt and the beginning of the rescue setting.",
