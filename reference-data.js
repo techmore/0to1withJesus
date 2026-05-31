@@ -4903,6 +4903,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 35 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the renewed call to Sabbath and the volunteer offering for the tabernacle.",
+      detail: "This quiz helps a beginner see Exodus 35 as the chapter where Moses repeats Sabbath instructions and the people respond with willing gifts and skill for the tabernacle.",
+      start: "Take this after reading Exodus 35 carefully and noticing the shift from broken covenant to willing participation.",
+      tags: ["Exodus 35", "chapter", "tabernacle"],
+      questions: [
+        {
+          prompt: "What begins in Exodus 35?",
+          answer: "The people are called to bring willing offerings and to build the tabernacle.",
+        },
+        {
+          prompt: "What other instruction is repeated here?",
+          answer: "The Sabbath command is repeated before the work begins.",
+        },
+        {
+          prompt: "Why is Exodus 35 important?",
+          answer: "It shows renewed obedience and generosity after the covenant has been restored.",
+        },
+      ],
+    },
+    {
       title: "Luke and Acts Bridge Quiz",
       kicker: "Books",
       summary: "Checks how Luke's Gospel connects to the early church story in Acts.",
