@@ -10889,6 +10889,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Chronicles 19 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Jehoshaphat is rebuked and reforms Judah's courts.",
+      detail: "This quiz helps a beginner see 2 Chronicles 19 as a call to judge fairly, fear the Lord, and keep doing what is right.",
+      start: "Take this after 2 Chronicles 18 when you want to continue the chapter-by-chapter reading.",
+      tags: ["2 Chronicles 19", "chapter", "Jehoshaphat"],
+      questions: [
+        {
+          prompt: "Who rebukes Jehoshaphat in 2 Chronicles 19?",
+          answer: "The prophet Jehu.",
+        },
+        {
+          prompt: "What does Jehoshaphat do afterward?",
+          answer: "He appoints judges and reforms the courts.",
+        },
+        {
+          prompt: "Why does 2 Chronicles 19 matter?",
+          answer: "It emphasizes fairness and fearing the Lord in judgment.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
