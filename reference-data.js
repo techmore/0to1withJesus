@@ -7081,6 +7081,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Acts 13 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Barnabas and Saul's sending, Paul's sermon, and Gentile mission.",
+      detail: "This quiz helps a beginner see Acts 13 as the chapter where the mission shifts decisively into Paul's ministry.",
+      start: "Take this after reading Acts 13 carefully and noticing the sending, the sermon, and the first major opposition.",
+      tags: ["Acts 13", "chapter", "mission"],
+      questions: [
+        {
+          prompt: "Who sends Barnabas and Saul on mission?",
+          answer: "The Holy Spirit sends them from the church at Antioch.",
+        },
+        {
+          prompt: "What does Paul preach in Pisidian Antioch?",
+          answer: "He preaches that Jesus fulfills God's promises and brings forgiveness through his death and resurrection.",
+        },
+        {
+          prompt: "How do some Jews and Gentiles respond?",
+          answer: "Some believe and are glad, while others oppose the message.",
+        },
+      ],
+    },
+    {
       title: "Acts Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Acts as the story of the Spirit-empowered church expanding from Jerusalem outward.",
