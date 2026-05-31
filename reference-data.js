@@ -6443,6 +6443,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 113 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where formed character is shown in steady response.",
+      detail: "This quiz helps a beginner see Matthew 113 as the chapter where Jesus keeps showing that true character responds steadily.",
+      start: "Take this after reading Matthew 113 carefully and noticing how response reveals formation.",
+      tags: ["Matthew 113", "chapter", "response"],
+      questions: [
+        {
+          prompt: "What does formed character show?",
+          answer: "It shows up in steady response.",
+        },
+        {
+          prompt: "What does Jesus keep highlighting?",
+          answer: "He keeps highlighting reliable discipleship.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how pressure reveals the quality of response.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
