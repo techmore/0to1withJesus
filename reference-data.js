@@ -6861,6 +6861,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Acts 3 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the healing at the temple gate and Peter's sermon in Solomon's portico.",
+      detail: "This quiz helps a beginner see Acts 3 as the chapter where a public healing opens the door to another call to repentance.",
+      start: "Take this after reading Acts 3 carefully and noticing the healing, the crowd, and the sermon.",
+      tags: ["Acts 3", "chapter", "healing"],
+      questions: [
+        {
+          prompt: "What miracle happens at the temple gate?",
+          answer: "A lame man is healed and walks.",
+        },
+        {
+          prompt: "What does Peter say the healing points to?",
+          answer: "He says it points to Jesus' power and calls the crowd to repentance.",
+        },
+        {
+          prompt: "Where does Peter speak after the healing?",
+          answer: "He speaks in Solomon's portico or colonnade.",
+        },
+      ],
+    },
+    {
       title: "Acts Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Acts as the story of the Spirit-empowered church expanding from Jerusalem outward.",
