@@ -4619,6 +4619,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 30 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Jacob's family grows through rivalry, longing, and God's blessing.",
+      detail: "This quiz helps a beginner see Genesis 30 as the chapter where the family expands through the birth of many children and the tension around wages and flocks.",
+      start: "Take this after reading Genesis 30 carefully and noticing the rivalry, the births, and the flocks.",
+      tags: ["Genesis 30", "chapter", "jacob"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Genesis 30?",
+          answer: "The chapter emphasizes the growth of Jacob's family and the competition between the sisters over children.",
+        },
+        {
+          prompt: "What other conflict appears in Genesis 30?",
+          answer: "Jacob and Laban argue over wages and the flocks.",
+        },
+        {
+          prompt: "Why does Genesis 30 matter after Genesis 29?",
+          answer: "It shows the promise family continuing to grow amid rivalry and prepares Jacob for the next stage of his journey.",
+        },
+      ],
+    },
+    {
       title: "Exodus Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Exodus as the Bible's great rescue story.",
