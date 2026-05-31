@@ -10999,6 +10999,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Chronicles 24 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Joash repairs the temple and later turns away.",
+      detail: "This quiz helps a beginner see 2 Chronicles 24 as a chapter of early faithfulness followed by tragic decline.",
+      start: "Take this after 2 Chronicles 23 when you want to continue the chapter-by-chapter reading.",
+      tags: ["2 Chronicles 24", "chapter", "Joash"],
+      questions: [
+        {
+          prompt: "What good work does Joash oversee in 2 Chronicles 24?",
+          answer: "He repairs the temple.",
+        },
+        {
+          prompt: "What happens later in his reign?",
+          answer: "He turns away after the death of Jehoiada.",
+        },
+        {
+          prompt: "Why does 2 Chronicles 24 matter?",
+          answer: "It shows both reform and the danger of drifting from faithful counsel.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
