@@ -8821,6 +8821,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Samuel 5 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where David is recognized as king over all Israel and Jerusalem becomes central.",
+      detail: "This quiz helps a beginner see 2 Samuel 5 as the chapter where David's rule is publicly secured and the capital begins to shift.",
+      start: "Take this after 2 Samuel 4 when you want to see David's kingship established over the whole nation.",
+      tags: ["2 Samuel 5", "chapter", "David"],
+      questions: [
+        {
+          prompt: "What changes in 2 Samuel 5?",
+          answer: "David is recognized as king over all Israel.",
+        },
+        {
+          prompt: "What city becomes important in the chapter?",
+          answer: "Jerusalem.",
+        },
+        {
+          prompt: "Why does 2 Samuel 5 matter?",
+          answer: "It shows David's kingdom becoming established and centered in Jerusalem.",
+        },
+      ],
+    },
+    {
       title: "1 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where Hannah prays for a son and Samuel's story begins.",
