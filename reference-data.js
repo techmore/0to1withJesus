@@ -7653,6 +7653,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Romans 8 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Paul's assurance of life in the Spirit and God's unbreakable love.",
+      detail: "This quiz helps a beginner see Romans 8 as the chapter where Paul celebrates life in the Spirit, adoption, hope, and the security of God's love.",
+      start: "Take this after reading Romans 8 carefully and noticing how Paul moves from struggle to assurance.",
+      tags: ["Romans 8", "chapter", "Spirit"],
+      questions: [
+        {
+          prompt: "What begins Romans 8 with no condemnation?",
+          answer: "Life in Christ Jesus by the Spirit frees believers from condemnation.",
+        },
+        {
+          prompt: "How does Paul describe believers' relationship to God?",
+          answer: "They are adopted as God's children and can cry, 'Abba! Father!'",
+        },
+        {
+          prompt: "What powerful assurance closes the chapter?",
+          answer: "Nothing can separate believers from the love of God in Christ Jesus our Lord.",
+        },
+      ],
+    },
+    {
       title: "Ephesians Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Ephesians as Paul's letter about identity in Christ, unity, the church, and standing firm.",
