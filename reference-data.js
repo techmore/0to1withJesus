@@ -14813,6 +14813,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 103 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where settled purpose becomes confident direction.",
+      detail: "This quiz helps a beginner see Matthew 103 as the chapter where purpose starts to settle into confident direction.",
+      start: "Take this after reading Matthew 103 carefully and noticing how purpose becomes direction.",
+      tags: ["Matthew 103", "chapter", "direction"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 103?",
+          answer: "The chapter emphasizes purpose that is becoming confident direction.",
+        },
+        {
+          prompt: "What does confident direction look like here?",
+          answer: "It means moving forward with clarity and steady assurance.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 102?",
+          answer: "It shows that settled purpose should become confident direction.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
