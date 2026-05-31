@@ -12877,6 +12877,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Haggai Book Quiz",
+      kicker: "Book",
+      summary: "A whole-book check for Haggai as a call to rebuild God's house and re-order priorities.",
+      detail: "This quiz helps a beginner see Haggai as a short prophetic message about putting God first and trusting his presence.",
+      start: "Take this after Zephaniah and after noticing that the post-exile prophets call people to rebuild.",
+      tags: ["Haggai", "book", "rebuild"],
+      questions: [
+        {
+          prompt: "What is Haggai asking the people to do?",
+          answer: "Rebuild the temple and put God's house first.",
+        },
+        {
+          prompt: "What encouragement does Haggai give?",
+          answer: "God is with his people as they obey and rebuild.",
+        },
+        {
+          prompt: "Why is Haggai important for beginners?",
+          answer: "It shows how obedience and priority shape renewed worship after exile.",
+        },
+      ],
+    },
+    {
       title: "Gospel of John Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for John's main claims about Jesus.",
