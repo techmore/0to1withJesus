@@ -2014,6 +2014,50 @@ h1 {
   margin-top: 0.5rem;
 }
 
+.quiz-question-nav {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.9rem 0 0.4rem;
+}
+
+.quiz-question-nav span {
+  color: var(--muted);
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  font-weight: 800;
+}
+
+.quiz-question-nav .chip {
+  padding-inline: 0.75rem;
+}
+
+.quiz-questions-vertical {
+  display: grid;
+  gap: 0.85rem;
+  margin-top: 0.25rem;
+}
+
+.quiz-question-item {
+  scroll-margin-top: 7rem;
+}
+
+.quiz-question-item summary {
+  padding: 1rem 1rem 0.95rem;
+}
+
+.quiz-question-item p {
+  padding: 0 1rem 1rem;
+}
+
+.quiz-question-item summary strong {
+  display: block;
+  margin-top: 0.25rem;
+  font-size: 1.05rem;
+}
+
 .quiz-nav-section {
   padding-top: 0.25rem;
 }

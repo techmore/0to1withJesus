@@ -20,6 +20,10 @@ function quizQuestionAnswer(question) {
   return asText(question?.answer);
 }
 
+function quizQuestionId(title, index) {
+  return `${slugify(title)}-q${index + 1}`;
+}
+
 function quizStudyLinkLabel(track) {
   return track === "starter" ? "Start with map" : "Study guide";
 }
@@ -49,6 +53,19 @@ export function referenceCard(item, options = {}) {
   const questions = quizQuestions(item);
   const quizTrack = questions.length ? quizTrackForItem(item) : "";
   const studyGuidePathPrefix = asText(options.quizGuidePathPrefix, "");
+  const questionNavMarkup = questions.length
+    ? `
+      <nav class="quiz-question-nav" aria-label="${escapeHtml(title)} questions">
+        <span>Jump to</span>
+        ${questions
+          .map(
+            (_, index) =>
+              `<a class="chip" href="#${escapeHtml(quizQuestionId(title, index))}">${index + 1}</a>`,
+          )
+          .join("")}
+      </nav>
+    `
+    : "";
   const studyGuideMarkup = quizTrack && studyGuidePathPrefix !== undefined
     ? `
       <div class="reference-card-actions">
@@ -58,11 +75,11 @@ export function referenceCard(item, options = {}) {
     : "";
   const questionMarkup = questions.length
     ? `
-      <div class="quiz-questions">
+      <div class="quiz-questions quiz-questions-vertical">
         ${questions
           .map(
             (question, index) => `
-              <details class="quiz-question">
+              <details class="quiz-question quiz-question-item" id="${escapeHtml(quizQuestionId(title, index))}">
                 <summary>
                   <span>Question ${index + 1}</span>
                   <strong>${escapeHtml(quizQuestionPrompt(question))}</strong>
@@ -86,6 +103,7 @@ export function referenceCard(item, options = {}) {
         <strong>${escapeHtml(summary)}</strong>
       </div>
       <p>${escapeHtml(detail)}</p>
+      ${questionNavMarkup}
       <div class="reference-start">
         <span>Start here</span>
         <p>${escapeHtml(start)}</p>
@@ -437,21 +455,24 @@ export function renderQuizGenerator(items, state) {
   const activeTrack = state.fixedQuizTrack || state.quizTrackFilter || "starter";
   const filteredItems = quizItemsForTrack(items, { quizTrackFilter: activeTrack });
   const bank = quizQuestionBank(filteredItems);
-  const requested = state.quizSize === "all" ? bank.length : Number(state.quizSize);
+  const quizSize = state.quizSize || "25";
+  const randomQuiz = Array.isArray(state.randomQuiz) ? state.randomQuiz : [];
+  const query = asText(state.query, "");
+  const requested = quizSize === "all" ? bank.length : Number(quizSize);
   const availableCount = bank.length;
-  const chosenCount = state.randomQuiz.length;
+  const chosenCount = randomQuiz.length;
   const activeTrackLabel = quizTrackLabel(activeTrack);
   const trackStep = quizTrackStep(activeTrack);
   const nextTrack = nextQuizTrack(activeTrack);
   const nextTrackLabel = quizTrackLabel(nextTrack);
-  const searchActive = Boolean(state.query.trim());
+  const searchActive = Boolean(query.trim());
   const modeCopy = searchActive
     ? `Study the ${activeTrackLabel.toLowerCase()} quiz set, then use the next page when this one is solid.`
     : `Learn inside the ${activeTrackLabel.toLowerCase()} quiz set, then use the next page when this one is solid.`;
-  const practiceMarkup = state.randomQuiz.length
+  const practiceMarkup = randomQuiz.length
     ? `
       <div class="quiz-random-list">
-        ${state.randomQuiz
+        ${randomQuiz
           .map(
             (question, index) => `
               <details class="quiz-question">
@@ -490,10 +511,10 @@ export function renderQuizGenerator(items, state) {
           <label class="quiz-size-control">
             <span>Set size</span>
             <select id="quiz-size">
-              <option value="25" ${state.quizSize === "25" ? "selected" : ""}>25</option>
-              <option value="50" ${state.quizSize === "50" ? "selected" : ""}>50</option>
-              <option value="100" ${state.quizSize === "100" ? "selected" : ""}>100</option>
-              <option value="all" ${state.quizSize === "all" ? "selected" : ""}>All</option>
+              <option value="25" ${quizSize === "25" ? "selected" : ""}>25</option>
+              <option value="50" ${quizSize === "50" ? "selected" : ""}>50</option>
+              <option value="100" ${quizSize === "100" ? "selected" : ""}>100</option>
+              <option value="all" ${quizSize === "all" ? "selected" : ""}>All</option>
             </select>
           </label>
           <button class="button button-primary" type="button" data-generate-quiz ${availableCount ? "" : "disabled"}>
