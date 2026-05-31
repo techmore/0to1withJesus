@@ -13977,6 +13977,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 65 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where faithful progress becomes lasting momentum.",
+      detail: "This quiz helps a beginner see Matthew 65 as the chapter where progress starts to feel sustainable.",
+      start: "Take this after reading Matthew 65 carefully and noticing how progress becomes momentum.",
+      tags: ["Matthew 65", "chapter", "momentum"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 65?",
+          answer: "The chapter emphasizes progress that is becoming lasting momentum.",
+        },
+        {
+          prompt: "What does lasting momentum look like here?",
+          answer: "It means continuing forward with steady purpose and energy.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 64?",
+          answer: "It shows that faithful progress should build into momentum.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
