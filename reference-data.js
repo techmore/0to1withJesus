@@ -5301,6 +5301,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 10 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where locusts and darkness press Pharaoh toward surrender.",
+      detail: "This quiz helps a beginner see Exodus 10 as the chapter where the final plagues of Egypt's warning stage make Pharaoh's stubbornness undeniable.",
+      start: "Take this after reading Exodus 10 carefully and noticing the locusts, the darkness, and Pharaoh's partial offers.",
+      tags: ["Exodus 10", "chapter", "plagues"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Exodus 10?",
+          answer: "The chapter emphasizes the plagues of locusts and darkness and Pharaoh's continued resistance.",
+        },
+        {
+          prompt: "What partial compromise does Pharaoh offer in Exodus 10?",
+          answer: "He tries to limit who can go to worship and eventually offers only the men, then asks Moses to leave.",
+        },
+        {
+          prompt: "Why does Exodus 10 matter after Exodus 9?",
+          answer: "It shows the pressure building toward the final judgment while Pharaoh's heart remains hard.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
