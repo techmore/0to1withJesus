@@ -11175,6 +11175,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Chronicles 32 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Hezekiah trusts God during the Assyrian threat.",
+      detail: "This quiz helps a beginner see 2 Chronicles 32 as a story of prayer, deliverance, and pride confronted by a faithful king.",
+      start: "Take this after 2 Chronicles 31 when you want to continue the chapter-by-chapter reading.",
+      tags: ["2 Chronicles 32", "chapter", "Hezekiah"],
+      questions: [
+        {
+          prompt: "What threat faces Judah in 2 Chronicles 32?",
+          answer: "The Assyrian army under Sennacherib.",
+        },
+        {
+          prompt: "How does Hezekiah respond?",
+          answer: "He prays, encourages the people, and trusts the Lord.",
+        },
+        {
+          prompt: "Why does 2 Chronicles 32 matter?",
+          answer: "It shows God delivering Judah and warns about pride later in the chapter.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
