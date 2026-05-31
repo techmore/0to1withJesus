@@ -12569,6 +12569,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Ezra Book Quiz",
+      kicker: "Book",
+      summary: "A whole-book check for Ezra as the return from exile and the rebuilding of worship.",
+      detail: "This quiz helps a beginner see Ezra as the story of God's people coming home, rebuilding the temple, and renewing covenant life.",
+      start: "Take this after 2 Chronicles and after seeing how exile leads into restoration.",
+      tags: ["Ezra", "book", "restoration"],
+      questions: [
+        {
+          prompt: "What is Ezra about?",
+          answer: "God bringing his people back from exile to rebuild worship.",
+        },
+        {
+          prompt: "What main work is rebuilt in Ezra?",
+          answer: "The temple and the worship life of the returned community.",
+        },
+        {
+          prompt: "Why is Ezra important for beginners?",
+          answer: "It shows that restoration includes both building and renewing faithfulness.",
+        },
+      ],
+    },
+    {
       title: "Isaiah Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Isaiah as a prophet of holiness, judgment, comfort, and hope.",
