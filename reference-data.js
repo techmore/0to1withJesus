@@ -12569,6 +12569,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Isaiah Book Quiz",
+      kicker: "Book",
+      summary: "A whole-book check for Isaiah as a prophet of holiness, judgment, comfort, and hope.",
+      detail: "This quiz helps a beginner see Isaiah as a major prophetic book that confronts sin, promises restoration, and points ahead to the servant and new creation hope.",
+      start: "Take this after 2 Chronicles and after noticing the prophetic books call God's people back to faithfulness.",
+      tags: ["Isaiah", "book", "prophets"],
+      questions: [
+        {
+          prompt: "What major theme opens Isaiah?",
+          answer: "God's holiness and Judah's unfaithfulness.",
+        },
+        {
+          prompt: "What future hope does Isaiah emphasize?",
+          answer: "Comfort, restoration, and the coming servant who brings salvation.",
+        },
+        {
+          prompt: "Why is Isaiah important for the New Testament?",
+          answer: "It is quoted often to explain Jesus, the servant, and God's coming kingdom.",
+        },
+      ],
+    },
+    {
       title: "Gospel of John Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for John's main claims about Jesus.",
