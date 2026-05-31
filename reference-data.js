@@ -14263,6 +14263,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 78 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where firm endurance becomes steady perseverance.",
+      detail: "This quiz helps a beginner see Matthew 78 as the chapter where endurance starts to settle into steady perseverance.",
+      start: "Take this after reading Matthew 78 carefully and noticing how endurance becomes perseverance.",
+      tags: ["Matthew 78", "chapter", "perseverance"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 78?",
+          answer: "The chapter emphasizes endurance that is becoming steady perseverance.",
+        },
+        {
+          prompt: "What does steady perseverance look like here?",
+          answer: "It means continuing with patience and not losing heart.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 77?",
+          answer: "It shows that firm endurance should become steady perseverance.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
