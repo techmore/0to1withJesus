@@ -6883,6 +6883,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Acts 4 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Peter and John's trial, prayer, and the believers' boldness.",
+      detail: "This quiz helps a beginner see Acts 4 as the chapter where opposition leads the church to pray for bold witness.",
+      start: "Take this after reading Acts 4 carefully and noticing the courtroom pressure and the community response.",
+      tags: ["Acts 4", "chapter", "boldness"],
+      questions: [
+        {
+          prompt: "What happens to Peter and John in Acts 4?",
+          answer: "They are arrested and questioned by the authorities.",
+        },
+        {
+          prompt: "How do the believers respond to pressure?",
+          answer: "They pray for boldness instead of asking for safety.",
+        },
+        {
+          prompt: "What is notable about the believers' sharing?",
+          answer: "They share their possessions so that none are in need.",
+        },
+      ],
+    },
+    {
       title: "Acts Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Acts as the story of the Spirit-empowered church expanding from Jerusalem outward.",
