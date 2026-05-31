@@ -4331,6 +4331,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 9 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the growing plague escalation through livestock loss, boils, and hail.",
+      detail: "This quiz helps a beginner see Exodus 9 as the chapter where the signs intensify and Pharaoh's resistance becomes more exposed. It focuses on judgment, mercy, and the dividing line between Egypt and Israel.",
+      start: "Take this after reading Exodus 9 carefully and noticing how the plagues begin to distinguish Israel from Egypt.",
+      tags: ["Exodus 9", "chapter", "plagues"],
+      questions: [
+        {
+          prompt: "What kinds of plagues appear in Exodus 9?",
+          answer: "Livestock disease, boils, and hail strike Egypt.",
+        },
+        {
+          prompt: "What pattern keeps showing in Pharaoh's response?",
+          answer: "He admits the problem, asks for relief, and then hardens his heart again.",
+        },
+        {
+          prompt: "What important distinction emerges in this chapter?",
+          answer: "God makes a difference between Egypt and Israel, showing protection and judgment together.",
+        },
+      ],
+    },
+    {
       title: "Luke and Acts Bridge Quiz",
       kicker: "Books",
       summary: "Checks how Luke's Gospel connects to the early church story in Acts.",
