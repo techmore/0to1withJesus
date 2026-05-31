@@ -8491,6 +8491,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Judges 18 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where the Danites search for land and carry Micah's idol away.",
+      detail: "This quiz helps a beginner see Judges 18 as a chapter about tribal migration, confusion, and the spread of idolatry.",
+      start: "Take this after Judges 17 when you want to see how Micah's household religion spreads further.",
+      tags: ["Judges 18", "chapter", "Danites"],
+      questions: [
+        {
+          prompt: "What do the Danites do in Judges 18?",
+          answer: "They search for land and take Micah's idol and priest with them.",
+        },
+        {
+          prompt: "What does the chapter reveal about the Danites?",
+          answer: "It shows ambition mixed with spiritual confusion.",
+        },
+        {
+          prompt: "Why does Judges 18 matter?",
+          answer: "It shows how idolatry spreads and how disordered the tribes have become.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
