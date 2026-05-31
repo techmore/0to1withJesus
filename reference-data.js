@@ -5815,6 +5815,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 172 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where quiet assurance becomes steady calm.",
+      detail: "This quiz helps a beginner see Matthew 172 as the chapter where assurance settles into steady calm with Jesus.",
+      start: "Take this after reading Matthew 172 carefully and noticing how assurance becomes calm.",
+      tags: ["Matthew 172", "chapter", "calm"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 172?",
+          answer: "The chapter emphasizes steady calm in following Jesus.",
+        },
+        {
+          prompt: "What does steady calm look like here?",
+          answer: "It means remaining peaceful and composed while trusting Jesus.",
+        },
+        {
+          prompt: "Why does this matter after Matthew 171?",
+          answer: "It shows that quiet assurance can become steady calm.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
