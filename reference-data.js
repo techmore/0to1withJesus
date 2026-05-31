@@ -8755,6 +8755,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Samuel 3 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Samuel hears God's voice and receives his first prophetic message.",
+      detail: "This quiz helps a beginner see 1 Samuel 3 as the moment Samuel is called to speak for the Lord.",
+      start: "Take this after 1 Samuel 2 when you want to see Samuel's calling begin.",
+      tags: ["1 Samuel 3", "chapter", "Samuel"],
+      questions: [
+        {
+          prompt: "What does Samuel hear in 1 Samuel 3?",
+          answer: "He hears the voice of the Lord calling him.",
+        },
+        {
+          prompt: "What does Samuel receive?",
+          answer: "His first prophetic message.",
+        },
+        {
+          prompt: "Why does 1 Samuel 3 matter?",
+          answer: "It marks Samuel as a prophet who will speak God's word to Israel.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
