@@ -9239,6 +9239,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Samuel 25 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Abigail stops David from bloodshed and wisdom keeps him from a rash response.",
+      detail: "This quiz helps a beginner see 1 Samuel 25 as the chapter where Abigail's wise intervention prevents David from acting in anger.",
+      start: "Take this after 1 Samuel 24 when you want to see wisdom keep David from vengeance.",
+      tags: ["1 Samuel 25", "chapter", "David"],
+      questions: [
+        {
+          prompt: "Who stops David from attacking Nabal?",
+          answer: "Abigail.",
+        },
+        {
+          prompt: "What kind of man is Nabal?",
+          answer: "A foolish and harsh man who refuses to show kindness.",
+        },
+        {
+          prompt: "Why does 1 Samuel 25 matter?",
+          answer: "It shows how wisdom and humility can keep David from shedding blood in anger.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
