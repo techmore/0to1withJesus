@@ -13317,6 +13317,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 35 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where practical judgment becomes steady wisdom.",
+      detail: "This quiz helps a beginner see Matthew 35 as the chapter where choices start to reflect settled wisdom.",
+      start: "Take this after reading Matthew 35 carefully and noticing how judgment matures into wisdom.",
+      tags: ["Matthew 35", "chapter", "wisdom"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 35?",
+          answer: "The chapter emphasizes judgment that has matured into steadier wisdom.",
+        },
+        {
+          prompt: "What does steady wisdom look like here?",
+          answer: "It means making choices that consistently reflect what Jesus has taught.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 34?",
+          answer: "It shows that practical judgment can develop into reliable wisdom.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
