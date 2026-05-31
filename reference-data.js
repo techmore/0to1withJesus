@@ -4573,6 +4573,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 20 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the giving of the Ten Commandments and the people's fear at Sinai.",
+      detail: "This quiz helps a beginner see Exodus 20 as the chapter where God speaks the covenant law directly to his rescued people. It focuses on worship, holiness, relationships, and the fear that meets God's voice.",
+      start: "Take this after reading Exodus 20 carefully and noticing the shape of the commands and the people's response.",
+      tags: ["Exodus 20", "chapter", "Ten Commandments"],
+      questions: [
+        {
+          prompt: "What does God give in Exodus 20?",
+          answer: "The Ten Commandments, the core covenant words for Israel's life.",
+        },
+        {
+          prompt: "What is the first commandment about?",
+          answer: "Worshiping the Lord alone without other gods or images.",
+        },
+        {
+          prompt: "How do the people respond to God's voice?",
+          answer: "They are afraid and ask Moses to speak for God because the direct voice overwhelms them.",
+        },
+      ],
+    },
+    {
       title: "Luke and Acts Bridge Quiz",
       kicker: "Books",
       summary: "Checks how Luke's Gospel connects to the early church story in Acts.",
