@@ -4485,6 +4485,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 24 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Jesus' teaching about the coming turmoil, vigilance, and the Son of Man.",
+      detail: "This quiz helps a beginner see Matthew 24 as the chapter where Jesus warns disciples to stay awake and not be fooled by false signs.",
+      start: "Take this after reading Matthew 24 carefully and noticing the warnings, the sign language, and the call to watchfulness.",
+      tags: ["Matthew 24", "chapter", "watchfulness"],
+      questions: [
+        {
+          prompt: "What warning does Jesus give at the start of Matthew 24?",
+          answer: "He warns that the Temple will be left desolate and that disciples should not be deceived.",
+        },
+        {
+          prompt: "What kind of events does Jesus say will come before the end?",
+          answer: "He says there will be false messiahs, wars, tribulation, and upheaval.",
+        },
+        {
+          prompt: "What does Jesus tell his followers to do?",
+          answer: "He tells them to stay awake, be ready, and watch for the Son of Man's coming.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
