@@ -9261,6 +9261,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Samuel 26 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where David spares Saul again and proves he will not seize the throne by force.",
+      detail: "This quiz helps a beginner see 1 Samuel 26 as the chapter where David refuses to kill Saul even when another chance comes.",
+      start: "Take this after 1 Samuel 25 when you want to see David's restraint hold steady.",
+      tags: ["1 Samuel 26", "chapter", "David"],
+      questions: [
+        {
+          prompt: "What second chance does David get in 1 Samuel 26?",
+          answer: "He can kill Saul while Saul is sleeping in the camp.",
+        },
+        {
+          prompt: "What does David do instead?",
+          answer: "He takes Saul's spear and water jug and leaves him alive.",
+        },
+        {
+          prompt: "Why does 1 Samuel 26 matter?",
+          answer: "It shows again that David will not take the kingdom by murder or revenge.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
