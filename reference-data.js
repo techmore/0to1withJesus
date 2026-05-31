@@ -14109,6 +14109,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 71 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where steady dedication becomes durable perseverance.",
+      detail: "This quiz helps a beginner see Matthew 71 as the chapter where dedication starts to hold up over time.",
+      start: "Take this after reading Matthew 71 carefully and noticing how dedication becomes perseverance.",
+      tags: ["Matthew 71", "chapter", "perseverance"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 71?",
+          answer: "The chapter emphasizes dedication that is becoming durable perseverance.",
+        },
+        {
+          prompt: "What does durable perseverance look like here?",
+          answer: "It means keeping a steady commitment even when the path is long.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 70?",
+          answer: "It shows that steady dedication should become durable perseverance.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
