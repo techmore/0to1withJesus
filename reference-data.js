@@ -7509,6 +7509,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 157 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where quiet joy becomes shared peace.",
+      detail: "This quiz helps a beginner see Matthew 157 as the chapter where Jesus lets joy spread into a calm peace among his people.",
+      start: "Take this after reading Matthew 157 carefully and noticing how joy can become peace.",
+      tags: ["Matthew 157", "chapter", "peace"],
+      questions: [
+        {
+          prompt: "What does quiet joy become?",
+          answer: "It becomes shared peace.",
+        },
+        {
+          prompt: "What does Jesus keep spreading among his people?",
+          answer: "He keeps spreading calm confidence and reconciliation.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how gladness can settle a group.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
