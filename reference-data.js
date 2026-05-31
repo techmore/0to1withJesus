@@ -9261,6 +9261,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Kings 1 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Elijah confronts Ahaziah and calls down fire from heaven.",
+      detail: "This quiz helps a beginner see 2 Kings 1 as a chapter of judgment and the authority of the Lord over false consultation.",
+      start: "Take this after the 2 Kings overview when you want to begin the book chapter by chapter.",
+      tags: ["2 Kings 1", "chapter", "Elijah"],
+      questions: [
+        {
+          prompt: "Who does Ahaziah consult in 2 Kings 1?",
+          answer: "Baal-zebub instead of the Lord.",
+        },
+        {
+          prompt: "What does Elijah call down from heaven?",
+          answer: "Fire.",
+        },
+        {
+          prompt: "Why does 2 Kings 1 matter?",
+          answer: "It shows that the Lord's word carries authority over false gods and rulers.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
