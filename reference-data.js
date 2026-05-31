@@ -16573,6 +16573,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Mark 2 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the healing of the paralytic, the call of Levi, and disputes over fasting and the Sabbath.",
+      detail: "This quiz helps a beginner see Mark 2 as the chapter where Jesus shows authority to forgive, call sinners, and reframe religious practice around himself.",
+      start: "Take this after reading Mark 2 carefully and noticing how Jesus' authority creates tension and invitation.",
+      tags: ["Mark 2", "chapter", "authority"],
+      questions: [
+        {
+          prompt: "What miracle in Mark 2 shows Jesus' authority to forgive?",
+          answer: "Jesus heals the paralytic after declaring that his sins are forgiven.",
+        },
+        {
+          prompt: "Whom does Jesus call while passing by the tax booth?",
+          answer: "He calls Levi to follow him.",
+        },
+        {
+          prompt: "What controversy ends the chapter?",
+          answer: "Jesus is questioned about Sabbath practices when his disciples pluck grain.",
+        },
+      ],
+    },
+    {
       title: "Luke Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Luke as the Gospel of the Spirit, outsiders, prayer, and salvation for all kinds of people.",
