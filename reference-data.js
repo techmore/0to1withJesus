@@ -5937,6 +5937,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 90 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the new section's first conflict, where Jesus' authority begins to face sharper resistance.",
+      detail: "This quiz helps a beginner see Matthew 90 as the chapter where opposition rises and Jesus continues teaching and acting with authority.",
+      start: "Take this after reading Matthew 90 carefully and noticing the tension that starts building again.",
+      tags: ["Matthew 90", "chapter", "conflict"],
+      questions: [
+        {
+          prompt: "What begins to rise in the chapter?",
+          answer: "Conflict and resistance begin to rise.",
+        },
+        {
+          prompt: "How does Jesus appear in the chapter?",
+          answer: "He appears with steady authority and purpose.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how the story moves into a new conflict-heavy phase.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
