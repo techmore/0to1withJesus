@@ -5609,6 +5609,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 24 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where the covenant is confirmed and Moses goes up the mountain.",
+      detail: "This quiz helps a beginner see Exodus 24 as the chapter where Israel formally enters the covenant meal and Moses meets God on the mountain.",
+      start: "Take this after reading Exodus 24 carefully and noticing the blood of the covenant, the meal, and Moses' ascent.",
+      tags: ["Exodus 24", "chapter", "covenant"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Exodus 24?",
+          answer: "The chapter emphasizes the covenant being confirmed between God and Israel.",
+        },
+        {
+          prompt: "What signs show the covenant is being confirmed in Exodus 24?",
+          answer: "The blood of the covenant, the meal, and Moses' ascent show the covenant is being sealed.",
+        },
+        {
+          prompt: "Why does Exodus 24 matter after Exodus 23?",
+          answer: "It confirms the covenant that the earlier laws described and prepares for Moses' time with God.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
