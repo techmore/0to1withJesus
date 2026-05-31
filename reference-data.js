@@ -4289,6 +4289,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 15 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the covenant chapter where God confirms his promise to Abram in a vision.",
+      detail: "This quiz helps a beginner see Genesis 15 as the chapter where God formally promises Abram descendants and land while Abram trusts God's word.",
+      start: "Take this after reading Genesis 15 carefully and noticing the vision, the covenant signs, and the promise of descendants.",
+      tags: ["Genesis 15", "chapter", "covenant"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Genesis 15?",
+          answer: "The chapter emphasizes God's covenant promise to Abram and Abram's faith in God's word.",
+        },
+        {
+          prompt: "What does God show Abram in Genesis 15?",
+          answer: "God shows Abram the stars and promises descendants as numerous as them.",
+        },
+        {
+          prompt: "Why does Genesis 15 matter after Genesis 14?",
+          answer: "It moves from Abram's rescue to a direct covenant promise that anchors the future of his family.",
+        },
+      ],
+    },
+    {
       title: "Exodus Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Exodus as the Bible's great rescue story.",
