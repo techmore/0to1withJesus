@@ -4199,6 +4199,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 11 Quiz",
+      kicker: "Chapter",
+      summary: "Checks John's question, Jesus' invitation, and his words about burden and rest.",
+      detail: "This quiz helps a beginner see Matthew 11 as the chapter where Jesus reassures the weary and praises the Father's revelation.",
+      start: "Take this after reading Matthew 11 carefully and noticing the invitation to come to Jesus for rest.",
+      tags: ["Matthew 11", "chapter", "rest"],
+      questions: [
+        {
+          prompt: "What question does John the Baptist send to Jesus?",
+          answer: "He asks if Jesus is the one who is to come or if they should wait for another.",
+        },
+        {
+          prompt: "What invitation does Jesus give to the weary?",
+          answer: "He invites the weary and burdened to come to him and find rest.",
+        },
+        {
+          prompt: "How does Jesus describe the Father in this chapter?",
+          answer: "He says the Father reveals these things to little children and that Jesus reveals the Father.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
