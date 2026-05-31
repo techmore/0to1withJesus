@@ -10383,6 +10383,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Chronicles 26 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter that organizes the gatekeepers and other temple workers.",
+      detail: "This quiz helps a beginner see 1 Chronicles 26 as the careful assignment of duties for the temple's security and administration.",
+      start: "Take this after 1 Chronicles 25 when you want to continue the book chapter by chapter.",
+      tags: ["1 Chronicles 26", "chapter", "temple"],
+      questions: [
+        {
+          prompt: "Who is organized in 1 Chronicles 26?",
+          answer: "The gatekeepers and other temple workers.",
+        },
+        {
+          prompt: "What duties are being assigned?",
+          answer: "Service, security, and administration for the temple.",
+        },
+        {
+          prompt: "Why does 1 Chronicles 26 matter?",
+          answer: "It shows the temple being staffed in an orderly way.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
