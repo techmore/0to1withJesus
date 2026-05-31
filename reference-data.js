@@ -6575,6 +6575,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 119 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where response becomes steady follow-through.",
+      detail: "This quiz helps a beginner see Matthew 119 as the chapter where Jesus keeps turning an open call into a settled way of walking.",
+      start: "Take this after reading Matthew 119 carefully and noticing how a clear call leads to steady action.",
+      tags: ["Matthew 119", "chapter", "follow-through"],
+      questions: [
+        {
+          prompt: "What does an open call become?",
+          answer: "It becomes steady follow-through.",
+        },
+        {
+          prompt: "What does Jesus keep shaping?",
+          answer: "He keeps shaping response into a way of walking.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how a call can become consistent discipleship.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
