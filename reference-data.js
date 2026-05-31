@@ -16705,6 +16705,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Mark 8 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the feeding of the four thousand, Peter's confession, and the first passion prediction.",
+      detail: "This quiz helps a beginner see Mark 8 as the hinge where Jesus' identity becomes clearer and the path to the cross starts to come into view.",
+      start: "Take this after reading Mark 8 carefully and watching how the signs, the confession, and the warning about suffering fit together.",
+      tags: ["Mark 8", "chapter", "confession"],
+      questions: [
+        {
+          prompt: "What miracle feeds the crowd in Mark 8?",
+          answer: "Jesus feeds the four thousand with seven loaves.",
+        },
+        {
+          prompt: "What does Peter confess about Jesus?",
+          answer: "Peter says Jesus is the Christ.",
+        },
+        {
+          prompt: "What does Jesus begin teaching about himself?",
+          answer: "He teaches that the Son of Man must suffer, be rejected, die, and rise again.",
+        },
+      ],
+    },
+    {
       title: "Luke Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Luke as the Gospel of the Spirit, outsiders, prayer, and salvation for all kinds of people.",
