@@ -9129,6 +9129,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Samuel 19 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where David returns and has to navigate grief, loyalty, and division.",
+      detail: "This quiz helps a beginner see 2 Samuel 19 as a chapter of return, mixed loyalties, and the complicated restoration of the kingdom.",
+      start: "Take this after 2 Samuel 18 when you want to see David come back after the rebellion.",
+      tags: ["2 Samuel 19", "chapter", "David"],
+      questions: [
+        {
+          prompt: "What happens as David returns in 2 Samuel 19?",
+          answer: "He returns to Jerusalem after Absalom's defeat.",
+        },
+        {
+          prompt: "What challenges does David face on the return?",
+          answer: "He must deal with grief, political tension, and questions of loyalty.",
+        },
+        {
+          prompt: "Why does 2 Samuel 19 matter?",
+          answer: "It shows that restoration after rebellion is still messy and complicated.",
+        },
+      ],
+    },
+    {
       title: "1 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where Hannah prays for a son and Samuel's story begins.",
