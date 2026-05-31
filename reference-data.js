@@ -5079,6 +5079,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 51 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the beginning of Mark's Gospel with John the Baptist and Jesus' baptism.",
+      detail: "This quiz helps a beginner see Matthew 51 as the chapter where the story turns from Matthew's ending into Mark's opening witness about Jesus.",
+      start: "Take this after reading Matthew 51 carefully and noticing John the Baptist, the baptism, and Jesus' first public ministry movement.",
+      tags: ["Matthew 51", "chapter", "baptism"],
+      questions: [
+        {
+          prompt: "Who prepares the way for Jesus?",
+          answer: "John the Baptist prepares the way.",
+        },
+        {
+          prompt: "What happens at Jesus' baptism?",
+          answer: "Jesus is baptized in the Jordan and God's voice affirms him.",
+        },
+        {
+          prompt: "What begins after the baptism?",
+          answer: "Jesus begins his public ministry in Galilee.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
