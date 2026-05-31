@@ -13361,6 +13361,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 37 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where consistent discernment becomes resilient judgment.",
+      detail: "This quiz helps a beginner see Matthew 37 as the chapter where discernment holds up under pressure.",
+      start: "Take this after reading Matthew 37 carefully and noticing how judgment becomes resilient.",
+      tags: ["Matthew 37", "chapter", "judgment"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 37?",
+          answer: "The chapter emphasizes discernment that stays reliable under pressure.",
+        },
+        {
+          prompt: "What does resilient judgment look like here?",
+          answer: "It means making wise choices even when the situation is difficult.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 36?",
+          answer: "It shows that steady discernment should remain strong when tested.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
