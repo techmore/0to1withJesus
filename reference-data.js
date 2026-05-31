@@ -6321,6 +6321,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 114 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where quiet dependence becomes restful peace.",
+      detail: "This quiz helps a beginner see Matthew 114 as the chapter where Jesus turns dependence into restful peace that can stay calm in the middle of noise.",
+      start: "Take this after reading Matthew 114 carefully and noticing how dependence can become peace.",
+      tags: ["Matthew 114", "chapter", "peace"],
+      questions: [
+        {
+          prompt: "What does quiet dependence become?",
+          answer: "It becomes restful peace.",
+        },
+        {
+          prompt: "What does Jesus keep giving his followers?",
+          answer: "He keeps giving them a calmness that holds even under pressure.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how dependence can open into peace.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
