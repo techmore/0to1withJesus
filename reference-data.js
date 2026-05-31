@@ -7215,6 +7215,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Deuteronomy 20 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Moses teaches about going to war with trust, restraint, and mercy.",
+      detail: "This quiz helps a beginner see Deuteronomy 20 as a chapter about dependence on God in battle and careful treatment of enemies and cities.",
+      start: "Take this after reading Deuteronomy 20 carefully and noticing the exemptions from battle and the instructions for war.",
+      tags: ["Deuteronomy 20", "chapter", "war"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Deuteronomy 20?",
+          answer: "The chapter emphasizes trusting God in battle and following his instructions for warfare.",
+        },
+        {
+          prompt: "What kind of restraint does Moses require in war?",
+          answer: "He requires mercy and limits, including offers of peace and careful treatment of trees and cities.",
+        },
+        {
+          prompt: "Why does Deuteronomy 20 matter?",
+          answer: "It shows that even war in Israel must be governed by God's commands and not human brutality.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
