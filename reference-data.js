@@ -4155,6 +4155,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "John 7 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the feast setting, public debate, and Jesus' invitation to come and drink.",
+      detail: "This quiz helps a beginner see John 7 as the chapter where Jesus teaches publicly at the feast, exposing both misunderstanding and division among the people.",
+      start: "Take this after reading John 7 carefully and noticing the argument over Jesus' identity and authority.",
+      tags: ["John 7", "chapter", "feast"],
+      questions: [
+        {
+          prompt: "What setting frames John 7?",
+          answer: "The chapter takes place during a Jewish festival in Jerusalem.",
+        },
+        {
+          prompt: "How do people respond to Jesus' teaching?",
+          answer: "Some are confused, some believe, and others want to arrest him.",
+        },
+        {
+          prompt: "What invitation does Jesus give in this chapter?",
+          answer: "He invites the thirsty to come to him and drink.",
+        },
+      ],
+    },
+    {
       title: "John 11 Quiz",
       kicker: "Chapter",
       summary: "Checks Lazarus, resurrection, grief, faith, and rising conflict.",
