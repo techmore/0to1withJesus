@@ -12921,6 +12921,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Malachi Book Quiz",
+      kicker: "Book",
+      summary: "A whole-book check for Malachi as a final prophetic call to covenant faithfulness and hope.",
+      detail: "This quiz helps a beginner see Malachi as a closing warning that also points toward coming renewal and preparation.",
+      start: "Take this after Zechariah and after noticing how the prophets end by calling for faithfulness.",
+      tags: ["Malachi", "book", "faithfulness"],
+      questions: [
+        {
+          prompt: "What is Malachi mainly calling people to do?",
+          answer: "Return to covenant faithfulness and worship God rightly.",
+        },
+        {
+          prompt: "What hope is found in Malachi?",
+          answer: "God will come to renew and prepare his people.",
+        },
+        {
+          prompt: "Why is Malachi important for beginners?",
+          answer: "It closes the prophets by joining correction, expectation, and hope.",
+        },
+      ],
+    },
+    {
       title: "Gospel of John Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for John's main claims about Jesus.",
