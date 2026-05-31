@@ -16595,6 +16595,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Mark 3 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the Sabbath healings, the crowding crowds, the choosing of the twelve, and the warning about division.",
+      detail: "This quiz helps a beginner see Mark 3 as the chapter where Jesus heals, appoints apostles, and exposes the danger of misunderstanding his power.",
+      start: "Take this after reading Mark 3 carefully and noticing how Jesus gathers and confronts.",
+      tags: ["Mark 3", "chapter", "apostles"],
+      questions: [
+        {
+          prompt: "What controversy opens Mark 3?",
+          answer: "Jesus heals a man with a withered hand on the Sabbath and is watched closely.",
+        },
+        {
+          prompt: "What important group does Jesus appoint in this chapter?",
+          answer: "He appoints the twelve apostles.",
+        },
+        {
+          prompt: "What warning does Jesus give about division?",
+          answer: "He warns that a house or kingdom divided against itself cannot stand.",
+        },
+      ],
+    },
+    {
       title: "Luke Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Luke as the Gospel of the Spirit, outsiders, prayer, and salvation for all kinds of people.",
