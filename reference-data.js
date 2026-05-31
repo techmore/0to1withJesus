@@ -5045,6 +5045,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 137 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where quiet stability becomes resilient peace.",
+      detail: "This quiz helps a beginner see Matthew 137 as the chapter where steady faith starts to look like peace under pressure.",
+      start: "Take this after reading Matthew 137 carefully and noticing how endurance can become peace.",
+      tags: ["Matthew 137", "chapter", "peace"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 137?",
+          answer: "The chapter emphasizes peace that holds steady in the middle of pressure.",
+        },
+        {
+          prompt: "What does resilient peace look like here?",
+          answer: "It means staying calm and faithful without being shaken by circumstances.",
+        },
+        {
+          prompt: "Why does this matter after Matthew 136?",
+          answer: "It shows that quiet stability can deepen into resilient peace.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
