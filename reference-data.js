@@ -18789,6 +18789,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Job Book Quiz",
+      kicker: "Book",
+      summary: "A whole-book check for Job as a wisdom book about suffering, trust, and encountering God.",
+      detail: "This quiz helps a beginner see Job as a deep conversation about innocent suffering, bad explanations, and reverent honesty before God.",
+      start: "Take this after the Wisdom and Prayer section overview and after noticing the Bible allows lament and mystery.",
+      tags: ["Job", "book", "suffering"],
+      questions: [
+        {
+          prompt: "What major question does Job wrestle with?",
+          answer: "Why the righteous suffer and how to speak rightly about that suffering.",
+        },
+        {
+          prompt: "What goes wrong with Job's friends?",
+          answer: "They offer shallow explanations and misread Job's suffering.",
+        },
+        {
+          prompt: "What does Job learn at the end?",
+          answer: "He learns humility before God's greatness and wisdom.",
+        },
+      ],
+    },
+    {
       title: "Wisdom and Prayer Quiz",
       kicker: "Wisdom",
       summary: "Checks Job, Psalms, Proverbs, Ecclesiastes, and biblical prayer patterns.",
