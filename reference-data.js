@@ -4397,6 +4397,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Luke 18 Quiz",
+      kicker: "Chapter",
+      summary: "Checks persistent prayer, humility, and Jesus' teaching on entering the kingdom.",
+      detail: "This quiz helps a beginner see Luke 18 as the chapter where Jesus contrasts pride and humility and keeps urging prayer.",
+      start: "Take this after reading Luke 18 carefully and noticing the stories about prayer and status.",
+      tags: ["Luke 18", "chapter", "prayer"],
+      questions: [
+        {
+          prompt: "What lesson does the persistent widow teach?",
+          answer: "She shows the need to keep praying and not lose heart.",
+        },
+        {
+          prompt: "What is the point of the Pharisee and tax collector parable?",
+          answer: "God justifies the humble sinner rather than the self-righteous person.",
+        },
+        {
+          prompt: "What does Jesus say about children coming to him?",
+          answer: "He welcomes them and says the kingdom belongs to such as these.",
+        },
+      ],
+    },
+    {
       title: "John 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the opening claims about Jesus as the Word, light, and Son.",
