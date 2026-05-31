@@ -18833,6 +18833,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Proverbs Book Quiz",
+      kicker: "Book",
+      summary: "A whole-book check for Proverbs as practical wisdom for daily life.",
+      detail: "This quiz helps a beginner see Proverbs as training in wise, disciplined, God-fearing living, not a set of mechanical promises.",
+      start: "Take this after Psalms and after noticing that wisdom literature teaches skillful living under God.",
+      tags: ["Proverbs", "book", "wisdom"],
+      questions: [
+        {
+          prompt: "What is the main aim of Proverbs?",
+          answer: "To form wise, disciplined, God-fearing character.",
+        },
+        {
+          prompt: "How should readers treat Proverbs' sayings?",
+          answer: "As wise general guidance, not as guarantees in every case.",
+        },
+        {
+          prompt: "What starting point does Proverbs emphasize?",
+          answer: "The fear of the Lord is the beginning of wisdom.",
+        },
+      ],
+    },
+    {
       title: "Wisdom and Prayer Quiz",
       kicker: "Wisdom",
       summary: "Checks Job, Psalms, Proverbs, Ecclesiastes, and biblical prayer patterns.",
