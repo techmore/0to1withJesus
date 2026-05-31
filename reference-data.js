@@ -10339,6 +10339,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Chronicles 24 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter that organizes the priestly divisions.",
+      detail: "This quiz helps a beginner see 1 Chronicles 24 as the ordering of priests into divisions for orderly temple service.",
+      start: "Take this after 1 Chronicles 23 when you want to continue the book chapter by chapter.",
+      tags: ["1 Chronicles 24", "chapter", "priests"],
+      questions: [
+        {
+          prompt: "What is organized in 1 Chronicles 24?",
+          answer: "The priestly divisions.",
+        },
+        {
+          prompt: "Why is the organization important?",
+          answer: "It sets up orderly service in the temple.",
+        },
+        {
+          prompt: "Why does 1 Chronicles 24 matter?",
+          answer: "It prepares the priests for regular worship duties.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
