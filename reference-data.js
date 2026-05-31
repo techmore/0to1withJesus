@@ -4045,6 +4045,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Luke 2 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Jesus' birth, the shepherds, and the temple scenes of dedication and growth.",
+      detail: "This quiz helps a beginner see Luke 2 as the chapter where Jesus is born, announced to shepherds, and shown from the beginning as God's saving gift.",
+      start: "Take this after reading Luke 2 carefully and noticing the movement from birth to witness to temple devotion.",
+      tags: ["Luke 2", "chapter", "birth"],
+      questions: [
+        {
+          prompt: "Who announces Jesus' birth to the shepherds?",
+          answer: "An angel announces Jesus' birth, and the heavenly host praises God.",
+        },
+        {
+          prompt: "What do the shepherds do after hearing the news?",
+          answer: "They go to see the child and then tell others what they have heard.",
+        },
+        {
+          prompt: "What temple moments close the chapter?",
+          answer: "Jesus is presented in the temple, and Simeon and Anna recognize him.",
+        },
+      ],
+    },
+    {
       title: "John 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the opening claims about Jesus as the Word, light, and Son.",
