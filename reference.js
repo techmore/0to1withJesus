@@ -204,7 +204,7 @@ function renderReference() {
 
   grid.innerHTML = items.length
     ? state.tab === "quizzes"
-      ? renderQuizView(items, state)
+      ? renderQuizView(items, { ...state, fixedQuizTrack: document.body.dataset.quizTrack || "" })
       : items.map(referenceCard).join("")
     : `
       <article class="card reference-empty">
@@ -245,7 +245,7 @@ function setupReferenceTabs() {
     const button = event.target.closest("[data-reference-tab]");
     if (!button) return;
     if ((button.dataset.referenceTab || "") === "quizzes" && document.body.dataset.page !== "quizzes") {
-      window.location.href = "./quizzes.html#quizzes";
+      window.location.href = "./quizzes/starter.html#quizzes";
       return;
     }
     setReferenceTab(button.dataset.referenceTab || "reference", { updateHash: true });
@@ -334,11 +334,11 @@ function setupReferenceHash() {
     const { tab: tabName, quizTrackFilter } = parseHash(window.location.hash);
     if (!referenceData[tabName]) return;
     if (document.body.dataset.page === "quizzes" && tabName !== "quizzes") {
-      window.location.replace("./quizzes.html#quizzes");
+      window.location.replace("./quizzes/starter.html#quizzes");
       return;
     }
     if (tabName === "quizzes" && document.body.dataset.page !== "quizzes") {
-      window.location.replace("./quizzes.html#quizzes");
+      window.location.replace("./quizzes/starter.html#quizzes");
       return;
     }
     if (tabName === "quizzes") {
@@ -356,10 +356,14 @@ function setupReferenceHash() {
 }
 
 function bootstrapReference() {
+  const fixedTrack = document.body.dataset.quizTrack || "";
   if (document.body.dataset.page === "quizzes" && !window.location.hash) {
-    history.replaceState(null, "", "#quizzes?track=all");
+    history.replaceState(null, "", `#quizzes?track=${fixedTrack || "starter"}`);
   }
   loadQuizState();
+  if (fixedTrack) {
+    state.quizTrackFilter = fixedTrack;
+  }
   setupReferenceTabs();
   setupReferenceSearch();
   setupQuizControls();

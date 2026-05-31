@@ -159,6 +159,14 @@ function nextQuizTrack(track) {
   }[track] || "starter";
 }
 
+function quizTrackPagePath(track) {
+  return {
+    starter: "./starter.html",
+    intermediate: "./intermediate.html",
+    expert: "./expert.html",
+  }[track] || "./starter.html";
+}
+
 const starterQuizTitles = [
   "Bible Book Order Starter Quiz",
   "Bible Books Order and Sections Quiz",
@@ -372,64 +380,47 @@ function trackEmptyState(state) {
 }
 
 export function renderQuizToc(items, state = {}) {
-  const grouped = items.reduce((acc, item) => {
-    const track = quizTrackForItem(item);
-    if (!acc[track]) acc[track] = [];
-    acc[track].push(item);
-    return acc;
-  }, {});
-  const trackCounts = {
-    starter: grouped.starter?.length || 0,
-    intermediate: grouped.intermediate?.length || 0,
-    expert: grouped.expert?.length || 0,
-  };
-
-  const tracks = ["starter", "intermediate", "expert"];
-  const tocSections = tracks
-    .map((track) => {
-      const trackItems = grouped[track] || [];
-      if (!trackItems.length) return "";
-      return `
-        <section class="quiz-track" data-quiz-track="${escapeHtml(track)}">
-          <div class="quiz-toc-group-head">
-            <p class="eyebrow">${escapeHtml(quizTrackLabel(track))}</p>
-            <h4>${escapeHtml(quizTrackAnchor(track))}</h4>
-            <p class="quiz-track-summary">${escapeHtml(quizTrackSummary(track))}</p>
-          </div>
-          <div class="quiz-track-groups">
-            <section class="quiz-toc-group" data-quiz-track="${escapeHtml(track)}">
-              <div class="quiz-toc-grid">
-                ${trackItems.map(quizSectionCard).join("")}
-              </div>
-            </section>
-          </div>
-        </section>
-      `;
-    })
-    .join("");
+  const fixedTrack = state.fixedQuizTrack || "";
+  const activeTrack = fixedTrack || state.quizTrackFilter || "starter";
+  const trackItems = items.filter((item) => quizTrackForItem(item) === activeTrack);
+  const tocSections = trackItems.length
+    ? `
+      <section class="quiz-track is-active" data-quiz-track="${escapeHtml(activeTrack)}">
+        <div class="quiz-toc-group-head">
+          <p class="eyebrow">${escapeHtml(quizTrackLabel(activeTrack))}</p>
+          <h4>${escapeHtml(quizTrackAnchor(activeTrack))}</h4>
+          <p class="quiz-track-summary">${escapeHtml(quizTrackSummary(activeTrack))}</p>
+        </div>
+        <div class="quiz-track-groups">
+          <section class="quiz-toc-group is-active" data-quiz-track="${escapeHtml(activeTrack)}">
+            <div class="quiz-toc-grid">
+              ${trackItems.map(quizSectionCard).join("")}
+            </div>
+          </section>
+        </div>
+      </section>
+    `
+    : "";
 
   return `
     <section class="quiz-hub">
       <div class="quiz-hub-head">
         <div>
           <p class="eyebrow">Quiz curriculum</p>
-          <h3>Starter, Intermediate, and Expert are shown as separate curriculum blocks.</h3>
-          <p>
-            Search first to narrow the cards within each block. The page stays organized around the
-            three curriculum levels so the map stays visible.
-          </p>
+          <h3>${escapeHtml(quizTrackLabel(activeTrack))} quizzes</h3>
+          <p>Search within this page’s quiz set.</p>
         </div>
         <a class="link" href="./quizzes.md">Quiz planning notes</a>
       </div>
-      ${nextQuizCue("starter", items)}
+      ${fixedTrack ? nextQuizCue(activeTrack, items) : ""}
       <div class="quiz-toc" data-quiz-track-view>${tocSections || "<p>No quiz sets match this search yet.</p>"}</div>
-      <p class="quiz-track-status" aria-live="polite">Showing the full curriculum breakdown.</p>
+      <p class="quiz-track-status" aria-live="polite">${escapeHtml(quizTrackLabel(activeTrack))} page.</p>
     </section>
   `;
 }
 
 export function renderQuizGenerator(items, state) {
-  const activeTrack = state.quizTrackFilter || "starter";
+  const activeTrack = state.fixedQuizTrack || state.quizTrackFilter || "starter";
   const filteredItems = quizItemsForTrack(items, { quizTrackFilter: activeTrack });
   const bank = quizQuestionBank(filteredItems);
   const requested = state.quizSize === "all" ? bank.length : Number(state.quizSize);
@@ -441,8 +432,8 @@ export function renderQuizGenerator(items, state) {
   const nextTrackLabel = quizTrackLabel(nextTrack);
   const searchActive = Boolean(state.query.trim());
   const modeCopy = searchActive
-    ? `Study the filtered ${activeTrackLabel.toLowerCase()} track, then move to the next track when this one is solid.`
-    : `Learn inside the ${activeTrackLabel.toLowerCase()} track, then move to the next track when this one is solid.`;
+    ? `Study the ${activeTrackLabel.toLowerCase()} quiz set, then use the next page when this one is solid.`
+    : `Learn inside the ${activeTrackLabel.toLowerCase()} quiz set, then use the next page when this one is solid.`;
   const practiceMarkup = state.randomQuiz.length
     ? `
       <div class="quiz-random-list">
@@ -481,7 +472,7 @@ export function renderQuizGenerator(items, state) {
           <p>
             ${chosenCount
               ? `Showing ${chosenCount} question${chosenCount === 1 ? "" : "s"}${requested > availableCount ? " because the current bank is smaller than the requested set." : "."}`
-              : `Use this for recall practice inside the ${activeTrackLabel.toLowerCase()} track.`}
+              : `Use this for recall practice inside the ${activeTrackLabel.toLowerCase()} quiz set.`}
           </p>
         </div>
         <div class="quiz-generator-actions">
@@ -497,9 +488,9 @@ export function renderQuizGenerator(items, state) {
           <button class="button button-primary" type="button" data-generate-quiz ${availableCount ? "" : "disabled"}>
             Generate
           </button>
-          <button class="button button-secondary" type="button" aria-label="Go to ${escapeHtml(nextTrackLabel)} track" aria-describedby="quiz-generator-mode" title="Go to ${escapeHtml(nextTrackLabel)} track" data-quiz-track-filter="${escapeHtml(nextTrack)}">
-            ${escapeHtml(nextTrackLabel)}
-          </button>
+          ${state.fixedQuizTrack
+            ? `<a class="button button-secondary" href="${escapeHtml(quizTrackPagePath(nextTrack))}" aria-describedby="quiz-generator-mode" title="Go to ${escapeHtml(nextTrackLabel)} track">Next: ${escapeHtml(nextTrackLabel)}</a>`
+            : `<button class="button button-secondary" type="button" aria-label="Go to ${escapeHtml(nextTrackLabel)} track" aria-describedby="quiz-generator-mode" title="Go to ${escapeHtml(nextTrackLabel)} track" data-quiz-track-filter="${escapeHtml(nextTrack)}">${escapeHtml(nextTrackLabel)}</button>`}
         </div>
       </div>
       ${practiceMarkup}

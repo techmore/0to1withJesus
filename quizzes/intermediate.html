@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="Intermediate quizzes for book overviews, section groupings, and deeper Bible navigation."
+    />
+    <meta name="theme-color" content="#1f2117" />
+    <title>Intermediate Quizzes | Jesus Guide</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:ital,opsz,wght@0,14..32,400..900;1,14..32,400..900&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css?v=20260510-1" />
+  </head>
+  <body data-page="quizzes" data-quiz-track="intermediate" class="quiz-page-shell">
+    <div class="backdrop backdrop-a"></div>
+    <div class="backdrop backdrop-b"></div>
+
+    <header class="topbar">
+      <div class="topbar-main">
+        <a class="brand" href="../index.html#top">
+          <span class="brand-mark">J</span>
+          <span>
+            <strong>Jesus Guide</strong>
+            <small>Start here, go deeper, listen anytime</small>
+          </span>
+        </a>
+        <nav class="topnav topnav-primary" aria-label="Primary">
+          <a href="../index.html#start-here">Start Here</a>
+          <a href="../index.html#bible-in-a-year">Bible in a Year</a>
+          <a href="../poetry.html">Poetry</a>
+          <a href="../resources.html">Resources</a>
+          <a href="../roadmap.html">Roadmap</a>
+        </nav>
+      </div>
+      <nav class="topnav topnav-reference" aria-label="Quiz navigation">
+        <a href="../reference.html">Reference</a>
+        <a href="./starter.html">Starter</a>
+        <a class="is-active" href="./intermediate.html">Intermediate</a>
+        <a href="./expert.html">Expert</a>
+      </nav>
+    </header>
+
+    <main id="top" class="shell reference-shell">
+      <section class="reference-hero">
+        <div class="reference-hero-copy">
+          <p class="eyebrow">Intermediate Quizzes</p>
+          <h1>Move from the map into the books and sections.</h1>
+          <p class="lede">
+            Intermediate quizzes focus on book overviews and section groupings.
+          </p>
+          <div class="hero-actions">
+            <a class="button button-primary" href="#reference-browser">Open Intermediate quizzes</a>
+            <a class="button button-secondary" href="./expert.html">Go to Expert</a>
+          </div>
+        </div>
+
+        <aside class="reference-hero-panel">
+          <article class="reference-mini">
+            <span>Starter</span>
+            <strong>Order and sections</strong>
+            <p>Use Starter if the Bible’s order is still fuzzy.</p>
+          </article>
+          <article class="reference-mini">
+            <span>Expert</span>
+            <strong>Recall practice</strong>
+            <p>Move to Expert after the book and section layers are clear.</p>
+          </article>
+        </aside>
+      </section>
+
+      <section id="reference-browser" class="section reference-browser">
+        <div class="section-heading section-heading-wide">
+          <p class="eyebrow">Intermediate curriculum</p>
+          <h2>Intermediate quizzes, grouped and ready to study.</h2>
+          <p>Search for a book or section idea inside the Intermediate curriculum.</p>
+        </div>
+
+        <div class="reference-tools">
+          <label class="search">
+            <span>Search Intermediate quizzes</span>
+            <input id="reference-search" type="search" placeholder="Try: Genesis, Gospels, Romans 8, order" />
+          </label>
+          <button class="button button-secondary reference-clear" type="button" data-clear-reference-search hidden>
+            Clear search
+          </button>
+        </div>
+
+        <div class="reference-summary" id="reference-summary" aria-live="polite"></div>
+        <div class="reference-grid" id="reference-grid"></div>
+      </section>
+
+      <section class="section callout">
+        <div>
+          <p class="eyebrow">Next page</p>
+          <h2>When Intermediate is solid, move to Expert.</h2>
+          <p>Each quiz level now has its own page and header.</p>
+          <div class="roadmap-footer-cta">
+            <a class="button button-primary" href="./expert.html">Open Expert</a>
+            <a class="button button-secondary" href="../reference.html">Open the reference guide</a>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <p>Built for GitHub Pages. This page is the Intermediate quiz path.</p>
+    </footer>
+
+    <script type="module" src="../reference.js?v=20260524-1"></script>
+  </body>
+</html>

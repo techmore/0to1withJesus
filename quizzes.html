@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta
       name="description"
-      content="A structured quiz page with Starter, Intermediate, and Expert tracks for Bible order, book overviews, chapter recall, and mixed practice."
+      content="Choose the Starter, Intermediate, or Expert quiz page for Bible order, book overviews, and chapter recall."
     />
     <meta name="theme-color" content="#1f2117" />
     <title>Quizzes | Jesus Guide</title>
@@ -40,22 +40,26 @@
       </div>
       <nav class="topnav topnav-reference" aria-label="Quiz navigation">
         <a href="./reference.html">Reference</a>
-        <a href="./quizzes.html">Quizzes</a>
+        <a class="is-active" href="./quizzes.html">Quizzes</a>
+        <a href="./quizzes/starter.html">Starter</a>
+        <a href="./quizzes/intermediate.html">Intermediate</a>
+        <a href="./quizzes/expert.html">Expert</a>
       </nav>
     </header>
 
     <main id="top" class="shell reference-shell">
       <section class="reference-hero">
         <div class="reference-hero-copy">
-          <p class="eyebrow">Quiz curriculum</p>
-          <h1>Learn the Bible’s order, then move from book-level understanding to chapter-level recall.</h1>
+          <p class="eyebrow">Quiz pages</p>
+          <h1>Pick the quiz page that matches the level you want to study.</h1>
           <p class="lede">
-            Use the Starter quizzes to learn the map, Intermediate quizzes to learn the books, and Expert
-            quizzes to pressure-test your recall.
+            Starter, Intermediate, and Expert now live on separate pages with their own headers, guidance,
+            and navigation.
           </p>
           <div class="hero-actions">
-            <a class="button button-primary" href="#reference-browser">Start the quiz map</a>
-            <a class="button button-secondary" href="./reference.html">Back to reference</a>
+            <a class="button button-primary" href="./quizzes/starter.html">Open Starter</a>
+            <a class="button button-secondary" href="./quizzes/intermediate.html">Open Intermediate</a>
+            <a class="button button-secondary" href="./quizzes/expert.html">Open Expert</a>
           </div>
         </div>
 
@@ -63,60 +67,34 @@
           <article class="reference-mini">
             <span>Starter</span>
             <strong>Order and sections</strong>
-            <p>Learn the Old Testament, New Testament, and broad book groups first.</p>
+            <p>Use this first if the Bible’s map still feels fuzzy.</p>
           </article>
           <article class="reference-mini">
             <span>Intermediate</span>
-            <strong>Book overviews</strong>
-            <p>Use book quizzes to hold the shape of each book in your head.</p>
+            <strong>Books and sections</strong>
+            <p>Use this when you want book-level structure and grouping.</p>
           </article>
         </aside>
-      </section>
-
-      <section id="reference-browser" class="section reference-browser">
-        <div class="section-heading section-heading-wide">
-          <p class="eyebrow">Quiz browser</p>
-          <h2>Starter, Intermediate, and Expert tracks on one page.</h2>
-          <p>
-            Search for a book, section, or chapter idea, then use the track filters to move between the
-            three levels without losing your place.
-          </p>
-        </div>
-
-        <div class="reference-tools">
-          <label class="search">
-            <span>Search quizzes</span>
-            <input id="reference-search" type="search" placeholder="Try: Genesis, Gospels, Romans 8, order" />
-          </label>
-          <button class="button button-secondary reference-clear" type="button" data-clear-reference-search hidden>
-            Clear search
-          </button>
-        </div>
-
-        <div class="reference-summary" id="reference-summary" aria-live="polite"></div>
-        <div class="reference-grid" id="reference-grid"></div>
       </section>
 
       <section class="section callout">
         <div>
           <p class="eyebrow">Suggested path</p>
-          <h2>Start with the map, then work down to the chapter level.</h2>
+          <h2>Start with Starter, then move in order.</h2>
           <p>
-            If the order is still fuzzy, stay in Starter until the books feel familiar. After that, move
-            into Intermediate and only then lean on Expert for recall practice.
+            The three quiz pages are separate so you can stay in one level instead of juggling a mixed
+            combined screen.
           </p>
           <div class="roadmap-footer-cta">
-            <a class="button button-primary" href="./reference.html">Open the reference guide</a>
-            <a class="button button-secondary" href="./index.html#first-seven-days">Return to the 7-day path</a>
+            <a class="button button-primary" href="./quizzes/starter.html">Start with Starter</a>
+            <a class="button button-secondary" href="./reference.html">Open the reference guide</a>
           </div>
         </div>
       </section>
     </main>
 
     <footer class="footer">
-      <p>Built for GitHub Pages. Use this page as the dedicated quiz path.</p>
+      <p>Built for GitHub Pages. Use this page to choose a quiz level.</p>
     </footer>
-
-    <script type="module" src="./reference.js?v=20260524-1"></script>
   </body>
 </html>
