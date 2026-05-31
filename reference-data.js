@@ -5191,6 +5191,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 5 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Pharaoh increases Israel's labor after Moses' first demand.",
+      detail: "This quiz helps a beginner see Exodus 5 as the chapter where obedience leads to greater pressure before rescue begins.",
+      start: "Take this after reading Exodus 5 carefully and noticing the brick quotas, the complaint, and Moses' discouragement.",
+      tags: ["Exodus 5", "chapter", "moses"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Exodus 5?",
+          answer: "The chapter emphasizes Pharaoh's harsh response to Moses and Israel's increased labor.",
+        },
+        {
+          prompt: "How do the Israelite foremen react in Exodus 5?",
+          answer: "They complain that their burden has become heavier and that Moses has made them odious to Pharaoh.",
+        },
+        {
+          prompt: "Why does Exodus 5 matter after Exodus 4?",
+          answer: "It shows that the rescue mission begins with resistance and discouragement, not immediate victory.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
