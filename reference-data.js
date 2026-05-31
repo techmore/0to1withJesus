@@ -10559,6 +10559,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Chronicles 4 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter that describes the temple furnishings and equipment.",
+      detail: "This quiz helps a beginner see 2 Chronicles 4 as the details of the temple's bronze and gold furnishings coming together.",
+      start: "Take this after 2 Chronicles 3 when you want to continue the chapter-by-chapter reading.",
+      tags: ["2 Chronicles 4", "chapter", "temple"],
+      questions: [
+        {
+          prompt: "What is described in 2 Chronicles 4?",
+          answer: "The temple furnishings and equipment.",
+        },
+        {
+          prompt: "What materials are especially highlighted?",
+          answer: "Bronze and gold.",
+        },
+        {
+          prompt: "Why does 2 Chronicles 4 matter?",
+          answer: "It shows the temple being fitted for worship.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
