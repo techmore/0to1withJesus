@@ -4795,6 +4795,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 38 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Judah and Tamar's story exposes family failure and justice.",
+      detail: "This quiz helps a beginner see Genesis 38 as the chapter where the line of Judah is preserved through a surprising and messy story.",
+      start: "Take this after reading Genesis 38 carefully and noticing Tamar's persistence, Judah's failure, and the birth of Perez.",
+      tags: ["Genesis 38", "chapter", "judah"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Genesis 38?",
+          answer: "The chapter emphasizes Judah's failure, Tamar's persistence, and the preservation of the family line.",
+        },
+        {
+          prompt: "How does Tamar secure justice in Genesis 38?",
+          answer: "She disguises herself and confronts Judah, leading to the birth of Perez.",
+        },
+        {
+          prompt: "Why does Genesis 38 matter after Genesis 37?",
+          answer: "It interrupts Joseph's story to show that the promise line continues through Judah.",
+        },
+      ],
+    },
+    {
       title: "Exodus Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Exodus as the Bible's great rescue story.",
