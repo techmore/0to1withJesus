@@ -4715,6 +4715,1862 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 122 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where patient attention becomes steady focus.",
+      detail: "This quiz helps a beginner see Matthew 122 as the chapter where Jesus turns attention into steady focus that can remain with the good.",
+      start: "Take this after reading Matthew 122 carefully and noticing how attention can become focus.",
+      tags: ["Matthew 122", "chapter", "focus"],
+      questions: [
+        {
+          prompt: "What changes when attention becomes focus in Matthew 122?",
+          answer: "The listener stops reacting only for the moment and begins to stay with what Jesus is saying.",
+        },
+        {
+          prompt: "What kind of response does the chapter ask for?",
+          answer: "It asks for steady, patient attention that does not drift away too quickly.",
+        },
+        {
+          prompt: "Why is focus important in this chapter?",
+          answer: "Focus helps the reader hold on to Jesus' teaching and let it shape action.",
+        },
+      ],
+    },
+    {
+      title: "Mark Book Quiz",
+      kicker: "Book",
+      summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
+      detail: "This quiz helps a beginner see Mark's shape: Jesus acts with authority, people struggle to understand him, the cross comes into focus, and discipleship means following him in faith and service.",
+      start: "Take this after the Gospel of Matthew if you want to compare Mark's shorter, faster presentation of Jesus.",
+      tags: ["Mark", "Gospel", "book"],
+      questions: [
+        {
+          prompt: "What makes Mark feel different from the other Gospels?",
+          answer: "Mark moves quickly through events and emphasizes action, urgency, and opposition.",
+        },
+        {
+          prompt: "What key question does Mark press about Jesus' identity?",
+          answer: "Mark asks who Jesus is and shows that his authority, miracles, and suffering reveal him as the Son of God and the suffering Messiah.",
+        },
+        {
+          prompt: "What does Mark highlight about discipleship?",
+          answer: "Mark shows that discipleship means following Jesus, learning from him, and accepting the way of the cross rather than seeking status.",
+        },
+      ],
+    },
+    {
+      title: "Luke Book Quiz",
+      kicker: "Book",
+      summary: "A whole-book check for Luke as the Gospel of the Spirit, outsiders, prayer, and salvation for all kinds of people.",
+      detail: "This quiz helps a beginner see Luke's shape: Jesus brings good news to the poor, outsiders, and the hurting; prayer and the Spirit matter throughout; and the story opens into Acts.",
+      start: "Take this after the Gospel of Mark if you want to see Luke's wider social and salvation focus.",
+      tags: ["Luke", "Gospel", "book"],
+      questions: [
+        {
+          prompt: "What makes Luke distinct among the Gospels?",
+          answer: "Luke emphasizes the Holy Spirit, prayer, compassion for outsiders, and the reach of salvation to many kinds of people.",
+        },
+        {
+          prompt: "What kind of people does Luke especially highlight?",
+          answer: "Luke highlights the poor, sinners, women, Gentiles, Samaritans, the sick, and people others might overlook.",
+        },
+        {
+          prompt: "How does Luke prepare for Acts?",
+          answer: "Luke ends by pointing toward Jesus' ascension and the continuing work of God that Acts will carry forward through the church.",
+        },
+      ],
+    },
+    {
+      title: "Luke 1 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the annunciation, Mary's response, and the opening songs and births in Luke.",
+      detail: "This quiz helps a beginner see Luke 1 as the chapter where God begins the birth story with promises, songs, and Spirit-filled responses.",
+      start: "Take this after reading Luke 1 carefully and noticing the movement from announcement to praise.",
+      tags: ["Luke 1", "chapter", "annunciation"],
+      questions: [
+        {
+          prompt: "Who announces Jesus' birth in Luke 1?",
+          answer: "The angel Gabriel announces Jesus' birth to Mary.",
+        },
+        {
+          prompt: "How does Mary respond to the announcement?",
+          answer: "She trusts God's word and submits herself to his plan.",
+        },
+        {
+          prompt: "What songs or responses stand out in Luke 1?",
+          answer: "Mary's song and Zechariah's prophecy praise God's mercy and faithfulness.",
+        },
+      ],
+    },
+    {
+      title: "Luke 2 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Jesus' birth, the shepherds, and the temple scenes of dedication and growth.",
+      detail: "This quiz helps a beginner see Luke 2 as the chapter where Jesus is born, announced to shepherds, and shown from the beginning as God's saving gift.",
+      start: "Take this after reading Luke 2 carefully and noticing the movement from birth to witness to temple devotion.",
+      tags: ["Luke 2", "chapter", "birth"],
+      questions: [
+        {
+          prompt: "Who announces Jesus' birth to the shepherds?",
+          answer: "An angel announces Jesus' birth, and the heavenly host praises God.",
+        },
+        {
+          prompt: "What do the shepherds do after hearing the news?",
+          answer: "They go to see the child and then tell others what they have heard.",
+        },
+        {
+          prompt: "What temple moments close the chapter?",
+          answer: "Jesus is presented in the temple, and Simeon and Anna recognize him.",
+        },
+      ],
+    },
+    {
+      title: "Luke 3 Quiz",
+      kicker: "Chapter",
+      summary: "Checks John the Baptist's message, repentance, and Jesus' baptism.",
+      detail: "This quiz helps a beginner see Luke 3 as the chapter where the way is prepared, repentance is preached, and Jesus is publicly identified at his baptism.",
+      start: "Take this after reading Luke 3 carefully and noticing the movement from preparation to baptism to genealogy.",
+      tags: ["Luke 3", "chapter", "repentance"],
+      questions: [
+        {
+          prompt: "What is John the Baptist calling people to do?",
+          answer: "He calls people to repent and prepare for the Lord.",
+        },
+        {
+          prompt: "What happens when Jesus is baptized?",
+          answer: "The Spirit descends and the Father's voice identifies Jesus as his Son.",
+        },
+        {
+          prompt: "What major list ends the chapter?",
+          answer: "Luke gives a genealogy tracing Jesus' line back through Israel and to Adam.",
+        },
+      ],
+    },
+    {
+      title: "Luke 4 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Jesus' temptation, Nazareth sermon, and the Spirit's mission.",
+      detail: "This quiz helps a beginner see Luke 4 as the chapter where Jesus resists temptation and then announces good news for the poor, captives, and oppressed.",
+      start: "Take this after reading Luke 4 carefully and noticing how Scripture and mission frame the chapter.",
+      tags: ["Luke 4", "chapter", "Nazareth"],
+      questions: [
+        {
+          prompt: "Where is Jesus tempted at the start of Luke 4?",
+          answer: "Jesus is tempted in the wilderness by the devil.",
+        },
+        {
+          prompt: "What passage does Jesus read in Nazareth?",
+          answer: "He reads a passage about the Spirit anointing him to bring good news and freedom.",
+        },
+        {
+          prompt: "How do people respond in the synagogue?",
+          answer: "They are first amazed, then angry, and they try to drive him out.",
+        },
+      ],
+    },
+    {
+      title: "Luke 5 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the call of the first fishermen, the healing of the paralytic, and Jesus' authority to forgive.",
+      detail: "This quiz helps a beginner see Luke 5 as the chapter where Jesus calls unlikely followers, heals with authority, and shows his power to forgive sins.",
+      start: "Take this after reading Luke 5 carefully and noticing the movement from fishing to call to forgiveness.",
+      tags: ["Luke 5", "chapter", "calling"],
+      questions: [
+        {
+          prompt: "Who does Jesus call from their fishing work?",
+          answer: "Jesus calls Simon Peter and his partners to follow him.",
+        },
+        {
+          prompt: "What miracle leads to the call?",
+          answer: "Jesus helps them catch an overwhelming number of fish.",
+        },
+        {
+          prompt: "What authority does Jesus claim when healing the paralytic?",
+          answer: "He claims authority to forgive sins as well as heal.",
+        },
+      ],
+    },
+    {
+      title: "Luke 6 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Sabbath controversies, the Sermon on the Plain, and love for enemies.",
+      detail: "This quiz helps a beginner see Luke 6 as the chapter where Jesus reorients Sabbath, disciple life, and the ethics of mercy and enemy-love.",
+      start: "Take this after reading Luke 6 carefully and noticing how Jesus turns expectations upside down.",
+      tags: ["Luke 6", "chapter", "Sermon on the Plain"],
+      questions: [
+        {
+          prompt: "What conflict starts the chapter?",
+          answer: "Jesus is challenged over Sabbath practices when the disciples pluck grain and he heals on the Sabbath.",
+        },
+        {
+          prompt: "What kind of teaching follows?",
+          answer: "Jesus gives a set of blessings and warnings often called the Sermon on the Plain.",
+        },
+        {
+          prompt: "What surprising command does Jesus give about enemies?",
+          answer: "He tells his followers to love their enemies and do good to those who hate them.",
+        },
+      ],
+    },
+    {
+      title: "Luke 7 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the centurion's faith, the widow's son, and Jesus' response to John the Baptist.",
+      detail: "This quiz helps a beginner see Luke 7 as the chapter where Jesus' authority, compassion, and identity are highlighted through healing, raising the dead, and answering questions.",
+      start: "Take this after reading Luke 7 carefully and noticing the repeated contrasts between faith and doubt.",
+      tags: ["Luke 7", "chapter", "faith"],
+      questions: [
+        {
+          prompt: "Whose faith amazes Jesus in Luke 7?",
+          answer: "A Roman centurion's faith amazes Jesus.",
+        },
+        {
+          prompt: "Who does Jesus raise from the dead in this chapter?",
+          answer: "Jesus raises the widow's son at Nain.",
+        },
+        {
+          prompt: "How does Jesus answer John the Baptist's question?",
+          answer: "He points to his works of healing and good news as evidence of his identity.",
+        },
+      ],
+    },
+    {
+      title: "Luke 8 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the parable of the sower, Jesus calming the storm, and the healings that follow.",
+      detail: "This quiz helps a beginner see Luke 8 as the chapter where Jesus explains how people receive God's word, then shows authority over chaos, demons, sickness, and death.",
+      start: "Take this after reading Luke 8 carefully and noticing the movement from hearing to fear to faith.",
+      tags: ["Luke 8", "chapter", "parable"],
+      questions: [
+        {
+          prompt: "What does the parable of the sower describe?",
+          answer: "It describes different responses to God's word.",
+        },
+        {
+          prompt: "What does Jesus do in the storm?",
+          answer: "He calms the wind and waves.",
+        },
+        {
+          prompt: "What other signs of authority appear in Luke 8?",
+          answer: "Jesus frees the demon-possessed man, heals a woman, and raises Jairus's daughter.",
+        },
+      ],
+    },
+    {
+      title: "Luke 9 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the feeding of the five thousand, Peter's confession, the transfiguration, and the cost of following Jesus.",
+      detail: "This quiz helps a beginner see Luke 9 as the chapter where Jesus reveals his glory and then explains what it means to follow him on the path of suffering and mission.",
+      start: "Take this after reading Luke 9 carefully and noticing the movement from miracle to confession to the cross.",
+      tags: ["Luke 9", "chapter", "transfiguration"],
+      questions: [
+        {
+          prompt: "What miracle feeds the crowd in Luke 9?",
+          answer: "Jesus feeds the five thousand with five loaves and two fish.",
+        },
+        {
+          prompt: "What does Peter confess about Jesus?",
+          answer: "Peter confesses Jesus as the Christ of God.",
+        },
+        {
+          prompt: "What major vision happens on the mountain?",
+          answer: "Jesus is transfigured before Peter, James, and John.",
+        },
+      ],
+    },
+    {
+      title: "Luke 10 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the mission of the seventy, the Good Samaritan, and Mary and Martha.",
+      detail: "This quiz helps a beginner see Luke 10 as the chapter where Jesus sends out workers, expands neighbor-love, and teaches about listening to him.",
+      start: "Take this after reading Luke 10 carefully and noticing how mission and mercy fit together.",
+      tags: ["Luke 10", "chapter", "neighbor"],
+      questions: [
+        {
+          prompt: "What does Jesus send out in Luke 10?",
+          answer: "Jesus sends out seventy-two disciples on mission.",
+        },
+        {
+          prompt: "What story teaches who a neighbor is?",
+          answer: "The parable of the Good Samaritan teaches that loving a neighbor crosses ethnic and social boundaries.",
+        },
+        {
+          prompt: "How does Luke 10 end with Mary and Martha?",
+          answer: "Mary sits at Jesus' feet and listens, while Martha is distracted by much serving.",
+        },
+      ],
+    },
+    {
+      title: "Luke 11 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the Lord's Prayer, Jesus' teaching on prayer, and the conflict with religious hypocrisy.",
+      detail: "This quiz helps a beginner see Luke 11 as the chapter where Jesus teaches prayer, warns about spiritual opposition, and confronts empty religion.",
+      start: "Take this after reading Luke 11 carefully and noticing the movement from prayer to warning to confrontation.",
+      tags: ["Luke 11", "chapter", "prayer"],
+      questions: [
+        {
+          prompt: "What prayer does Jesus teach his disciples in Luke 11?",
+          answer: "Jesus teaches them the Lord's Prayer.",
+        },
+        {
+          prompt: "What image does Jesus use for spiritual conflict?",
+          answer: "He speaks of the strong man and the stronger one who overcomes him.",
+        },
+        {
+          prompt: "What does Jesus warn against in the chapter?",
+          answer: "He warns against hypocrisy and outward religion that ignores justice and mercy.",
+        },
+      ],
+    },
+    {
+      title: "Luke 12 Quiz",
+      kicker: "Chapter",
+      summary: "Checks warnings about hypocrisy, wealth, readiness, and fear of God.",
+      detail: "This quiz helps a beginner see Luke 12 as the chapter where Jesus teaches his followers to fear God rather than people and to live ready for his coming.",
+      start: "Take this after reading Luke 12 carefully and noticing the repeated call to be ready.",
+      tags: ["Luke 12", "chapter", "readiness"],
+      questions: [
+        {
+          prompt: "What danger does Jesus warn against at the start of Luke 12?",
+          answer: "He warns against the hypocrisy of the Pharisees.",
+        },
+        {
+          prompt: "What parable addresses wealth and greed?",
+          answer: "The parable of the rich fool warns against storing up treasure for oneself without being rich toward God.",
+        },
+        {
+          prompt: "What does Jesus tell his followers to do as they wait?",
+          answer: "He tells them to be watchful and ready for the Son of Man's coming.",
+        },
+      ],
+    },
+    {
+      title: "Luke 13 Quiz",
+      kicker: "Chapter",
+      summary: "Checks repentance, the narrow door, and Jesus' compassion on the bent woman.",
+      detail: "This quiz helps a beginner see Luke 13 as the chapter where Jesus presses the need for repentance, urgency, and mercy.",
+      start: "Take this after reading Luke 13 carefully and noticing the warning, the parables, and the healing.",
+      tags: ["Luke 13", "chapter", "repentance"],
+      questions: [
+        {
+          prompt: "What theme does Jesus emphasize when people mention tragedy in Luke 13?",
+          answer: "He emphasizes the need for repentance.",
+        },
+        {
+          prompt: "What image does Jesus use to describe entering God's kingdom?",
+          answer: "He speaks of the narrow door.",
+        },
+        {
+          prompt: "Whom does Jesus heal in the synagogue on the Sabbath?",
+          answer: "He heals a woman who had been bent over for eighteen years.",
+        },
+      ],
+    },
+    {
+      title: "Luke 14 Quiz",
+      kicker: "Chapter",
+      summary: "Checks humility, the cost of discipleship, and Jesus' teaching at a Pharisee's house.",
+      detail: "This quiz helps a beginner see Luke 14 as the chapter where Jesus overturns pride and explains the cost of following him.",
+      start: "Take this after reading Luke 14 carefully and noticing the meals, invitations, and discipleship warnings.",
+      tags: ["Luke 14", "chapter", "humility"],
+      questions: [
+        {
+          prompt: "What lesson does Jesus teach by choosing the lowest place at the meal?",
+          answer: "He teaches humility and letting God exalt you.",
+        },
+        {
+          prompt: "What does Jesus say someone must count before following him?",
+          answer: "They must count the cost of discipleship.",
+        },
+        {
+          prompt: "What kind of people does Jesus say to invite to a feast?",
+          answer: "He says to invite the poor, the crippled, the lame, and the blind.",
+        },
+      ],
+    },
+    {
+      title: "Luke 15 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the lost sheep, lost coin, and prodigal son parables.",
+      detail: "This quiz helps a beginner see Luke 15 as the chapter where Jesus shows God's joy over repentance and return.",
+      start: "Take this after reading Luke 15 carefully and noticing the three lost-and-found stories.",
+      tags: ["Luke 15", "chapter", "parable"],
+      questions: [
+        {
+          prompt: "What repeated idea ties the parables in Luke 15 together?",
+          answer: "Something lost is found, and there is joy over repentance.",
+        },
+        {
+          prompt: "What does the father do when the younger son returns?",
+          answer: "He welcomes him home with compassion and celebration.",
+        },
+        {
+          prompt: "What do the shepherd, the woman, and the father all show about God?",
+          answer: "They show God's active search and joy over the lost being found.",
+        },
+      ],
+    },
+    {
+      title: "Luke 16 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the parable of the shrewd manager and Jesus' teaching on wealth.",
+      detail: "This quiz helps a beginner see Luke 16 as the chapter where Jesus warns about serving money and calls for faithful use of resources.",
+      start: "Take this after reading Luke 16 carefully and noticing the stories about stewardship and riches.",
+      tags: ["Luke 16", "chapter", "wealth"],
+      questions: [
+        {
+          prompt: "What lesson does Jesus draw from the shrewd manager?",
+          answer: "He urges people to use worldly resources wisely and faithfully.",
+        },
+        {
+          prompt: "What warning does Jesus give about serving two masters?",
+          answer: "No one can serve both God and money.",
+        },
+        {
+          prompt: "What contrast does Jesus make about wealth and the kingdom?",
+          answer: "Earthly wealth is temporary, but faithfulness matters before God.",
+        },
+      ],
+    },
+    {
+      title: "Luke 17 Quiz",
+      kicker: "Chapter",
+      summary: "Checks forgiveness, faith, gratitude, and the coming of the kingdom.",
+      detail: "This quiz helps a beginner see Luke 17 as the chapter where Jesus teaches endurance, thankfulness, and readiness.",
+      start: "Take this after reading Luke 17 carefully and noticing the warnings and healings.",
+      tags: ["Luke 17", "chapter", "faith"],
+      questions: [
+        {
+          prompt: "What does Jesus teach about forgiving a brother or sister?",
+          answer: "He says to forgive repeatedly when they repent.",
+        },
+        {
+          prompt: "What do the ten lepers reveal after being healed?",
+          answer: "Only one returns to give thanks, and he is a Samaritan.",
+        },
+        {
+          prompt: "What does Jesus say about the kingdom of God?",
+          answer: "It is already among them and must be entered with readiness.",
+        },
+      ],
+    },
+    {
+      title: "Luke 18 Quiz",
+      kicker: "Chapter",
+      summary: "Checks persistent prayer, humility, and Jesus' teaching on entering the kingdom.",
+      detail: "This quiz helps a beginner see Luke 18 as the chapter where Jesus contrasts pride and humility and keeps urging prayer.",
+      start: "Take this after reading Luke 18 carefully and noticing the stories about prayer and status.",
+      tags: ["Luke 18", "chapter", "prayer"],
+      questions: [
+        {
+          prompt: "What lesson does the persistent widow teach?",
+          answer: "She shows the need to keep praying and not lose heart.",
+        },
+        {
+          prompt: "What is the point of the Pharisee and tax collector parable?",
+          answer: "God justifies the humble sinner rather than the self-righteous person.",
+        },
+        {
+          prompt: "What does Jesus say about children coming to him?",
+          answer: "He welcomes them and says the kingdom belongs to such as these.",
+        },
+      ],
+    },
+    {
+      title: "Luke 19 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Zacchaeus, the king's arrival, and Jesus' lament over Jerusalem.",
+      detail: "This quiz helps a beginner see Luke 19 as the chapter where Jesus seeks the lost, enters Jerusalem, and grieves over the city.",
+      start: "Take this after reading Luke 19 carefully and noticing the change from rescue to arrival.",
+      tags: ["Luke 19", "chapter", "Zacchaeus"],
+      questions: [
+        {
+          prompt: "Who is Zacchaeus and what does Jesus do with him?",
+          answer: "He is a tax collector whom Jesus calls and welcomes into fellowship.",
+        },
+        {
+          prompt: "What does Jesus ride into Jerusalem on?",
+          answer: "He rides on a colt as the crowd welcomes him as king.",
+        },
+        {
+          prompt: "How does Jesus respond to Jerusalem?",
+          answer: "He weeps over the city and warns of its coming judgment.",
+        },
+      ],
+    },
+    {
+      title: "Luke 20 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Jesus' authority, the parable of the tenants, and questions about resurrection.",
+      detail: "This quiz helps a beginner see Luke 20 as the chapter where Jesus is challenged and answers with wisdom and authority.",
+      start: "Take this after reading Luke 20 carefully and noticing the confrontation in the temple.",
+      tags: ["Luke 20", "chapter", "authority"],
+      questions: [
+        {
+          prompt: "What question do the leaders ask Jesus at the start of the chapter?",
+          answer: "They ask by what authority he does these things.",
+        },
+        {
+          prompt: "What does the parable of the tenants warn about?",
+          answer: "It warns that rejecting God's messengers leads to judgment.",
+        },
+        {
+          prompt: "How does Jesus answer the resurrection trap question?",
+          answer: "He says the dead are raised and God is God of the living.",
+        },
+      ],
+    },
+    {
+      title: "Luke 21 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the widow's offering, the temple warning, and Jesus' teaching about the end.",
+      detail: "This quiz helps a beginner see Luke 21 as the chapter where Jesus contrasts true giving with outward religion and speaks about coming trials.",
+      start: "Take this after reading Luke 21 carefully and noticing the shift from temple gifts to apocalyptic teaching.",
+      tags: ["Luke 21", "chapter", "end times"],
+      questions: [
+        {
+          prompt: "What does Jesus notice about the widow's offering?",
+          answer: "He says she gave more than the rich because she gave all she had.",
+        },
+        {
+          prompt: "What does Jesus predict about the temple?",
+          answer: "He predicts its destruction.",
+        },
+        {
+          prompt: "What does Jesus tell his followers to do when hard times come?",
+          answer: "He tells them to endure, stay alert, and trust God's help.",
+        },
+      ],
+    },
+    {
+      title: "Luke 22 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the Last Supper, betrayal, prayer, and Jesus' arrest.",
+      detail: "This quiz helps a beginner see Luke 22 as the chapter where Jesus prepares his disciples for the cross and is handed over.",
+      start: "Take this after reading Luke 22 carefully and noticing the meal, the warning, and the garden.",
+      tags: ["Luke 22", "chapter", "last supper"],
+      questions: [
+        {
+          prompt: "What happens at the Last Supper in Luke 22?",
+          answer: "Jesus institutes the cup and bread as part of the new covenant meal.",
+        },
+        {
+          prompt: "What warning does Jesus give to Peter?",
+          answer: "He warns that Peter will deny him before the rooster crows.",
+        },
+        {
+          prompt: "Where is Jesus arrested?",
+          answer: "He is arrested in the garden after praying.",
+        },
+      ],
+    },
+    {
+      title: "Luke 23 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Jesus' trial, crucifixion, and burial.",
+      detail: "This quiz helps a beginner see Luke 23 as the chapter where Jesus is condemned, suffers, and is laid in the tomb.",
+      start: "Take this after reading Luke 23 carefully and noticing the movement from courtroom to cross to tomb.",
+      tags: ["Luke 23", "chapter", "crucifixion"],
+      questions: [
+        {
+          prompt: "Who is sent to question Jesus during his trial?",
+          answer: "Pilate and Herod are involved in questioning and judging him.",
+        },
+        {
+          prompt: "What does Jesus say to the repentant criminal?",
+          answer: "He promises the man will be with him in paradise.",
+        },
+        {
+          prompt: "What happens after Jesus dies?",
+          answer: "His body is taken down and laid in a tomb.",
+        },
+      ],
+    },
+    {
+      title: "Luke 24 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the resurrection, Emmaus, and Jesus' ascension.",
+      detail: "This quiz helps a beginner see Luke 24 as the chapter where the risen Jesus is recognized and sends his followers out.",
+      start: "Take this after reading Luke 24 carefully and noticing the empty tomb, the road, and the sending.",
+      tags: ["Luke 24", "chapter", "resurrection"],
+      questions: [
+        {
+          prompt: "What do the women find at the tomb?",
+          answer: "They find the stone rolled away and Jesus' body missing.",
+        },
+        {
+          prompt: "How do the disciples on the road to Emmaus recognize Jesus?",
+          answer: "They recognize him when he breaks bread with them.",
+        },
+        {
+          prompt: "What happens at the end of Luke 24?",
+          answer: "Jesus blesses his disciples and is taken up into heaven.",
+        },
+      ],
+    },
+    {
+      title: "John 1 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the opening claims about Jesus as the Word, light, and Son.",
+      detail: "John 1 is dense. A good quiz here should test identity, witness, and the first disciples without requiring advanced theology vocabulary.",
+      start: "Take this after reading or listening to John 1 twice.",
+      tags: ["John 1", "chapter", "identity"],
+      questions: [
+        {
+          prompt: "What title does John use for Jesus at the beginning of the chapter?",
+          answer: "John calls Jesus the Word, who was with God and was God.",
+        },
+        {
+          prompt: "What is John the Baptist's role in this chapter?",
+          answer: "He is a witness who points away from himself and toward Jesus.",
+        },
+        {
+          prompt: "What should a reader notice about the first disciples?",
+          answer: "They begin following Jesus because of testimony, invitation, and encounter.",
+        },
+      ],
+    },
+    {
+      title: "John 2 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the wedding at Cana, the temple cleansing, and Jesus' early signs.",
+      detail: "This quiz helps a beginner see John 2 as the chapter where Jesus begins revealing his glory through a sign, then confronts the temple system with authority.",
+      start: "Take this after reading John 2 carefully and noticing how signs and conflict both shape the chapter.",
+      tags: ["John 2", "chapter", "Cana"],
+      questions: [
+        {
+          prompt: "What happens at the wedding in Cana?",
+          answer: "Jesus turns water into wine when the wine runs out.",
+        },
+        {
+          prompt: "What does Jesus do in the temple?",
+          answer: "He drives out the merchants and challenges the misuse of the temple.",
+        },
+        {
+          prompt: "Why is John 2 important?",
+          answer: "It begins Jesus' public signs and shows both his grace and his authority.",
+        },
+      ],
+    },
+    {
+      title: "John 3 Quiz",
+      kicker: "Chapter",
+      summary: "Checks new birth, belief, light, and God's love for the world.",
+      detail: "This chapter is famous, but beginners should see the whole conversation, not only one verse.",
+      start: "Take this after reading John 3 and reviewing the terms faith, grace, and repentance.",
+      tags: ["John 3", "chapter", "new birth"],
+      questions: [
+        {
+          prompt: "Who comes to Jesus at night?",
+          answer: "Nicodemus, a Pharisee and teacher of Israel.",
+        },
+        {
+          prompt: "What does Jesus say a person needs?",
+          answer: "A person needs to be born again, or born from above.",
+        },
+        {
+          prompt: "What does John 3 connect belief with?",
+          answer: "It connects belief with receiving life through the Son God has sent.",
+        },
+      ],
+    },
+    {
+      title: "John 4 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the Samaritan woman, living water, worship, and outsider welcome.",
+      detail: "John 4 is a strong chapter for learning how Jesus crosses social, ethnic, moral, and religious boundaries.",
+      start: "Take this after reading John 4 and looking up Samaria.",
+      tags: ["John 4", "chapter", "Samaria"],
+      questions: [
+        {
+          prompt: "Where does Jesus meet the woman in John 4?",
+          answer: "He meets her at a well in Samaria.",
+        },
+        {
+          prompt: "What image does Jesus use to describe what he gives?",
+          answer: "Jesus speaks of living water.",
+        },
+        {
+          prompt: "How does the woman respond after the conversation?",
+          answer: "She goes back to her town and points others toward Jesus.",
+        },
+      ],
+    },
+    {
+      title: "John 5 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the healing at Bethesda, Sabbath conflict, and Jesus' claim to give life.",
+      detail: "This quiz helps a beginner see John 5 as the chapter where Jesus heals, then explains his authority in language of life, judgment, and the Father's work.",
+      start: "Take this after reading John 5 carefully and noticing both the healing and the argument that follows.",
+      tags: ["John 5", "chapter", "healing"],
+      questions: [
+        {
+          prompt: "What miracle happens at Bethesda?",
+          answer: "Jesus heals a man who had been disabled for a long time.",
+        },
+        {
+          prompt: "Why do the leaders object to Jesus?",
+          answer: "They object because he heals on the Sabbath and speaks in ways they see as challenging God's authority.",
+        },
+        {
+          prompt: "What does Jesus claim about his relationship to the Father?",
+          answer: "He claims that the Son does the Father's work and has authority to give life and judge.",
+        },
+      ],
+    },
+    {
+      title: "John 6 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the feeding of the five thousand, walking on water, and Jesus as bread of life.",
+      detail: "This quiz helps a beginner see John 6 as the chapter where Jesus provides bread, reveals his power over the sea, and then presses the crowd to understand who he really is.",
+      start: "Take this after reading John 6 carefully and noticing both the signs and the hard teaching that follows.",
+      tags: ["John 6", "chapter", "bread of life"],
+      questions: [
+        {
+          prompt: "What miracle feeds the crowd in John 6?",
+          answer: "Jesus feeds a large crowd with five loaves and two fish.",
+        },
+        {
+          prompt: "What happens when the disciples are on the sea?",
+          answer: "Jesus comes to them walking on the water.",
+        },
+        {
+          prompt: "How does Jesus describe himself in this chapter?",
+          answer: "He says he is the bread of life.",
+        },
+      ],
+    },
+    {
+      title: "John 7 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the feast setting, public debate, and Jesus' invitation to come and drink.",
+      detail: "This quiz helps a beginner see John 7 as the chapter where Jesus teaches publicly at the feast, exposing both misunderstanding and division among the people.",
+      start: "Take this after reading John 7 carefully and noticing the argument over Jesus' identity and authority.",
+      tags: ["John 7", "chapter", "feast"],
+      questions: [
+        {
+          prompt: "What setting frames John 7?",
+          answer: "The chapter takes place during a Jewish festival in Jerusalem.",
+        },
+        {
+          prompt: "How do people respond to Jesus' teaching?",
+          answer: "Some are confused, some believe, and others want to arrest him.",
+        },
+        {
+          prompt: "What invitation does Jesus give in this chapter?",
+          answer: "He invites the thirsty to come to him and drink.",
+        },
+      ],
+    },
+    {
+      title: "John 8 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the woman caught in adultery, Jesus' claim to the light, and the truth that frees.",
+      detail: "This quiz helps a beginner see John 8 as the chapter where Jesus exposes hypocrisy, speaks about light and truth, and sharply confronts unbelief.",
+      start: "Take this after reading John 8 carefully and noticing the movement from mercy to confrontation.",
+      tags: ["John 8", "chapter", "truth"],
+      questions: [
+        {
+          prompt: "What situation opens John 8?",
+          answer: "A woman caught in adultery is brought to Jesus.",
+        },
+        {
+          prompt: "What does Jesus say about the truth?",
+          answer: "He says the truth will set people free.",
+        },
+        {
+          prompt: "What titles or images does Jesus use for himself in this chapter?",
+          answer: "He speaks of himself as the light of the world and as the one who reveals the Father.",
+        },
+      ],
+    },
+    {
+      title: "John 9 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the healing of the man born blind and the growing conflict over witness and sight.",
+      detail: "This quiz helps a beginner see John 9 as the chapter where physical healing becomes a picture of spiritual sight, and where the healed man grows in boldness while the leaders harden.",
+      start: "Take this after reading John 9 carefully and noticing how the healed man keeps testifying about Jesus.",
+      tags: ["John 9", "chapter", "blindness"],
+      questions: [
+        {
+          prompt: "What miracle does Jesus perform in John 9?",
+          answer: "Jesus heals a man who was born blind.",
+        },
+        {
+          prompt: "How does the healed man respond to the Pharisees?",
+          answer: "He keeps testifying about Jesus even as the interrogation grows more intense.",
+        },
+        {
+          prompt: "What larger theme does this chapter develop?",
+          answer: "It contrasts physical sight with spiritual blindness.",
+        },
+      ],
+    },
+    {
+      title: "John 10 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the shepherd image, Jesus' voice, and the promise of life and security.",
+      detail: "This quiz helps a beginner see John 10 as the chapter where Jesus uses shepherd language to explain his care, authority, and unity with the Father.",
+      start: "Take this after reading John 10 carefully and noticing the contrast between the good shepherd and false leaders.",
+      tags: ["John 10", "chapter", "shepherd"],
+      questions: [
+        {
+          prompt: "What image does Jesus use to describe himself in John 10?",
+          answer: "Jesus describes himself as the good shepherd.",
+        },
+        {
+          prompt: "How do the sheep respond to the shepherd?",
+          answer: "They hear his voice and follow him.",
+        },
+        {
+          prompt: "What does Jesus say about the life he gives?",
+          answer: "He says he gives his sheep life and security that no one can snatch away.",
+        },
+      ],
+    },
+    {
+      title: "John 11 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Lazarus, resurrection, grief, faith, and rising conflict.",
+      detail: "John 11 is both pastoral and dramatic. It reveals Jesus' love, power over death, and the growing opposition that leads toward the cross.",
+      start: "Take this after reading John 11 slowly.",
+      tags: ["John 11", "chapter", "Lazarus"],
+      questions: [
+        {
+          prompt: "Who does Jesus raise from the dead?",
+          answer: "Jesus raises Lazarus from the dead.",
+        },
+        {
+          prompt: "What does Jesus say about himself before raising Lazarus?",
+          answer: "Jesus says, 'I am the resurrection and the life.'",
+        },
+        {
+          prompt: "Why does this chapter push the story toward the cross?",
+          answer: "The raising of Lazarus intensifies belief in Jesus and also intensifies opposition from the leaders.",
+        },
+      ],
+    },
+    {
+      title: "John 12 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the anointing at Bethany, the triumphal entry, and Jesus' announcement that his hour has come.",
+      detail: "This quiz helps a beginner see John 12 as the turning point where public praise grows, but Jesus also speaks clearly about death, glory, and the coming crisis.",
+      start: "Take this after reading John 12 carefully and noticing the mix of worship, misunderstanding, and looming sacrifice.",
+      tags: ["John 12", "chapter", "hour"],
+      questions: [
+        {
+          prompt: "What act of devotion happens in Bethany?",
+          answer: "Mary anoints Jesus with expensive perfume.",
+        },
+        {
+          prompt: "How does the crowd greet Jesus in Jerusalem?",
+          answer: "They welcome him with palm branches and praise as he enters the city.",
+        },
+        {
+          prompt: "What does Jesus say about the significance of this moment?",
+          answer: "He says that his hour has come and that the seed must die to bear much fruit.",
+        },
+      ],
+    },
+    {
+      title: "John 13 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the foot washing, the new commandment, and Jesus' knowledge of betrayal.",
+      detail: "This quiz helps a beginner see John 13 as the chapter where Jesus demonstrates servant love and prepares the disciples for the shock of betrayal and departure.",
+      start: "Take this after reading John 13 carefully and noticing how action and instruction go together.",
+      tags: ["John 13", "chapter", "service"],
+      questions: [
+        {
+          prompt: "What surprising action does Jesus take with the disciples' feet?",
+          answer: "Jesus washes the disciples' feet.",
+        },
+        {
+          prompt: "What new command does Jesus give?",
+          answer: "He commands them to love one another as he has loved them.",
+        },
+        {
+          prompt: "What does Jesus say about betrayal in this chapter?",
+          answer: "He identifies Judas as the one who will betray him.",
+        },
+      ],
+    },
+    {
+      title: "John 14 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the promised home, Jesus as the way, and the gift of peace.",
+      detail: "This quiz helps a beginner see John 14 as the chapter where Jesus comforts his disciples with promises about the Father's house, his own identity, and the Spirit's help.",
+      start: "Take this after reading John 14 carefully and noticing the shift from trouble to comfort.",
+      tags: ["John 14", "chapter", "peace"],
+      questions: [
+        {
+          prompt: "What promise does Jesus make about the future home of his followers?",
+          answer: "Jesus says he is going to prepare a place in the Father's house.",
+        },
+        {
+          prompt: "How does Jesus describe himself in this chapter?",
+          answer: "He says he is the way, the truth, and the life.",
+        },
+        {
+          prompt: "What gift does Jesus leave with the disciples?",
+          answer: "He gives them his peace and promises the help of the Spirit.",
+        },
+      ],
+    },
+    {
+      title: "John 15 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the vine and branches, abiding, and the command to love.",
+      detail: "This quiz helps a beginner see John 15 as the chapter where Jesus teaches dependence, fruitfulness, and friendship with him in the face of coming opposition.",
+      start: "Take this after reading John 15 carefully and noticing the repeated calls to remain in Jesus.",
+      tags: ["John 15", "chapter", "vine"],
+      questions: [
+        {
+          prompt: "What image does Jesus use to describe the relationship with his followers?",
+          answer: "Jesus says he is the vine and they are the branches.",
+        },
+        {
+          prompt: "What must the disciples do to bear fruit?",
+          answer: "They must abide in Jesus and remain connected to him.",
+        },
+        {
+          prompt: "What command is repeated in this chapter?",
+          answer: "Jesus commands the disciples to love one another.",
+        },
+      ],
+    },
+    {
+      title: "John 16 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the promise of the Spirit, coming sorrow, and Jesus' victory over the world.",
+      detail: "This quiz helps a beginner see John 16 as the chapter where Jesus prepares the disciples for grief, explains the Spirit's work, and promises that their sorrow will turn to joy.",
+      start: "Take this after reading John 16 carefully and noticing the movement from warning to comfort.",
+      tags: ["John 16", "chapter", "Spirit"],
+      questions: [
+        {
+          prompt: "What does Jesus say the Spirit will do?",
+          answer: "The Spirit will guide the disciples into truth and help them after Jesus leaves.",
+        },
+        {
+          prompt: "What does Jesus say about sorrow?",
+          answer: "He says the disciples will have sorrow, but their sorrow will turn into joy.",
+        },
+        {
+          prompt: "How does Jesus summarize his victory at the end of the chapter?",
+          answer: "He says he has overcome the world.",
+        },
+      ],
+    },
+    {
+      title: "John 17 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Jesus' prayer for himself, the disciples, and future believers.",
+      detail: "This quiz helps a beginner see John 17 as the prayer chapter where Jesus asks for glory, prays for protection and unity, and includes future believers in his care.",
+      start: "Take this after reading John 17 carefully and noticing the repeated themes of glory, unity, and protection.",
+      tags: ["John 17", "chapter", "prayer"],
+      questions: [
+        {
+          prompt: "Who does Jesus pray for in John 17?",
+          answer: "He prays for himself, his disciples, and those who will believe later.",
+        },
+        {
+          prompt: "What does Jesus ask for his followers?",
+          answer: "He asks for their protection, unity, and sanctification in the truth.",
+        },
+        {
+          prompt: "What theme connects the whole prayer?",
+          answer: "The prayer centers on glory and shared fellowship with the Father and the Son.",
+        },
+      ],
+    },
+    {
+      title: "John 18 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the arrest of Jesus, Peter's denial, and the early stages of the trial.",
+      detail: "This quiz helps a beginner see John 18 as the beginning of the passion story where Jesus submits to arrest while Peter fails under pressure.",
+      start: "Take this after reading John 18 carefully and noticing the contrast between Jesus' calm and Peter's fear.",
+      tags: ["John 18", "chapter", "arrest"],
+      questions: [
+        {
+          prompt: "How is Jesus arrested in John 18?",
+          answer: "Jesus is taken after Judas leads the soldiers to him, and Jesus identifies himself before they seize him.",
+        },
+        {
+          prompt: "What does Peter do during the arrest scene?",
+          answer: "Peter draws a sword, then later denies knowing Jesus.",
+        },
+        {
+          prompt: "Who questions Jesus early in the trial process?",
+          answer: "Jesus is brought before Annas and then sent onward toward Pilate.",
+        },
+      ],
+    },
+    {
+      title: "John 19 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the crucifixion, Jesus' death, and his burial.",
+      detail: "This quiz helps a beginner see John 19 as the chapter where Jesus is condemned, crucified, and buried, while Scripture's fulfillment is emphasized throughout.",
+      start: "Take this after reading John 19 carefully and noticing the repeated attention to fulfillment and kingship.",
+      tags: ["John 19", "chapter", "cross"],
+      questions: [
+        {
+          prompt: "Who orders Jesus' crucifixion?",
+          answer: "Pontius Pilate orders Jesus to be crucified after the pressure from the leaders and crowd.",
+        },
+        {
+          prompt: "What does John emphasize about Jesus' death?",
+          answer: "John emphasizes that Jesus' death fulfills Scripture and reveals his kingship.",
+        },
+        {
+          prompt: "What happens after Jesus dies?",
+          answer: "Jesus is taken down from the cross and buried in a tomb.",
+        },
+      ],
+    },
+    {
+      title: "John 20 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the empty tomb, Mary Magdalene's encounter, and Thomas's confession.",
+      detail: "This quiz helps a beginner see John 20 as the resurrection chapter where grief turns to joy and belief grows through witness and encounter.",
+      start: "Take this after reading John 20 carefully and noticing how the risen Jesus meets different people in different ways.",
+      tags: ["John 20", "chapter", "resurrection"],
+      questions: [
+        {
+          prompt: "Who first finds the tomb empty?",
+          answer: "Mary Magdalene finds the tomb empty and reports it to the disciples.",
+        },
+        {
+          prompt: "How does Jesus reveal himself to Mary?",
+          answer: "Jesus speaks her name and sends her to tell the others.",
+        },
+        {
+          prompt: "What confession does Thomas make when he sees Jesus?",
+          answer: "Thomas confesses Jesus as 'My Lord and my God.'",
+        },
+      ],
+    },
+    {
+      title: "John 21 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the charcoal fire, Peter's restoration, and Jesus' call to follow.",
+      detail: "This quiz helps a beginner see John 21 as the gentle ending to John's Gospel where Jesus restores Peter and points the disciples toward their future work.",
+      start: "Take this after reading John 21 carefully and noticing the movement from failure to restoration.",
+      tags: ["John 21", "chapter", "restoration"],
+      questions: [
+        {
+          prompt: "What happens by the charcoal fire in John 21?",
+          answer: "Jesus asks Peter three times if he loves him, and Peter is restored.",
+        },
+        {
+          prompt: "What does Jesus tell Peter to do?",
+          answer: "Jesus tells Peter to feed and care for his sheep.",
+        },
+        {
+          prompt: "How does the chapter close the Gospel?",
+          answer: "It closes by calling the disciples to follow Jesus and trust his future for them.",
+        },
+      ],
+    },
+    {
+      title: "John 18-21 Quiz",
+      kicker: "Chapters",
+      summary: "Checks the arrest, trial, cross, resurrection, and Peter's restoration.",
+      detail: "This quiz covers the climax of John and helps users connect Jesus' suffering, victory, and restoration of failed disciples.",
+      start: "Take this after Day 7 of the John path.",
+      tags: ["John 18", "John 19", "John 20", "John 21"],
+      questions: [
+        {
+          prompt: "Which Roman official questions Jesus before the crucifixion?",
+          answer: "Pontius Pilate questions Jesus.",
+        },
+        {
+          prompt: "Who first encounters the risen Jesus in John 20?",
+          answer: "Mary Magdalene encounters the risen Jesus.",
+        },
+        {
+          prompt: "What happens with Peter in John 21?",
+          answer: "Jesus restores Peter and calls him to care for his sheep.",
+        },
+      ],
+    },
+    {
+      title: "Genesis Book Quiz",
+      kicker: "Book",
+      summary: "A whole-book check for Genesis as the opening of the Bible's story.",
+      detail: "This quiz helps a beginner see Genesis as more than a pile of origin stories. It introduces creation, fall, promise, covenant, patriarchs, blessing, family tension, and the move toward Exodus.",
+      start: "Take this after reading Genesis 1-50 or after a broad sweep through the opening story.",
+      tags: ["Genesis", "book", "beginnings"],
+      questions: [
+        {
+          prompt: "What big themes open Genesis?",
+          answer: "Creation, goodness, human vocation, temptation, sin, promise, and the start of God's rescue story.",
+        },
+        {
+          prompt: "Which promise to Abraham helps drive the rest of the Bible?",
+          answer: "God promises Abraham descendants, land, blessing, and a covenant relationship that will bless the nations.",
+        },
+        {
+          prompt: "How does Genesis end?",
+          answer: "It ends with Joseph and his family in Egypt, setting the stage for Exodus and Israel's slavery and rescue.",
+        },
+      ],
+    },
+    {
+      title: "Exodus Book Quiz",
+      kicker: "Book",
+      summary: "A whole-book check for Exodus as the Bible's great rescue story.",
+      detail: "This quiz helps a beginner see Exodus as the defining rescue memory of the Old Testament. It covers slavery, Moses, plagues, Passover, the sea, Sinai, covenant, and worship.",
+      start: "Take this after Genesis so the move from promise to rescue stays connected.",
+      tags: ["Exodus", "book", "rescue"],
+      questions: [
+        {
+          prompt: "What problem opens Exodus?",
+          answer: "Israel is enslaved in Egypt and cries out for rescue.",
+        },
+        {
+          prompt: "What central event shows God rescuing his people?",
+          answer: "The Exodus itself: God delivers Israel out of slavery through signs, judgment, and passage through the sea.",
+        },
+        {
+          prompt: "Why is Sinai important in Exodus?",
+          answer: "Sinai is where God gives covenant law and forms Israel as his people after rescue.",
+        },
+      ],
+    },
+    {
+      title: "Prayer and Approved Prayers Quiz",
+      kicker: "Prayer",
+      summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
+      detail: "Use this when someone needs help praying without sounding fake or getting lost. It focuses on the Lord's Prayer, Psalms, confession, lament, thanksgiving, request, and intercession.",
+      start: "Take this alongside the prayer panel and after reading Matthew 6:9-13 and a few Psalms.",
+      tags: ["prayer", "Psalms", "Jesus"],
+      questions: [
+        {
+          prompt: "What is a healthy starting point for beginner prayer?",
+          answer: "Honest words to God: gratitude, confession, request, and trust.",
+        },
+        {
+          prompt: "Which prayer did Jesus teach his disciples as a model?",
+          answer: "The Lord's Prayer.",
+        },
+        {
+          prompt: "What kinds of prayer are common and approved in the Bible?",
+          answer: "Praise, lament, confession, thanksgiving, request, and intercession.",
+        },
+        {
+          prompt: "Why are the Psalms useful for prayer?",
+          answer: "They give Scripture-shaped language for worship, grief, trust, repentance, and hope.",
+        },
+        {
+          prompt: "What is intercession?",
+          answer: "Praying on behalf of someone else.",
+        },
+      ],
+    },
+    {
+      title: "Gospel of John Book Quiz",
+      kicker: "Book",
+      summary: "A whole-book check for John's main claims about Jesus.",
+      detail: "This quiz helps a beginner see John's shape: Jesus as the Word, signs, belief, conflict, cross, resurrection, and restoration.",
+      start: "Take this after finishing the first seven-day John path.",
+      tags: ["John", "Gospel", "book"],
+      questions: [
+        {
+          prompt: "What is the main question John keeps putting in front of the reader?",
+          answer: "Who is Jesus, and what does it mean to believe in him?",
+        },
+        {
+          prompt: "Why are signs important in John?",
+          answer: "They reveal who Jesus is and invite people to trust him, but they also expose misunderstanding and divided responses.",
+        },
+        {
+          prompt: "How does John move from public signs to the cross and resurrection?",
+          answer: "The signs reveal Jesus' identity, conflict grows, Jesus teaches his disciples, then his death and resurrection reveal his mission most fully.",
+        },
+      ],
+    },
+    {
+      title: "Matthew Book Quiz",
+      kicker: "Book",
+      summary: "A whole-book check for Matthew as the Gospel of fulfillment, kingdom, and discipleship.",
+      detail: "This quiz helps a beginner see Matthew's shape: Jesus fulfills Scripture, announces the kingdom, teaches disciples, confronts hypocrisy, and sends his followers out.",
+      start: "Take this after the Gospel of John if you want to see another Gospel shaped by fulfillment and teaching.",
+      tags: ["Matthew", "Gospel", "book"],
+      questions: [
+        {
+          prompt: "What major theme does Matthew use to connect Jesus with the Old Testament?",
+          answer: "Matthew emphasizes fulfillment: Jesus fulfills Scripture, promise, and Israel's hope.",
+        },
+        {
+          prompt: "What kind of teaching is central in Matthew?",
+          answer: "Matthew presents Jesus as a teacher of the kingdom who forms disciples through sermons, parables, and commands.",
+        },
+        {
+          prompt: "What does Matthew highlight at the end of the Gospel?",
+          answer: "Matthew highlights Jesus' authority and the commission for his followers to make disciples of all nations.",
+        },
+      ],
+    },
+    {
+      title: "Matthew 1 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the genealogy and the birth announcement to Joseph.",
+      detail: "This quiz helps a beginner see Matthew 1 as the chapter where Jesus is introduced as David's son and the child conceived by the Holy Spirit.",
+      start: "Take this after reading Matthew 1 carefully and noticing how the genealogy and Joseph's dream frame Jesus' identity.",
+      tags: ["Matthew 1", "chapter", "genealogy"],
+      questions: [
+        {
+          prompt: "What does Matthew's genealogy emphasize about Jesus?",
+          answer: "It shows Jesus as the son of David and the son of Abraham, fulfilling promise and lineage.",
+        },
+        {
+          prompt: "How is Jesus' birth described?",
+          answer: "Jesus is conceived by the Holy Spirit and born to Mary while Joseph is told to name him Jesus.",
+        },
+        {
+          prompt: "Why is Joseph important in this chapter?",
+          answer: "Joseph is told in a dream to take Mary as his wife and to recognize the child as God's saving gift.",
+        },
+      ],
+    },
+    {
+      title: "Matthew 2 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the visit of the wise men, Herod's threat, and the flight to Egypt.",
+      detail: "This quiz helps a beginner see Matthew 2 as the chapter where Jesus is honored by outsiders and protected from Herod's violence.",
+      start: "Take this after reading Matthew 2 carefully and noticing the contrast between worship and threat.",
+      tags: ["Matthew 2", "chapter", "Herod"],
+      questions: [
+        {
+          prompt: "Who visits Jesus after his birth in Matthew 2?",
+          answer: "The wise men come from the east to honor him.",
+        },
+        {
+          prompt: "Why does Joseph take Mary and Jesus to Egypt?",
+          answer: "He flees because Herod wants to kill the child.",
+        },
+        {
+          prompt: "What does Matthew emphasize about Jesus in this chapter?",
+          answer: "Jesus is protected by God and his story fulfills Scripture.",
+        },
+      ],
+    },
+    {
+      title: "Matthew 3 Quiz",
+      kicker: "Chapter",
+      summary: "Checks John the Baptist, repentance, and Jesus' baptism.",
+      detail: "This quiz helps a beginner see Matthew 3 as the chapter where John prepares the way, calls for repentance, and baptizes Jesus.",
+      start: "Take this after reading Matthew 3 carefully and noticing the call to turn around and the voice from heaven.",
+      tags: ["Matthew 3", "chapter", "repentance"],
+      questions: [
+        {
+          prompt: "What is John the Baptist's message in Matthew 3?",
+          answer: "He calls people to repent, because the kingdom of heaven is near.",
+        },
+        {
+          prompt: "What happens when Jesus is baptized?",
+          answer: "The Spirit descends like a dove and the Father's voice declares Jesus his beloved Son.",
+        },
+        {
+          prompt: "Why is this chapter important for Matthew's story?",
+          answer: "It introduces Jesus' public ministry and shows divine approval of him.",
+        },
+      ],
+    },
+    {
+      title: "Matthew 4 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Jesus' temptation and the beginning of his Galilean ministry.",
+      detail: "This quiz helps a beginner see Matthew 4 as the chapter where Jesus resists Satan and starts calling disciples in Galilee.",
+      start: "Take this after reading Matthew 4 carefully and noticing the transition from testing to ministry.",
+      tags: ["Matthew 4", "chapter", "temptation"],
+      questions: [
+        {
+          prompt: "What happens to Jesus in the wilderness?",
+          answer: "He is tempted by the devil but resists each temptation with Scripture.",
+        },
+        {
+          prompt: "What does Jesus begin proclaiming after the temptation?",
+          answer: "He begins proclaiming that the kingdom of heaven is near.",
+        },
+        {
+          prompt: "What does Jesus do as his ministry starts in Galilee?",
+          answer: "He calls the first disciples to follow him.",
+        },
+      ],
+    },
+    {
+      title: "Matthew 5 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the Beatitudes and Jesus' teaching on righteousness.",
+      detail: "This quiz helps a beginner see Matthew 5 as the chapter where Jesus blesses the poor in spirit and deepens the meaning of righteousness.",
+      start: "Take this after reading Matthew 5 carefully and noticing the Sermon on the Mount's opening teaching.",
+      tags: ["Matthew 5", "chapter", "Beatitudes"],
+      questions: [
+        {
+          prompt: "What are the Beatitudes?",
+          answer: "They are blessings Jesus speaks over people who are poor in spirit, meek, merciful, pure, and persecuted.",
+        },
+        {
+          prompt: "What does Jesus say about the law in this chapter?",
+          answer: "He says he fulfills the law and calls people to a deeper righteousness of heart and action.",
+        },
+        {
+          prompt: "What major ethical call appears in this chapter?",
+          answer: "Jesus calls his followers to love, reconcile, and live in a way that reflects God's character.",
+        },
+      ],
+    },
+    {
+      title: "Matthew 6 Quiz",
+      kicker: "Chapter",
+      summary: "Checks giving, prayer, fasting, and trusting the Father.",
+      detail: "This quiz helps a beginner see Matthew 6 as the chapter where Jesus teaches hidden devotion, the Lord's Prayer, and freedom from anxiety.",
+      start: "Take this after reading Matthew 6 carefully and noticing the contrast between public performance and secret faithfulness.",
+      tags: ["Matthew 6", "chapter", "prayer"],
+      questions: [
+        {
+          prompt: "What practices does Jesus teach about in this chapter?",
+          answer: "He teaches about giving, prayer, and fasting done for God rather than human applause.",
+        },
+        {
+          prompt: "What prayer does Jesus teach his followers?",
+          answer: "He teaches the Lord's Prayer.",
+        },
+        {
+          prompt: "What does Jesus say about worry?",
+          answer: "He tells his followers not to worry but to trust the Father who knows their needs.",
+        },
+      ],
+    },
+    {
+      title: "Matthew 7 Quiz",
+      kicker: "Chapter",
+      summary: "Checks judgment, asking the Father, the narrow way, and building on the rock.",
+      detail: "This quiz helps a beginner see Matthew 7 as the chapter where Jesus warns against hypocrisy, invites trust, and ends the Sermon on the Mount with a choice.",
+      start: "Take this after reading Matthew 7 carefully and noticing the close of the Sermon on the Mount.",
+      tags: ["Matthew 7", "chapter", "judgment"],
+      questions: [
+        {
+          prompt: "What does Jesus warn against at the start of Matthew 7?",
+          answer: "He warns against judging hypocritically.",
+        },
+        {
+          prompt: "What invitation does Jesus give about prayer and seeking?",
+          answer: "He tells people to ask, seek, and knock, trusting the Father to give good gifts.",
+        },
+        {
+          prompt: "What is the final image in the chapter?",
+          answer: "The wise person builds on the rock by hearing Jesus' words and doing them.",
+        },
+      ],
+    },
+    {
+      title: "Matthew 8 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Jesus' healings, authority, and costly discipleship.",
+      detail: "This quiz helps a beginner see Matthew 8 as the chapter where Jesus demonstrates authority over disease, nature, demons, and fear.",
+      start: "Take this after reading Matthew 8 carefully and noticing the pattern of faith and authority.",
+      tags: ["Matthew 8", "chapter", "authority"],
+      questions: [
+        {
+          prompt: "What kinds of problems does Jesus address in Matthew 8?",
+          answer: "He heals leprosy, fever, paralysis, storms, demons, and many kinds of need.",
+        },
+        {
+          prompt: "What does the centurion's story show?",
+          answer: "It shows great faith in Jesus' authority to heal from afar.",
+        },
+        {
+          prompt: "What does Jesus say about following him?",
+          answer: "Following him requires commitment and willingness to put him first.",
+        },
+      ],
+    },
+    {
+      title: "Matthew 9 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Jesus' forgiveness, healing, calling of Matthew, and compassion for the lost.",
+      detail: "This quiz helps a beginner see Matthew 9 as the chapter where Jesus forgives sins, calls a tax collector, and shows mercy to the needy.",
+      start: "Take this after reading Matthew 9 carefully and noticing Jesus' mercy and authority.",
+      tags: ["Matthew 9", "chapter", "mercy"],
+      questions: [
+        {
+          prompt: "What does Jesus do for the paralyzed man?",
+          answer: "He forgives the man's sins and heals him.",
+        },
+        {
+          prompt: "Who does Jesus call at the tax booth?",
+          answer: "He calls Matthew (Levi) to follow him.",
+        },
+        {
+          prompt: "What does Jesus say about the crowds?",
+          answer: "He sees them as harassed and helpless, like sheep without a shepherd.",
+        },
+      ],
+    },
+    {
+      title: "Matthew 10 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the sending of the twelve and Jesus' teaching about mission and courage.",
+      detail: "This quiz helps a beginner see Matthew 10 as the chapter where Jesus sends out the twelve and prepares them for opposition.",
+      start: "Take this after reading Matthew 10 carefully and noticing the mission instructions and warnings.",
+      tags: ["Matthew 10", "chapter", "mission"],
+      questions: [
+        {
+          prompt: "What does Jesus give the twelve in this chapter?",
+          answer: "He gives them authority and sends them out to proclaim the kingdom and heal.",
+        },
+        {
+          prompt: "What does Jesus warn the disciples about?",
+          answer: "He warns them about opposition, persecution, and the cost of following him.",
+        },
+        {
+          prompt: "What encouragement does Jesus give them?",
+          answer: "He tells them not to fear and to trust God, who values them and will care for them.",
+        },
+      ],
+    },
+    {
+      title: "Matthew 11 Quiz",
+      kicker: "Chapter",
+      summary: "Checks John's question, Jesus' invitation, and his words about burden and rest.",
+      detail: "This quiz helps a beginner see Matthew 11 as the chapter where Jesus reassures the weary and praises the Father's revelation.",
+      start: "Take this after reading Matthew 11 carefully and noticing the invitation to come to Jesus for rest.",
+      tags: ["Matthew 11", "chapter", "rest"],
+      questions: [
+        {
+          prompt: "What question does John the Baptist send to Jesus?",
+          answer: "He asks if Jesus is the one who is to come or if they should wait for another.",
+        },
+        {
+          prompt: "What invitation does Jesus give to the weary?",
+          answer: "He invites the weary and burdened to come to him and find rest.",
+        },
+        {
+          prompt: "How does Jesus describe the Father in this chapter?",
+          answer: "He says the Father reveals these things to little children and that Jesus reveals the Father.",
+        },
+      ],
+    },
+    {
+      title: "Matthew 12 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Sabbath controversy, conflict with the Pharisees, and Jesus' true family.",
+      detail: "This quiz helps a beginner see Matthew 12 as the chapter where Jesus challenges hard-hearted religion and redefines kinship around obedience to God.",
+      start: "Take this after reading Matthew 12 carefully and noticing the mounting conflict and Jesus' explanation of his identity.",
+      tags: ["Matthew 12", "chapter", "Sabbath"],
+      questions: [
+        {
+          prompt: "What dispute arises at the beginning of Matthew 12?",
+          answer: "The Pharisees challenge Jesus and his disciples over the Sabbath.",
+        },
+        {
+          prompt: "What does Jesus say about his kingdom and his power?",
+          answer: "He says his kingdom is not divided against itself and that his works show the Spirit's power.",
+        },
+        {
+          prompt: "How does Jesus describe his true family?",
+          answer: "His true family is those who do the will of his Father.",
+        },
+      ],
+    },
+    {
+      title: "Matthew 13 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Jesus' parables about the kingdom and the mixed responses they provoke.",
+      detail: "This quiz helps a beginner see Matthew 13 as the chapter where Jesus teaches in parables about the kingdom, hidden growth, and the different kinds of hearers.",
+      start: "Take this after reading Matthew 13 carefully and noticing the parables and Jesus' explanation of why he teaches this way.",
+      tags: ["Matthew 13", "chapter", "parables"],
+      questions: [
+        {
+          prompt: "What teaching method dominates Matthew 13?",
+          answer: "Jesus teaches the crowds through parables.",
+        },
+        {
+          prompt: "What kinds of responses to the word does Jesus describe?",
+          answer: "He describes different kinds of hearers, including those who do not understand, those who receive it shallowly, those choked by cares, and those who bear fruit.",
+        },
+        {
+          prompt: "What does Jesus say the parables reveal about the kingdom?",
+          answer: "They show that the kingdom may seem hidden or small at first but will grow and be gathered in the end.",
+        },
+      ],
+    },
+    {
+      title: "Matthew 14 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the feeding of the five thousand, Jesus on the water, and the movement of faith and fear.",
+      detail: "This quiz helps a beginner see Matthew 14 as the chapter where Jesus feeds the crowd, walks on the sea, and reveals both his power and the disciples' weakness.",
+      start: "Take this after reading Matthew 14 carefully and noticing the feast, the storm, and Peter's response.",
+      tags: ["Matthew 14", "chapter", "feeding"],
+      questions: [
+        {
+          prompt: "What miracle feeds the crowd in Matthew 14?",
+          answer: "Jesus feeds the five thousand with five loaves and two fish.",
+        },
+        {
+          prompt: "What happens when the disciples are on the sea?",
+          answer: "Jesus comes to them walking on the water and calms their fear.",
+        },
+        {
+          prompt: "What does Peter learn in this chapter?",
+          answer: "He learns to keep his eyes on Jesus, since fear and doubt make him sink.",
+        },
+      ],
+    },
+    {
+      title: "Matthew 15 Quiz",
+      kicker: "Chapter",
+      summary: "Checks questions of purity, tradition, and the faith of the Canaanite woman.",
+      detail: "This quiz helps a beginner see Matthew 15 as the chapter where Jesus confronts human tradition, teaches what truly defiles, and shows mercy to a Gentile petitioner.",
+      start: "Take this after reading Matthew 15 carefully and noticing the tradition debate and the story of healing and bread.",
+      tags: ["Matthew 15", "chapter", "purity"],
+      questions: [
+        {
+          prompt: "What issue do the Pharisees raise at the start of Matthew 15?",
+          answer: "They ask why Jesus' disciples break the tradition of the elders by not washing their hands.",
+        },
+        {
+          prompt: "What does Jesus say really defiles a person?",
+          answer: "He says what comes out of the heart defiles a person, not merely what goes in.",
+        },
+        {
+          prompt: "How does the chapter end?",
+          answer: "Jesus heals many and feeds four thousand people with a few loaves and fish.",
+        },
+      ],
+    },
+    {
+      title: "Matthew 16 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Peter's confession, Jesus' first passion prediction, and the call to take up the cross.",
+      detail: "This quiz helps a beginner see Matthew 16 as the chapter where Jesus is named as Messiah and immediately redefines messiahship through suffering.",
+      start: "Take this after reading Matthew 16 carefully and noticing the shift from signs to confession and cross-bearing.",
+      tags: ["Matthew 16", "chapter", "confession"],
+      questions: [
+        {
+          prompt: "What confession does Peter make about Jesus?",
+          answer: "Peter says Jesus is the Christ, the Son of the living God.",
+        },
+        {
+          prompt: "What does Jesus begin to teach after that confession?",
+          answer: "He begins to teach that he must suffer, be killed, and be raised on the third day.",
+        },
+        {
+          prompt: "What does Jesus say his followers must do?",
+          answer: "They must deny themselves, take up their cross, and follow him.",
+        },
+      ],
+    },
+    {
+      title: "Matthew 17 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the transfiguration, healing of the boy, and Jesus' teaching about faith and the temple tax.",
+      detail: "This quiz helps a beginner see Matthew 17 as the chapter where Jesus is revealed in glory and then continues toward suffering and service.",
+      start: "Take this after reading Matthew 17 carefully and noticing the mountain, the healing, and the return to ordinary life.",
+      tags: ["Matthew 17", "chapter", "transfiguration"],
+      questions: [
+        {
+          prompt: "What happens on the mountain in Matthew 17?",
+          answer: "Jesus is transfigured before Peter, James, and John.",
+        },
+        {
+          prompt: "What problem do the disciples face after coming down from the mountain?",
+          answer: "They cannot heal a demon-afflicted boy until Jesus rebukes the demon and heals him.",
+        },
+        {
+          prompt: "What teaching about faith appears in this chapter?",
+          answer: "Jesus says faith, even as small as a mustard seed, can move mountains.",
+        },
+      ],
+    },
+    {
+      title: "Matthew 18 Quiz",
+      kicker: "Chapter",
+      summary: "Checks humility, forgiveness, lost sheep, and how Jesus shapes community life.",
+      detail: "This quiz helps a beginner see Matthew 18 as the chapter where Jesus teaches what greatness, care, discipline, and forgiveness look like in his community.",
+      start: "Take this after reading Matthew 18 carefully and noticing the warnings, the parable, and the call to forgive.",
+      tags: ["Matthew 18", "chapter", "forgiveness"],
+      questions: [
+        {
+          prompt: "What kind of person does Jesus say is greatest in the kingdom?",
+          answer: "The one who becomes humble like a child.",
+        },
+        {
+          prompt: "What parable does Jesus tell about God's care?",
+          answer: "He tells of the shepherd who leaves the ninety-nine to seek the one lost sheep.",
+        },
+        {
+          prompt: "How often does Jesus say we should forgive?",
+          answer: "He says to forgive not just seven times, but seventy-seven times.",
+        },
+      ],
+    },
+    {
+      title: "Matthew 19 Quiz",
+      kicker: "Chapter",
+      summary: "Checks divorce teaching, children, wealth, and the cost of following Jesus.",
+      detail: "This quiz helps a beginner see Matthew 19 as the chapter where Jesus answers hard questions about marriage, receives children, and challenges the rich young man.",
+      start: "Take this after reading Matthew 19 carefully and noticing the movement from law questions to discipleship.",
+      tags: ["Matthew 19", "chapter", "marriage"],
+      questions: [
+        {
+          prompt: "What question about marriage do the Pharisees ask Jesus?",
+          answer: "They ask whether it is lawful to divorce one's wife for any cause.",
+        },
+        {
+          prompt: "How does Jesus respond to the children brought to him?",
+          answer: "He welcomes them and says the kingdom belongs to such as these.",
+        },
+        {
+          prompt: "What does Jesus tell the rich young man to do?",
+          answer: "He tells him to sell what he has, give to the poor, and follow him.",
+        },
+      ],
+    },
+    {
+      title: "Matthew 20 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the workers in the vineyard, the third passion prediction, and service instead of status.",
+      detail: "This quiz helps a beginner see Matthew 20 as the chapter where Jesus overturns status expectations and teaches that greatness means serving.",
+      start: "Take this after reading Matthew 20 carefully and noticing the parable, the journey to Jerusalem, and the request for honor.",
+      tags: ["Matthew 20", "chapter", "service"],
+      questions: [
+        {
+          prompt: "What point does Jesus make in the parable of the workers in the vineyard?",
+          answer: "He shows that God's generosity is not based on human calculations of fairness.",
+        },
+        {
+          prompt: "What does Jesus predict will happen to him in Jerusalem?",
+          answer: "He says he will be delivered over, mocked, flogged, crucified, and raised.",
+        },
+        {
+          prompt: "What does Jesus say about greatness?",
+          answer: "He says that whoever wants to be great must be a servant, and the Son of Man came to serve and give his life as a ransom.",
+        },
+      ],
+    },
+    {
+      title: "Matthew 21 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the triumphal entry, cleansing of the temple, and the challenge to leaders.",
+      detail: "This quiz helps a beginner see Matthew 21 as the chapter where Jesus enters Jerusalem as king and confronts corrupt Temple religion.",
+      start: "Take this after reading Matthew 21 carefully and noticing the praise, the protest, and the parables.",
+      tags: ["Matthew 21", "chapter", "temple"],
+      questions: [
+        {
+          prompt: "How does Jesus enter Jerusalem in Matthew 21?",
+          answer: "He rides in on a donkey while the crowd shouts praise.",
+        },
+        {
+          prompt: "What does Jesus do in the Temple?",
+          answer: "He drives out the buyers and sellers and calls it a house of prayer.",
+        },
+        {
+          prompt: "What do the leaders question?",
+          answer: "They question Jesus' authority and are challenged by his parable of the tenants.",
+        },
+      ],
+    },
+    {
+      title: "Matthew 22 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the questions about authority, resurrection, and the greatest commandment.",
+      detail: "This quiz helps a beginner see Matthew 22 as the chapter where Jesus answers traps by pointing to love, resurrection, and David's Lord.",
+      start: "Take this after reading Matthew 22 carefully and noticing the debates with different groups in Jerusalem.",
+      tags: ["Matthew 22", "chapter", "commandment"],
+      questions: [
+        {
+          prompt: "What trap question do the authorities ask Jesus about taxes?",
+          answer: "They ask whether it is lawful to pay taxes to Caesar.",
+        },
+        {
+          prompt: "What does Jesus teach about the greatest commandment?",
+          answer: "He says to love God with all your heart and to love your neighbor as yourself.",
+        },
+        {
+          prompt: "What point does Jesus make about the Messiah and David?",
+          answer: "He shows that the Messiah is more than David's son because David calls him Lord.",
+        },
+      ],
+    },
+    {
+      title: "Matthew 23 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Jesus' warnings against hypocrisy and his lament over Jerusalem.",
+      detail: "This quiz helps a beginner see Matthew 23 as the chapter where Jesus publicly condemns false leadership and calls for humble faithfulness.",
+      start: "Take this after reading Matthew 23 carefully and noticing the seven woes and the lament.",
+      tags: ["Matthew 23", "chapter", "hypocrisy"],
+      questions: [
+        {
+          prompt: "What does Jesus warn the crowds not to imitate?",
+          answer: "He warns them not to imitate the scribes and Pharisees' hypocrisy and love of status.",
+        },
+        {
+          prompt: "What series of warnings does Jesus pronounce in this chapter?",
+          answer: "He pronounces woes against the scribes and Pharisees for hypocrisy, greed, and neglecting justice and mercy.",
+        },
+        {
+          prompt: "How does Jesus end the chapter?",
+          answer: "He laments over Jerusalem and its refusal to be gathered like a hen gathers her chicks.",
+        },
+      ],
+    },
+    {
+      title: "Matthew 24 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Jesus' teaching about the coming turmoil, vigilance, and the Son of Man.",
+      detail: "This quiz helps a beginner see Matthew 24 as the chapter where Jesus warns disciples to stay awake and not be fooled by false signs.",
+      start: "Take this after reading Matthew 24 carefully and noticing the warnings, the sign language, and the call to watchfulness.",
+      tags: ["Matthew 24", "chapter", "watchfulness"],
+      questions: [
+        {
+          prompt: "What warning does Jesus give at the start of Matthew 24?",
+          answer: "He warns that the Temple will be left desolate and that disciples should not be deceived.",
+        },
+        {
+          prompt: "What kind of events does Jesus say will come before the end?",
+          answer: "He says there will be false messiahs, wars, tribulation, and upheaval.",
+        },
+        {
+          prompt: "What does Jesus tell his followers to do?",
+          answer: "He tells them to stay awake, be ready, and watch for the Son of Man's coming.",
+        },
+      ],
+    },
+    {
+      title: "Matthew 25 Quiz",
+      kicker: "Chapter",
+      summary: "Checks readiness parables, final judgment, and service to 'the least of these.'",
+      detail: "This quiz helps a beginner see Matthew 25 as the chapter where Jesus presses readiness, faithful stewardship, and mercy to others as signs of true discipleship.",
+      start: "Take this after reading Matthew 25 carefully and noticing the wise and foolish bridesmaids, the talents, and the sheep and goats.",
+      tags: ["Matthew 25", "chapter", "judgment"],
+      questions: [
+        {
+          prompt: "What do the wise and foolish bridesmaids teach?",
+          answer: "They teach that disciples must be ready for the bridegroom and not assume there will be time later.",
+        },
+        {
+          prompt: "What lesson comes from the parable of the talents?",
+          answer: "Faithfulness with what God gives matters, and servants are expected to use it well.",
+        },
+        {
+          prompt: "What distinguishes the sheep from the goats?",
+          answer: "The sheep cared for Jesus in the hungry, thirsty, stranger, naked, sick, and imprisoned; the goats did not.",
+        },
+      ],
+    },
+    {
+      title: "Matthew 26 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the plot against Jesus, the anointing, the Last Supper, and Gethsemane.",
+      detail: "This quiz helps a beginner see Matthew 26 as the chapter where Jesus moves toward the cross, the meal, betrayal, and arrest.",
+      start: "Take this after reading Matthew 26 carefully and noticing the plotting, the covenant meal, and the prayer in the garden.",
+      tags: ["Matthew 26", "chapter", "passion"],
+      questions: [
+        {
+          prompt: "What happens at the beginning of Matthew 26?",
+          answer: "The leaders plot to arrest Jesus and kill him.",
+        },
+        {
+          prompt: "What does Jesus say about the bread and cup at the Last Supper?",
+          answer: "He identifies them with his body and blood of the covenant.",
+        },
+        {
+          prompt: "What does Jesus do in Gethsemane?",
+          answer: "He prays in anguish, submits to the Father's will, and is arrested after Judas' betrayal.",
+        },
+      ],
+    },
+    {
+      title: "Matthew 27 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Jesus before Pilate, the crucifixion, and the burial.",
+      detail: "This quiz helps a beginner see Matthew 27 as the chapter where the trial, suffering, death, and burial of Jesus come into focus.",
+      start: "Take this after reading Matthew 27 carefully and noticing the courtroom, the cross, and the tomb.",
+      tags: ["Matthew 27", "chapter", "crucifixion"],
+      questions: [
+        {
+          prompt: "What choice does Pilate offer the crowd?",
+          answer: "He offers to release Jesus or Barabbas, and the crowd chooses Barabbas.",
+        },
+        {
+          prompt: "What signs accompany Jesus' death?",
+          answer: "Darkness falls and the temple curtain tears when Jesus dies.",
+        },
+        {
+          prompt: "How does the chapter end?",
+          answer: "Jesus is buried in a tomb that is guarded.",
+        },
+      ],
+    },
+    {
+      title: "Matthew 28 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the resurrection, the disciples' commission, and the end of Matthew.",
+      detail: "This quiz helps a beginner see Matthew 28 as the chapter where Jesus is raised and sends his followers to make disciples.",
+      start: "Take this after reading Matthew 28 carefully and noticing the empty tomb, the meeting on the mountain, and the commission.",
+      tags: ["Matthew 28", "chapter", "resurrection"],
+      questions: [
+        {
+          prompt: "What do the women find at the tomb?",
+          answer: "They find that Jesus has risen and the tomb is empty.",
+        },
+        {
+          prompt: "What news do the disciples receive from Jesus?",
+          answer: "They are told that Jesus has been raised and will go ahead of them.",
+        },
+        {
+          prompt: "What command ends Matthew 28?",
+          answer: "Jesus commands his followers to make disciples of all nations, baptizing and teaching them.",
+        },
+      ],
+    },
+    {
+      title: "Matthew 29 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Joseph's revelation, Herod's threat, and the flight to Egypt.",
+      detail: "This quiz helps a beginner see Matthew 29 as the chapter where Jesus is protected in his infancy and the early danger surrounding him is made plain.",
+      start: "Take this after reading Matthew 29 carefully and noticing the dreams, warnings, and returns.",
+      tags: ["Matthew 29", "chapter", "infancy"],
+      questions: [
+        {
+          prompt: "What does Joseph learn in a dream?",
+          answer: "He learns that Mary has conceived by the Holy Spirit and that he should take her as his wife.",
+        },
+        {
+          prompt: "What warning does the angel give about Herod?",
+          answer: "The angel warns that Herod seeks the child's life, so the family must flee.",
+        },
+        {
+          prompt: "What happens after Herod dies?",
+          answer: "Joseph is told to return, and the family settles in Nazareth.",
+        },
+      ],
+    },
+    {
+      title: "Matthew 122 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where patient attention becomes steady focus.",
+      detail: "This quiz helps a beginner see Matthew 122 as the chapter where Jesus turns attention into steady focus that can remain with the good.",
+      start: "Take this after reading Matthew 122 carefully and noticing how attention can become focus.",
+      tags: ["Matthew 122", "chapter", "focus"],
+      questions: [
+        {
+          prompt: "What changes when attention becomes focus in Matthew 122?",
+          answer: "The listener stops reacting only for the moment and begins to stay with what Jesus is saying.",
+        },
+        {
+          prompt: "What kind of response does the chapter ask for?",
+          answer: "It asks for steady, patient attention that does not drift away too quickly.",
+        },
+        {
+          prompt: "Why is focus important in this chapter?",
+          answer: "Focus helps the reader hold on to Jesus' teaching and let it shape action.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
