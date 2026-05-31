@@ -10075,6 +10075,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Chronicles 12 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter that gathers the warriors who join David.",
+      detail: "This quiz helps a beginner see 1 Chronicles 12 as a list of brave supporters from many tribes who come to make David king.",
+      start: "Take this after 1 Chronicles 11 when you want to continue the book chapter by chapter.",
+      tags: ["1 Chronicles 12", "chapter", "David"],
+      questions: [
+        {
+          prompt: "Who gathers around David in 1 Chronicles 12?",
+          answer: "Warriors and supporters from many tribes.",
+        },
+        {
+          prompt: "What does their gathering show?",
+          answer: "Widespread support for David's kingship.",
+        },
+        {
+          prompt: "Why does 1 Chronicles 12 matter?",
+          answer: "It shows the nation rallying around David.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
