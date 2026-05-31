@@ -7391,6 +7391,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Deuteronomy 28 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Moses lays out the blessings for obedience and the curses for disobedience.",
+      detail: "This quiz helps a beginner see Deuteronomy 28 as a chapter about covenant consequences, blessing, warning, and the importance of hearing God.",
+      start: "Take this after reading Deuteronomy 28 carefully and noticing the long lists of blessings and curses.",
+      tags: ["Deuteronomy 28", "chapter", "blessing"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Deuteronomy 28?",
+          answer: "The chapter emphasizes the blessings of obedience and the curses of disobedience.",
+        },
+        {
+          prompt: "Why does Moses give such a long warning here?",
+          answer: "He wants Israel to understand that covenant choices have serious consequences.",
+        },
+        {
+          prompt: "Why does Deuteronomy 28 matter?",
+          answer: "It ties Israel's future in the land to whether they listen to and follow the Lord.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
