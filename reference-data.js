@@ -4331,6 +4331,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Luke 15 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the lost sheep, lost coin, and prodigal son parables.",
+      detail: "This quiz helps a beginner see Luke 15 as the chapter where Jesus shows God's joy over repentance and return.",
+      start: "Take this after reading Luke 15 carefully and noticing the three lost-and-found stories.",
+      tags: ["Luke 15", "chapter", "parable"],
+      questions: [
+        {
+          prompt: "What repeated idea ties the parables in Luke 15 together?",
+          answer: "Something lost is found, and there is joy over repentance.",
+        },
+        {
+          prompt: "What does the father do when the younger son returns?",
+          answer: "He welcomes him home with compassion and celebration.",
+        },
+        {
+          prompt: "What do the shepherd, the woman, and the father all show about God?",
+          answer: "They show God's active search and joy over the lost being found.",
+        },
+      ],
+    },
+    {
       title: "John 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the opening claims about Jesus as the Word, light, and Son.",
