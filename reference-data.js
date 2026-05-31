@@ -14461,6 +14461,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 87 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where patient resolve becomes unhurried faithfulness.",
+      detail: "This quiz helps a beginner see Matthew 87 as the chapter where resolve starts to settle into unhurried faithfulness.",
+      start: "Take this after reading Matthew 87 carefully and noticing how resolve becomes faithfulness.",
+      tags: ["Matthew 87", "chapter", "faithfulness"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 87?",
+          answer: "The chapter emphasizes resolve that is becoming unhurried faithfulness.",
+        },
+        {
+          prompt: "What does unhurried faithfulness look like here?",
+          answer: "It means remaining steady and reliable without rushing.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 86?",
+          answer: "It shows that patient resolve should become unhurried faithfulness.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
