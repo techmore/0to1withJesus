@@ -5851,6 +5851,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 35 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Israel begins bringing offerings and making the tabernacle materials.",
+      detail: "This quiz helps a beginner see Exodus 35 as the chapter where willing hearts supply the work for God's dwelling place.",
+      start: "Take this after reading Exodus 35 carefully and noticing the Sabbath reminder, the offerings, and the people's generous response.",
+      tags: ["Exodus 35", "chapter", "offerings"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Exodus 35?",
+          answer: "The chapter emphasizes Sabbath rest and the people's offerings for the tabernacle.",
+        },
+        {
+          prompt: "How do the people respond in Exodus 35?",
+          answer: "They give offerings and contribute materials for the tabernacle work.",
+        },
+        {
+          prompt: "Why does Exodus 35 matter after Exodus 34?",
+          answer: "It turns the renewed covenant into active, willing participation in God's dwelling place.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
