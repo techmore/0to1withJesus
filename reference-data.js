@@ -17761,6 +17761,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Acts Book Quiz",
+      kicker: "Book",
+      summary: "A whole-book check for Acts as the story of the Spirit-powered spread of the church.",
+      detail: "This quiz helps a beginner see Acts as the continuation of Jesus' work through the Spirit, the apostles, and the widening mission from Jerusalem to the nations.",
+      start: "Take this after reading Acts or after tracing the growth of the church across its major movements.",
+      tags: ["Acts", "book", "church"],
+      questions: [
+        {
+          prompt: "What major promise from Jesus drives Acts?",
+          answer: "Jesus promises the Holy Spirit so his witnesses can carry the gospel outward.",
+        },
+        {
+          prompt: "How does the mission expand in Acts?",
+          answer: "The gospel moves from Jerusalem to Judea, Samaria, and the ends of the earth.",
+        },
+        {
+          prompt: "What kind of story is Acts?",
+          answer: "It is the story of the risen Jesus continuing his work through the Spirit and the church.",
+        },
+      ],
+    },
+    {
       title: "Genesis Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Genesis as the opening of the Bible's story.",
