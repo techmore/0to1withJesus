@@ -7927,6 +7927,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 176 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where lasting kindness becomes steady courage.",
+      detail: "This quiz helps a beginner see Matthew 176 as the chapter where Jesus turns kindness into courage that can stand up under pressure.",
+      start: "Take this after reading Matthew 176 carefully and noticing how kindness can become courage.",
+      tags: ["Matthew 176", "chapter", "courage"],
+      questions: [
+        {
+          prompt: "What does lasting kindness become?",
+          answer: "It becomes steady courage.",
+        },
+        {
+          prompt: "What does Jesus keep building in his people?",
+          answer: "He keeps building strength that stays gentle.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how kindness can make people brave.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
