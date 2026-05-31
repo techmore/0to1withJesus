@@ -8953,6 +8953,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Samuel 12 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Samuel gives his farewell speech and calls Israel to remember the Lord's faithfulness.",
+      detail: "This quiz helps a beginner see 1 Samuel 12 as the chapter where Samuel reviews the past, warns the people, and points them back to obedience and prayer.",
+      start: "Take this after 1 Samuel 11 when you want to hear Samuel's final public challenge to Israel.",
+      tags: ["1 Samuel 12", "chapter", "Samuel"],
+      questions: [
+        {
+          prompt: "What does Samuel do in 1 Samuel 12?",
+          answer: "He gives a farewell speech and reviews God's faithfulness to Israel.",
+        },
+        {
+          prompt: "What warning does Samuel give the people?",
+          answer: "He warns them not to turn away from the Lord after asking for a king.",
+        },
+        {
+          prompt: "Why does 1 Samuel 12 matter?",
+          answer: "It reminds Israel that their hope is still in the Lord, not in the king alone.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
