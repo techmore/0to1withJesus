@@ -6277,6 +6277,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 102 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where patient insight becomes steady discernment.",
+      detail: "This quiz helps a beginner see Matthew 102 as the chapter where Jesus turns patient insight into steady discernment that can sort what matters.",
+      start: "Take this after reading Matthew 102 carefully and noticing how insight can become discernment.",
+      tags: ["Matthew 102", "chapter", "discernment"],
+      questions: [
+        {
+          prompt: "What does patient insight become?",
+          answer: "It becomes steady discernment.",
+        },
+        {
+          prompt: "What does Jesus keep teaching his followers?",
+          answer: "He keeps teaching them how to see clearly and choose wisely.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how insight can sharpen into discernment.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
