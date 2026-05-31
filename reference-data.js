@@ -18055,6 +18055,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Thessalonians Book Quiz",
+      kicker: "Book",
+      summary: "A whole-book check for 2 Thessalonians as Paul's letter about endurance, correction, and the Lord's coming.",
+      detail: "This quiz helps a beginner see 2 Thessalonians as a follow-up letter that steadies believers about persecution, confusion, and future hope.",
+      start: "Take this after 1 Thessalonians or after noticing the church still needs clarity about the end and steady endurance.",
+      tags: ["2 Thessalonians", "Paul", "book"],
+      questions: [
+        {
+          prompt: "What problem does 2 Thessalonians address about the Lord's coming?",
+          answer: "It corrects confusion and speculation about the day of the Lord.",
+        },
+        {
+          prompt: "How does Paul encourage the church under pressure?",
+          answer: "He points them toward God's justice, steady endurance, and hope in Christ.",
+        },
+        {
+          prompt: "What does the letter say about orderly living?",
+          answer: "Believers should work faithfully and not become idle or disruptive.",
+        },
+      ],
+    },
+    {
       title: "Romans and Ephesians Doctrine Quiz",
       kicker: "Books",
       summary: "Checks grace, faith, church, unity, and new life in Christ.",
