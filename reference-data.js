@@ -4683,6 +4683,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 26 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Isaac's famine, repeated well conflicts, and God's renewal of the promise.",
+      detail: "This quiz helps a beginner see Genesis 26 as the chapter where Isaac faces famine, fear, and conflict over wells, but God reaffirms the covenant promises first given to Abraham.",
+      start: "Take this after reading Genesis 26 carefully and noticing how the promise, the fear, and the well disputes all repeat Abraham's story in a new generation.",
+      tags: ["Genesis 26", "chapter", "Isaac"],
+      questions: [
+        {
+          prompt: "What happens when Isaac faces famine in Genesis 26?",
+          answer: "God tells him not to go down to Egypt and renews the promise to bless him in the land.",
+        },
+        {
+          prompt: "What repeated problem does Isaac face with the Philistines?",
+          answer: "His wells are contested and repeatedly named according to the conflict or peace he experiences there.",
+        },
+        {
+          prompt: "Why is Genesis 26 important?",
+          answer: "It shows that God's covenant promise continues with Isaac even when he meets fear and local conflict.",
+        },
+      ],
+    },
+    {
       title: "Exodus 1 Quiz",
       kicker: "Chapter",
       summary: "Checks Israel's oppression in Egypt and the beginning of the rescue setting.",
