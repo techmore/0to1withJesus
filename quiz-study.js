@@ -69,6 +69,15 @@ if (typeof window !== 'undefined' && typeof document !== 'undefined') {
     document.title = `${title} Study Guide | Jesus Guide`;
     document.getElementById('quiz-study-title').textContent = title;
     document.getElementById('quiz-study-lede').textContent = summary || trackDescription(track);
+    document.querySelectorAll('.topnav-reference a').forEach((link) => {
+      const isTrackLink = link.getAttribute('href') === `./quizzes/${track}.html`;
+      link.classList.toggle('is-active', isTrackLink);
+      if (isTrackLink) {
+        link.setAttribute('aria-current', 'page');
+      } else {
+        link.removeAttribute('aria-current');
+      }
+    });
     document.getElementById('quiz-study-actions').innerHTML = `
       <a class="button button-primary" href="${escapeHtml(quizHref)}">Open quiz page</a>
       <a class="button button-secondary" href="./quizzes/${track}.html">Back to ${escapeHtml(trackLabel(track))} track</a>
@@ -112,6 +121,12 @@ if (typeof window !== 'undefined' && typeof document !== 'undefined') {
   } else {
     document.getElementById('quiz-study-title').textContent = 'Quiz not found';
     document.getElementById('quiz-study-lede').textContent = 'Pick a quiz from the hub or a track page and open its study guide first.';
+    document.querySelectorAll('.topnav-reference a').forEach((link) => {
+      link.classList.remove('is-active');
+      if (link.getAttribute('aria-current') === 'page') {
+        link.removeAttribute('aria-current');
+      }
+    });
     document.getElementById('quiz-study-actions').innerHTML = `
       <a class="button button-primary" href="./quizzes.html">Quiz hub</a>
     `;
