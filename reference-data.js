@@ -4309,6 +4309,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Luke 14 Quiz",
+      kicker: "Chapter",
+      summary: "Checks humility, the cost of discipleship, and Jesus' teaching at a Pharisee's house.",
+      detail: "This quiz helps a beginner see Luke 14 as the chapter where Jesus overturns pride and explains the cost of following him.",
+      start: "Take this after reading Luke 14 carefully and noticing the meals, invitations, and discipleship warnings.",
+      tags: ["Luke 14", "chapter", "humility"],
+      questions: [
+        {
+          prompt: "What lesson does Jesus teach by choosing the lowest place at the meal?",
+          answer: "He teaches humility and letting God exalt you.",
+        },
+        {
+          prompt: "What does Jesus say someone must count before following him?",
+          answer: "They must count the cost of discipleship.",
+        },
+        {
+          prompt: "What kind of people does Jesus say to invite to a feast?",
+          answer: "He says to invite the poor, the crippled, the lame, and the blind.",
+        },
+      ],
+    },
+    {
       title: "John 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the opening claims about Jesus as the Word, light, and Son.",
