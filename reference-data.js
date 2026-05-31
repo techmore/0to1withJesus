@@ -18099,6 +18099,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "James Book Quiz",
+      kicker: "Book",
+      summary: "A whole-book check for James as a letter about practical wisdom, tested faith, and ordinary obedience.",
+      detail: "This quiz helps a beginner see James as intensely practical: faith becomes visible in speech, mercy, humility, and patient endurance.",
+      start: "Take this after hearing James as part of the Catholic Letters and after noticing wisdom themes in Proverbs and Jesus' teaching.",
+      tags: ["James", "book", "wisdom"],
+      questions: [
+        {
+          prompt: "What kind of faith does James want?",
+          answer: "Faith that shows itself in action.",
+        },
+        {
+          prompt: "What does James say about wisdom?",
+          answer: "Wisdom from above is pure, peaceable, gentle, and full of mercy.",
+        },
+        {
+          prompt: "What is James especially concerned about in speech?",
+          answer: "Controlling the tongue and using words rightly.",
+        },
+      ],
+    },
+    {
       title: "Romans and Ephesians Doctrine Quiz",
       kicker: "Books",
       summary: "Checks grace, faith, church, unity, and new life in Christ.",
