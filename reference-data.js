@@ -13647,6 +13647,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 50 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where mature abundance becomes overflowing testimony.",
+      detail: "This quiz helps a beginner see Matthew 50 as the chapter where abundance begins to spill outward in witness.",
+      start: "Take this after reading Matthew 50 carefully and noticing how abundance leads to testimony.",
+      tags: ["Matthew 50", "chapter", "testimony"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 50?",
+          answer: "The chapter emphasizes abundance that overflows into testimony.",
+        },
+        {
+          prompt: "What does overflowing testimony look like here?",
+          answer: "It means the good that has grown in ministry starts to be shared clearly.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 49?",
+          answer: "It shows that abundance should not stay hidden but become witness.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
