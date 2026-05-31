@@ -6255,6 +6255,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 101 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where grounded wisdom becomes patient insight.",
+      detail: "This quiz helps a beginner see Matthew 101 as the chapter where Jesus turns settled wisdom into patient insight that can guide people with care.",
+      start: "Take this after reading Matthew 101 carefully and noticing how wisdom can become insight.",
+      tags: ["Matthew 101", "chapter", "insight"],
+      questions: [
+        {
+          prompt: "What does grounded wisdom become?",
+          answer: "It becomes patient insight.",
+        },
+        {
+          prompt: "What does Jesus keep giving his followers?",
+          answer: "He keeps giving them clear judgment and patience together.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how wisdom can grow into insight.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
