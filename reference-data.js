@@ -4837,6 +4837,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 40 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the parables of the kingdom's growth and the reveal of Jesus' teaching style.",
+      detail: "This quiz helps a beginner see Matthew 40 as the chapter where Jesus explains how the kingdom grows quietly but surely and why he often teaches in parables.",
+      start: "Take this after reading Matthew 40 carefully and noticing the mustard seed, the leaven, and the explanation of parables.",
+      tags: ["Matthew 40", "chapter", "kingdom"],
+      questions: [
+        {
+          prompt: "What do the mustard seed and leaven parables teach?",
+          answer: "They teach that the kingdom can start small but grow powerfully and transform everything.",
+        },
+        {
+          prompt: "Why does Jesus speak in parables?",
+          answer: "He uses parables to reveal and conceal, inviting open-hearted listeners to understand.",
+        },
+        {
+          prompt: "What does Jesus say about the kingdom's treasure?",
+          answer: "He says it is worth everything, like a treasure hidden in a field or a pearl of great price.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
