@@ -18253,6 +18253,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Philemon Book Quiz",
+      kicker: "Book",
+      summary: "A whole-book check for Philemon as a short letter about reconciliation, brotherhood, and gospel-shaped appeal.",
+      detail: "This quiz helps a beginner see Philemon as the gospel applied to a painful social relationship where Paul asks for mercy and a new identity in Christ.",
+      start: "Take this after Colossians and after noticing how the letter makes the gospel concrete in household life.",
+      tags: ["Philemon", "book", "reconciliation"],
+      questions: [
+        {
+          prompt: "What is the main issue in Philemon?",
+          answer: "How Philemon should receive Onesimus as a brother in Christ.",
+        },
+        {
+          prompt: "What style does Paul use in the letter?",
+          answer: "A gentle, persuasive appeal rooted in love and shared faith.",
+        },
+        {
+          prompt: "What does Philemon show about the gospel?",
+          answer: "It changes relationships, not just beliefs.",
+        },
+      ],
+    },
+    {
       title: "Romans and Ephesians Doctrine Quiz",
       kicker: "Books",
       summary: "Checks grace, faith, church, unity, and new life in Christ.",
