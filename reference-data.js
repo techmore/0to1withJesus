@@ -5199,6 +5199,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 144 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where humble boldness becomes steady kindness.",
+      detail: "This quiz helps a beginner see Matthew 144 as the chapter where courageous witness is shaped by gentleness and care.",
+      start: "Take this after reading Matthew 144 carefully and noticing how boldness can stay kind.",
+      tags: ["Matthew 144", "chapter", "kindness"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 144?",
+          answer: "The chapter emphasizes bold witness that is tempered by kindness.",
+        },
+        {
+          prompt: "What does steady kindness look like here?",
+          answer: "It means speaking truth without harshness and acting with care.",
+        },
+        {
+          prompt: "Why does this matter after Matthew 143?",
+          answer: "It shows that humble boldness should be expressed with kindness.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
