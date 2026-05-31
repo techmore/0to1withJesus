@@ -6709,6 +6709,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Numbers 34 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter that sets the borders of the land Israel is to receive.",
+      detail: "This quiz helps a beginner see Numbers 34 as a chapter about promised boundaries and careful distribution.",
+      start: "Take this after reading Numbers 34 carefully and noticing the border descriptions and the leaders chosen to divide the land.",
+      tags: ["Numbers 34", "chapter", "land"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Numbers 34?",
+          answer: "The chapter emphasizes the boundaries of the land and who will divide it.",
+        },
+        {
+          prompt: "Why are the borders in Numbers 34 important?",
+          answer: "They show that the land is a promised inheritance with defined limits.",
+        },
+        {
+          prompt: "What practical role does Numbers 34 play in the story?",
+          answer: "It prepares Israel for settling the land by naming boundaries and leaders for distribution.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
