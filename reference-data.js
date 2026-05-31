@@ -5807,6 +5807,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 33 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Moses pleads for God's presence to go with Israel.",
+      detail: "This quiz helps a beginner see Exodus 33 as the chapter where God's mercy and presence become the central concern after the golden calf.",
+      start: "Take this after reading Exodus 33 carefully and noticing Moses' intercession, the tent of meeting, and the request to see God's glory.",
+      tags: ["Exodus 33", "chapter", "presence"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Exodus 33?",
+          answer: "The chapter emphasizes Moses asking for God's presence and mercy.",
+        },
+        {
+          prompt: "What does Moses ask God to do in Exodus 33?",
+          answer: "He asks God to go with Israel and show him his glory.",
+        },
+        {
+          prompt: "Why does Exodus 33 matter after Exodus 32?",
+          answer: "It shows that restored relationship depends on God's presence and mercy, not just Israel's effort.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
