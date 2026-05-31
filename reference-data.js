@@ -4507,6 +4507,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 17 Quiz",
+      kicker: "Chapter",
+      summary: "Checks water from the rock, testing in the wilderness, and the battle with Amalek.",
+      detail: "This quiz helps a beginner see Exodus 17 as the chapter where God provides again and Israel learns to fight from dependence. It focuses on thirst, complaint, intercession, and the first major battle after the sea.",
+      start: "Take this after reading Exodus 17 carefully and noticing how water and warfare both test the people.",
+      tags: ["Exodus 17", "chapter", "wilderness"],
+      questions: [
+        {
+          prompt: "What problem do the Israelites face at the start of Exodus 17?",
+          answer: "They have no water and begin quarreling and complaining.",
+        },
+        {
+          prompt: "How does God provide water?",
+          answer: "He tells Moses to strike the rock, and water comes out for the people.",
+        },
+        {
+          prompt: "What happens with Amalek?",
+          answer: "Israel fights Amalek while Moses intercedes with raised hands, showing dependence on God in battle.",
+        },
+      ],
+    },
+    {
       title: "Luke and Acts Bridge Quiz",
       kicker: "Books",
       summary: "Checks how Luke's Gospel connects to the early church story in Acts.",
