@@ -14901,6 +14901,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 107 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where steady endurance becomes patient strength.",
+      detail: "This quiz helps a beginner see Matthew 107 as the chapter where endurance starts to settle into patient strength.",
+      start: "Take this after reading Matthew 107 carefully and noticing how endurance becomes strength.",
+      tags: ["Matthew 107", "chapter", "strength"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 107?",
+          answer: "The chapter emphasizes endurance that is becoming patient strength.",
+        },
+        {
+          prompt: "What does patient strength look like here?",
+          answer: "It means remaining firm and capable without losing calm.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 106?",
+          answer: "It shows that steady endurance should become patient strength.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
