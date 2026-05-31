@@ -11021,6 +11021,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Chronicles 25 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Amaziah starts well and then turns to idols.",
+      detail: "This quiz helps a beginner see 2 Chronicles 25 as a mixed reign that warns against divided loyalty.",
+      start: "Take this after 2 Chronicles 24 when you want to continue the chapter-by-chapter reading.",
+      tags: ["2 Chronicles 25", "chapter", "Amaziah"],
+      questions: [
+        {
+          prompt: "How does Amaziah begin his reign in 2 Chronicles 25?",
+          answer: "He does what is right at first.",
+        },
+        {
+          prompt: "What problem appears later?",
+          answer: "He turns to idols and makes poor choices.",
+        },
+        {
+          prompt: "Why does 2 Chronicles 25 matter?",
+          answer: "It shows the danger of starting well but not staying faithful.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
