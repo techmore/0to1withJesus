@@ -5991,6 +5991,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 180 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where peaceful assurance becomes settled peace.",
+      detail: "This quiz helps a beginner see Matthew 180 as the chapter where assurance settles into settled peace with Jesus.",
+      start: "Take this after reading Matthew 180 carefully and noticing how assurance becomes peace.",
+      tags: ["Matthew 180", "chapter", "peace"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 180?",
+          answer: "The chapter emphasizes settled peace in following Jesus.",
+        },
+        {
+          prompt: "What does settled peace look like here?",
+          answer: "It means resting in Jesus with no lingering agitation.",
+        },
+        {
+          prompt: "Why does this matter after Matthew 179?",
+          answer: "It shows that peaceful assurance can become settled peace.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
