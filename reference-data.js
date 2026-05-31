@@ -3981,6 +3981,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 1 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the opening chapter, where God creates the world and calls it good.",
+      detail: "This quiz helps a beginner see Genesis 1 as the chapter where creation begins with God's word, order, and blessing.",
+      start: "Take this after reading Genesis 1 carefully and noticing the rhythm of creation and blessing.",
+      tags: ["Genesis 1", "chapter", "creation"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Genesis 1?",
+          answer: "The chapter emphasizes God creating the world and declaring it good.",
+        },
+        {
+          prompt: "What stands out about how God creates in Genesis 1?",
+          answer: "God creates by speaking, bringing order, light, and life into being.",
+        },
+        {
+          prompt: "Why does this matter at the start of Genesis?",
+          answer: "It sets the foundation for everything that follows in the Bible's story.",
+        },
+      ],
+    },
+    {
       title: "Exodus Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Exodus as the Bible's great rescue story.",
