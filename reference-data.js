@@ -9019,6 +9019,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Kings 13 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where a man of God confronts Jeroboam and the altar is judged.",
+      detail: "This quiz helps a beginner see 1 Kings 13 as a warning chapter about obeying God's word exactly.",
+      start: "Take this after 1 Kings 12 when you want to continue the book chapter by chapter.",
+      tags: ["1 Kings 13", "chapter", "Jeroboam"],
+      questions: [
+        {
+          prompt: "Who comes to Bethel in 1 Kings 13?",
+          answer: "A man of God from Judah.",
+        },
+        {
+          prompt: "What happens to the altar?",
+          answer: "It is condemned and split apart as a sign.",
+        },
+        {
+          prompt: "Why does 1 Kings 13 matter?",
+          answer: "It shows that God's word must be obeyed exactly.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
