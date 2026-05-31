@@ -7289,6 +7289,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 147 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where resilient community becomes a steady witness.",
+      detail: "This quiz helps a beginner see Matthew 147 as the chapter where Jesus turns a community that can hold together into one that can also show his life to others.",
+      start: "Take this after reading Matthew 147 carefully and noticing how community can become witness.",
+      tags: ["Matthew 147", "chapter", "witness"],
+      questions: [
+        {
+          prompt: "What does resilient community become?",
+          answer: "It becomes a steady witness.",
+        },
+        {
+          prompt: "What does Jesus keep shaping?",
+          answer: "He keeps shaping a people who can reflect him outward.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how togetherness can begin to speak to others.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
