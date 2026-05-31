@@ -14483,6 +14483,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 88 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where unhurried faithfulness becomes steady obedience.",
+      detail: "This quiz helps a beginner see Matthew 88 as the chapter where faithfulness starts to settle into steady obedience.",
+      start: "Take this after reading Matthew 88 carefully and noticing how faithfulness becomes obedience.",
+      tags: ["Matthew 88", "chapter", "obedience"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 88?",
+          answer: "The chapter emphasizes faithfulness that is becoming steady obedience.",
+        },
+        {
+          prompt: "What does steady obedience look like here?",
+          answer: "It means doing what is right with consistency and without delay.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 87?",
+          answer: "It shows that unhurried faithfulness should become steady obedience.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
