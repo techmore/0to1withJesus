@@ -5497,6 +5497,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 70 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the warning against hypocrisy and the call to authentic righteousness.",
+      detail: "This quiz helps a beginner see Matthew 70 as the chapter where Jesus presses beyond outward appearances to the heart.",
+      start: "Take this after reading Matthew 70 carefully and noticing the warnings, the contrasts, and the call to sincerity.",
+      tags: ["Matthew 70", "chapter", "hypocrisy"],
+      questions: [
+        {
+          prompt: "What does Jesus warn against?",
+          answer: "He warns against hypocrisy and empty show.",
+        },
+        {
+          prompt: "What kind of righteousness does he want?",
+          answer: "He wants authentic righteousness from the heart.",
+        },
+        {
+          prompt: "What does the chapter emphasize?",
+          answer: "It emphasizes integrity in following God.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
