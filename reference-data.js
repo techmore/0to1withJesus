@@ -9789,6 +9789,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Kings 25 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Jerusalem falls and exile becomes complete.",
+      detail: "This quiz helps a beginner see 2 Kings 25 as the end of Judah's kingdom and the start of life in exile.",
+      start: "Take this after 2 Kings 24 when you want to finish the book chapter by chapter.",
+      tags: ["2 Kings 25", "chapter", "Exile"],
+      questions: [
+        {
+          prompt: "What happens in 2 Kings 25?",
+          answer: "Jerusalem falls and exile becomes complete.",
+        },
+        {
+          prompt: "What happens to the temple?",
+          answer: "It is destroyed.",
+        },
+        {
+          prompt: "Why does 2 Kings 25 matter?",
+          answer: "It closes the book with the final collapse of Judah and the exile of its people.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
