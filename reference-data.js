@@ -4331,6 +4331,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 17 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the transfiguration, healing of the boy, and Jesus' teaching about faith and the temple tax.",
+      detail: "This quiz helps a beginner see Matthew 17 as the chapter where Jesus is revealed in glory and then continues toward suffering and service.",
+      start: "Take this after reading Matthew 17 carefully and noticing the mountain, the healing, and the return to ordinary life.",
+      tags: ["Matthew 17", "chapter", "transfiguration"],
+      questions: [
+        {
+          prompt: "What happens on the mountain in Matthew 17?",
+          answer: "Jesus is transfigured before Peter, James, and John.",
+        },
+        {
+          prompt: "What problem do the disciples face after coming down from the mountain?",
+          answer: "They cannot heal a demon-afflicted boy until Jesus rebukes the demon and heals him.",
+        },
+        {
+          prompt: "What teaching about faith appears in this chapter?",
+          answer: "Jesus says faith, even as small as a mustard seed, can move mountains.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
