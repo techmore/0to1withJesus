@@ -4199,6 +4199,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 4 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Cain and Abel, the first murder, and the spread of human rebellion.",
+      detail: "This quiz helps a beginner see Genesis 4 as the chapter where sin moves from disobedience into violence and the growth of a troubled civilization.",
+      start: "Take this after reading Genesis 4 carefully and noticing how worship, jealousy, and judgment shape the story.",
+      tags: ["Genesis 4", "chapter", "Cain"],
+      questions: [
+        {
+          prompt: "What happens between Cain and Abel?",
+          answer: "Cain becomes jealous of Abel and kills him.",
+        },
+        {
+          prompt: "What does God do after the murder?",
+          answer: "God confronts Cain, pronounces judgment, and also marks him for protection.",
+        },
+        {
+          prompt: "Why is Genesis 4 important?",
+          answer: "It shows how quickly sin spreads into violence and how human culture develops under the shadow of rebellion.",
+        },
+      ],
+    },
+    {
       title: "Exodus 1 Quiz",
       kicker: "Chapter",
       summary: "Checks Israel's oppression in Egypt and the beginning of the rescue setting.",
