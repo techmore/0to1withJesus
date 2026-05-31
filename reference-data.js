@@ -5849,6 +5849,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 86 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the burial and aftermath, where grief, hope, and hidden preparation stand together.",
+      detail: "This quiz helps a beginner see Matthew 86 as the chapter where Jesus is laid in the tomb and the story quietly turns toward vindication.",
+      start: "Take this after reading Matthew 86 carefully and noticing the burial and the guarded tomb.",
+      tags: ["Matthew 86", "chapter", "burial"],
+      questions: [
+        {
+          prompt: "What happens to Jesus in the chapter?",
+          answer: "Jesus is buried in the tomb.",
+        },
+        {
+          prompt: "Why is this chapter important?",
+          answer: "It prepares for the coming vindication and resurrection story.",
+        },
+        {
+          prompt: "What mood does the chapter carry?",
+          answer: "It carries grief, waiting, and quiet anticipation.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
