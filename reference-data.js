@@ -7741,6 +7741,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Romans 12 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Paul's call to living sacrifice, humility, and renewed thinking.",
+      detail: "This quiz helps a beginner see Romans 12 as the chapter where Paul turns doctrine into daily worship, service, and love.",
+      start: "Take this after reading Romans 12 carefully and noticing the shift from theology to practical life.",
+      tags: ["Romans 12", "chapter", "living"],
+      questions: [
+        {
+          prompt: "What does Paul urge believers to offer?",
+          answer: "He urges them to offer their bodies as a living sacrifice to God.",
+        },
+        {
+          prompt: "What should believers not be conformed to?",
+          answer: "They should not be conformed to this world but be transformed by renewing their minds.",
+        },
+        {
+          prompt: "What key attitude marks life together in this chapter?",
+          answer: "Humility, genuine love, and honoring others above oneself.",
+        },
+      ],
+    },
+    {
       title: "Ephesians Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Ephesians as Paul's letter about identity in Christ, unity, the church, and standing firm.",
