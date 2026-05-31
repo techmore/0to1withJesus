@@ -6005,6 +6005,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Numbers 2 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Israel is arranged by tribes around the tabernacle.",
+      detail: "This quiz helps a beginner see Numbers 2 as the chapter where the camp is ordered around God's presence.",
+      start: "Take this after reading Numbers 2 carefully and noticing the tribal layout and the center place of the tabernacle.",
+      tags: ["Numbers 2", "chapter", "camp"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Numbers 2?",
+          answer: "The chapter emphasizes the orderly arrangement of the tribes around the tabernacle.",
+        },
+        {
+          prompt: "What does the camp layout show in Numbers 2?",
+          answer: "It shows that God's presence is at the center of Israel's life and movement.",
+        },
+        {
+          prompt: "Why does Numbers 2 matter after Numbers 1?",
+          answer: "It follows the census by showing how the people are organized around the tabernacle.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
