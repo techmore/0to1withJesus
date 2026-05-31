@@ -10031,6 +10031,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Chronicles 10 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter that records Saul's death and the start of David's rise.",
+      detail: "This quiz helps a beginner see 1 Chronicles 10 as the turning point where Saul's reign ends and the story moves toward David.",
+      start: "Take this after 1 Chronicles 9 when you want to continue the book chapter by chapter.",
+      tags: ["1 Chronicles 10", "chapter", "Saul"],
+      questions: [
+        {
+          prompt: "What event begins 1 Chronicles 10?",
+          answer: "Saul's defeat and death in battle.",
+        },
+        {
+          prompt: "What change does the chapter set up?",
+          answer: "The transition to David's kingship.",
+        },
+        {
+          prompt: "Why does 1 Chronicles 10 matter?",
+          answer: "It marks the end of Saul's reign and the shift to David.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
