@@ -5675,6 +5675,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 27 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where the altar and courtyard for the tabernacle are described.",
+      detail: "This quiz helps a beginner see Exodus 27 as the chapter that continues the tabernacle instructions with worship space and oil for light.",
+      start: "Take this after reading Exodus 27 carefully and noticing the altar, the courtyard, and the instructions for the lampstand oil.",
+      tags: ["Exodus 27", "chapter", "altar"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Exodus 27?",
+          answer: "The chapter emphasizes the altar, courtyard, and worship setup for the tabernacle.",
+        },
+        {
+          prompt: "What other detail appears in Exodus 27 besides the altar and courtyard?",
+          answer: "The chapter also gives instructions about oil for the lampstand.",
+        },
+        {
+          prompt: "Why does Exodus 27 matter after Exodus 26?",
+          answer: "It continues the tabernacle plan by describing the outside worship area and its use.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
