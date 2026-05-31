@@ -9305,6 +9305,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "2 Kings 3 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Elisha helps the kings and the Lord provides water in the desert.",
+      detail: "This quiz helps a beginner see 2 Kings 3 as a chapter where God rescues his people through the prophet Elisha.",
+      start: "Take this after 2 Kings 2 when you want to continue the book chapter by chapter.",
+      tags: ["2 Kings 3", "chapter", "Elisha"],
+      questions: [
+        {
+          prompt: "What need do the kings face in 2 Kings 3?",
+          answer: "They need water in the desert.",
+        },
+        {
+          prompt: "Who helps them?",
+          answer: "Elisha.",
+        },
+        {
+          prompt: "Why does 2 Kings 3 matter?",
+          answer: "It shows God providing through Elisha for a desperate situation.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
