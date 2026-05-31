@@ -7103,6 +7103,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Acts 14 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the mission in Iconium, Lystra, and Derbe, and the return to Antioch.",
+      detail: "This quiz helps a beginner see Acts 14 as the chapter where mission includes miracles, opposition, and strengthening new believers.",
+      start: "Take this after reading Acts 14 carefully and noticing how Paul and Barnabas continue despite hardship.",
+      tags: ["Acts 14", "chapter", "mission"],
+      questions: [
+        {
+          prompt: "What happens in Iconium and Lystra?",
+          answer: "Paul and Barnabas preach, miracles occur, and they face both belief and opposition.",
+        },
+        {
+          prompt: "How does the crowd in Lystra react to healing?",
+          answer: "They initially think Paul and Barnabas are gods, but the apostles stop them.",
+        },
+        {
+          prompt: "What do Paul and Barnabas do on the return journey?",
+          answer: "They strengthen the disciples and appoint elders in the churches.",
+        },
+      ],
+    },
+    {
       title: "Acts Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Acts as the story of the Spirit-empowered church expanding from Jerusalem outward.",
