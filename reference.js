@@ -83,7 +83,7 @@ function filteredItems() {
 
 function visibleQuizItems(items = filteredItems()) {
   return state.tab === "quizzes"
-    ? items.filter((item) => quizTrackMatches(item, state.quizTrackFilter || "all"))
+    ? items.filter((item) => quizTrackForItem(item) === (state.quizTrackFilter || "all"))
     : items;
 }
 
@@ -96,10 +96,6 @@ function quizTrackForItem(item) {
     return /^(Genesis|Exodus|Numbers|Deuteronomy|Joshua|Judges|Ruth|1 Samuel|2 Samuel|1 Kings|2 Kings|1 Chronicles|2 Chronicles|Ezra|Nehemiah|Esther|Job|Psalms?|Proverbs|Ecclesiastes|Song of Songs|Isaiah|Jeremiah|Lamentations|Ezekiel|Daniel|Hosea|Joel|Amos|Obadiah|Jonah|Micah|Nahum|Habakkuk|Zephaniah|Haggai|Zechariah|Malachi|Matthew|Mark|Luke|John|Acts|Romans|1 Corinthians|2 Corinthians|Galatians|Ephesians|Philippians|Colossians|1 Thessalonians|2 Thessalonians|1 Timothy|2 Timothy|Titus|Philemon|Hebrews|James|1 Peter|2 Peter|1 John|2 John|3 John|Jude|Revelation) \d+ Quiz$/i.test(title) ? "intermediate" : "expert";
   }
   return "expert";
-}
-
-function quizTrackMatches(item, track) {
-  return track === "all" || quizTrackForItem(item) === track;
 }
 
 function parseHash(hash) {
@@ -166,7 +162,7 @@ function renderReferenceTabs() {
     const label = tabLabels[normalizedTab] || "Reference";
     const total = referenceData[normalizedTab]?.length || 0;
     const count = normalizedTab === "quizzes"
-      ? itemsForTab(normalizedTab).filter((item) => quizTrackMatches(item, state.quizTrackFilter || "all")).length
+      ? itemsForTab(normalizedTab).filter((item) => quizTrackForItem(item) === (state.quizTrackFilter || "all")).length
       : itemsForTab(normalizedTab).length;
 
     item.classList.toggle("is-active", active);
@@ -357,12 +353,16 @@ function setupReferenceHash() {
 
 function bootstrapReference() {
   const fixedTrack = document.body.dataset.quizTrack || "";
+  if (fixedTrack) {
+    state.tab = "quizzes";
+  }
   if (document.body.dataset.page === "quizzes" && !window.location.hash) {
     history.replaceState(null, "", `#quizzes?track=${fixedTrack || "starter"}`);
   }
   loadQuizState();
   if (fixedTrack) {
     state.quizTrackFilter = fixedTrack;
+    state.tab = "quizzes";
   }
   setupReferenceTabs();
   setupReferenceSearch();
