@@ -4397,6 +4397,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 12 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Passover night, blood on the doorposts, and the start of Israel's departure.",
+      detail: "This quiz helps a beginner see Exodus 12 as the decisive rescue chapter. It focuses on the Passover meal, protection by blood, haste, and the meaning of remembering deliverance.",
+      start: "Take this after reading Exodus 12 carefully and noticing the meal, the sign, and the urgency of departure.",
+      tags: ["Exodus 12", "chapter", "Passover"],
+      questions: [
+        {
+          prompt: "What is the key sign of protection in Exodus 12?",
+          answer: "The blood on the doorposts and lintel.",
+        },
+        {
+          prompt: "Why do the Israelites eat in haste?",
+          answer: "Because they are preparing to leave Egypt quickly when God acts.",
+        },
+        {
+          prompt: "What does Passover become for Israel?",
+          answer: "A memorial of God's rescue and a central pattern of identity and worship.",
+        },
+      ],
+    },
+    {
       title: "Luke and Acts Bridge Quiz",
       kicker: "Books",
       summary: "Checks how Luke's Gospel connects to the early church story in Acts.",
