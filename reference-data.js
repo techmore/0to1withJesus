@@ -5103,6 +5103,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Leviticus Book Quiz",
+      kicker: "Book",
+      summary: "A whole-book check for Leviticus as the guide to holiness, sacrifice, and worship near God's presence.",
+      detail: "This quiz helps a beginner see Leviticus as more than strange ritual rules: it teaches how a holy God lives among a rescued people.",
+      start: "Take this after Exodus so the covenant and worship instructions stay tied to rescue.",
+      tags: ["Leviticus", "book", "holiness"],
+      questions: [
+        {
+          prompt: "What is one major theme of Leviticus?",
+          answer: "Holiness: God's people learning how to live near a holy God.",
+        },
+        {
+          prompt: "Why are sacrifice and purity important in Leviticus?",
+          answer: "They address sin, uncleanness, and the way people approach God's presence.",
+        },
+        {
+          prompt: "What does Leviticus show about worship?",
+          answer: "Worship is not casual; it is ordered, reverent, and shaped by God's instruction.",
+        },
+      ],
+    },
+    {
       title: "Numbers Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Numbers as the story of wilderness testing, unbelief, and God's ongoing care.",
