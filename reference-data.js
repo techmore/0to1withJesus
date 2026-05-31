@@ -4111,6 +4111,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "John 5 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the healing at Bethesda, Sabbath conflict, and Jesus' claim to give life.",
+      detail: "This quiz helps a beginner see John 5 as the chapter where Jesus heals, then explains his authority in language of life, judgment, and the Father's work.",
+      start: "Take this after reading John 5 carefully and noticing both the healing and the argument that follows.",
+      tags: ["John 5", "chapter", "healing"],
+      questions: [
+        {
+          prompt: "What miracle happens at Bethesda?",
+          answer: "Jesus heals a man who had been disabled for a long time.",
+        },
+        {
+          prompt: "Why do the leaders object to Jesus?",
+          answer: "They object because he heals on the Sabbath and speaks in ways they see as challenging God's authority.",
+        },
+        {
+          prompt: "What does Jesus claim about his relationship to the Father?",
+          answer: "He claims that the Son does the Father's work and has authority to give life and judge.",
+        },
+      ],
+    },
+    {
       title: "John 11 Quiz",
       kicker: "Chapter",
       summary: "Checks Lazarus, resurrection, grief, faith, and rising conflict.",
