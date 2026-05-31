@@ -8271,6 +8271,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Judges 8 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Gideon's victory continues but the judge cycle starts showing signs of trouble again.",
+      detail: "This quiz helps a beginner see Judges 8 as a chapter of aftermath, where success is real but human weakness still shows through.",
+      start: "Take this after Judges 7 when you want to see what happens after the big victory.",
+      tags: ["Judges 8", "chapter", "Gideon"],
+      questions: [
+        {
+          prompt: "What happens in Judges 8?",
+          answer: "Gideon's victory is followed by further conflict and the settling of accounts.",
+        },
+        {
+          prompt: "What does the chapter show about Gideon?",
+          answer: "It shows both success and signs of weakness or compromise.",
+        },
+        {
+          prompt: "Why does Judges 8 matter?",
+          answer: "It reminds readers that victories do not erase human weakness or the need for faithful leadership.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
