@@ -7369,6 +7369,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Deuteronomy 27 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Moses commands Israel to write the law and pronounce blessings and curses.",
+      detail: "This quiz helps a beginner see Deuteronomy 27 as a chapter about public covenant commitment and the seriousness of obedience.",
+      start: "Take this after reading Deuteronomy 27 carefully and noticing the stones, the altar, and the repeated blessings and curses.",
+      tags: ["Deuteronomy 27", "chapter", "covenant"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Deuteronomy 27?",
+          answer: "The chapter emphasizes public covenant commitment through the law and blessings and curses.",
+        },
+        {
+          prompt: "What symbolic action is commanded in this chapter?",
+          answer: "Israel is commanded to write the law on stones and build an altar.",
+        },
+        {
+          prompt: "Why does Deuteronomy 27 matter?",
+          answer: "It makes covenant obedience public and solemn before God and the people.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
