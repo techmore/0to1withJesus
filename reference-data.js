@@ -5475,6 +5475,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 69 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the core kingdom ethic of love, mercy, and trust in God.",
+      detail: "This quiz helps a beginner see Matthew 69 as the chapter where Jesus teaches the heart of kingdom living in practical terms.",
+      start: "Take this after reading Matthew 69 carefully and noticing the emphasis on love, mercy, and obedience.",
+      tags: ["Matthew 69", "chapter", "kingdom"],
+      questions: [
+        {
+          prompt: "What kind of life is Jesus describing?",
+          answer: "He describes kingdom life shaped by love and mercy.",
+        },
+        {
+          prompt: "What attitude should followers have?",
+          answer: "They should trust God and obey his teaching.",
+        },
+        {
+          prompt: "What does the chapter emphasize?",
+          answer: "It emphasizes the practical ethics of discipleship.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
