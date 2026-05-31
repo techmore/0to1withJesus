@@ -7281,6 +7281,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Deuteronomy 23 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Moses teaches about purity, belonging, vows, and decent community life.",
+      detail: "This quiz helps a beginner see Deuteronomy 23 as a chapter about holiness in the assembly, promise-keeping, and care for others.",
+      start: "Take this after reading Deuteronomy 23 carefully and noticing the rules about the assembly, cleanliness, vows, and camp life.",
+      tags: ["Deuteronomy 23", "chapter", "community"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Deuteronomy 23?",
+          answer: "The chapter emphasizes holy community life, vow-keeping, and decent conduct.",
+        },
+        {
+          prompt: "What practical areas are covered in this chapter?",
+          answer: "Assembly membership, camp purity, vows, usury, and treatment of neighbors are covered.",
+        },
+        {
+          prompt: "Why does Deuteronomy 23 matter?",
+          answer: "It shows that covenant holiness includes both worship and ordinary community conduct.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
