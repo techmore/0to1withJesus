@@ -4089,6 +4089,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 6 Quiz",
+      kicker: "Chapter",
+      summary: "Checks giving, prayer, fasting, and trusting the Father.",
+      detail: "This quiz helps a beginner see Matthew 6 as the chapter where Jesus teaches hidden devotion, the Lord's Prayer, and freedom from anxiety.",
+      start: "Take this after reading Matthew 6 carefully and noticing the contrast between public performance and secret faithfulness.",
+      tags: ["Matthew 6", "chapter", "prayer"],
+      questions: [
+        {
+          prompt: "What practices does Jesus teach about in this chapter?",
+          answer: "He teaches about giving, prayer, and fasting done for God rather than human applause.",
+        },
+        {
+          prompt: "What prayer does Jesus teach his followers?",
+          answer: "He teaches the Lord's Prayer.",
+        },
+        {
+          prompt: "What does Jesus say about worry?",
+          answer: "He tells his followers not to worry but to trust the Father who knows their needs.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
