@@ -7377,6 +7377,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 151 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where a shared mission becomes steady perseverance.",
+      detail: "This quiz helps a beginner see Matthew 151 as the chapter where Jesus keeps a people moving forward together even when the path stays hard.",
+      start: "Take this after reading Matthew 151 carefully and noticing how mission can become perseverance.",
+      tags: ["Matthew 151", "chapter", "perseverance"],
+      questions: [
+        {
+          prompt: "What does a shared mission become?",
+          answer: "It becomes steady perseverance.",
+        },
+        {
+          prompt: "What does Jesus keep strengthening?",
+          answer: "He keeps strengthening their ability to keep going together.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how purpose can endure pressure.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
