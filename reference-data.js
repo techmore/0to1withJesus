@@ -9855,6 +9855,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Chronicles 2 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter that traces Judah's family line and points toward David.",
+      detail: "This quiz helps a beginner see 1 Chronicles 2 as a genealogy that narrows the story toward the royal line.",
+      start: "Take this after 1 Chronicles 1 when you want to continue the book chapter by chapter.",
+      tags: ["1 Chronicles 2", "chapter", "Judah"],
+      questions: [
+        {
+          prompt: "Which tribe is especially important in 1 Chronicles 2?",
+          answer: "Judah.",
+        },
+        {
+          prompt: "What family line is emphasized?",
+          answer: "The line leading toward David.",
+        },
+        {
+          prompt: "Why does 1 Chronicles 2 matter?",
+          answer: "It narrows the story toward the royal line of God's people.",
+        },
+      ],
+    },
+    {
       title: "2 Samuel 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the chapter where David hears of Saul's death and laments for Saul and Jonathan.",
