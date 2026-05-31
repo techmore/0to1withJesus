@@ -4023,6 +4023,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Luke 1 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the annunciation, Mary's response, and the opening songs and births in Luke.",
+      detail: "This quiz helps a beginner see Luke 1 as the chapter where God begins the birth story with promises, songs, and Spirit-filled responses.",
+      start: "Take this after reading Luke 1 carefully and noticing the movement from announcement to praise.",
+      tags: ["Luke 1", "chapter", "annunciation"],
+      questions: [
+        {
+          prompt: "Who announces Jesus' birth in Luke 1?",
+          answer: "The angel Gabriel announces Jesus' birth to Mary.",
+        },
+        {
+          prompt: "How does Mary respond to the announcement?",
+          answer: "She trusts God's word and submits herself to his plan.",
+        },
+        {
+          prompt: "What songs or responses stand out in Luke 1?",
+          answer: "Mary's song and Zechariah's prophecy praise God's mercy and faithfulness.",
+        },
+      ],
+    },
+    {
       title: "John 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the opening claims about Jesus as the Word, light, and Son.",
