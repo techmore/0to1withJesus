@@ -4111,6 +4111,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Luke 5 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the call of the first fishermen, the healing of the paralytic, and Jesus' authority to forgive.",
+      detail: "This quiz helps a beginner see Luke 5 as the chapter where Jesus calls unlikely followers, heals with authority, and shows his power to forgive sins.",
+      start: "Take this after reading Luke 5 carefully and noticing the movement from fishing to call to forgiveness.",
+      tags: ["Luke 5", "chapter", "calling"],
+      questions: [
+        {
+          prompt: "Who does Jesus call from their fishing work?",
+          answer: "Jesus calls Simon Peter and his partners to follow him.",
+        },
+        {
+          prompt: "What miracle leads to the call?",
+          answer: "Jesus helps them catch an overwhelming number of fish.",
+        },
+        {
+          prompt: "What authority does Jesus claim when healing the paralytic?",
+          answer: "He claims authority to forgive sins as well as heal.",
+        },
+      ],
+    },
+    {
       title: "John 1 Quiz",
       kicker: "Chapter",
       summary: "Checks the opening claims about Jesus as the Word, light, and Son.",
