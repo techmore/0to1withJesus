@@ -14065,6 +14065,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 69 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where enduring faithfulness becomes settled commitment.",
+      detail: "This quiz helps a beginner see Matthew 69 as the chapter where reliability turns into committed faithfulness.",
+      start: "Take this after reading Matthew 69 carefully and noticing how faithfulness becomes commitment.",
+      tags: ["Matthew 69", "chapter", "commitment"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 69?",
+          answer: "The chapter emphasizes faithfulness that is becoming settled commitment.",
+        },
+        {
+          prompt: "What does settled commitment look like here?",
+          answer: "It means staying faithful in a clear and dependable way.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 68?",
+          answer: "It shows that enduring faithfulness should become settled commitment.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
