@@ -6907,6 +6907,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Deuteronomy 6 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Israel is told to love the Lord with all their heart, soul, and strength.",
+      detail: "This quiz helps a beginner see Deuteronomy 6 as a chapter about wholehearted love, teaching children, and remembering God's words in daily life.",
+      start: "Take this after reading Deuteronomy 6 carefully and noticing the Shema and the warnings about forgetting the Lord.",
+      tags: ["Deuteronomy 6", "chapter", "shema"],
+      questions: [
+        {
+          prompt: "What is the central command in Deuteronomy 6?",
+          answer: "Israel is told to love the Lord with all their heart, soul, and strength.",
+        },
+        {
+          prompt: "What important teaching practice is emphasized in Deuteronomy 6?",
+          answer: "Parents are told to teach God's words diligently to their children.",
+        },
+        {
+          prompt: "Why does Deuteronomy 6 matter?",
+          answer: "It ties love, memory, and daily obedience together at the center of covenant life.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
