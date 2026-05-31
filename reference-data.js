@@ -14417,6 +14417,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 85 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where calm persistence becomes steady endurance.",
+      detail: "This quiz helps a beginner see Matthew 85 as the chapter where persistence starts to settle into steady endurance.",
+      start: "Take this after reading Matthew 85 carefully and noticing how persistence becomes endurance.",
+      tags: ["Matthew 85", "chapter", "endurance"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 85?",
+          answer: "The chapter emphasizes persistence that is becoming steady endurance.",
+        },
+        {
+          prompt: "What does steady endurance look like here?",
+          answer: "It means continuing firmly without losing resolve.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 84?",
+          answer: "It shows that calm persistence should become steady endurance.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
