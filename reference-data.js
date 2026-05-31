@@ -6731,6 +6731,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Numbers 35 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter that sets aside cities for the Levites and cities of refuge.",
+      detail: "This quiz helps a beginner see Numbers 35 as a chapter about justice, protection, and holy order in the land.",
+      start: "Take this after reading Numbers 35 carefully and noticing the Levitical towns, refuge cities, and laws about bloodguilt.",
+      tags: ["Numbers 35", "chapter", "refuge"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Numbers 35?",
+          answer: "The chapter emphasizes cities for the Levites and cities of refuge.",
+        },
+        {
+          prompt: "Why are the cities of refuge important?",
+          answer: "They provide a place of protection and a fair process for someone accused of manslaughter.",
+        },
+        {
+          prompt: "Why does Numbers 35 matter?",
+          answer: "It shows that God's people were to build justice and mercy into the life of the land.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
