@@ -6047,6 +6047,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 95 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step in the teaching cycle, where Jesus keeps calling for faithful action.",
+      detail: "This quiz helps a beginner see Matthew 95 as the chapter where teaching becomes a clear invitation to live out trust.",
+      start: "Take this after reading Matthew 95 carefully and noticing the move from instruction to practice.",
+      tags: ["Matthew 95", "chapter", "practice"],
+      questions: [
+        {
+          prompt: "What does the chapter press toward?",
+          answer: "It presses toward faithful action.",
+        },
+        {
+          prompt: "What does Jesus keep doing?",
+          answer: "He keeps inviting listeners to live out trust.",
+        },
+        {
+          prompt: "What should a beginner remember?",
+          answer: "They should remember that hearing Jesus leads to practice.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
