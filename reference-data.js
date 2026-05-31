@@ -4905,6 +4905,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 43 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where the brothers return with Benjamin and Joseph hosts them at his table.",
+      detail: "This quiz helps a beginner see Genesis 43 as the chapter where Judah offers himself for Benjamin and the family edges closer to reconciliation.",
+      start: "Take this after reading Genesis 43 carefully and noticing the second trip, the gift of grain, and the meal in Joseph's house.",
+      tags: ["Genesis 43", "chapter", "joseph"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Genesis 43?",
+          answer: "The chapter emphasizes the brothers' return with Benjamin and Joseph's hospitality toward them.",
+        },
+        {
+          prompt: "How does Judah show responsibility in Genesis 43?",
+          answer: "He pledges himself as surety for Benjamin.",
+        },
+        {
+          prompt: "Why does Genesis 43 matter after Genesis 42?",
+          answer: "It advances the testing of the brothers and brings them one step closer to reconciliation with Joseph.",
+        },
+      ],
+    },
+    {
       title: "Exodus Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Exodus as the Bible's great rescue story.",
