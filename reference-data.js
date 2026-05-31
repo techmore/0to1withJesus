@@ -4529,6 +4529,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 18 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Jethro's advice, shared leadership, and the move toward ordered justice.",
+      detail: "This quiz helps a beginner see Exodus 18 as the chapter where wise counsel reshapes Moses' work. It focuses on delegation, judgment, and how worship and leadership belong together.",
+      start: "Take this after reading Exodus 18 carefully and noticing the shift from battle and provision to organization.",
+      tags: ["Exodus 18", "chapter", "leadership"],
+      questions: [
+        {
+          prompt: "What problem does Jethro notice?",
+          answer: "Moses is trying to judge every case alone and is wearing himself and the people out.",
+        },
+        {
+          prompt: "What solution does Jethro suggest?",
+          answer: "He suggests shared leadership with capable people handling smaller cases.",
+        },
+        {
+          prompt: "Why is Exodus 18 important for the wilderness story?",
+          answer: "It shows that God's people need wise structure as well as miracles and provision.",
+        },
+      ],
+    },
+    {
       title: "Luke and Acts Bridge Quiz",
       kicker: "Books",
       summary: "Checks how Luke's Gospel connects to the early church story in Acts.",
