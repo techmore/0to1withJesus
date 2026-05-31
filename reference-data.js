@@ -8865,6 +8865,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Samuel 8 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Israel asks for a king and Samuel warns them about the consequences.",
+      detail: "This quiz helps a beginner see 1 Samuel 8 as the moment Israel asks to be like the nations, which changes the direction of the story.",
+      start: "Take this after 1 Samuel 7 when you want to see Israel's request for a king.",
+      tags: ["1 Samuel 8", "chapter", "king"],
+      questions: [
+        {
+          prompt: "What does Israel ask for in 1 Samuel 8?",
+          answer: "A king.",
+        },
+        {
+          prompt: "What warning does Samuel give?",
+          answer: "A king will take and demand much from the people.",
+        },
+        {
+          prompt: "Why does 1 Samuel 8 matter?",
+          answer: "It marks a major shift toward kingship and shows the risk of rejecting the Lord's rule.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
