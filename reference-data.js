@@ -7721,6 +7721,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Joshua 8 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Israel defeats Ai through obedience, strategy, and renewed confidence in the Lord.",
+      detail: "This quiz helps a beginner see Joshua 8 as the chapter where God restores his people after failure and gives them victory as they follow his instruction.",
+      start: "Take this after reading Joshua 8 carefully and noticing the ambush, the city taken, and the altar on Mount Ebal.",
+      tags: ["Joshua 8", "chapter", "Ai"],
+      questions: [
+        {
+          prompt: "What happens in Joshua 8?",
+          answer: "Israel defeats Ai after following the Lord's battle plan.",
+        },
+        {
+          prompt: "What important act of worship happens after the victory?",
+          answer: "Joshua builds an altar and the people hear the law read.",
+        },
+        {
+          prompt: "Why does Joshua 8 matter?",
+          answer: "It shows that God can restore his people and that victory should lead to worship and obedience.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
