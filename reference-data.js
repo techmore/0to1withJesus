@@ -13625,6 +13625,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 49 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where lasting fruitfulness becomes mature abundance.",
+      detail: "This quiz helps a beginner see Matthew 49 as the chapter where stable fruit starts to multiply and deepen.",
+      start: "Take this after reading Matthew 49 carefully and noticing how fruitfulness grows in abundance.",
+      tags: ["Matthew 49", "chapter", "abundance"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 49?",
+          answer: "The chapter emphasizes fruitfulness that grows into mature abundance.",
+        },
+        {
+          prompt: "What does mature abundance look like here?",
+          answer: "It means the good results of ministry are multiplying in a stable way.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 48?",
+          answer: "It shows that lasting fruit can keep growing into abundance.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
