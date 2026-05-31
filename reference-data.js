@@ -8425,6 +8425,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Judges 15 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Samson's conflict with the Philistines escalates through retaliation and battle.",
+      detail: "This quiz helps a beginner see Judges 15 as a chapter of mounting conflict where Samson keeps striking back at Israel's enemies.",
+      start: "Take this after Judges 14 when you want to follow the next stage of Samson's struggle.",
+      tags: ["Judges 15", "chapter", "Samson"],
+      questions: [
+        {
+          prompt: "What happens in Judges 15?",
+          answer: "Samson retaliates against the Philistines and continues the conflict.",
+        },
+        {
+          prompt: "What does the chapter show about Samson?",
+          answer: "It shows his strength, anger, and ongoing struggle with the Philistines.",
+        },
+        {
+          prompt: "Why does Judges 15 matter?",
+          answer: "It shows the conflict growing and highlights Samson as a deliverer in action.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
