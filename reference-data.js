@@ -6179,6 +6179,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 101 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where endurance and trust are still being strengthened.",
+      detail: "This quiz helps a beginner see Matthew 101 as the chapter where Jesus keeps forming disciples for enduring trust.",
+      start: "Take this after reading Matthew 101 carefully and noticing how the call to endurance continues.",
+      tags: ["Matthew 101", "chapter", "endurance"],
+      questions: [
+        {
+          prompt: "What quality is being strengthened?",
+          answer: "Endurance is being strengthened.",
+        },
+        {
+          prompt: "What does Jesus keep doing?",
+          answer: "He keeps shaping trust that lasts.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how discipleship requires staying power.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
