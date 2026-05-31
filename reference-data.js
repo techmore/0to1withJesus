@@ -13823,6 +13823,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 58 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where practical judgment becomes settled wisdom.",
+      detail: "This quiz helps a beginner see Matthew 58 as the chapter where concrete decisions start to settle into wise habit.",
+      start: "Take this after reading Matthew 58 carefully and noticing how judgment settles into wisdom.",
+      tags: ["Matthew 58", "chapter", "wisdom"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 58?",
+          answer: "The chapter emphasizes judgment that has become settled wisdom.",
+        },
+        {
+          prompt: "What does settled wisdom look like here?",
+          answer: "It means making choices that are consistently wise and grounded.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 57?",
+          answer: "It shows that practical judgment should mature into settled wisdom.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
