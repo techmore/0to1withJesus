@@ -13559,6 +13559,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 46 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where steadfast discipleship becomes resilient service.",
+      detail: "This quiz helps a beginner see Matthew 46 as the chapter where settled following starts to show up as dependable service.",
+      start: "Take this after reading Matthew 46 carefully and noticing how discipleship becomes service.",
+      tags: ["Matthew 46", "chapter", "service"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 46?",
+          answer: "The chapter emphasizes discipleship that is expressed through service.",
+        },
+        {
+          prompt: "What does resilient service look like here?",
+          answer: "It means serving Jesus and others in a steady, practical way.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 45?",
+          answer: "It shows that settled discipleship naturally moves toward serving well.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
