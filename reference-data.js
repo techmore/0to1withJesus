@@ -17945,6 +17945,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "1 Corinthians Book Quiz",
+      kicker: "Book",
+      summary: "A whole-book check for 1 Corinthians as Paul's letter about a messy church learning wisdom, love, gifts, and resurrection hope.",
+      detail: "This quiz helps a beginner see 1 Corinthians as a practical letter for a gifted but divided church that needs correction, maturity, and a better vision of love.",
+      start: "Take this after Acts 18 or after noticing why Corinth made Paul's correction necessary.",
+      tags: ["1 Corinthians", "Paul", "book"],
+      questions: [
+        {
+          prompt: "What is one major problem Paul addresses in Corinth?",
+          answer: "Division and immaturity in the church.",
+        },
+        {
+          prompt: "What chapter is famous for describing love's character?",
+          answer: "1 Corinthians 13.",
+        },
+        {
+          prompt: "What big hope does 1 Corinthians 15 emphasize?",
+          answer: "The resurrection of Jesus and the future resurrection of believers.",
+        },
+      ],
+    },
+    {
       title: "Romans and Ephesians Doctrine Quiz",
       kicker: "Books",
       summary: "Checks grace, faith, church, unity, and new life in Christ.",
