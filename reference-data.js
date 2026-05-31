@@ -14967,6 +14967,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 110 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where steady composure becomes patient clarity.",
+      detail: "This quiz helps a beginner see Matthew 110 as the chapter where composure starts to settle into patient clarity.",
+      start: "Take this after reading Matthew 110 carefully and noticing how composure becomes clarity.",
+      tags: ["Matthew 110", "chapter", "clarity"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 110?",
+          answer: "The chapter emphasizes composure that is becoming patient clarity.",
+        },
+        {
+          prompt: "What does patient clarity look like here?",
+          answer: "It means seeing things clearly while staying calm and steady.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 109?",
+          answer: "It shows that steady composure should become patient clarity.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
