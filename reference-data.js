@@ -5859,6 +5859,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 174 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where quiet poise becomes steady serenity.",
+      detail: "This quiz helps a beginner see Matthew 174 as the chapter where poise settles into steady serenity with Jesus.",
+      start: "Take this after reading Matthew 174 carefully and noticing how poise becomes serenity.",
+      tags: ["Matthew 174", "chapter", "serenity"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 174?",
+          answer: "The chapter emphasizes steady serenity in following Jesus.",
+        },
+        {
+          prompt: "What does steady serenity look like here?",
+          answer: "It means being tranquil and settled while trusting Jesus.",
+        },
+        {
+          prompt: "Why does this matter after Matthew 173?",
+          answer: "It shows that quiet poise can become steady serenity.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
