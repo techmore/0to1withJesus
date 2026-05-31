@@ -4265,6 +4265,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 7 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the flood beginning, the ark, and Noah's obedience.",
+      detail: "This quiz helps a beginner see Genesis 7 as the chapter where the flood arrives, the ark becomes the place of salvation, and Noah obeys God's warning.",
+      start: "Take this after reading Genesis 7 carefully and noticing the contrast between judgment and the refuge of the ark.",
+      tags: ["Genesis 7", "chapter", "flood"],
+      questions: [
+        {
+          prompt: "What happens in Genesis 7?",
+          answer: "The flood begins and Noah, his family, and the animals enter the ark.",
+        },
+        {
+          prompt: "What repeated idea stands out?",
+          answer: "Noah does exactly what God commands.",
+        },
+        {
+          prompt: "Why is Genesis 7 important?",
+          answer: "It shows both divine judgment on the world and God's provision of a means of rescue.",
+        },
+      ],
+    },
+    {
       title: "Exodus 1 Quiz",
       kicker: "Chapter",
       summary: "Checks Israel's oppression in Egypt and the beginning of the rescue setting.",
