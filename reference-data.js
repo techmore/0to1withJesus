@@ -14725,6 +14725,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 99 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where patient clarity becomes thoughtful focus.",
+      detail: "This quiz helps a beginner see Matthew 99 as the chapter where clarity starts to settle into thoughtful focus.",
+      start: "Take this after reading Matthew 99 carefully and noticing how clarity becomes focus.",
+      tags: ["Matthew 99", "chapter", "focus"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 99?",
+          answer: "The chapter emphasizes clarity that is becoming thoughtful focus.",
+        },
+        {
+          prompt: "What does thoughtful focus look like here?",
+          answer: "It means concentrating well while staying calm and deliberate.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 98?",
+          answer: "It shows that patient clarity should become thoughtful focus.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
