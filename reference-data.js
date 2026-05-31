@@ -4133,6 +4133,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 8 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Jesus' healings, authority, and costly discipleship.",
+      detail: "This quiz helps a beginner see Matthew 8 as the chapter where Jesus demonstrates authority over disease, nature, demons, and fear.",
+      start: "Take this after reading Matthew 8 carefully and noticing the pattern of faith and authority.",
+      tags: ["Matthew 8", "chapter", "authority"],
+      questions: [
+        {
+          prompt: "What kinds of problems does Jesus address in Matthew 8?",
+          answer: "He heals leprosy, fever, paralysis, storms, demons, and many kinds of need.",
+        },
+        {
+          prompt: "What does the centurion's story show?",
+          answer: "It shows great faith in Jesus' authority to heal from afar.",
+        },
+        {
+          prompt: "What does Jesus say about following him?",
+          answer: "Following him requires commitment and willingness to put him first.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
