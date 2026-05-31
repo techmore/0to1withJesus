@@ -5059,6 +5059,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 50 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Jacob is buried and Joseph speaks forgiveness over his brothers.",
+      detail: "This quiz helps a beginner see Genesis 50 as the chapter where the book closes with burial, reconciliation, and trust in God's plan.",
+      start: "Take this after reading Genesis 50 carefully and noticing the mourning, the promises about bones, and Joseph's final words.",
+      tags: ["Genesis 50", "chapter", "joseph"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Genesis 50?",
+          answer: "The chapter emphasizes Jacob's burial, Joseph's reassurance, and the closing of the Genesis story.",
+        },
+        {
+          prompt: "What does Joseph tell his brothers in Genesis 50?",
+          answer: "He tells them that God meant the events for good to preserve many lives.",
+        },
+        {
+          prompt: "Why does Genesis 50 matter after Genesis 49?",
+          answer: "It ends the family story with forgiveness and a forward-looking trust in God's promises.",
+        },
+      ],
+    },
+    {
       title: "Exodus Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Exodus as the Bible's great rescue story.",
