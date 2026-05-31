@@ -44,17 +44,23 @@ export function renderGroupedResources(items) {
 
   return resourceGroups
     .filter(({ key }) => grouped.has(key))
-    .map(({ key, label }) => `
-      <section class="resource-group">
-        <div class="section-heading section-heading-wide">
-          <p class="eyebrow">${escapeHtml(label)}</p>
-          <h2>${escapeHtml(label)}</h2>
+    .map(({ key, label }) => {
+      const entries = grouped.get(key);
+      return `
+      <section class="resource-group resource-section" data-resource-section="${escapeHtml(key)}">
+        <div class="resource-section-head">
+          <div class="section-heading section-heading-wide">
+            <p class="eyebrow">${escapeHtml(label)}</p>
+            <h2>${escapeHtml(label)}</h2>
+            <p>${escapeHtml(entries.length)} ${entries.length === 1 ? "resource" : "resources"} in this section.</p>
+          </div>
         </div>
-        <div class="grid grid-3">
-          ${grouped.get(key).map(resourceCard).join("")}
+        <div class="grid resource-section-grid">
+          ${entries.map(resourceCard).join("")}
         </div>
       </section>
-    `)
+    `;
+    })
     .join("");
 }
 
@@ -63,13 +69,15 @@ export function renderStarterResources(items) {
   if (!picks.length) return "";
 
   return `
-    <section class="resource-group">
-      <div class="section-heading section-heading-wide">
-        <p class="eyebrow">${escapeHtml(resourceStarterSection.eyebrow)}</p>
-        <h2>${escapeHtml(resourceStarterSection.title)}</h2>
-        <p>${escapeHtml(resourceStarterSection.copy)}</p>
+    <section class="resource-group resource-section resource-section-featured" data-resource-section="featured">
+      <div class="resource-section-head">
+        <div class="section-heading section-heading-wide">
+          <p class="eyebrow">${escapeHtml(resourceStarterSection.eyebrow)}</p>
+          <h2>${escapeHtml(resourceStarterSection.title)}</h2>
+          <p>${escapeHtml(resourceStarterSection.copy)}</p>
+        </div>
       </div>
-      <div class="grid grid-3">
+      <div class="grid resource-section-grid">
         ${picks.map(resourceCard).join("")}
       </div>
     </section>

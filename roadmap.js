@@ -263,14 +263,22 @@ function RoadmapNode({ data }) {
 
   return html`
     <div className=${`rf-node rf-node-${state} ${selected ? "rf-node-selected" : ""}`}>
-      <Handle type="target" position=${Position.Left} className="rf-handle" />
+      ${React.createElement(Handle, {
+        type: "target",
+        position: Position.Left,
+        className: "rf-handle",
+      })}
       <div className="rf-node-top">
         <span className="rf-node-tier">${tier}</span>
         <span className=${`rf-node-state rf-node-state-${state}`}>${state}</span>
       </div>
       <h3>${title}</h3>
       <p>${short}</p>
-      <Handle type="source" position=${Position.Right} className="rf-handle" />
+      ${React.createElement(Handle, {
+        type: "source",
+        position: Position.Right,
+        className: "rf-handle",
+      })}
     </div>
   `;
 }
@@ -325,7 +333,7 @@ function RoadmapApp() {
             animated: targetUnlocked && !completedSet.has(item.id),
             markerEnd: { type: MarkerType.ArrowClosed },
             style: {
-              stroke: active ? "#8f5f2d" : "rgba(28, 24, 20, 0.16)",
+              stroke: active ? "#6e754b" : "rgba(31, 33, 23, 0.16)",
               strokeWidth: active ? 2.4 : 1.3,
             },
           };
@@ -339,6 +347,40 @@ function RoadmapApp() {
   const selectedUnlocked = isUnlocked(selected, completedSet);
   const selectedComplete = completedSet.has(selected.id);
   const selectedChildren = getUnlockedChildren(selected.id);
+  const flow = React.createElement(
+    ReactFlow,
+    {
+      nodes,
+      edges,
+      nodeTypes: { roadmap: RoadmapNode },
+      fitView: true,
+      style: { width: "100%", height: "100%" },
+      minZoom: 0.45,
+      maxZoom: 1.2,
+      nodesConnectable: false,
+      nodesDraggable: false,
+      elementsSelectable: true,
+      proOptions: { hideAttribution: true },
+      onNodeClick: (_, node) => setSelectedId(node.id),
+    },
+    React.createElement(Background, {
+      gap: 20,
+      size: 1.2,
+      color: "rgba(31, 33, 23, 0.08)",
+    }),
+    React.createElement(MiniMap, {
+      pannable: true,
+      zoomable: true,
+      nodeStrokeWidth: 3,
+      nodeColor: (node) => {
+        const state = node.data.state;
+        if (state === "complete") return "#5a8a5e";
+        if (state === "unlocked") return "#6e754b";
+        return "#a7ae8b";
+      },
+    }),
+    React.createElement(Controls),
+  );
 
   function toggleComplete() {
     if (!selectedUnlocked) return;
@@ -379,35 +421,7 @@ function RoadmapApp() {
       </div>
 
       <div className="roadmap-react-layout">
-        <div className="roadmap-flow-frame">
-          <ReactFlow
-            nodes=${nodes}
-            edges=${edges}
-            nodeTypes=${{ roadmap: RoadmapNode }}
-            fitView=${true}
-            minZoom=${0.45}
-            maxZoom=${1.2}
-            nodesConnectable=${false}
-            nodesDraggable=${false}
-            elementsSelectable=${true}
-            proOptions=${{ hideAttribution: true }}
-            onNodeClick=${(_, node) => setSelectedId(node.id)}
-          >
-            <Background gap=${20} size=${1.2} color="rgba(28, 24, 20, 0.08)" />
-            <MiniMap
-              pannable=${true}
-              zoomable=${true}
-              nodeStrokeWidth=${3}
-              nodeColor=${(node) => {
-                const state = node.data.state;
-                if (state === "complete") return "#446454";
-                if (state === "unlocked") return "#8f5f2d";
-                return "#cfc2ae";
-              }}
-            />
-            <Controls />
-          </ReactFlow>
-        </div>
+        <div className="roadmap-flow-frame">${flow}</div>
 
         <aside className="roadmap-detail-panel">
           <div className="roadmap-detail-head">
