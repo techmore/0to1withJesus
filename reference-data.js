@@ -5321,6 +5321,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 62 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the transition into Mark with Jesus' public ministry and early signs.",
+      detail: "This quiz helps a beginner see Matthew 62 as the chapter where the story shifts into Mark and Jesus' ministry continues with urgency.",
+      start: "Take this after reading Matthew 62 carefully and noticing the opening ministry scenes and the call to follow.",
+      tags: ["Matthew 62", "chapter", "transition"],
+      questions: [
+        {
+          prompt: "What kind of movement starts here?",
+          answer: "Jesus' public ministry moves into Mark's opening scenes.",
+        },
+        {
+          prompt: "What is Jesus doing in these scenes?",
+          answer: "He is teaching, healing, and calling followers.",
+        },
+        {
+          prompt: "What does the chapter emphasize?",
+          answer: "It emphasizes momentum and the start of a new section in the story.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
