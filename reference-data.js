@@ -5543,6 +5543,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Exodus 21 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where covenant life begins to take practical shape in community rules.",
+      detail: "This quiz helps a beginner see Exodus 21 as the chapter where the covenant moves into specific justice and responsibility.",
+      start: "Take this after reading Exodus 21 carefully and noticing the laws about servants, injury, and accountability.",
+      tags: ["Exodus 21", "chapter", "justice"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Exodus 21?",
+          answer: "The chapter emphasizes practical laws for covenant community life.",
+        },
+        {
+          prompt: "What kinds of issues does Exodus 21 address?",
+          answer: "It addresses servants, injury, and responsibility for harm.",
+        },
+        {
+          prompt: "Why does Exodus 21 matter after Exodus 20?",
+          answer: "It shows how God's commandments shape real life in community.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
