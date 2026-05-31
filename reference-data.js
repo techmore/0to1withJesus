@@ -7523,6 +7523,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Deuteronomy 34 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Moses sees the land from Mount Nebo and dies.",
+      detail: "This quiz helps a beginner see Deuteronomy 34 as a chapter about closure, loss, and the passing of leadership to Joshua.",
+      start: "Take this after reading Deuteronomy 34 carefully and noticing Moses' final view of the land and the transition to Joshua.",
+      tags: ["Deuteronomy 34", "chapter", "closure"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Deuteronomy 34?",
+          answer: "The chapter emphasizes Moses' final view, death, and the transition to Joshua.",
+        },
+        {
+          prompt: "What does Moses see from Mount Nebo?",
+          answer: "He sees the land promised to Israel.",
+        },
+        {
+          prompt: "Why does Deuteronomy 34 matter?",
+          answer: "It closes Moses' story and confirms the handoff of leadership to Joshua.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
