@@ -8337,6 +8337,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Judges 11 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Jephthah leads Israel against the Ammonites and makes a costly vow.",
+      detail: "This quiz helps a beginner see Judges 11 as a story of deliverance mixed with human weakness and painful consequences.",
+      start: "Take this after Judges 10 when you want to see Jephthah's story and the tension in his leadership.",
+      tags: ["Judges 11", "chapter", "Jephthah"],
+      questions: [
+        {
+          prompt: "Who leads Israel in Judges 11?",
+          answer: "Jephthah.",
+        },
+        {
+          prompt: "Who is Israel fighting in the chapter?",
+          answer: "The Ammonites.",
+        },
+        {
+          prompt: "Why does Judges 11 matter?",
+          answer: "It shows God using a flawed leader while also warning about rash promises.",
+        },
+      ],
+    },
+    {
       title: "Prayer and Approved Prayers Quiz",
       kicker: "Prayer",
       summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
