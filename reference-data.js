@@ -6223,6 +6223,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 103 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next chapter, where discipline and follow-through remain in focus.",
+      detail: "This quiz helps a beginner see Matthew 103 as the chapter where Jesus keeps emphasizing follow-through in discipleship.",
+      start: "Take this after reading Matthew 103 carefully and noticing the focus on disciplined response.",
+      tags: ["Matthew 103", "chapter", "discipline"],
+      questions: [
+        {
+          prompt: "What remains in focus?",
+          answer: "Discipline and follow-through remain in focus.",
+        },
+        {
+          prompt: "What does Jesus keep teaching?",
+          answer: "He keeps teaching disciples to keep going.",
+        },
+        {
+          prompt: "What should a beginner notice?",
+          answer: "They should notice how faithful practice is repeated.",
+        },
+      ],
+    },
+    {
       title: "Mark Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Mark as the fast-moving Gospel of action, identity, suffering, and discipleship.",
