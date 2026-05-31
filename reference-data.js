@@ -14703,6 +14703,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Matthew 98 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the next step, where steady calm becomes patient clarity.",
+      detail: "This quiz helps a beginner see Matthew 98 as the chapter where calm starts to settle into patient clarity.",
+      start: "Take this after reading Matthew 98 carefully and noticing how calm becomes clarity.",
+      tags: ["Matthew 98", "chapter", "clarity"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Matthew 98?",
+          answer: "The chapter emphasizes calm that is becoming patient clarity.",
+        },
+        {
+          prompt: "What does patient clarity look like here?",
+          answer: "It means seeing what matters clearly and remaining unhurried.",
+        },
+        {
+          prompt: "Why does this chapter matter after Matthew 97?",
+          answer: "It shows that steady calm should become patient clarity.",
+        },
+      ],
+    },
+    {
       title: "Matthew 122 Quiz",
       kicker: "Chapter",
       summary: "Checks the next step, where patient attention becomes steady focus.",
