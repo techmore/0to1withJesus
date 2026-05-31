@@ -7015,6 +7015,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Acts 10 Quiz",
+      kicker: "Chapter",
+      summary: "Checks Cornelius, Peter's vision, and the Gentiles receiving the Spirit.",
+      detail: "This quiz helps a beginner see Acts 10 as the chapter where God shows that Gentiles are included through Jesus.",
+      start: "Take this after reading Acts 10 carefully and noticing the vision, the sermon, and the Spirit's gift.",
+      tags: ["Acts 10", "chapter", "Gentiles"],
+      questions: [
+        {
+          prompt: "Who is Cornelius?",
+          answer: "He is a Roman centurion who fears God and receives a message from God.",
+        },
+        {
+          prompt: "What does Peter learn in his vision?",
+          answer: "He learns not to call unclean what God has made clean.",
+        },
+        {
+          prompt: "What happens while Peter is speaking?",
+          answer: "The Holy Spirit falls on the Gentile listeners and they are baptized.",
+        },
+      ],
+    },
+    {
       title: "Acts Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Acts as the story of the Spirit-empowered church expanding from Jerusalem outward.",
