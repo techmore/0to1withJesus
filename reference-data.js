@@ -4399,6 +4399,28 @@ export const referenceData = {
       ],
     },
     {
+      title: "Genesis 20 Quiz",
+      kicker: "Chapter",
+      summary: "Checks the chapter where Abraham again faces a problem with a foreign king and Sarah.",
+      detail: "This quiz helps a beginner see Genesis 20 as the chapter where Abraham's fear leads to trouble and God protects the promise through Abimelech.",
+      start: "Take this after reading Genesis 20 carefully and noticing the deception, the warning, and God's intervention.",
+      tags: ["Genesis 20", "chapter", "abimelech"],
+      questions: [
+        {
+          prompt: "What is the main emphasis of Genesis 20?",
+          answer: "The chapter emphasizes Abraham's fear, Sarah's protection, and God's intervention with Abimelech.",
+        },
+        {
+          prompt: "How does God protect Sarah in Genesis 20?",
+          answer: "God warns Abimelech in a dream and prevents him from touching Sarah.",
+        },
+        {
+          prompt: "Why does Genesis 20 matter after Genesis 19?",
+          answer: "It shows that the promise family is still guarded by God even when Abraham acts out of fear.",
+        },
+      ],
+    },
+    {
       title: "Exodus Book Quiz",
       kicker: "Book",
       summary: "A whole-book check for Exodus as the Bible's great rescue story.",
