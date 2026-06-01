@@ -2050,6 +2050,10 @@ h1 {
   padding-inline: 0;
 }
 
+.quiz-page-shell .reference-grid {
+  grid-template-columns: 1fr;
+}
+
 .quiz-page-shell .reference-hero-panel {
   align-self: stretch;
 }
