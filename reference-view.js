@@ -156,8 +156,8 @@ function quizTrackLabel(track) {
 function quizTrackDescription(track) {
   return {
     all: "Browse the full quiz curriculum.",
-    starter: "Learn the Bible's order and the broad map first.",
-    intermediate: "Move into books, sections, and the shape of the story.",
+    starter: "Move through the starter phases: Bible order, testament order, and the major sections.",
+    intermediate: "Move from the section map into book-level structure and chapter practice.",
     expert: "Use chapter recall and mixed practice to test retention.",
   }[track] || "";
 }
@@ -202,12 +202,9 @@ function quizTrackPagePath(track) {
 const starterQuizTitles = [
   "Starter Quiz: Bible book order and major sections",
   "Starter Quiz: Bible books order and sections",
+  "Starter Quiz: Bible section foundations",
   "Starter Quiz: Old Testament book order",
   "Starter Quiz: New Testament book order",
-  "Starter Quiz: Bible section foundations",
-];
-
-const intermediateQuizTitles = [
   "Torah/Pentateuch Section Quiz",
   "Historical Books Section Quiz",
   "Biblical Novellas Section Quiz",
@@ -218,15 +215,25 @@ const intermediateQuizTitles = [
   "Letters Section Quiz",
   "Catholic Letters Section Quiz",
   "Revelation Section Quiz",
+];
+
+const intermediateQuizTitles = [
   "Genesis Book Quiz",
   "Exodus Book Quiz",
+  "Leviticus Book Quiz",
   "Numbers Book Quiz",
   "Deuteronomy Book Quiz",
   "Joshua Book Quiz",
   "Judges Book Quiz",
   "Ruth Book Quiz",
+  "1 Samuel Book Quiz",
+  "2 Samuel Book Quiz",
   "Samuel Book Quiz",
+  "1 Kings Book Quiz",
+  "2 Kings Book Quiz",
   "Kings Book Quiz",
+  "1 Chronicles Book Quiz",
+  "2 Chronicles Book Quiz",
   "Chronicles Book Quiz",
   "Ezra Book Quiz",
   "Nehemiah Book Quiz",
@@ -338,6 +345,193 @@ function quizSectionCard(item) {
   `;
 }
 
+const chapterCounts = {
+  Genesis: 50,
+  Exodus: 40,
+  Leviticus: 27,
+  Numbers: 36,
+  Deuteronomy: 34,
+  Joshua: 24,
+  Judges: 21,
+  Ruth: 4,
+  "1 Samuel": 31,
+  "2 Samuel": 24,
+  "1 Kings": 22,
+  "2 Kings": 25,
+  "1 Chronicles": 29,
+  "2 Chronicles": 36,
+  Ezra: 10,
+  Nehemiah: 13,
+  Esther: 10,
+  Job: 42,
+  Psalms: 150,
+  Psalm: 150,
+  Proverbs: 31,
+  Ecclesiastes: 12,
+  "Song of Songs": 8,
+  Isaiah: 66,
+  Jeremiah: 52,
+  Lamentations: 5,
+  Ezekiel: 48,
+  Daniel: 12,
+  Hosea: 14,
+  Joel: 3,
+  Amos: 9,
+  Obadiah: 1,
+  Jonah: 4,
+  Micah: 7,
+  Nahum: 3,
+  Habakkuk: 3,
+  Zephaniah: 3,
+  Haggai: 2,
+  Zechariah: 14,
+  Malachi: 4,
+  Matthew: 28,
+  Mark: 16,
+  Luke: 24,
+  John: 21,
+  Acts: 28,
+  Romans: 16,
+  "1 Corinthians": 16,
+  "2 Corinthians": 13,
+  Galatians: 6,
+  Ephesians: 6,
+  Philippians: 4,
+  Colossians: 4,
+  "1 Thessalonians": 5,
+  "2 Thessalonians": 3,
+  "1 Timothy": 6,
+  "2 Timothy": 4,
+  Titus: 3,
+  Philemon: 1,
+  Hebrews: 13,
+  James: 5,
+  "1 Peter": 5,
+  "2 Peter": 3,
+  "1 John": 5,
+  "2 John": 1,
+  "3 John": 1,
+  Jude: 1,
+  Revelation: 22,
+};
+
+function chapterQuizParts(title) {
+  const match = asText(title).match(/^(.+) (\d+) Quiz$/);
+  return match ? { book: match[1], chapter: Number(match[2]) } : null;
+}
+
+function isValidQuizItem(item) {
+  const parts = chapterQuizParts(item?.title);
+  if (!parts) return true;
+  const maxChapter = chapterCounts[parts.book];
+  return !maxChapter || parts.chapter <= maxChapter;
+}
+
+function uniqueQuizItems(items) {
+  const seen = new Set();
+  return items.filter((item) => {
+    if (!isValidQuizItem(item)) return false;
+    const title = asText(item.title);
+    if (!title) return true;
+    if (seen.has(title)) return false;
+    seen.add(title);
+    return true;
+  });
+}
+
+function starterPhaseForItem(item) {
+  const title = asText(item.title);
+  if (/Old Testament book order|New Testament book order/i.test(title)) {
+    return "Starter Level 2: Testament order";
+  }
+  if (/Torah|Historical Books|Biblical Novellas|Wisdom Books|Prophets/i.test(title)) {
+    return "Starter Level 3: Old Testament sections";
+  }
+  if (/Gospels|Acts Section|Letters|Catholic Letters|Revelation Section/i.test(title)) {
+    return "Starter Level 4: New Testament sections";
+  }
+  return "Starter Level 1: Whole Bible map";
+}
+
+function intermediateLevelForItem(item) {
+  const title = asText(item.title);
+  const parts = chapterQuizParts(title);
+  if (!parts) return "Intermediate Level 1: Whole-book overviews";
+  if (/^(Genesis|Exodus)$/.test(parts.book)) return "Intermediate Level 2: Genesis and Exodus chapters";
+  if (/^(Numbers|Deuteronomy)$/.test(parts.book)) return "Intermediate Level 3: Wilderness and covenant chapters";
+  if (/^(Joshua|Judges|Ruth)$/.test(parts.book)) return "Intermediate Level 4: Land, judges, and Ruth";
+  if (/^(1 Samuel|2 Samuel|1 Kings|2 Kings)$/.test(parts.book)) return "Intermediate Level 5: Monarchy chapters";
+  if (/^(1 Chronicles|2 Chronicles)$/.test(parts.book)) return "Intermediate Level 6: Chronicles chapters";
+  if (/^(Matthew|Mark)$/.test(parts.book)) return "Intermediate Level 7: Matthew and Mark chapters";
+  if (/^(Luke|John)$/.test(parts.book)) return "Intermediate Level 8: Luke and John chapters";
+  return "Intermediate Level 9: Other chapter practice";
+}
+
+function expertLevelForItem(item) {
+  const title = asText(item.title);
+  if (/Prayer|Vocabulary|Worship|People|Timeline|Geography|Locations/i.test(title)) {
+    return "Expert Level 1: Reference recall";
+  }
+  if (/Gospels|Acts|Paul|Prophets|Wisdom|Revelation|John|Romans/i.test(title)) {
+    return "Expert Level 2: Synthesis review";
+  }
+  return "Expert Level 3: Mixed review";
+}
+
+function groupedQuizTocCards(trackItems, activeTrack) {
+  const levelMap = {
+    starter: {
+      labels: [
+        "Starter Level 1: Whole Bible map",
+        "Starter Level 2: Testament order",
+        "Starter Level 3: Old Testament sections",
+        "Starter Level 4: New Testament sections",
+      ],
+      itemLevel: starterPhaseForItem,
+    },
+    intermediate: {
+      labels: [
+        "Intermediate Level 1: Whole-book overviews",
+        "Intermediate Level 2: Genesis and Exodus chapters",
+        "Intermediate Level 3: Wilderness and covenant chapters",
+        "Intermediate Level 4: Land, judges, and Ruth",
+        "Intermediate Level 5: Monarchy chapters",
+        "Intermediate Level 6: Chronicles chapters",
+        "Intermediate Level 7: Matthew and Mark chapters",
+        "Intermediate Level 8: Luke and John chapters",
+        "Intermediate Level 9: Other chapter practice",
+      ],
+      itemLevel: intermediateLevelForItem,
+    },
+    expert: {
+      labels: [
+        "Expert Level 1: Reference recall",
+        "Expert Level 2: Synthesis review",
+        "Expert Level 3: Mixed review",
+      ],
+      itemLevel: expertLevelForItem,
+    },
+  };
+  const grouping = levelMap[activeTrack];
+  if (!grouping) return `<div class="quiz-toc-grid">${trackItems.map(quizSectionCard).join("")}</div>`;
+
+  return grouping.labels
+    .map((label) => {
+      const levelItems = trackItems.filter((item) => grouping.itemLevel(item) === label);
+      if (!levelItems.length) return "";
+      const questionCount = levelItems.reduce((sum, item) => sum + quizQuestions(item).length, 0);
+      return `
+        <section class="quiz-phase">
+          <h5>${escapeHtml(label)} <span>${levelItems.length} sets / ${questionCount} questions</span></h5>
+          <div class="quiz-toc-grid">
+            ${levelItems.map(quizSectionCard).join("")}
+          </div>
+        </section>
+      `;
+    })
+    .join("");
+}
+
 function nextQuizCue(activeTrack, items) {
   if (activeTrack === "starter") {
     const oldTestamentOrder = findQuiz(items, /Starter Quiz: Old Testament book order/i);
@@ -414,7 +608,7 @@ function trackEmptyState(state) {
 export function renderQuizToc(items, state = {}) {
   const fixedTrack = state.fixedQuizTrack || "";
   const activeTrack = fixedTrack || state.quizTrackFilter || "starter";
-  const trackItems = items.filter((item) => quizTrackForItem(item) === activeTrack);
+  const trackItems = uniqueQuizItems(items).filter((item) => quizTrackForItem(item) === activeTrack);
   const tocSections = trackItems.length
     ? `
       <section class="quiz-track is-active" data-quiz-track="${escapeHtml(activeTrack)}">
@@ -425,9 +619,7 @@ export function renderQuizToc(items, state = {}) {
         </div>
         <div class="quiz-track-groups">
           <section class="quiz-toc-group is-active" data-quiz-track="${escapeHtml(activeTrack)}">
-            <div class="quiz-toc-grid">
-              ${trackItems.map(quizSectionCard).join("")}
-            </div>
+            ${groupedQuizTocCards(trackItems, activeTrack)}
           </section>
         </div>
       </section>
@@ -537,10 +729,10 @@ export function renderQuizCard(item, options = {}) {
 }
 
 export function renderQuizView(items, state) {
-  const practiceItems = quizItemsForTrack(items, state);
+  const practiceItems = quizItemsForTrack(uniqueQuizItems(items), state);
   return `
-    ${renderQuizToc(items, state)}
-    ${renderQuizGenerator(items, state)}
+    ${renderQuizToc(uniqueQuizItems(items), state)}
+    ${renderQuizGenerator(uniqueQuizItems(items), state)}
     ${practiceItems.length
       ? practiceItems.map((item) => renderQuizCard(item, { quizGuidePathPrefix: asText(state.quizGuidePathPrefix, "") })).join("")
       : trackEmptyState(state)}
@@ -549,7 +741,7 @@ export function renderQuizView(items, state) {
 
 export function itemsForTab(referenceData, tabAliases, tabName, query = "") {
   const normalizedTab = tabAliases[tabName] || tabName;
-  const items = referenceData[normalizedTab] ?? [];
+  const items = normalizedTab === "quizzes" ? uniqueQuizItems(referenceData[normalizedTab] ?? []) : referenceData[normalizedTab] ?? [];
   const queryText = query.trim().toLowerCase();
 
   if (!queryText) return items;

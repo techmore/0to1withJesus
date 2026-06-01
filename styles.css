@@ -1991,6 +1991,34 @@ h1 {
   white-space: nowrap;
 }
 
+.quiz-phase {
+  display: grid;
+  gap: 0.7rem;
+}
+
+.quiz-phase + .quiz-phase {
+  margin-top: 1rem;
+  padding-top: 1rem;
+  border-top: 1px solid rgba(110, 117, 75, 0.16);
+}
+
+.quiz-phase h5 {
+  margin: 0;
+  color: var(--brand-strong);
+  font-size: 0.78rem;
+  font-weight: 900;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.quiz-phase h5 span {
+  display: inline-block;
+  margin-left: 0.45rem;
+  color: var(--muted);
+  font-weight: 800;
+  letter-spacing: 0.08em;
+}
+
 .quiz-page-shell .reference-browser {
   padding-top: 0;
 }
