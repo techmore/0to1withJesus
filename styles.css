@@ -1364,6 +1364,11 @@ h1 {
   padding: 1.7rem 0 1rem;
 }
 
+.reference-shell .reference-hero,
+.quiz-study-shell .reference-hero {
+  grid-template-columns: 1fr;
+}
+
 .reference-hero-copy {
   padding: 1.2rem 0.25rem 0 0;
 }
@@ -1375,6 +1380,11 @@ h1 {
 .reference-hero-panel {
   display: grid;
   gap: 1rem;
+}
+
+.reference-shell .reference-hero-panel,
+.quiz-study-shell .reference-hero-panel {
+  margin-top: 0.25rem;
 }
 
 .reference-mini {
@@ -1441,6 +1451,16 @@ h1 {
   align-items: end;
   max-width: 980px;
   margin-bottom: 0.35rem;
+}
+
+.reference-shell .reference-tools,
+.quiz-study-shell .reference-tools {
+  grid-template-columns: 1fr;
+}
+
+.reference-shell .reference-tools .reference-tabs,
+.quiz-study-shell .reference-tools .reference-tabs {
+  grid-column: auto;
 }
 
 .reference-tabs {
