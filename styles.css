@@ -1395,6 +1395,19 @@ h1 {
   margin-top: 0.25rem;
 }
 
+.quiz-page-shell[data-page="quizzes"] .reference-mini {
+  min-height: 0;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  box-shadow: none;
+  backdrop-filter: none;
+}
+
+.quiz-page-shell[data-page="quizzes"] .reference-mini-link {
+  padding: 0.2rem 0;
+}
+
 .reference-mini {
   display: grid;
   gap: 0.55rem;
