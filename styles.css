@@ -1411,8 +1411,14 @@ h1 {
 }
 
 .quiz-page-shell[data-page="quizzes"] .reference-mini-link {
-  padding: 0.2rem 0;
+  padding: 0.8rem 0;
   transition: none;
+  border-top: 1px solid rgba(110, 117, 75, 0.16);
+}
+
+.quiz-page-shell[data-page="quizzes"] .reference-mini-link:first-child {
+  border-top: 0;
+  padding-top: 0;
 }
 
 .quiz-page-shell[data-page="quizzes"] .reference-mini-link:hover {
