@@ -1659,9 +1659,9 @@ h1 {
 .quiz-hub-head,
 .quiz-generator-controls {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) auto auto;
+  grid-template-columns: 1fr;
   gap: 1rem;
-  align-items: end;
+  align-items: start;
 }
 
 .quiz-generator-actions {
@@ -2116,36 +2116,6 @@ h1 {
   display: block;
   margin-top: 0.25rem;
   font-size: 1.05rem;
-}
-
-.quiz-nav-section {
-  padding-top: 0.25rem;
-}
-
-.quiz-nav-buttons {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.6rem;
-  align-items: center;
-}
-
-.quiz-nav-buttons .button {
-  background: rgba(31, 33, 23, 0.94);
-  color: var(--olive-200);
-  border-color: rgba(138, 146, 105, 0.38);
-  box-shadow: 0 8px 24px -16px rgba(0, 0, 0, 0.65);
-}
-
-.quiz-nav-buttons .button:hover {
-  color: var(--olive-50);
-  background: rgba(31, 33, 23, 1);
-}
-
-.quiz-nav-buttons .button.is-active,
-.quiz-nav-buttons .button[aria-current="page"] {
-  background: var(--olive-100);
-  color: var(--olive-950);
-  border-color: transparent;
 }
 
 .reference-lens-card {
