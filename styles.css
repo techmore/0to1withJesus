@@ -2141,6 +2141,15 @@ h1 {
   max-width: 18rem;
 }
 
+.quiz-page-shell .topnav-reference {
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.quiz-page-shell .topnav-reference a {
+  width: 100%;
+}
+
 .quiz-page-shell .reference-grid {
   grid-template-columns: 1fr;
 }
