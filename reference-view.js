@@ -473,12 +473,12 @@ function intermediateLevelForItem(item) {
 function expertLevelForItem(item) {
   const title = asText(item.title);
   if (/Prayer|Vocabulary|Worship|People|Timeline|Geography|Locations/i.test(title)) {
-    return "Expert Level 1: Reference recall";
+    return "Reference recall";
   }
   if (/Gospels|Acts|Paul|Prophets|Wisdom|Revelation|John|Romans/i.test(title)) {
-    return "Expert Level 2: Synthesis review";
+    return "Synthesis review";
   }
-  return "Expert Level 3: Mixed review";
+  return "Mixed review";
 }
 
 function groupedQuizTocCards(trackItems, activeTrack) {
@@ -511,9 +511,9 @@ function groupedQuizTocCards(trackItems, activeTrack) {
     },
     expert: {
       labels: [
-        "Expert Level 1: Reference recall",
-        "Expert Level 2: Synthesis review",
-        "Expert Level 3: Mixed review",
+        "Reference recall",
+        "Synthesis review",
+        "Mixed review",
       ],
       itemLevel: expertLevelForItem,
     },
