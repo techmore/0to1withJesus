@@ -2161,6 +2161,17 @@ h1 {
   width: 100%;
 }
 
+.quiz-page-shell .topbar-main,
+.quiz-study-shell .topbar-main {
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.quiz-page-shell .topnav,
+.quiz-study-shell .topnav {
+  width: 100%;
+}
+
 .quiz-page-shell .reference-grid {
   grid-template-columns: 1fr;
 }
