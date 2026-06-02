@@ -456,18 +456,18 @@ function starterPhaseForItem(item) {
 function intermediateLevelForItem(item) {
   const title = asText(item.title);
   const parts = chapterQuizParts(title);
-  if (!parts) return "Intermediate Level 1: Whole-book overviews";
-  if (/^(Genesis|Exodus)$/.test(parts.book)) return "Intermediate Level 2: Genesis and Exodus chapters";
-  if (/^(Numbers|Deuteronomy)$/.test(parts.book)) return "Intermediate Level 3: Wilderness and covenant chapters";
-  if (/^(Joshua|Judges|Ruth)$/.test(parts.book)) return "Intermediate Level 4: Land, judges, and Ruth";
-  if (/^(1 Samuel|2 Samuel)$/.test(parts.book)) return "Intermediate Level 5: Samuel chapters";
-  if (/^(1 Kings|2 Kings)$/.test(parts.book)) return "Intermediate Level 6: Kings chapters";
-  if (/^(1 Chronicles|2 Chronicles)$/.test(parts.book)) return "Intermediate Level 7: Chronicles chapters";
-  if (/^Matthew$/.test(parts.book)) return "Intermediate Level 8: Matthew chapters";
-  if (/^Mark$/.test(parts.book)) return "Intermediate Level 9: Mark chapters";
-  if (/^Luke$/.test(parts.book)) return "Intermediate Level 10: Luke chapters";
-  if (/^John$/.test(parts.book)) return "Intermediate Level 11: John chapters";
-  return "Intermediate Level 12: Other chapter practice";
+  if (!parts) return "Overview: Whole books";
+  if (/^(Genesis|Exodus)$/.test(parts.book)) return "Genesis and Exodus";
+  if (/^(Numbers|Deuteronomy)$/.test(parts.book)) return "Wilderness and covenant";
+  if (/^(Joshua|Judges|Ruth)$/.test(parts.book)) return "Land, judges, and Ruth";
+  if (/^(1 Samuel|2 Samuel)$/.test(parts.book)) return "Samuel";
+  if (/^(1 Kings|2 Kings)$/.test(parts.book)) return "Kings";
+  if (/^(1 Chronicles|2 Chronicles)$/.test(parts.book)) return "Chronicles";
+  if (/^Matthew$/.test(parts.book)) return "Matthew";
+  if (/^Mark$/.test(parts.book)) return "Mark";
+  if (/^Luke$/.test(parts.book)) return "Luke";
+  if (/^John$/.test(parts.book)) return "John";
+  return "Other chapter practice";
 }
 
 function expertLevelForItem(item) {
@@ -494,18 +494,18 @@ function groupedQuizTocCards(trackItems, activeTrack) {
     },
     intermediate: {
       labels: [
-        "Intermediate Level 1: Whole-book overviews",
-        "Intermediate Level 2: Genesis and Exodus chapters",
-        "Intermediate Level 3: Wilderness and covenant chapters",
-        "Intermediate Level 4: Land, judges, and Ruth",
-        "Intermediate Level 5: Samuel chapters",
-        "Intermediate Level 6: Kings chapters",
-        "Intermediate Level 7: Chronicles chapters",
-        "Intermediate Level 8: Matthew chapters",
-        "Intermediate Level 9: Mark chapters",
-        "Intermediate Level 10: Luke chapters",
-        "Intermediate Level 11: John chapters",
-        "Intermediate Level 12: Other chapter practice",
+        "Overview: Whole books",
+        "Genesis and Exodus",
+        "Wilderness and covenant",
+        "Land, judges, and Ruth",
+        "Samuel",
+        "Kings",
+        "Chronicles",
+        "Matthew",
+        "Mark",
+        "Luke",
+        "John",
+        "Other chapter practice",
       ],
       itemLevel: intermediateLevelForItem,
     },
