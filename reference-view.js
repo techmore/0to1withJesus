@@ -460,11 +460,14 @@ function intermediateLevelForItem(item) {
   if (/^(Genesis|Exodus)$/.test(parts.book)) return "Intermediate Level 2: Genesis and Exodus chapters";
   if (/^(Numbers|Deuteronomy)$/.test(parts.book)) return "Intermediate Level 3: Wilderness and covenant chapters";
   if (/^(Joshua|Judges|Ruth)$/.test(parts.book)) return "Intermediate Level 4: Land, judges, and Ruth";
-  if (/^(1 Samuel|2 Samuel|1 Kings|2 Kings)$/.test(parts.book)) return "Intermediate Level 5: Monarchy chapters";
-  if (/^(1 Chronicles|2 Chronicles)$/.test(parts.book)) return "Intermediate Level 6: Chronicles chapters";
-  if (/^(Matthew|Mark)$/.test(parts.book)) return "Intermediate Level 7: Matthew and Mark chapters";
-  if (/^(Luke|John)$/.test(parts.book)) return "Intermediate Level 8: Luke and John chapters";
-  return "Intermediate Level 9: Other chapter practice";
+  if (/^(1 Samuel|2 Samuel)$/.test(parts.book)) return "Intermediate Level 5: Samuel chapters";
+  if (/^(1 Kings|2 Kings)$/.test(parts.book)) return "Intermediate Level 6: Kings chapters";
+  if (/^(1 Chronicles|2 Chronicles)$/.test(parts.book)) return "Intermediate Level 7: Chronicles chapters";
+  if (/^Matthew$/.test(parts.book)) return "Intermediate Level 8: Matthew chapters";
+  if (/^Mark$/.test(parts.book)) return "Intermediate Level 9: Mark chapters";
+  if (/^Luke$/.test(parts.book)) return "Intermediate Level 10: Luke chapters";
+  if (/^John$/.test(parts.book)) return "Intermediate Level 11: John chapters";
+  return "Intermediate Level 12: Other chapter practice";
 }
 
 function expertLevelForItem(item) {
@@ -495,11 +498,14 @@ function groupedQuizTocCards(trackItems, activeTrack) {
         "Intermediate Level 2: Genesis and Exodus chapters",
         "Intermediate Level 3: Wilderness and covenant chapters",
         "Intermediate Level 4: Land, judges, and Ruth",
-        "Intermediate Level 5: Monarchy chapters",
-        "Intermediate Level 6: Chronicles chapters",
-        "Intermediate Level 7: Matthew and Mark chapters",
-        "Intermediate Level 8: Luke and John chapters",
-        "Intermediate Level 9: Other chapter practice",
+        "Intermediate Level 5: Samuel chapters",
+        "Intermediate Level 6: Kings chapters",
+        "Intermediate Level 7: Chronicles chapters",
+        "Intermediate Level 8: Matthew chapters",
+        "Intermediate Level 9: Mark chapters",
+        "Intermediate Level 10: Luke chapters",
+        "Intermediate Level 11: John chapters",
+        "Intermediate Level 12: Other chapter practice",
       ],
       itemLevel: intermediateLevelForItem,
     },
