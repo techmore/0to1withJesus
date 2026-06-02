@@ -2105,6 +2105,24 @@ h1 {
   margin-top: 1rem;
 }
 
+.quiz-page-shell .roadmap-footer-cta,
+.quiz-study-shell .roadmap-footer-cta,
+.quiz-study-shell .hero-actions {
+  display: grid;
+  gap: 0.65rem;
+}
+
+.quiz-page-shell .roadmap-footer-cta,
+.quiz-study-shell .roadmap-footer-cta {
+  margin-top: 1rem;
+}
+
+.quiz-page-shell .roadmap-footer-cta .button,
+.quiz-study-shell .roadmap-footer-cta .button,
+.quiz-study-shell .hero-actions .button {
+  width: fit-content;
+}
+
 .quiz-page-shell .reference-grid {
   grid-template-columns: 1fr;
 }
