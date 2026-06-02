@@ -1395,7 +1395,13 @@ h1 {
   margin-top: 0.25rem;
 }
 
-.quiz-page-shell[data-page="quizzes"] .reference-mini {
+.quiz-page-shell[data-page="quizzes"] .reference-hero-panel,
+.quiz-study-shell .reference-hero-panel {
+  gap: 0.5rem;
+}
+
+.quiz-page-shell[data-page="quizzes"] .reference-mini,
+.quiz-study-shell .reference-mini {
   min-height: 0;
   padding: 0;
   border: 0;
