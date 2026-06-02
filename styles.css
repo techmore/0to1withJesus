@@ -2086,6 +2086,16 @@ h1 {
   padding-inline: 0;
 }
 
+.quiz-page-shell .reference-tools {
+  grid-template-columns: 1fr;
+  justify-items: start;
+  max-width: none;
+}
+
+.quiz-page-shell .reference-clear {
+  margin-top: -0.1rem;
+}
+
 .quiz-page-shell .callout,
 .quiz-study-shell .callout {
   background: transparent;
