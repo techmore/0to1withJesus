@@ -2120,7 +2120,8 @@ h1 {
 .quiz-page-shell .roadmap-footer-cta .button,
 .quiz-study-shell .roadmap-footer-cta .button,
 .quiz-study-shell .hero-actions .button {
-  width: fit-content;
+  width: 100%;
+  justify-self: stretch;
 }
 
 .quiz-page-shell .quiz-generator-actions {
@@ -2131,11 +2132,13 @@ h1 {
 
 .quiz-page-shell .quiz-generator-actions .button {
   min-width: 0;
-  width: fit-content;
+  width: 100%;
+  justify-self: stretch;
 }
 
 .quiz-page-shell .quiz-generator-actions .quiz-size-control {
-  width: min(100%, 18rem);
+  width: 100%;
+  max-width: 18rem;
 }
 
 .quiz-page-shell .reference-grid {
