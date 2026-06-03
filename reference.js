@@ -369,9 +369,6 @@ function bootstrapReference() {
   } else if (fixedTrack) {
     state.tab = "quizzes";
   }
-  if (pageTab === "prayer" && !window.location.hash) {
-    history.replaceState(null, "", "#prayer");
-  }
   if (document.body.dataset.page === "quizzes" && !window.location.hash) {
     history.replaceState(null, "", `#quizzes?track=${fixedTrack || "starter"}`);
   }
