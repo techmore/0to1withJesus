@@ -179,6 +179,7 @@ function renderReference() {
   const items = filteredItems();
   const visibleItems = visibleQuizItems(items);
   const label = tabLabels[state.tab] || "Reference";
+  const isPrayerPage = document.body.dataset.page === "prayer";
   const clearButton = document.querySelector("[data-clear-reference-search]");
   const previousQuizTrackFilter = normalizeQuizTrackFilter(state.quizTrackFilter);
   const trackChanged = previousQuizTrackFilter !== state.quizTrackFilter;
@@ -190,13 +191,25 @@ function renderReference() {
     clearButton.hidden = !state.query.trim();
   }
   renderReferenceTabs();
-  summary.innerHTML = `
-    <span>${escapeHtml(label)}</span>
-    <strong>${visibleItems.length} ${visibleItems.length === 1 ? "entry" : "entries"}</strong>
-  `;
+  summary.innerHTML = isPrayerPage && state.tab === "prayer"
+    ? `
+      <span>Prayer guide</span>
+      <strong>Start with the sections below</strong>
+    `
+    : `
+      <span>${escapeHtml(label)}</span>
+      <strong>${visibleItems.length} ${visibleItems.length === 1 ? "entry" : "entries"}</strong>
+    `;
 
   grid.innerHTML = items.length
-    ? state.tab === "quizzes"
+    ? isPrayerPage && state.tab === "prayer"
+      ? `
+        <article class="card reference-empty">
+          <h3>Prayer guide</h3>
+          <p>This page opens straight into the Prayer guide. Use the sections below for the practical patterns, examples, and book guidance.</p>
+        </article>
+      `
+      : state.tab === "quizzes"
       ? renderQuizView(items, { ...state, fixedQuizTrack: document.body.dataset.quizTrack || "", quizGuidePathPrefix: document.body.dataset.page === "quizzes" ? "../" : "./" })
       : items.map(referenceCard).join("")
     : `
