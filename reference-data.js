@@ -1322,6 +1322,14 @@ export const referenceData = {
       start: "Use one written prayer as a pattern, then add your own sentence or two.",
       tags: ["common worship", "written prayer", "liturgy"],
     },
+    {
+      title: "A beginner rhythm",
+      kicker: "Practice",
+      summary: "Pray before reading, pray after reading, and keep short prayers throughout the day.",
+      detail: "A practical beginner rhythm is to pray one short minute before Bible reading, read a passage, pray one response after reading, and add brief prayers at ordinary moments like meals, walks, or moments of anxiety. That keeps prayer connected to Scripture without making it mechanical.",
+      start: "Start with one short prayer before John and one short prayer after John.",
+      tags: ["rhythm", "daily", "Bible study"],
+    },
   ],
   people: [
     {
