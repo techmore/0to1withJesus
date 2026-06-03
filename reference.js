@@ -13,6 +13,7 @@ import {
 
 const tabLabels = {
   reference: "Vocabulary",
+  prayer: "Prayer",
   people: "People",
   locations: "Locations",
   timeline: "Timeline",
@@ -24,11 +25,13 @@ const tabLabels = {
 const tabAliases = {
   vocabulary: "reference",
   reference: "reference",
+  prayer: "prayer",
   places: "locations",
 };
 
 const tabHashes = {
   reference: "vocabulary",
+  prayer: "prayer",
   people: "people",
   locations: "locations",
   timeline: "timeline",
