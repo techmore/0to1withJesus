@@ -244,6 +244,7 @@ export const drawerTopics = {
           <li>Pray one line in your own words.</li>
           <li>Ask Jesus to teach you how to follow him.</li>
           <li>Keep it short enough that you will come back tomorrow.</li>
+          <li>Pray before and after Bible reading, then add a short prayer later in the day.</li>
         </ol>
       </div>
 
