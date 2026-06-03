@@ -349,14 +349,23 @@ function setupReferenceHash() {
 }
 
 function bootstrapReference() {
+  const pageTab = document.body.dataset.referenceTab || "";
   const fixedTrack = document.body.dataset.quizTrack || "";
-  if (fixedTrack) {
+  if (pageTab) {
+    state.tab = pageTab;
+  } else if (fixedTrack) {
     state.tab = "quizzes";
+  }
+  if (pageTab === "prayer" && !window.location.hash) {
+    history.replaceState(null, "", "#prayer");
   }
   if (document.body.dataset.page === "quizzes" && !window.location.hash) {
     history.replaceState(null, "", `#quizzes?track=${fixedTrack || "starter"}`);
   }
   loadQuizState();
+  if (pageTab) {
+    state.tab = pageTab;
+  }
   if (fixedTrack) {
     state.quizTrackFilter = fixedTrack;
     state.tab = "quizzes";
