@@ -1306,6 +1306,22 @@ export const referenceData = {
       start: "Use written prayers as training wheels, then add your own words.",
       tags: ["liturgy", "common prayer", "worship"],
     },
+    {
+      title: "When to pray",
+      kicker: "Rhythm",
+      summary: "Pray before reading, after reading, and throughout the day.",
+      detail: "There is no single rule that prayer must happen only before Bible study. A good rhythm is to pray briefly before you read, pray back something from what you read, and add short prayers during ordinary moments so prayer becomes a real habit.",
+      start: "Try one minute before John, one minute after John, and one short prayer at another point in the day.",
+      tags: ["daily", "habit", "rhythm"],
+    },
+    {
+      title: "Common Worship and written prayers",
+      kicker: "Prayer book",
+      summary: "Written prayer books can guide beginners who want structure without pretending.",
+      detail: "A prayer book such as the Book of Common Worship can be useful because it gives you prayers to borrow when you do not know what to say. Read them slowly, pray them honestly, and use them as support for your own words rather than a replacement for them.",
+      start: "Use one written prayer as a pattern, then add your own sentence or two.",
+      tags: ["common worship", "written prayer", "liturgy"],
+    },
   ],
   people: [
     {
