@@ -254,7 +254,7 @@ export const drawerTopics = {
           <a class="link" href="https://www.biblegateway.com/passage/?search=Matthew+6%3A9-13&version=NIV" target="_blank" rel="noopener noreferrer">Matthew 6:9-13</a>
           <a class="link" href="https://www.biblegateway.com/passage/?search=Psalm+23&version=NIV" target="_blank" rel="noopener noreferrer">Psalm 23</a>
           <a class="link" href="https://www.biblegateway.com/passage/?search=John+17&version=NIV" target="_blank" rel="noopener noreferrer">John 17</a>
-          <a class="link" href="./reference.html#prayer">Open Prayer section</a>
+          <a class="link" href="./prayer.html">Open Prayer page</a>
         </div>
       </div>
     `,
