@@ -1587,6 +1587,11 @@ h1 {
   gap: 1.15rem;
 }
 
+.reference-grid[data-reference-view="books"] {
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 320px), 1fr));
+  gap: 1rem;
+}
+
 .reference-card {
   display: grid;
   gap: 0.85rem;
@@ -1628,6 +1633,11 @@ h1 {
 .reference-grid[data-reference-view="versions"] .reference-card {
   gap: 1rem;
   padding: 1.35rem;
+}
+
+.reference-grid[data-reference-view="books"] .reference-card {
+  gap: 0.9rem;
+  padding: 1.15rem;
 }
 
 .reference-grid[data-reference-view="people"] .reference-card h3 {
@@ -2447,7 +2457,8 @@ body.drawer-open {
   .reference-grid[data-reference-view="locations"],
   .reference-grid[data-reference-view="timeline"],
   .reference-grid[data-reference-view="versions"],
-  .reference-grid[data-reference-view="traditions"] {
+  .reference-grid[data-reference-view="traditions"],
+  .reference-grid[data-reference-view="books"] {
     grid-template-columns: 1fr;
   }
 

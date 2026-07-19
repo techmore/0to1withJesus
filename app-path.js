@@ -15,16 +15,23 @@ export function setupFirstPath() {
 
   if (!grid) return;
 
+  const validDayIds = new Set(firstSevenDays.map((item) => String(item.day)));
+
   const load = () => {
     try {
-      return new Set(JSON.parse(localStorage.getItem(storageKey) || "[]"));
+      const parsed = JSON.parse(window.localStorage.getItem(storageKey) || "[]");
+      return new Set(Array.isArray(parsed) ? parsed.filter((day) => validDayIds.has(String(day))).map(String) : []);
     } catch {
       return new Set();
     }
   };
 
   const save = (completedDays) => {
-    localStorage.setItem(storageKey, JSON.stringify([...completedDays]));
+    try {
+      window.localStorage.setItem(storageKey, JSON.stringify([...completedDays]));
+    } catch {
+      return;
+    }
   };
 
   const render = () => {
@@ -43,7 +50,11 @@ export function setupFirstPath() {
   };
 
   reset?.addEventListener("click", () => {
-    localStorage.removeItem(storageKey);
+    try {
+      window.localStorage.removeItem(storageKey);
+    } catch {
+      return;
+    }
     render();
   });
 

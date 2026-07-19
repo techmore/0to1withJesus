@@ -19,9 +19,9 @@ This site is static, so changes should stay simple and easy to verify.
 - `index.html` is the home hub
 - `resources.html` is the searchable library
 - `poetry.html` is the poetry and imagination guide
-- `reference.html` is the reference browser
+- `reference.html` is the reference browser, including the ordered Bible books overview
 - `roadmap.html` is the mastery roadmap
-- `section-data.js`, `resource-data.js`, `glossary-data.js`, `poetry-data.js`, `drawer-data.js`, and `first-path-data.js` hold the content data
+- `section-data.js`, `resource-data.js`, `glossary-data.js`, `poetry-data.js`, `drawer-data.js`, `first-path-data.js`, and `books-data.js` hold the content data
 - `app.js`, `app-resources.js`, `app-poetry.js`, `app-path.js`, `app-glossary.js`, `app-ui.js`, and `app-view.js` handle wiring and rendering
 
 ## Notes

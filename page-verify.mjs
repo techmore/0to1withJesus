@@ -3,23 +3,23 @@ import { readFile } from 'node:fs/promises';
 const pages = [
   {
     file: 'index.html',
-    includes: ['<title>Jesus Guide | Bible Study Welcome Guide</title>', 'src="./app.js?v=20260510-1"'],
+    includes: ['<title>Jesus Guide | Bible Study Welcome Guide</title>', 'src="./app.js?v=20260719-1"'],
   },
   {
     file: 'resources.html',
-    includes: ['<title>Resources | Jesus Guide</title>', 'src="./app.js?v=20260510-1"'],
+    includes: ['<title>Resources | Jesus Guide</title>', 'src="./app.js?v=20260719-1"'],
   },
   {
     file: 'poetry.html',
-    includes: ['<title>Poetry | Jesus Guide</title>', 'src="./app.js?v=20260510-1"'],
+    includes: ['<title>Poetry | Jesus Guide</title>', 'src="./app.js?v=20260719-1"'],
   },
   {
     file: 'reference.html',
-    includes: ['<title>Reference Guide | Jesus Guide</title>', 'src="./reference.js?v=20260524-1"'],
+    includes: ['<title>Reference Guide | Jesus Guide</title>', 'src="./reference.js?v=20260719-1"'],
   },
   {
     file: 'quiz-study.html',
-    includes: ['<title>Quiz Study Guide | Jesus Guide</title>', 'src="./quiz-study.js?v=20260524-2"'],
+    includes: ['<title>Quiz Study Guide | Jesus Guide</title>', 'src="./quiz-study.js?v=20260719-1"'],
   },
   {
     file: 'roadmap.html',

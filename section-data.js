@@ -16,7 +16,7 @@ export const sections = {
       copy: "A longer narrative that shows Jesus in context and then follows the first Christian movement after the resurrection.",
       tags: ["read", "history"],
       links: [
-        { label: "BibleProject reading plans", href: "https://bibleproject.com/readingplans/" },
+        { label: "BibleProject reading plans", href: "https://bibleproject.com/reading-plans/all/" },
         { label: "YouVersion", href: "https://www.bible.com/" },
       ],
     },

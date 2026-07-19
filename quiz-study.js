@@ -5,7 +5,6 @@ import { escapeHtml } from './render-utils.js';
 if (typeof window !== 'undefined' && typeof document !== 'undefined') {
   const params = new URLSearchParams(window.location.search);
   const requestedSlug = asText(params.get('quiz')).trim();
-  const requestedTrack = asText(params.get('track')).trim().toLowerCase();
   const quiz = referenceData.quizzes.find((item) => slugify(asText(item.title)) === requestedSlug) || null;
 
   function trackLabel(track) {
@@ -59,7 +58,7 @@ if (typeof window !== 'undefined' && typeof document !== 'undefined') {
 
   if (quiz) {
     const title = asText(quiz.title, 'Study guide');
-    const track = requestedTrack || quizTrackForItem(quiz);
+    const track = quizTrackForItem(quiz);
     const summary = asText(quiz.summary);
     const detail = asText(quiz.detail);
     const start = asText(quiz.start);

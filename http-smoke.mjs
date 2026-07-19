@@ -42,11 +42,11 @@ async function waitForServer() {
 await waitForServer();
 
 const pages = [
-  ['http://127.0.0.1:8000/index.html', './app.js?v=20260510-1'],
-  ['http://127.0.0.1:8000/resources.html', './app.js?v=20260510-1'],
-  ['http://127.0.0.1:8000/poetry.html', './app.js?v=20260510-1'],
-  ['http://127.0.0.1:8000/reference.html', './reference.js?v=20260524-1'],
-  ['http://127.0.0.1:8000/quiz-study.html', './quiz-study.js?v=20260524-2'],
+  ['http://127.0.0.1:8000/index.html', './app.js?v=20260719-1'],
+  ['http://127.0.0.1:8000/resources.html', './app.js?v=20260719-1'],
+  ['http://127.0.0.1:8000/poetry.html', './app.js?v=20260719-1'],
+  ['http://127.0.0.1:8000/reference.html', './reference.js?v=20260719-1'],
+  ['http://127.0.0.1:8000/quiz-study.html', './quiz-study.js?v=20260719-1'],
   ['http://127.0.0.1:8000/roadmap.html', './roadmap.js?v=20260509-1'],
 ];
 

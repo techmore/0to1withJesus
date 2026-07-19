@@ -12,6 +12,7 @@ import {
 
 
 const tabLabels = {
+  books: "Books",
   reference: "Vocabulary",
   prayer: "Prayer",
   people: "People",
@@ -23,6 +24,8 @@ const tabLabels = {
 };
 
 const tabAliases = {
+  book: "books",
+  books: "books",
   vocabulary: "reference",
   reference: "reference",
   prayer: "prayer",
@@ -30,6 +33,7 @@ const tabAliases = {
 };
 
 const tabHashes = {
+  books: "books",
   reference: "vocabulary",
   prayer: "prayer",
   people: "people",
@@ -47,6 +51,8 @@ const state = {
   quizTrackFilter: "all",
   randomQuiz: [],
 };
+
+let lastRenderedQuizTrackFilter = null;
 
 const quizStateKey = "jesus-guide-quiz-state-v1";
 const quizTrackFilters = ["all", "starter", "intermediate", "expert"];
@@ -181,8 +187,9 @@ function renderReference() {
   const label = tabLabels[state.tab] || "Reference";
   const isPrayerPage = document.body.dataset.page === "prayer";
   const clearButton = document.querySelector("[data-clear-reference-search]");
-  const previousQuizTrackFilter = normalizeQuizTrackFilter(state.quizTrackFilter);
-  const trackChanged = previousQuizTrackFilter !== state.quizTrackFilter;
+  const trackChanged = state.tab === "quizzes"
+    && lastRenderedQuizTrackFilter !== null
+    && lastRenderedQuizTrackFilter !== state.quizTrackFilter;
   if (state.tab === "quizzes" && trackChanged && state.randomQuiz.length) {
     state.randomQuiz = [];
   }
@@ -218,6 +225,8 @@ function renderReference() {
         <p>Try a broader word, switch tabs, or clear the search to browse the whole section.</p>
       </article>
     `;
+
+  lastRenderedQuizTrackFilter = state.quizTrackFilter;
 
   if (state.tab === "quizzes") {
     const trackButtons = [...document.querySelectorAll("[data-quiz-track-filter]")];
@@ -305,6 +314,9 @@ function setupQuizControls() {
 
     state.quizTrackFilter = normalizeQuizTrackFilter(button.dataset.quizTrackFilter || "all");
     saveQuizState();
+    if (document.body.dataset.page === "quizzes") {
+      updateReferenceHash("quizzes");
+    }
     renderReference();
   });
 

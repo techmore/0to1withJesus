@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta
       name="description"
-      content="A beginner-friendly Bible reference guide for Christian vocabulary, biblical people, places, timeline context, Bible versions, traditions, and quizzes."
+      content="A beginner-friendly Bible reference guide for Christian vocabulary, Bible books in order, biblical people, places, timeline context, Bible versions, traditions, and quizzes."
     />
     <meta name="theme-color" content="#1f2117" />
     <title>Reference Guide | Jesus Guide</title>
@@ -15,7 +15,7 @@
       href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:ital,opsz,wght@0,14..32,400..900;1,14..32,400..900&display=swap"
       rel="stylesheet"
     />
-    <link rel="stylesheet" href="./styles.css?v=20260510-1" />
+    <link rel="stylesheet" href="./styles.css?v=20260719-1" />
   </head>
   <body>
     <div class="backdrop backdrop-a"></div>
@@ -41,6 +41,7 @@
       </div>
       <nav class="topnav topnav-reference" aria-label="Reference">
         <a href="./reference.html#vocabulary">Vocabulary</a>
+        <a href="./reference.html#books">Books</a>
         <a href="./prayer.html">Prayer</a>
         <a href="./reference.html#people">People</a>
         <a href="./reference.html#locations">Locations</a>
@@ -94,9 +95,10 @@
           <p class="eyebrow">Reference browser</p>
           <h2>Search once, then switch sections without losing your place.</h2>
           <p>
-            The same search works across Vocabulary, People, Locations, Timeline, Versions, Traditions, and
+            The same search works across Vocabulary, Books, People, Locations, Timeline, Versions, Traditions, and
             the Quiz hub. Use the section buttons below when you know what kind of context you need, or leave
-            the search blank and browse the current section.
+            the search blank and browse the current section. Books follows the standard 66-book Protestant order;
+            other Christian traditions include additional Old Testament books or use a different arrangement.
           </p>
         </div>
 
@@ -112,6 +114,7 @@
             <button class="tab is-active" type="button" role="tab" aria-selected="true" data-reference-tab="reference">
               Vocabulary
             </button>
+            <button class="tab" type="button" role="tab" aria-selected="false" data-reference-tab="books">Books</button>
             <a class="tab" href="./prayer.html">Prayer</a>
             <button class="tab" type="button" role="tab" aria-selected="false" data-reference-tab="people">People</button>
             <button class="tab" type="button" role="tab" aria-selected="false" data-reference-tab="locations">Locations</button>
@@ -179,6 +182,6 @@
       <p>Built for GitHub Pages. Expand this guide as new questions come up during reading.</p>
     </footer>
 
-    <script type="module" src="./reference.js?v=20260524-1"></script>
+    <script type="module" src="./reference.js?v=20260719-1"></script>
   </body>
 </html>

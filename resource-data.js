@@ -142,7 +142,7 @@ export const resources = [
     copy: "A gentle way to read through the Bible with guided plans, including Gospels-focused tracks.",
     tags: ["Course", "Bible"],
     links: [
-      { label: "Reading plans", href: "https://bibleproject.com/readingplans/" },
+      { label: "Reading plans", href: "https://bibleproject.com/reading-plans/all/" },
       { label: "Classroom", href: "https://bibleproject.com/classroom/" },
     ],
   },
@@ -285,7 +285,7 @@ export const resources = [
     tags: ["Course", "Hebrew", "Bible"],
     links: [
       { label: "Website", href: "https://israelbiblicalstudies.com/" },
-      { label: "Courses", href: "https://israelbiblicalstudies.com/course-catalog/" },
+      { label: "Courses", href: "https://israelbiblicalstudies.com/departments/bible-jewish-studies/courses/" },
     ],
   },
 ];

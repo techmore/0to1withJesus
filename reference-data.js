@@ -1,4 +1,7 @@
+import { bibleBooks } from './books-data.js';
+
 export const referenceData = {
+  books: bibleBooks,
   reference: [
     {
       title: "Gospel",

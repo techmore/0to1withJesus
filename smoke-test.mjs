@@ -9,6 +9,7 @@ const requiredModules = [
   './poetry-data.js',
   './drawer-data.js',
   './first-path-data.js',
+  './books-data.js',
   './app-view.js',
   './app-ui.js',
   './app-resources.js',
