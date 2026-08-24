@@ -1,6 +1,6 @@
 import { escapeHtml } from './render-utils.js';
 
-export function asArray(value) {
+function asArray(value) {
   return Array.isArray(value) ? value : [];
 }
 
@@ -611,7 +611,7 @@ function trackEmptyState(state) {
   `;
 }
 
-export function renderQuizToc(items, state = {}) {
+function renderQuizToc(items, state = {}) {
   const fixedTrack = state.fixedQuizTrack || "";
   const activeTrack = fixedTrack || state.quizTrackFilter || "starter";
   const trackItems = uniqueQuizItems(items).filter((item) => quizTrackForItem(item) === activeTrack);
@@ -649,7 +649,7 @@ export function renderQuizToc(items, state = {}) {
   `;
 }
 
-export function renderQuizGenerator(items, state) {
+function renderQuizGenerator(items, state) {
   const activeTrack = state.fixedQuizTrack || state.quizTrackFilter || "starter";
   const filteredItems = quizItemsForTrack(items, { quizTrackFilter: activeTrack });
   const bank = quizQuestionBank(filteredItems);
@@ -728,7 +728,7 @@ export function renderQuizGenerator(items, state) {
   `;
 }
 
-export function renderQuizCard(item, options = {}) {
+function renderQuizCard(item, options = {}) {
   const title = asText(item.title, "Untitled quiz");
   const card = referenceCard(item, options);
   return card.replace("<article", `<article id="${escapeHtml(slugify(title))}"`);

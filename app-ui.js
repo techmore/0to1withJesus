@@ -1,24 +1,5 @@
 import { drawerTopics } from './drawer-data.js';
 
-export function setupTabs() {
-  const tabs = [...document.querySelectorAll("[data-tab]")];
-  const panels = [...document.querySelectorAll("[data-panel]")];
-
-  tabs.forEach((tab) => {
-    tab.addEventListener("click", () => {
-      const value = tab.dataset.tab;
-      tabs.forEach((button) => {
-        const active = button === tab;
-        button.classList.toggle("is-active", active);
-        button.setAttribute("aria-selected", String(active));
-      });
-      panels.forEach((panel) => {
-        panel.classList.toggle("is-active", panel.dataset.panel === value);
-      });
-    });
-  });
-}
-
 export function setupGuideDrawer() {
   const drawer = document.getElementById("guide-drawer");
   const overlay = document.querySelector(".drawer-overlay");
@@ -30,11 +11,20 @@ export function setupGuideDrawer() {
 
   if (!drawer || !overlay || !kicker || !title || !body) return;
 
+  // While the dialog is open, remove the rest of the page from the tab order
+  // and accessibility tree so focus stays inside the drawer.
+  const pageSiblings = ["header.topbar", "main", "footer"]
+    .map((selector) => document.querySelector(selector))
+    .filter(Boolean);
+
   const setOpen = (isOpen) => {
     drawer.classList.toggle("is-open", isOpen);
     overlay.classList.toggle("is-open", isOpen);
     drawer.setAttribute("aria-hidden", String(!isOpen));
     drawer.inert = !isOpen;
+    pageSiblings.forEach((element) => {
+      element.inert = isOpen;
+    });
     document
       .querySelectorAll("[data-drawer-open]")
       .forEach((button) => button.setAttribute("aria-expanded", String(isOpen && button === activeTrigger)));
@@ -77,5 +67,16 @@ export function setupGuideDrawer() {
       setOpen(false);
       activeTrigger?.focus();
     }
+  });
+
+  // Glossary term buttons inside the drawer jump to the reference browser with
+  // the term pre-filled, instead of leading to a plain section anchor.
+  document.addEventListener("click", (event) => {
+    const link = event.target.closest("[data-glossary-term]");
+    if (!link) return;
+
+    const term = link.dataset.glossaryTerm || "";
+    setOpen(false);
+    window.location.href = `./reference.html?q=${encodeURIComponent(term)}#vocabulary`;
   });
 }

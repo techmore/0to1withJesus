@@ -4,7 +4,6 @@ import {
   hashForTab as sharedHashForTab,
   itemsForTab as sharedItemsForTab,
   referenceCard,
-  asArray,
   asText,
   renderQuizView,
   quizTrackForItem as sharedQuizTrackForItem,
@@ -170,6 +169,7 @@ function renderReferenceTabs() {
 
     item.classList.toggle("is-active", active);
     item.setAttribute("aria-selected", String(active));
+    item.setAttribute("tabindex", active ? "0" : "-1");
     item.innerHTML = `
       <span>${escapeHtml(label)}</span>
       <small>${queryActive ? `${count}/${total}` : count}</small>
@@ -265,6 +265,28 @@ function setupReferenceTabs() {
     }
     setReferenceTab(button.dataset.referenceTab || "reference", { updateHash: true });
   });
+
+  // Arrow keys move focus and activation between tab buttons, per the
+  // WAI-ARIA tabs pattern. Buttons carry a roving tabindex.
+  document.addEventListener("keydown", (event) => {
+    if (!["ArrowLeft", "ArrowRight", "Home", "End"].includes(event.key)) return;
+
+    const activeButton = event.target.closest("[data-reference-tab]");
+    const buttons = [...document.querySelectorAll("[data-reference-tab]")];
+    if (!activeButton || !buttons.includes(activeButton)) return;
+
+    event.preventDefault();
+    const currentIndex = buttons.indexOf(activeButton);
+    const nextIndex = event.key === "ArrowLeft"
+      ? (currentIndex - 1 + buttons.length) % buttons.length
+      : event.key === "ArrowRight"
+        ? (currentIndex + 1) % buttons.length
+        : event.key === "Home" ? 0 : buttons.length - 1;
+
+    const nextButton = buttons[nextIndex];
+    nextButton.focus();
+    nextButton.click();
+  });
 }
 
 function setReferenceTab(tabName, options = {}) {
@@ -281,6 +303,15 @@ function setReferenceTab(tabName, options = {}) {
 function setupReferenceSearch() {
   const search = document.getElementById("reference-search");
   if (!search) return;
+
+  // Support deep links like reference.html?q=Messiah#vocabulary so other
+  // pages (for example, drawer glossary terms) can land on a pre-filtered view.
+  const initialQuery = new URLSearchParams(window.location.search).get("q");
+  if (initialQuery) {
+    search.value = initialQuery;
+    state.query = initialQuery;
+    history.replaceState(null, "", window.location.pathname + window.location.hash);
+  }
 
   search.addEventListener("input", () => {
     state.query = search.value;
@@ -335,18 +366,6 @@ function setupQuizControls() {
   });
 }
 
-function setupReferenceJumps() {
-  document.querySelectorAll("[data-reference-jump]").forEach((link) => {
-    link.addEventListener("click", (event) => {
-      const tabName = link.dataset.referenceJump || "reference";
-      const normalizedTab = tabAliases[tabName] || tabName;
-      event.preventDefault();
-      setReferenceTab(normalizedTab, { updateHash: true });
-      document.getElementById("reference-browser")?.scrollIntoView({ behavior: "smooth", block: "start" });
-    });
-  });
-}
-
 function setupReferenceHash() {
   const applyHash = () => {
     const { tab: tabName, quizTrackFilter } = parseHash(window.location.hash);
@@ -395,7 +414,6 @@ function bootstrapReference() {
   setupReferenceTabs();
   setupReferenceSearch();
   setupQuizControls();
-  setupReferenceJumps();
   renderReference();
   setupReferenceHash();
 }

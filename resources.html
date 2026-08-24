@@ -15,9 +15,11 @@
       href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:ital,opsz,wght@0,14..32,400..900;1,14..32,400..900&display=swap"
       rel="stylesheet"
     />
-    <link rel="stylesheet" href="./styles.css?v=20260719-1" />
+    <link rel="stylesheet" href="./styles.css?v=20260824-1" />
   </head>
   <body>
+    <a class="skip-link" href="#top">Skip to content</a>
+
     <header class="topbar">
       <div class="topbar-main">
         <a class="brand" href="./index.html#top">
@@ -45,11 +47,11 @@
         <a href="./reference.html#timeline">Timeline</a>
         <a href="./reference.html#versions">Versions</a>
         <a href="./reference.html#traditions">Traditions</a>
-        <a href="./reference.html#quizzes">Quizzes</a>
+        <a href="./quizzes.html">Quizzes</a>
       </nav>
     </header>
 
-    <main id="top" class="shell">
+    <main id="top" tabindex="-1" class="shell">
       <section class="page-hero dark-feature resource-hero">
         <div>
           <p class="eyebrow">Resource library</p>
@@ -96,12 +98,14 @@
             <input id="resource-search" type="search" placeholder="Try: Bible in a Year, poetry, John, Roman, Greek" />
           </label>
           <div class="chips" role="toolbar" aria-label="Resource filters">
-            <button class="chip is-active" data-filter="all">All</button>
-            <button class="chip" data-filter="books">Books</button>
-            <button class="chip" data-filter="video">Video</button>
-            <button class="chip" data-filter="course">Course</button>
-            <button class="chip" data-filter="audio">Audio</button>
-            <button class="chip" data-filter="tool">Tool</button>
+            <button class="chip is-active" data-filter="all" aria-pressed="true">All</button>
+            <button class="chip" data-filter="video" aria-pressed="false">Video</button>
+            <button class="chip" data-filter="books" aria-pressed="false">Books</button>
+            <button class="chip" data-filter="course" aria-pressed="false">Courses</button>
+            <button class="chip" data-filter="scholarly" aria-pressed="false">Scholarly</button>
+            <button class="chip" data-filter="audio" aria-pressed="false">Audio</button>
+            <button class="chip" data-filter="tool" aria-pressed="false">Tools</button>
+            <button class="chip" data-filter="general" aria-pressed="false">General</button>
           </div>
         </div>
 
@@ -113,6 +117,6 @@
       <p>Built for GitHub Pages. Curate, expand, and swap resources as you refine the guide.</p>
     </footer>
 
-    <script type="module" src="./app.js?v=20260719-1"></script>
+    <script type="module" src="./page-resources.js?v=20260824-1"></script>
   </body>
 </html>

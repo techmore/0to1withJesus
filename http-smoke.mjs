@@ -41,22 +41,37 @@ async function waitForServer() {
 
 await waitForServer();
 
+// Every served page must return 200, carry a module entry script, and ship
+// the shared stylesheet with a cache-bust stamp.
 const pages = [
-  ['http://127.0.0.1:8000/index.html', './app.js?v=20260719-1'],
-  ['http://127.0.0.1:8000/resources.html', './app.js?v=20260719-1'],
-  ['http://127.0.0.1:8000/poetry.html', './app.js?v=20260719-1'],
-  ['http://127.0.0.1:8000/reference.html', './reference.js?v=20260719-1'],
-  ['http://127.0.0.1:8000/quiz-study.html', './quiz-study.js?v=20260719-1'],
-  ['http://127.0.0.1:8000/roadmap.html', './roadmap.js?v=20260509-1'],
+  'index.html',
+  'resources.html',
+  'poetry.html',
+  'prayer.html',
+  'reference.html',
+  'quiz-study.html',
+  'roadmap.html',
+  'quizzes/starter.html',
+  'quizzes/intermediate.html',
+  'quizzes/expert.html',
 ];
 
-for (const [url, script] of pages) {
-  const response = await fetch(url);
-  if (!response.ok) throw new Error(`Failed to fetch ${url}: ${response.status}`);
+for (const page of pages) {
+  const response = await fetch(`http://127.0.0.1:8000/${page}`);
+  if (!response.ok) throw new Error(`Failed to fetch ${page}: ${response.status}`);
   const html = await response.text();
-  if (!html.includes(`src="${script}`)) {
-    throw new Error(`${url} is missing ${script}`);
+  if (!/<script type="module" src="[^"]+\?v=\d{8}-\d+">/.test(html)) {
+    throw new Error(`${page} is missing a stamped module script`);
   }
+  if (!/styles\.css\?v=\d{8}-\d+/.test(html)) {
+    throw new Error(`${page} is missing a stamped stylesheet link`);
+  }
+}
+
+// The static quiz hub has no script but must still serve and ship styles.
+const hub = await (await fetch('http://127.0.0.1:8000/quizzes.html')).text();
+if (!hub.includes('<title>Quiz Hub | Jesus Guide</title>') || !/styles\.css\?v=\d{8}-\d+/.test(hub)) {
+  throw new Error('quizzes.html did not serve the expected static shell');
 }
 
 cleanup();

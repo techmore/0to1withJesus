@@ -1,11 +1,5 @@
 import { firstSevenDays } from './first-path-data.js';
-import { firstDayCard, lightbulbIcon } from './app-view.js';
-
-export function setupStaticLightbulbs() {
-  document.querySelectorAll(".text-lightbulb").forEach((target) => {
-    target.outerHTML = lightbulbIcon();
-  });
-}
+import { firstDayCard } from './app-view.js';
 
 export function setupFirstPath() {
   const grid = document.getElementById("first-days-grid");
@@ -35,6 +29,9 @@ export function setupFirstPath() {
   };
 
   const render = () => {
+    // Re-rendering replaces every checkbox, so remember which one had focus
+    // and restore it afterwards to keep keyboard users in place.
+    const focusedDay = document.activeElement?.dataset?.pathCheck || null;
     const completedDays = load();
     grid.innerHTML = firstSevenDays.map((item) => firstDayCard(item, completedDays)).join("");
     if (progress) progress.textContent = `${completedDays.size} of ${firstSevenDays.length} days`;
@@ -47,6 +44,10 @@ export function setupFirstPath() {
         render();
       });
     });
+
+    if (focusedDay) {
+      grid.querySelector(`[data-path-check="${focusedDay}"]`)?.focus({ preventScroll: true });
+    }
   };
 
   reset?.addEventListener("click", () => {

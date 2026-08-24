@@ -7,7 +7,7 @@ function searchText(item) {
     .toLowerCase();
 }
 
-export function resourceCard(item) {
+function resourceCard(item) {
   const category = item.category || "general";
   const tagMarkup = item.tags
     .map((tag) => `<span class="pill">${escapeHtml(tag)}</span>`)
@@ -86,8 +86,8 @@ export function renderStarterResources(items) {
 
 export function renderResourceFilters() {
   return `
-    <button class="chip is-active" data-filter="all">All</button>
-    ${resourceGroups.map(({ key, label }) => `<button class="chip" data-filter="${escapeHtml(key)}">${escapeHtml(label)}</button>`).join("")}
+    <button class="chip is-active" data-filter="all" aria-pressed="true">All</button>
+    ${resourceGroups.map(({ key, label }) => `<button class="chip" data-filter="${escapeHtml(key)}" aria-pressed="false">${escapeHtml(label)}</button>`).join("")}
   `;
 }
 
@@ -106,23 +106,6 @@ export function poetryCard(item) {
       <strong>${escapeHtml(item.frame)}</strong>
       <p>${escapeHtml(item.copy)}</p>
       <div class="resource-links">${linkMarkup}</div>
-    </article>
-  `;
-}
-
-export function renderSection(id, items) {
-  const target = document.getElementById(id);
-  if (!target) return;
-  target.innerHTML = items.map(resourceCard).join("");
-}
-
-export function glossaryCard(item) {
-  return `
-    <article class="card glossary-card" data-glossary-search="${escapeHtml(searchText({ title: item.term, copy: item.definition, tags: [item.short], links: [] }))}">
-      <span class="pill">Term</span>
-      <h3>${escapeHtml(item.term)}</h3>
-      <strong>${escapeHtml(item.short)}</strong>
-      <p>${escapeHtml(item.definition)}</p>
     </article>
   `;
 }

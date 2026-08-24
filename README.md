@@ -15,6 +15,17 @@ The reference browser keeps one search active across every section. Section tabs
 counts so readers can see whether a person, place, doctrine, timeline event, or quiz set is relevant
 before switching views.
 
+## Project layout
+
+- `index.html`, `reference.html`, `roadmap.html`, `quizzes.html`, `quiz-study.html`, `quizzes/*.html`, `prayer.html`, `poetry.html`, `resources.html` — one HTML file per page. Shared chrome (topbar nav rows, footer, skip link) is duplicated on purpose so every page works without JavaScript; `page-verify.mjs` keeps those copies from drifting apart.
+- `page-*.js` — per-page entry scripts (`page-home.js`, `page-poetry.js`, `page-prayer.js`, `page-resources.js`). Each page loads only the feature modules it needs.
+- `prayer.html` ships its sections as static fallback markup inside `#prayer-sections`, wrapped in `<!-- prayer-sections:start/end -->` markers so the page works without JavaScript. `app-prayer.js` only renders client-side when that static copy is missing, and `page-verify.mjs` re-renders `prayer-data.js` in Node and fails if the static copy drifts. After editing prayer content, regenerate the block between the markers and bump the cache-bust stamp.
+- `app-*.js`, `reference*.js`, `quiz-study.js`, `roadmap.js` — feature modules and renderers.
+- `*-data.js` — pure content modules (resources, poetry, drawer topics, roadmap nodes, Bible books, …) with no DOM access.
+- `styles.css` — the single shared stylesheet; the table of contents comment at the top maps its sections.
+
+Cache busting: asset URLs carry a `?v=YYYYMMDD-N` stamp. Bump the stamp in the HTML files whenever JS or CSS changes (the tests assert the stamps stay uniform across pages; they intentionally do not hardcode the current value).
+
 ## Local preview
 
 Open `index.html` directly or serve the folder with a simple static server:
@@ -36,6 +47,10 @@ Run the smoke and page checks with:
 ```bash
 npm test
 ```
+
+The suite covers: module import safety, per-page entry wiring, canonical
+navigation/footer/skip-link presence, uniform cache-bust stamps, data shape
+checks, and HTTP 200s for every page.
 
 ## Continuous Integration
 

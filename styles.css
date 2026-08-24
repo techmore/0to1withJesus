@@ -1,3 +1,22 @@
+/* ==========================================================================
+   Jesus Guide — single shared stylesheet
+   --------------------------------------------------------------------------
+   Contents:
+     1. Tokens & base (:root variables, reset, skip link)
+     2. Chrome (.topbar, nav rows, .footer)
+     3. Layout primitives (.shell, .section, .grid-*, .split-grid)
+     4. Cards & buttons (.card variants, .button, .icon-button, chips/tabs)
+     5. Home page (hero, home map, Bible in a Year, first path)
+     6. Resources & poetry
+     7. Reference browser & quizzes
+     8. Prayer page
+     9. Roadmap (React Flow) & drawer
+    10. Media queries
+
+   Naming: kebab-case blocks with element/variant suffixes (.path-card-head),
+   state via .is-* classes and data-attribute variants.
+   ========================================================================== */
+
 :root {
   color-scheme: light;
   --olive-50: #f7f8f4;
@@ -26,7 +45,7 @@
   --surface: rgba(221, 225, 208, 0.92);
   --surface-strong: var(--olive-50);
   --text: var(--stone-800);
-  --muted: var(--stone-500);
+  --muted: var(--stone-600);
   --line: rgba(110, 117, 75, 0.38);
   --brand: var(--olive-700);
   --brand-strong: var(--olive-900);
@@ -46,6 +65,20 @@
 
 html {
   scroll-behavior: smooth;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  *,
+  *::before,
+  *::after {
+    transition-duration: 0.01ms !important;
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+  }
 }
 
 body {
@@ -69,20 +102,20 @@ input {
   font: inherit;
 }
 
-.backdrop {
-  display: none;
+.skip-link {
+  position: fixed;
+  top: -100%;
+  left: 1rem;
+  z-index: 200;
+  padding: 0.7rem 1rem;
+  border-radius: var(--radius-sm);
+  background: var(--olive-950);
+  color: var(--olive-50);
+  font-weight: 700;
 }
 
-.backdrop-a {
-  top: -12rem;
-  left: -10rem;
-  background: rgba(143, 95, 45, 0.24);
-}
-
-.backdrop-b {
-  top: 10rem;
-  right: -16rem;
-  background: rgba(68, 100, 84, 0.22);
+.skip-link:focus {
+  top: 0.75rem;
 }
 
 .topbar,
@@ -257,8 +290,6 @@ input {
 .section,
 .card,
 .panel-card,
-.panel,
-.timeline-item,
 .callout {
   backdrop-filter: blur(16px);
 }
@@ -334,8 +365,7 @@ h1 {
 
 .button:hover,
 .tab:hover,
-.chip:hover,
-.icon-button:hover {
+.chip:hover {
   transform: translateY(-1px);
 }
 
@@ -363,8 +393,6 @@ h1 {
 
 .panel-card,
 .card,
-.panel,
-.timeline-item,
 .callout {
   background: var(--surface);
   border: 1px solid var(--line);
@@ -536,8 +564,8 @@ h1 {
 .tab:focus-visible,
 .chip:focus-visible,
 .link:focus-visible {
-  outline: 3px solid rgba(68, 100, 84, 0.28);
-  outline-offset: 3px;
+  outline: 3px solid rgba(52, 78, 65, 0.85);
+  outline-offset: 2px;
 }
 
 .icon-button svg {
@@ -559,12 +587,6 @@ h1 {
 
 .resource-panel-icon {
   color: currentColor;
-}
-
-.text-lightbulb {
-  font-weight: 900;
-  font-size: 1rem;
-  line-height: 1;
 }
 
 .resource-panel-trigger:hover {
@@ -795,35 +817,6 @@ h1 {
   background: var(--olive-100);
 }
 
-.glossary-section {
-  background: var(--bg-elevated);
-}
-
-.glossary-search {
-  margin-bottom: 1rem;
-}
-
-.glossary-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
-  gap: 1rem;
-}
-
-.glossary-card {
-  display: grid;
-  gap: 0.65rem;
-  align-content: start;
-  background: var(--surface);
-}
-
-.glossary-card h3 {
-  margin-bottom: 0;
-}
-
-.glossary-card strong {
-  color: var(--accent);
-}
-
 .drawer-glossary-links {
   display: grid;
   gap: 0.55rem;
@@ -862,38 +855,6 @@ h1 {
   background: var(--olive-50);
 }
 
-.timeline {
-  display: grid;
-  grid-template-columns: repeat(4, minmax(0, 1fr));
-  gap: 1rem;
-}
-
-.timeline-item {
-  position: relative;
-}
-
-.timeline-item::before {
-  content: "";
-  position: absolute;
-  top: 1rem;
-  right: 1rem;
-  width: 0.8rem;
-  height: 0.8rem;
-  border-radius: 999px;
-  background: var(--olive-600);
-  box-shadow: 0 0 0 6px rgba(110, 117, 75, 0.14);
-}
-
-.roadmap-teaser {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 1rem;
-}
-
-.section-spacer {
-  margin-top: 1rem;
-}
-
 .tablist,
 .chips {
   display: flex;
@@ -916,24 +877,6 @@ h1 {
   background: var(--olive-600);
   color: var(--olive-50);
   border-color: transparent;
-}
-
-.panels {
-  margin-top: 1rem;
-}
-
-.panel {
-  display: none;
-  padding: 1.2rem;
-}
-
-.panel.is-active {
-  display: block;
-}
-
-.panel-intro {
-  margin-bottom: 1rem;
-  max-width: 66ch;
 }
 
 .card-quiet {
@@ -1138,48 +1081,6 @@ h1 {
   padding: 1.2rem;
 }
 
-.meta-grid {
-  display: grid;
-  grid-template-columns: repeat(4, minmax(0, 1fr));
-  gap: 1rem;
-}
-
-.meta-card {
-  padding: 1rem;
-}
-
-.meta-card strong {
-  display: block;
-  font-size: 1.25rem;
-  margin-bottom: 0.35rem;
-}
-
-.skill-tree {
-  display: grid;
-  gap: 1rem;
-}
-
-.skill-track {
-  padding: 1.15rem;
-  border-radius: var(--radius);
-  border: 1px solid var(--line);
-  background: var(--surface);
-  box-shadow: var(--shadow);
-}
-
-.track-head {
-  display: flex;
-  justify-content: space-between;
-  align-items: baseline;
-  gap: 0.75rem;
-  margin-bottom: 1rem;
-  flex-wrap: wrap;
-}
-
-.track-head h3 {
-  font-size: 1.6rem;
-}
-
 .track-pill {
   display: inline-flex;
   align-items: center;
@@ -1189,102 +1090,6 @@ h1 {
   color: var(--brand-strong);
   font-weight: 700;
   font-size: 0.82rem;
-}
-
-.tree-rows {
-  display: grid;
-  gap: 0.85rem;
-}
-
-.tree-node {
-  position: relative;
-  padding: 1rem 1rem 1rem 1.25rem;
-  border-radius: var(--radius);
-  border: 1px solid var(--line);
-  background: var(--olive-100);
-}
-
-.tree-node::before {
-  content: "";
-  position: absolute;
-  left: 0.55rem;
-  top: 1.1rem;
-  bottom: 1.1rem;
-  width: 2px;
-  background: linear-gradient(180deg, var(--olive-600), transparent);
-}
-
-.tree-node::after {
-  content: "";
-  position: absolute;
-  left: 0.35rem;
-  top: 1rem;
-  width: 0.45rem;
-  height: 0.45rem;
-  border-radius: 999px;
-  background: var(--accent);
-  box-shadow: 0 0 0 6px rgba(110, 117, 75, 0.14);
-}
-
-.node-top {
-  display: flex;
-  justify-content: space-between;
-  gap: 1rem;
-  align-items: center;
-  margin-bottom: 0.35rem;
-}
-
-.node-top h4 {
-  margin: 0;
-  font-family: "Instrument Serif", serif;
-  font-size: 1.2rem;
-}
-
-.node-level {
-  font-size: 0.78rem;
-  text-transform: uppercase;
-  letter-spacing: 0.12em;
-  color: var(--muted);
-  font-weight: 800;
-}
-
-.node-copy {
-  color: var(--muted);
-  line-height: 1.7;
-  margin: 0 0 0.7rem;
-}
-
-.node-list {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.45rem;
-}
-
-.node-chip {
-  display: inline-flex;
-  align-items: center;
-  padding: 0.34rem 0.6rem;
-  border-radius: 999px;
-  background: var(--accent-soft);
-  color: var(--accent);
-  font-size: 0.8rem;
-  font-weight: 700;
-}
-
-.cadence-grid,
-.dive-grid,
-.specialization-grid {
-  display: grid;
-  gap: 1rem;
-}
-
-.cadence-grid {
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-}
-
-.dive-grid,
-.specialization-grid {
-  grid-template-columns: repeat(3, minmax(0, 1fr));
 }
 
 .roadmap-section {
@@ -1309,38 +1114,6 @@ h1 {
 .list-card h3 {
   font-size: 1.25rem;
   margin-bottom: 0.65rem;
-}
-
-.ordered {
-  margin: 0;
-  padding-left: 1.2rem;
-  color: var(--muted);
-  line-height: 1.8;
-}
-
-.specialization-toggle {
-  display: flex;
-  gap: 0.6rem;
-  flex-wrap: wrap;
-  margin-bottom: 1rem;
-}
-
-.specialization-toggle button {
-  border: 1px solid var(--line);
-  background: var(--surface);
-  border-radius: 999px;
-  padding: 0.6rem 0.95rem;
-  cursor: pointer;
-}
-
-.specialization-toggle button.is-active {
-  background: var(--olive-600);
-  color: var(--olive-50);
-  border-color: transparent;
-}
-
-.hidden {
-  display: none !important;
 }
 
 .roadmap-footer-cta {
@@ -1505,7 +1278,16 @@ h1 {
 
 .reference-tabs {
   grid-column: 1 / -1;
+  display: flex;
+  gap: 0.6rem;
+  flex-wrap: wrap;
   justify-content: flex-start;
+}
+
+.tablist {
+  display: flex;
+  gap: 0.6rem;
+  flex-wrap: wrap;
 }
 
 .reference-tabs .tab {
@@ -2086,13 +1868,10 @@ h1 {
 }
 
 .quiz-page-shell .reference-browser {
-  padding-top: 0;
-}
-
-.quiz-page-shell .reference-browser {
   background: transparent;
   border: 0;
   box-shadow: none;
+  padding-top: 0;
   padding-inline: 0;
 }
 
@@ -2263,7 +2042,7 @@ h1 {
 .drawer-overlay {
   position: fixed;
   inset: 0;
-  z-index: 10;
+  z-index: 90;
   background: rgba(31, 33, 23, 0.3);
   backdrop-filter: blur(4px);
   opacity: 0;
@@ -2280,7 +2059,7 @@ h1 {
   position: fixed;
   top: 0;
   right: 0;
-  z-index: 11;
+  z-index: 100;
   width: min(32rem, calc(100vw - 1rem));
   height: 100vh;
   padding: 1.2rem;
@@ -2373,19 +2152,13 @@ body.drawer-open {
   .hero,
   .page-hero,
   .reference-hero,
-  .timeline,
   .first-days-grid,
   .next-path-grid,
   .grid-4,
   .grid-3,
   .split-grid,
   .bible-year-layout,
-  .roadmap-teaser,
-  .roadmap-hero,
-  .meta-grid,
-  .cadence-grid,
-  .dive-grid,
-  .specialization-grid {
+  .roadmap-hero {
     grid-template-columns: 1fr;
   }
 

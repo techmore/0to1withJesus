@@ -25,7 +25,11 @@ function setupResourceFilters() {
   chips.forEach((chip) => {
     chip.addEventListener("click", () => {
       activeFilter = chip.dataset.filter || "all";
-      chips.forEach((button) => button.classList.toggle("is-active", button === chip));
+      chips.forEach((button) => {
+        const isActive = button === chip;
+        button.classList.toggle("is-active", isActive);
+        button.setAttribute("aria-pressed", String(isActive));
+      });
       apply();
     });
   });

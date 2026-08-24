@@ -1,24 +1,34 @@
 import { referenceData } from './reference-data.js';
-import { sections } from './section-data.js';
 import { resources, resourceGroups, resourceStarterSection } from './resource-data.js';
-import { glossaryTerms } from './glossary-data.js';
 import { poetryWorks } from './poetry-data.js';
 import { drawerTopics } from './drawer-data.js';
 import { firstSevenDays } from './first-path-data.js';
 import { bibleBooks } from './books-data.js';
+import { roadmapNodes } from './roadmap-data.js';
 
 function assert(condition, message) {
   if (!condition) throw new Error(message);
 }
 
-assert(Array.isArray(sections.overview) && sections.overview.length > 0, 'sections.overview must exist');
 assert(Array.isArray(resources) && resources.length > 0, 'resources must exist');
 assert(Array.isArray(resourceGroups) && resourceGroups.length > 0, 'resourceGroups must exist');
 assert(resourceStarterSection && typeof resourceStarterSection.title === 'string', 'resourceStarterSection must exist');
-assert(Array.isArray(glossaryTerms) && glossaryTerms.length > 0, 'glossaryTerms must exist');
 assert(Array.isArray(poetryWorks) && poetryWorks.length > 0, 'poetryWorks must exist');
 assert(drawerTopics && typeof drawerTopics === 'object' && Object.keys(drawerTopics).length > 0, 'drawerTopics must exist');
 assert(Array.isArray(firstSevenDays) && firstSevenDays.length === 7, 'firstSevenDays must contain seven days');
+assert(Array.isArray(roadmapNodes) && roadmapNodes.length > 0, 'roadmapNodes must exist');
+{
+  const roadmapIds = new Set(roadmapNodes.map((node) => node.id));
+  assert(roadmapIds.size === roadmapNodes.length, 'roadmap node ids must be unique');
+  for (const node of roadmapNodes) {
+    assert(typeof node.id === 'string' && node.id, `roadmap node needs an id (${node.title})`);
+    assert(typeof node.title === 'string' && node.title, `roadmap node ${node.id} needs a title`);
+    assert(Array.isArray(node.prerequisites), `roadmap node ${node.id} needs a prerequisites array`);
+    for (const prerequisite of node.prerequisites) {
+      assert(roadmapIds.has(prerequisite), `roadmap node ${node.id} references unknown prerequisite ${prerequisite}`);
+    }
+  }
+}
 assert(Array.isArray(bibleBooks) && bibleBooks.length === 66, 'bibleBooks must contain the standard 66-book order');
 assert(new Set(bibleBooks.map((book) => book.title)).size === bibleBooks.length, 'bible book titles must be unique');
 assert(bibleBooks.slice(0, 39).every((book) => book.kicker.startsWith('Old Testament')), 'the first 39 Bible books must be Old Testament books');

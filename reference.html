@@ -15,11 +15,10 @@
       href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:ital,opsz,wght@0,14..32,400..900;1,14..32,400..900&display=swap"
       rel="stylesheet"
     />
-    <link rel="stylesheet" href="./styles.css?v=20260719-1" />
+    <link rel="stylesheet" href="./styles.css?v=20260824-1" />
   </head>
   <body>
-    <div class="backdrop backdrop-a"></div>
-    <div class="backdrop backdrop-b"></div>
+    <a class="skip-link" href="#top">Skip to content</a>
 
     <header class="topbar">
       <div class="topbar-main">
@@ -48,11 +47,11 @@
         <a href="./reference.html#timeline">Timeline</a>
         <a href="./reference.html#versions">Versions</a>
         <a href="./reference.html#traditions">Traditions</a>
-        <a href="./quizzes.html">Quiz hub</a>
+        <a href="./quizzes.html">Quizzes</a>
       </nav>
     </header>
 
-    <main id="top" class="shell reference-shell">
+    <main id="top" tabindex="-1" class="shell reference-shell">
       <section class="reference-hero">
         <div class="reference-hero-copy">
           <p class="eyebrow">Beginner reference</p>
@@ -110,23 +109,29 @@
           <button class="button button-secondary reference-clear" type="button" data-clear-reference-search hidden>
             Clear search
           </button>
-          <div class="reference-tabs tablist" role="tablist" aria-label="Reference sections">
-            <button class="tab is-active" type="button" role="tab" aria-selected="true" data-reference-tab="reference">
-              Vocabulary
-            </button>
-            <button class="tab" type="button" role="tab" aria-selected="false" data-reference-tab="books">Books</button>
-            <a class="tab" href="./prayer.html">Prayer</a>
-            <button class="tab" type="button" role="tab" aria-selected="false" data-reference-tab="people">People</button>
-            <button class="tab" type="button" role="tab" aria-selected="false" data-reference-tab="locations">Locations</button>
-            <button class="tab" type="button" role="tab" aria-selected="false" data-reference-tab="timeline">Timeline</button>
-            <button class="tab" type="button" role="tab" aria-selected="false" data-reference-tab="versions">Versions</button>
-            <button class="tab" type="button" role="tab" aria-selected="false" data-reference-tab="traditions">Traditions</button>
-            <a class="tab" href="./quizzes.html">Quiz hub</a>
+          <div class="reference-tabs">
+            <div class="tablist" role="tablist" aria-label="Reference sections">
+              <button class="tab is-active" type="button" role="tab" id="reference-tab-reference" aria-selected="true" aria-controls="reference-panel" tabindex="0" data-reference-tab="reference">
+                Vocabulary
+              </button>
+              <button class="tab" type="button" role="tab" id="reference-tab-books" aria-selected="false" aria-controls="reference-panel" tabindex="-1" data-reference-tab="books">Books</button>
+              <button class="tab" type="button" role="tab" id="reference-tab-people" aria-selected="false" aria-controls="reference-panel" tabindex="-1" data-reference-tab="people">People</button>
+              <button class="tab" type="button" role="tab" id="reference-tab-locations" aria-selected="false" aria-controls="reference-panel" tabindex="-1" data-reference-tab="locations">Locations</button>
+              <button class="tab" type="button" role="tab" id="reference-tab-timeline" aria-selected="false" aria-controls="reference-panel" tabindex="-1" data-reference-tab="timeline">Timeline</button>
+              <button class="tab" type="button" role="tab" id="reference-tab-versions" aria-selected="false" aria-controls="reference-panel" tabindex="-1" data-reference-tab="versions">Versions</button>
+              <button class="tab" type="button" role="tab" id="reference-tab-traditions" aria-selected="false" aria-controls="reference-panel" tabindex="-1" data-reference-tab="traditions">Traditions</button>
+            </div>
+            <div class="tablist tablist-links" aria-label="Related pages">
+              <a class="tab" href="./prayer.html">Prayer</a>
+              <a class="tab" href="./quizzes.html">Quiz hub</a>
+            </div>
           </div>
         </div>
 
-        <div class="reference-summary" id="reference-summary" aria-live="polite"></div>
-        <div class="reference-grid" id="reference-grid"></div>
+        <div id="reference-panel" role="tabpanel" aria-label="Reference results" tabindex="0">
+          <div class="reference-summary" id="reference-summary" aria-live="polite"></div>
+          <div class="reference-grid" id="reference-grid"></div>
+        </div>
       </section>
 
       <section id="reading-lens" class="section reference-lens-section">
@@ -172,7 +177,7 @@
           </p>
           <div class="roadmap-footer-cta">
             <a class="button button-primary" href="https://www.biblegateway.com/passage/?search=John+1&version=NIV" target="_blank" rel="noopener noreferrer">Open John 1</a>
-            <a class="button button-secondary" href="./index.html#glossary">Home glossary</a>
+            <a class="button button-secondary" href="./reference.html#vocabulary">Home glossary</a>
           </div>
         </div>
       </section>
@@ -182,6 +187,6 @@
       <p>Built for GitHub Pages. Expand this guide as new questions come up during reading.</p>
     </footer>
 
-    <script type="module" src="./reference.js?v=20260719-1"></script>
+    <script type="module" src="./reference.js?v=20260824-1"></script>
   </body>
 </html>

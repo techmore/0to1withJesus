@@ -15,11 +15,10 @@
       href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:ital,opsz,wght@0,14..32,400..900;1,14..32,400..900&display=swap"
       rel="stylesheet"
     />
-    <link rel="stylesheet" href="./styles.css?v=20260719-1" />
+    <link rel="stylesheet" href="./styles.css?v=20260824-1" />
   </head>
   <body data-page="prayer">
-    <div class="backdrop backdrop-a"></div>
-    <div class="backdrop backdrop-b"></div>
+    <a class="skip-link" href="#top">Skip to content</a>
 
     <header class="topbar">
       <div class="topbar-main">
@@ -42,17 +41,17 @@
       <nav class="topnav topnav-reference" aria-label="Reference">
         <a href="./reference.html#vocabulary">Vocabulary</a>
         <a href="./reference.html#books">Books</a>
-        <a href="./prayer.html" aria-current="page">Prayer</a>
+        <a href="./prayer.html">Prayer</a>
         <a href="./reference.html#people">People</a>
         <a href="./reference.html#locations">Locations</a>
         <a href="./reference.html#timeline">Timeline</a>
         <a href="./reference.html#versions">Versions</a>
         <a href="./reference.html#traditions">Traditions</a>
-        <a href="./reference.html#quizzes">Quizzes</a>
+        <a href="./quizzes.html">Quizzes</a>
       </nav>
     </header>
 
-    <main id="top" class="shell reference-shell">
+    <main id="top" tabindex="-1" class="shell reference-shell">
       <section class="reference-hero">
         <div class="reference-hero-copy">
           <p class="eyebrow">Prayer guide</p>
@@ -147,1276 +146,1393 @@
         </div>
       </section>
 
-      <section class="section">
-        <div class="section-heading section-heading-wide">
-          <p class="eyebrow">Try this</p>
-          <h2>A one-minute prayer you can use before Bible reading.</h2>
-          <p>
-            If you do not know what to say, start here and then change the words slowly to fit your own situation.
-          </p>
-        </div>
+      <div id="prayer-sections">
+        <!-- prayer-sections:start (rendered from prayer-data.js; kept in sync by page-verify.mjs) -->
+<section class="section">
+      <div class="section-heading section-heading-wide">
+        <p class="eyebrow">Try this</p>
+        <h2>A one-minute prayer you can use before Bible reading.</h2>
+        <p>If you do not know what to say, start here and then change the words slowly to fit your own situation.</p>
+      </div>
+      
         <div class="card page-guide-card">
-          <p>
-            God, thank you for this day. Help me hear your word clearly. Show me what I need to confess,
-            what I need to trust, and what I need to do. Teach me to pray honestly and to follow Jesus
-            more closely. Amen.
-          </p>
+          
+          <p>God, thank you for this day. Help me hear your word clearly. Show me what I need to confess, what I need to trust, and what I need to do. Teach me to pray honestly and to follow Jesus more closely. Amen.</p>
         </div>
-      </section>
-
-      <section class="section">
-        <div class="section-heading section-heading-wide">
-          <p class="eyebrow">After reading</p>
-          <h2>A short prayer you can use after Bible reading.</h2>
-          <p>
-            Read one passage, notice one thing that stood out, and turn that into a prayer instead of moving on immediately.
-          </p>
-        </div>
+    </section>
+  
+    <section class="section">
+      <div class="section-heading section-heading-wide">
+        <p class="eyebrow">After reading</p>
+        <h2>A short prayer you can use after Bible reading.</h2>
+        <p>Read one passage, notice one thing that stood out, and turn that into a prayer instead of moving on immediately.</p>
+      </div>
+      
         <div class="card page-guide-card">
-          <p>
-            Lord Jesus, thank you for speaking to me through your word. Help me trust what is true,
-            obey what is clear, and remember what matters. Keep your word in my mind today and shape my
-            thoughts, words, and actions. Amen.
-          </p>
+          
+          <p>Lord Jesus, thank you for speaking to me through your word. Help me trust what is true, obey what is clear, and remember what matters. Keep your word in my mind today and shape my thoughts, words, and actions. Amen.</p>
         </div>
-      </section>
-
-      <section class="section">
-        <div class="section-heading section-heading-wide">
-          <p class="eyebrow">With liturgy</p>
-          <h2>How to pray when you are using a set worship service.</h2>
-          <p>
-            A liturgy can carry you when you do not have words. Join in slowly, repeat what you can, and mean what you say.
-          </p>
-        </div>
+    </section>
+  
+    <section class="section">
+      <div class="section-heading section-heading-wide">
+        <p class="eyebrow">With liturgy</p>
+        <h2>How to pray when you are using a set worship service.</h2>
+        <p>A liturgy can carry you when you do not have words. Join in slowly, repeat what you can, and mean what you say.</p>
+      </div>
+      
         <div class="grid grid-3 page-guide-grid">
-          <article class="card page-guide-card">
-            <span class="track-pill">1</span>
-            <h3>Follow the order</h3>
-            <p>Let the service guide you instead of trying to improvise every part.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">2</span>
-            <h3>Say the words slowly</h3>
-            <p>Speak the prayers in a measured way so the meaning can land.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">3</span>
-            <h3>Join with intention</h3>
-            <p>Use the written words as your own prayer for that moment, not as a script to rush through.</p>
-          </article>
+          
+    <article class="card page-guide-card">
+      <span class="track-pill">1</span>
+      <h3>Follow the order</h3>
+      <p>Let the service guide you instead of trying to improvise every part.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">2</span>
+      <h3>Say the words slowly</h3>
+      <p>Speak the prayers in a measured way so the meaning can land.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">3</span>
+      <h3>Join with intention</h3>
+      <p>Use the written words as your own prayer for that moment, not as a script to rush through.</p>
+    </article>
+  
         </div>
         <div class="card page-guide-card">
           <h3>A simple example</h3>
           <p>Listen, repeat the prayer slowly, add your Amen, and let the service do some of the work for you.</p>
         </div>
-      </section>
-
-      <section class="section">
-        <div class="section-heading section-heading-wide">
-          <p class="eyebrow">Before worship</p>
-          <h2>How to pray before you go to church or join a worship service.</h2>
-          <p>
-            A short prayer before worship can prepare your heart to listen, sing, confess, and receive what God gives in the gathering.
-          </p>
-        </div>
+    </section>
+  
+    <section class="section">
+      <div class="section-heading section-heading-wide">
+        <p class="eyebrow">Before worship</p>
+        <h2>How to pray before you go to church or join a worship service.</h2>
+        <p>A short prayer before worship can prepare your heart to listen, sing, confess, and receive what God gives in the gathering.</p>
+      </div>
+      
         <div class="grid grid-3 page-guide-grid">
-          <article class="card page-guide-card">
-            <span class="track-pill">1</span>
-            <h3>Ask for attention</h3>
-            <p>Pray that God would help you focus and not drift through the service.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">2</span>
-            <h3>Ask for humility</h3>
-            <p>Invite God to soften your heart so you can hear, repent, and receive grace.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">3</span>
-            <h3>Join with the body</h3>
-            <p>Pray for the people gathering with you and for the service to help everyone worship well.</p>
-          </article>
+          
+    <article class="card page-guide-card">
+      <span class="track-pill">1</span>
+      <h3>Ask for attention</h3>
+      <p>Pray that God would help you focus and not drift through the service.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">2</span>
+      <h3>Ask for humility</h3>
+      <p>Invite God to soften your heart so you can hear, repent, and receive grace.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">3</span>
+      <h3>Join with the body</h3>
+      <p>Pray for the people gathering with you and for the service to help everyone worship well.</p>
+    </article>
+  
         </div>
         <div class="card page-guide-card">
           <h3>A simple example</h3>
           <p>God, prepare my heart for worship. Help me listen well, sing honestly, and receive your grace with humility. Amen.</p>
         </div>
-      </section>
-
-      <section class="section">
-        <div class="section-heading section-heading-wide">
-          <p class="eyebrow">After worship</p>
-          <h2>How to pray after church or a worship service.</h2>
-          <p>
-            After worship, take a minute to thank God for what you heard, confess what you resisted, and ask him to help you live it out.
-          </p>
-        </div>
+    </section>
+  
+    <section class="section">
+      <div class="section-heading section-heading-wide">
+        <p class="eyebrow">After worship</p>
+        <h2>How to pray after church or a worship service.</h2>
+        <p>After worship, take a minute to thank God for what you heard, confess what you resisted, and ask him to help you live it out.</p>
+      </div>
+      
         <div class="grid grid-3 page-guide-grid">
-          <article class="card page-guide-card">
-            <span class="track-pill">1</span>
-            <h3>Thank God for what landed</h3>
-            <p>Name one song, prayer, or word that helped you notice God.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">2</span>
-            <h3>Confess resistance</h3>
-            <p>Ask forgiveness for anything you ignored, doubted, or held back from receiving.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">3</span>
-            <h3>Pray it outward</h3>
-            <p>Ask God to turn the service into obedience, love, and witness in the week ahead.</p>
-          </article>
+          
+    <article class="card page-guide-card">
+      <span class="track-pill">1</span>
+      <h3>Thank God for what landed</h3>
+      <p>Name one song, prayer, or word that helped you notice God.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">2</span>
+      <h3>Confess resistance</h3>
+      <p>Ask forgiveness for anything you ignored, doubted, or held back from receiving.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">3</span>
+      <h3>Pray it outward</h3>
+      <p>Ask God to turn the service into obedience, love, and witness in the week ahead.</p>
+    </article>
+  
         </div>
         <div class="card page-guide-card">
           <h3>A simple example</h3>
           <p>Lord, thank you for speaking to me today. Help me remember what mattered and live it out this week. Amen.</p>
         </div>
-      </section>
-
-      <section class="section">
-        <div class="section-heading section-heading-wide">
-          <p class="eyebrow">Daily rhythm</p>
-          <h2>A simple prayer pattern for the whole day.</h2>
-          <p>
-            You do not need a perfect schedule. Start small, repeat the pattern, and let prayer become part of ordinary life.
-          </p>
-        </div>
+    </section>
+  
+    <section class="section">
+      <div class="section-heading section-heading-wide">
+        <p class="eyebrow">Daily rhythm</p>
+        <h2>A simple prayer pattern for the whole day.</h2>
+        <p>You do not need a perfect schedule. Start small, repeat the pattern, and let prayer become part of ordinary life.</p>
+      </div>
+      
         <div class="grid grid-3 page-guide-grid">
-          <article class="card page-guide-card">
-            <span class="track-pill">Morning</span>
-            <h3>Start the day</h3>
-            <p>Thank God for waking you, ask for help with the day ahead, and read a short passage if you can.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">Midday</span>
-            <h3>Pause and remember</h3>
-            <p>Use a meal, a walk, or a quiet break to pray one short sentence: thank you, help me, or teach me.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">Evening</span>
-            <h3>Close the day</h3>
-            <p>Review the day honestly, confess what needs confession, give thanks for mercy, and rest in God’s care.</p>
-          </article>
+          
+    <article class="card page-guide-card">
+      <span class="track-pill">Morning</span>
+      <h3>Start the day</h3>
+      <p>Thank God for waking you, ask for help with the day ahead, and read a short passage if you can.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">Midday</span>
+      <h3>Pause and remember</h3>
+      <p>Use a meal, a walk, or a quiet break to pray one short sentence: thank you, help me, or teach me.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">Evening</span>
+      <h3>Close the day</h3>
+      <p>Review the day honestly, confess what needs confession, give thanks for mercy, and rest in God’s care.</p>
+    </article>
+  
         </div>
-      </section>
-
-      <section class="section">
-        <div class="section-heading section-heading-wide">
-          <p class="eyebrow">Bedtime</p>
-          <h2>How to pray before sleep.</h2>
-          <p>
-            Bedtime prayer can be short and quiet. It helps you close the day with thanks, confession, and trust instead of carrying everything into sleep.
-          </p>
-        </div>
+    </section>
+  
+    <section class="section">
+      <div class="section-heading section-heading-wide">
+        <p class="eyebrow">Bedtime</p>
+        <h2>How to pray before sleep.</h2>
+        <p>Bedtime prayer can be short and quiet. It helps you close the day with thanks, confession, and trust instead of carrying everything into sleep.</p>
+      </div>
+      
         <div class="grid grid-3 page-guide-grid">
-          <article class="card page-guide-card">
-            <span class="track-pill">1</span>
-            <h3>Thank God for the day</h3>
-            <p>Notice one gift from the day before you go to sleep.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">2</span>
-            <h3>Confess and release</h3>
-            <p>Name anything that needs forgiveness, then ask God to carry what you cannot fix tonight.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">3</span>
-            <h3>Ask for rest</h3>
-            <p>Pray for peace, protection, and real rest for the night ahead.</p>
-          </article>
+          
+    <article class="card page-guide-card">
+      <span class="track-pill">1</span>
+      <h3>Thank God for the day</h3>
+      <p>Notice one gift from the day before you go to sleep.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">2</span>
+      <h3>Confess and release</h3>
+      <p>Name anything that needs forgiveness, then ask God to carry what you cannot fix tonight.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">3</span>
+      <h3>Ask for rest</h3>
+      <p>Pray for peace, protection, and real rest for the night ahead.</p>
+    </article>
+  
         </div>
         <div class="card page-guide-card">
           <h3>A simple example</h3>
           <p>Lord, thank you for today. Forgive what was wrong, hold what is unfinished, and give me peaceful rest tonight. Amen.</p>
         </div>
-      </section>
-
-      <section class="section">
-        <div class="section-heading section-heading-wide">
-          <p class="eyebrow">Morning</p>
-          <h2>How to pray when you wake up.</h2>
-          <p>
-            Morning prayer does not need much time. It can be the first words of the day: thanks, surrender, and a request for help.
-          </p>
-        </div>
+    </section>
+  
+    <section class="section">
+      <div class="section-heading section-heading-wide">
+        <p class="eyebrow">Morning</p>
+        <h2>How to pray when you wake up.</h2>
+        <p>Morning prayer does not need much time. It can be the first words of the day: thanks, surrender, and a request for help.</p>
+      </div>
+      
         <div class="grid grid-3 page-guide-grid">
-          <article class="card page-guide-card">
-            <span class="track-pill">1</span>
-            <h3>Thank God first</h3>
-            <p>Begin with gratitude for waking, for mercy, and for a new day.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">2</span>
-            <h3>Surrender the day</h3>
-            <p>Ask God to lead your words, work, and relationships before the day gets busy.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">3</span>
-            <h3>Read a short passage</h3>
-            <p>Open Scripture if you can, then pray one thing back from what you read.</p>
-          </article>
+          
+    <article class="card page-guide-card">
+      <span class="track-pill">1</span>
+      <h3>Thank God first</h3>
+      <p>Begin with gratitude for waking, for mercy, and for a new day.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">2</span>
+      <h3>Surrender the day</h3>
+      <p>Ask God to lead your words, work, and relationships before the day gets busy.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">3</span>
+      <h3>Read a short passage</h3>
+      <p>Open Scripture if you can, then pray one thing back from what you read.</p>
+    </article>
+  
         </div>
         <div class="card page-guide-card">
           <h3>A simple example</h3>
           <p>God, thank you for this new day. Lead me, guard me, and help me follow Jesus in what comes next. Amen.</p>
         </div>
-      </section>
-
-      <section class="section">
-        <div class="section-heading section-heading-wide">
-          <p class="eyebrow">Fasting</p>
-          <h2>How to pray when you are fasting or giving something up.</h2>
-          <p>
-            Fasting is not about proving something. It is about making room for prayer, humility, and dependence on God.
-          </p>
-        </div>
+    </section>
+  
+    <section class="section">
+      <div class="section-heading section-heading-wide">
+        <p class="eyebrow">Fasting</p>
+        <h2>How to pray when you are fasting or giving something up.</h2>
+        <p>Fasting is not about proving something. It is about making room for prayer, humility, and dependence on God.</p>
+      </div>
+      
         <div class="grid grid-3 page-guide-grid">
-          <article class="card page-guide-card">
-            <span class="track-pill">1</span>
-            <h3>Keep it simple</h3>
-            <p>Choose a fast you can actually keep, and keep the reason clear.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">2</span>
-            <h3>Pray when you notice hunger</h3>
-            <p>Let meals or cravings remind you to ask God for help and to read a Psalm.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">3</span>
-            <h3>End with gratitude</h3>
-            <p>When the fast ends, thank God for the time of prayer and the provision he gives.</p>
-          </article>
+          
+    <article class="card page-guide-card">
+      <span class="track-pill">1</span>
+      <h3>Keep it simple</h3>
+      <p>Choose a fast you can actually keep, and keep the reason clear.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">2</span>
+      <h3>Pray when you notice hunger</h3>
+      <p>Let meals or cravings remind you to ask God for help and to read a Psalm.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">3</span>
+      <h3>End with gratitude</h3>
+      <p>When the fast ends, thank God for the time of prayer and the provision he gives.</p>
+    </article>
+  
         </div>
         <div class="card page-guide-card">
           <h3>A simple example</h3>
           <p>Lord, make room in me for prayer and humility. Help me depend on you more than on comfort. Amen.</p>
         </div>
-      </section>
-
-      <section class="section">
-        <div class="section-heading section-heading-wide">
-          <p class="eyebrow">Healing</p>
-          <h2>How to pray when you or someone else is sick.</h2>
-          <p>
-            Praying for healing is simple: ask God to heal, give strength, bring wise care, and hold the person in peace.
-          </p>
-        </div>
+    </section>
+  
+    <section class="section">
+      <div class="section-heading section-heading-wide">
+        <p class="eyebrow">Healing</p>
+        <h2>How to pray when you or someone else is sick.</h2>
+        <p>Praying for healing is simple: ask God to heal, give strength, bring wise care, and hold the person in peace.</p>
+      </div>
+      
         <div class="grid grid-3 page-guide-grid">
-          <article class="card page-guide-card">
-            <span class="track-pill">1</span>
-            <h3>Name the need</h3>
-            <p>Say who is sick and what kind of help they need.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">2</span>
-            <h3>Ask for healing</h3>
-            <p>Pray for recovery, relief, strength, and comfort.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">3</span>
-            <h3>Support with care</h3>
-            <p>Pair prayer with practical help, medical care, and presence where you can.</p>
-          </article>
+          
+    <article class="card page-guide-card">
+      <span class="track-pill">1</span>
+      <h3>Name the need</h3>
+      <p>Say who is sick and what kind of help they need.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">2</span>
+      <h3>Ask for healing</h3>
+      <p>Pray for recovery, relief, strength, and comfort.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">3</span>
+      <h3>Support with care</h3>
+      <p>Pair prayer with practical help, medical care, and presence where you can.</p>
+    </article>
+  
         </div>
         <div class="card page-guide-card">
           <h3>A simple example</h3>
           <p>God, please heal this person, relieve their pain, and give strength and wisdom to everyone caring for them. Amen.</p>
         </div>
-      </section>
-
-      <section class="section">
-        <div class="section-heading section-heading-wide">
-          <p class="eyebrow">Pray a Psalm</p>
-          <h2>How to turn a Psalm into prayer.</h2>
-          <p>
-            If a Psalm feels strange, do not wait to understand every line. Read it slowly and pray the parts that match your life.
-          </p>
-        </div>
+    </section>
+  
+    <section class="section">
+      <div class="section-heading section-heading-wide">
+        <p class="eyebrow">Pray a Psalm</p>
+        <h2>How to turn a Psalm into prayer.</h2>
+        <p>If a Psalm feels strange, do not wait to understand every line. Read it slowly and pray the parts that match your life.</p>
+      </div>
+      
         <div class="grid grid-3 page-guide-grid">
-          <article class="card page-guide-card">
-            <span class="track-pill">1</span>
-            <h3>Read aloud</h3>
-            <p>Read a short Psalm out loud, even if you only read a few verses.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">2</span>
-            <h3>Notice the words</h3>
-            <p>Pick one phrase that sounds like praise, confession, lament, trust, or thanks.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">3</span>
-            <h3>Pray it back</h3>
-            <p>Turn that phrase into your own sentence and speak it back to God in your own words.</p>
-          </article>
+          
+    <article class="card page-guide-card">
+      <span class="track-pill">1</span>
+      <h3>Read aloud</h3>
+      <p>Read a short Psalm out loud, even if you only read a few verses.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">2</span>
+      <h3>Notice the words</h3>
+      <p>Pick one phrase that sounds like praise, confession, lament, trust, or thanks.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">3</span>
+      <h3>Pray it back</h3>
+      <p>Turn that phrase into your own sentence and speak it back to God in your own words.</p>
+    </article>
+  
         </div>
-      </section>
-
-      <section class="section">
-        <div class="section-heading section-heading-wide">
-          <p class="eyebrow">Pray for others</p>
-          <h2>How to pray when someone else needs help.</h2>
-          <p>
-            Intercession means asking God for someone else. It can be as short as one sentence.
-          </p>
-        </div>
+    </section>
+  
+    <section class="section">
+      <div class="section-heading section-heading-wide">
+        <p class="eyebrow">Pray for others</p>
+        <h2>How to pray when someone else needs help.</h2>
+        <p>Intercession means asking God for someone else. It can be as short as one sentence.</p>
+      </div>
+      
         <div class="grid grid-3 page-guide-grid">
-          <article class="card page-guide-card">
-            <span class="track-pill">1</span>
-            <h3>Name the person</h3>
-            <p>Say who you are praying for and what they need, if you know it.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">2</span>
-            <h3>Ask God plainly</h3>
-            <p>Use simple words: help them, heal them, give them peace, or give them wisdom.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">3</span>
-            <h3>Keep it short</h3>
-            <p>You do not need a long speech. One honest sentence is enough to begin.</p>
-          </article>
+          
+    <article class="card page-guide-card">
+      <span class="track-pill">1</span>
+      <h3>Name the person</h3>
+      <p>Say who you are praying for and what they need, if you know it.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">2</span>
+      <h3>Ask God plainly</h3>
+      <p>Use simple words: help them, heal them, give them peace, or give them wisdom.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">3</span>
+      <h3>Keep it short</h3>
+      <p>You do not need a long speech. One honest sentence is enough to begin.</p>
+    </article>
+  
         </div>
         <div class="card page-guide-card">
           <h3>A simple example</h3>
           <p>God, please help my friend today. Give them peace, wisdom, and the support they need. Amen.</p>
         </div>
-      </section>
-
-      <section class="section">
-        <div class="section-heading section-heading-wide">
-          <p class="eyebrow">Five minutes</p>
-          <h2>A fuller starter prayer flow for a new day.</h2>
-          <p>
-            If one minute feels too short and a full liturgy feels too heavy, use this middle-sized pattern.
-          </p>
-        </div>
+    </section>
+  
+    <section class="section">
+      <div class="section-heading section-heading-wide">
+        <p class="eyebrow">Five minutes</p>
+        <h2>A fuller starter prayer flow for a new day.</h2>
+        <p>If one minute feels too short and a full liturgy feels too heavy, use this middle-sized pattern.</p>
+      </div>
+      
         <div class="grid grid-3 page-guide-grid">
-          <article class="card page-guide-card">
-            <span class="track-pill">1</span>
-            <h3>Begin with thanks</h3>
-            <p>Thank God for life, mercy, and the chance to start again today.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">2</span>
-            <h3>Tell the truth</h3>
-            <p>Confess where you were distracted, proud, afraid, or unkind, and ask for help.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">3</span>
-            <h3>Ask for others</h3>
-            <p>Pray for one or two other people by name before you move on with your day.</p>
-          </article>
+          
+    <article class="card page-guide-card">
+      <span class="track-pill">1</span>
+      <h3>Begin with thanks</h3>
+      <p>Thank God for life, mercy, and the chance to start again today.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">2</span>
+      <h3>Tell the truth</h3>
+      <p>Confess where you were distracted, proud, afraid, or unkind, and ask for help.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">3</span>
+      <h3>Ask for others</h3>
+      <p>Pray for one or two other people by name before you move on with your day.</p>
+    </article>
+  
         </div>
         <div class="card page-guide-card">
           <h3>Example outline</h3>
           <p>Thank God, confess honestly, ask for help, pray for others, read a Psalm, and end with Amen.</p>
         </div>
-      </section>
-
-      <section class="section">
-        <div class="section-heading section-heading-wide">
-          <p class="eyebrow">When anxious</p>
-          <h2>How to pray when you feel worried or overwhelmed.</h2>
-          <p>
-            Anxiety can make prayer feel hard. Keep it small and direct: name the fear, ask for help, and return to trust.
-          </p>
-        </div>
+    </section>
+  
+    <section class="section">
+      <div class="section-heading section-heading-wide">
+        <p class="eyebrow">When anxious</p>
+        <h2>How to pray when you feel worried or overwhelmed.</h2>
+        <p>Anxiety can make prayer feel hard. Keep it small and direct: name the fear, ask for help, and return to trust.</p>
+      </div>
+      
         <div class="grid grid-3 page-guide-grid">
-          <article class="card page-guide-card">
-            <span class="track-pill">1</span>
-            <h3>Name the fear</h3>
-            <p>Tell God exactly what feels heavy instead of trying to sound calm.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">2</span>
-            <h3>Ask for peace</h3>
-            <p>Ask God for peace, clarity, strength, or help with the next step.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">3</span>
-            <h3>Use Scripture</h3>
-            <p>Read a Psalm, the Lord's Prayer, or a short verse, then pray it back slowly.</p>
-          </article>
+          
+    <article class="card page-guide-card">
+      <span class="track-pill">1</span>
+      <h3>Name the fear</h3>
+      <p>Tell God exactly what feels heavy instead of trying to sound calm.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">2</span>
+      <h3>Ask for peace</h3>
+      <p>Ask God for peace, clarity, strength, or help with the next step.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">3</span>
+      <h3>Use Scripture</h3>
+      <p>Read a Psalm, the Lord&#39;s Prayer, or a short verse, then pray it back slowly.</p>
+    </article>
+  
         </div>
         <div class="card page-guide-card">
           <h3>A simple example</h3>
           <p>God, I am worried and tired. Please give me peace, show me the next right step, and help me trust you today. Amen.</p>
         </div>
-      </section>
-
-      <section class="section">
-        <div class="section-heading section-heading-wide">
-          <p class="eyebrow">When dry</p>
-          <h2>How to pray when you do not feel much at all.</h2>
-          <p>
-            Prayer does not depend on strong feelings. If you feel stuck, use a small honest sentence and a Psalm.
-          </p>
-        </div>
+    </section>
+  
+    <section class="section">
+      <div class="section-heading section-heading-wide">
+        <p class="eyebrow">When dry</p>
+        <h2>How to pray when you do not feel much at all.</h2>
+        <p>Prayer does not depend on strong feelings. If you feel stuck, use a small honest sentence and a Psalm.</p>
+      </div>
+      
         <div class="grid grid-3 page-guide-grid">
-          <article class="card page-guide-card">
-            <span class="track-pill">1</span>
-            <h3>Say that plainly</h3>
-            <p>Tell God you feel dry, distracted, or numb. Honesty is enough to begin.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">2</span>
-            <h3>Borrow words</h3>
-            <p>Read a Psalm or a written prayer and let it carry you when your own words feel thin.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">3</span>
-            <h3>Stay brief</h3>
-            <p>Do not force intensity. A short prayer repeated faithfully is better than a forced speech.</p>
-          </article>
+          
+    <article class="card page-guide-card">
+      <span class="track-pill">1</span>
+      <h3>Say that plainly</h3>
+      <p>Tell God you feel dry, distracted, or numb. Honesty is enough to begin.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">2</span>
+      <h3>Borrow words</h3>
+      <p>Read a Psalm or a written prayer and let it carry you when your own words feel thin.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">3</span>
+      <h3>Stay brief</h3>
+      <p>Do not force intensity. A short prayer repeated faithfully is better than a forced speech.</p>
+    </article>
+  
         </div>
         <div class="card page-guide-card">
           <h3>A simple example</h3>
           <p>God, I do not have many words today. Help me stay near you, and let your Psalm shape my prayer. Amen.</p>
         </div>
-      </section>
-
-      <section class="section">
-        <div class="section-heading section-heading-wide">
-          <p class="eyebrow">When faith feels weak</p>
-          <h2>How to pray when you want to believe, but doubt is loud.</h2>
-          <p>
-            Doubt is not solved by pretending. Bring it to God honestly, ask for help, and keep showing up with the faith you do have.
-          </p>
-        </div>
+    </section>
+  
+    <section class="section">
+      <div class="section-heading section-heading-wide">
+        <p class="eyebrow">When faith feels weak</p>
+        <h2>How to pray when you want to believe, but doubt is loud.</h2>
+        <p>Doubt is not solved by pretending. Bring it to God honestly, ask for help, and keep showing up with the faith you do have.</p>
+      </div>
+      
         <div class="grid grid-3 page-guide-grid">
-          <article class="card page-guide-card">
-            <span class="track-pill">1</span>
-            <h3>Say the doubt out loud</h3>
-            <p>Tell God what is hard to believe or what feels uncertain.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">2</span>
-            <h3>Ask for help to believe</h3>
-            <p>Pray for trust, clarity, and patience while you wait for understanding.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">3</span>
-            <h3>Keep turning back</h3>
-            <p>Use Scripture, prayer book words, or the Lord's Prayer to stay near God while you wait.</p>
-          </article>
+          
+    <article class="card page-guide-card">
+      <span class="track-pill">1</span>
+      <h3>Say the doubt out loud</h3>
+      <p>Tell God what is hard to believe or what feels uncertain.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">2</span>
+      <h3>Ask for help to believe</h3>
+      <p>Pray for trust, clarity, and patience while you wait for understanding.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">3</span>
+      <h3>Keep turning back</h3>
+      <p>Use Scripture, prayer book words, or the Lord&#39;s Prayer to stay near God while you wait.</p>
+    </article>
+  
         </div>
         <div class="card page-guide-card">
           <h3>A simple example</h3>
           <p>Lord, I believe, but help my unbelief. Keep me near you and help me trust what is true. Amen.</p>
         </div>
-      </section>
-
-      <section class="section">
-        <div class="section-heading section-heading-wide">
-          <p class="eyebrow">Scripture memory</p>
-          <h2>How to pray with a verse you are learning by heart.</h2>
-          <p>
-            Memorized Scripture can become prayer when you repeat it slowly, reflect on it, and turn it back toward God.
-          </p>
-        </div>
+    </section>
+  
+    <section class="section">
+      <div class="section-heading section-heading-wide">
+        <p class="eyebrow">Scripture memory</p>
+        <h2>How to pray with a verse you are learning by heart.</h2>
+        <p>Memorized Scripture can become prayer when you repeat it slowly, reflect on it, and turn it back toward God.</p>
+      </div>
+      
         <div class="grid grid-3 page-guide-grid">
-          <article class="card page-guide-card">
-            <span class="track-pill">1</span>
-            <h3>Pick one short verse</h3>
-            <p>Choose a verse or Psalm line that already speaks to your need or question.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">2</span>
-            <h3>Repeat it slowly</h3>
-            <p>Say the verse aloud a few times and notice which word or phrase stays with you.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">3</span>
-            <h3>Pray it back</h3>
-            <p>Turn the verse into a prayer by asking God to make it true in you or through you.</p>
-          </article>
+          
+    <article class="card page-guide-card">
+      <span class="track-pill">1</span>
+      <h3>Pick one short verse</h3>
+      <p>Choose a verse or Psalm line that already speaks to your need or question.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">2</span>
+      <h3>Repeat it slowly</h3>
+      <p>Say the verse aloud a few times and notice which word or phrase stays with you.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">3</span>
+      <h3>Pray it back</h3>
+      <p>Turn the verse into a prayer by asking God to make it true in you or through you.</p>
+    </article>
+  
         </div>
         <div class="card page-guide-card">
           <h3>A simple example</h3>
           <p>Lord, let your word dwell in me. Teach me to trust what you say and to live it out today. Amen.</p>
         </div>
-      </section>
-
-      <section class="section">
-        <div class="section-heading section-heading-wide">
-          <p class="eyebrow">With others</p>
-          <h2>How to pray with another person or a small group.</h2>
-          <p>
-            Group prayer does not need to sound impressive. Keep it simple, brief, and centered on God rather than performance.
-          </p>
-        </div>
+    </section>
+  
+    <section class="section">
+      <div class="section-heading section-heading-wide">
+        <p class="eyebrow">With others</p>
+        <h2>How to pray with another person or a small group.</h2>
+        <p>Group prayer does not need to sound impressive. Keep it simple, brief, and centered on God rather than performance.</p>
+      </div>
+      
         <div class="grid grid-3 page-guide-grid">
-          <article class="card page-guide-card">
-            <span class="track-pill">1</span>
-            <h3>Share a request</h3>
-            <p>Let each person say one thing they need prayer for.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">2</span>
-            <h3>Take turns briefly</h3>
-            <p>Pray one short prayer at a time so nobody has to carry the whole moment.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">3</span>
-            <h3>End with thanks</h3>
-            <p>Thank God together for hearing you, then move on with the day or meeting.</p>
-          </article>
+          
+    <article class="card page-guide-card">
+      <span class="track-pill">1</span>
+      <h3>Share a request</h3>
+      <p>Let each person say one thing they need prayer for.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">2</span>
+      <h3>Take turns briefly</h3>
+      <p>Pray one short prayer at a time so nobody has to carry the whole moment.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">3</span>
+      <h3>End with thanks</h3>
+      <p>Thank God together for hearing you, then move on with the day or meeting.</p>
+    </article>
+  
         </div>
         <div class="card page-guide-card">
           <h3>A simple example</h3>
           <p>God, thank you for this person and their needs. Please give them peace, wisdom, and help. Amen.</p>
         </div>
-      </section>
-
-      <section class="section">
-        <div class="section-heading section-heading-wide">
-          <p class="eyebrow">Confession</p>
-          <h2>How to pray when you know you have done wrong.</h2>
-          <p>
-            Confession is not about hiding less and pretending more. It is about telling God the truth and asking for mercy.
-          </p>
-        </div>
+    </section>
+  
+    <section class="section">
+      <div class="section-heading section-heading-wide">
+        <p class="eyebrow">Confession</p>
+        <h2>How to pray when you know you have done wrong.</h2>
+        <p>Confession is not about hiding less and pretending more. It is about telling God the truth and asking for mercy.</p>
+      </div>
+      
         <div class="grid grid-3 page-guide-grid">
-          <article class="card page-guide-card">
-            <span class="track-pill">1</span>
-            <h3>Name the sin</h3>
-            <p>Be specific about what was wrong instead of speaking vaguely.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">2</span>
-            <h3>Ask for mercy</h3>
-            <p>Ask God to forgive you and help you turn around.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">3</span>
-            <h3>Receive grace</h3>
-            <p>Thank God for mercy, then take the next right step in obedience.</p>
-          </article>
+          
+    <article class="card page-guide-card">
+      <span class="track-pill">1</span>
+      <h3>Name the sin</h3>
+      <p>Be specific about what was wrong instead of speaking vaguely.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">2</span>
+      <h3>Ask for mercy</h3>
+      <p>Ask God to forgive you and help you turn around.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">3</span>
+      <h3>Receive grace</h3>
+      <p>Thank God for mercy, then take the next right step in obedience.</p>
+    </article>
+  
         </div>
         <div class="card page-guide-card">
           <h3>A simple example</h3>
           <p>God, I was proud and unkind. Please forgive me, change me, and help me do better today. Amen.</p>
         </div>
-      </section>
-
-      <section class="section">
-        <div class="section-heading section-heading-wide">
-          <p class="eyebrow">Recurring sin</p>
-          <h2>How to pray when you keep falling into the same sin.</h2>
-          <p>
-            Repeated failure can make prayer feel discouraging. Keep coming back with honesty, ask for help, and take one concrete step away from the pattern.
-          </p>
-        </div>
+    </section>
+  
+    <section class="section">
+      <div class="section-heading section-heading-wide">
+        <p class="eyebrow">Recurring sin</p>
+        <h2>How to pray when you keep falling into the same sin.</h2>
+        <p>Repeated failure can make prayer feel discouraging. Keep coming back with honesty, ask for help, and take one concrete step away from the pattern.</p>
+      </div>
+      
         <div class="grid grid-3 page-guide-grid">
-          <article class="card page-guide-card">
-            <span class="track-pill">1</span>
-            <h3>Tell the truth again</h3>
-            <p>Name the pattern without excusing it or drowning in shame.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">2</span>
-            <h3>Ask for help to change</h3>
-            <p>Pray for repentance, accountability, and the strength to interrupt the habit.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">3</span>
-            <h3>Take one practical step</h3>
-            <p>Remove a trigger, ask for support, or change your routine where the sin tends to start.</p>
-          </article>
+          
+    <article class="card page-guide-card">
+      <span class="track-pill">1</span>
+      <h3>Tell the truth again</h3>
+      <p>Name the pattern without excusing it or drowning in shame.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">2</span>
+      <h3>Ask for help to change</h3>
+      <p>Pray for repentance, accountability, and the strength to interrupt the habit.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">3</span>
+      <h3>Take one practical step</h3>
+      <p>Remove a trigger, ask for support, or change your routine where the sin tends to start.</p>
+    </article>
+  
         </div>
         <div class="card page-guide-card">
           <h3>A simple example</h3>
           <p>God, I keep falling back into this sin. Forgive me, give me strength to change, and show me the next faithful step. Amen.</p>
         </div>
-      </section>
-
-      <section class="section">
-        <div class="section-heading section-heading-wide">
-          <p class="eyebrow">Amends</p>
-          <h2>How to pray when you need to make things right with someone.</h2>
-          <p>
-            If your sin hurt another person, prayer should move toward repair: honest apology, humble listening, and the next concrete step toward peace.
-          </p>
-        </div>
+    </section>
+  
+    <section class="section">
+      <div class="section-heading section-heading-wide">
+        <p class="eyebrow">Amends</p>
+        <h2>How to pray when you need to make things right with someone.</h2>
+        <p>If your sin hurt another person, prayer should move toward repair: honest apology, humble listening, and the next concrete step toward peace.</p>
+      </div>
+      
         <div class="grid grid-3 page-guide-grid">
-          <article class="card page-guide-card">
-            <span class="track-pill">1</span>
-            <h3>Pray before you speak</h3>
-            <p>Ask God for humility, courage, and the right words before you reach out.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">2</span>
-            <h3>Make the apology plain</h3>
-            <p>Say what you did, own the harm, and do not hide behind excuses.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">3</span>
-            <h3>Pray for repair</h3>
-            <p>Ask God to help you listen, make restitution if needed, and do what peace requires.</p>
-          </article>
+          
+    <article class="card page-guide-card">
+      <span class="track-pill">1</span>
+      <h3>Pray before you speak</h3>
+      <p>Ask God for humility, courage, and the right words before you reach out.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">2</span>
+      <h3>Make the apology plain</h3>
+      <p>Say what you did, own the harm, and do not hide behind excuses.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">3</span>
+      <h3>Pray for repair</h3>
+      <p>Ask God to help you listen, make restitution if needed, and do what peace requires.</p>
+    </article>
+  
         </div>
         <div class="card page-guide-card">
           <h3>A simple example</h3>
           <p>God, help me own what I did and make things right. Give me humility, honesty, and the courage to repair the damage I caused. Amen.</p>
         </div>
-      </section>
-
-      <section class="section">
-        <div class="section-heading section-heading-wide">
-          <p class="eyebrow">Forgiveness</p>
-          <h2>How to pray when you need help forgiving someone.</h2>
-          <p>
-            Forgiveness can take time. Prayer can start by asking God to soften your heart and help you release revenge.
-          </p>
-        </div>
+    </section>
+  
+    <section class="section">
+      <div class="section-heading section-heading-wide">
+        <p class="eyebrow">Forgiveness</p>
+        <h2>How to pray when you need help forgiving someone.</h2>
+        <p>Forgiveness can take time. Prayer can start by asking God to soften your heart and help you release revenge.</p>
+      </div>
+      
         <div class="grid grid-3 page-guide-grid">
-          <article class="card page-guide-card">
-            <span class="track-pill">1</span>
-            <h3>Name the hurt</h3>
-            <p>Tell God what happened and why it still hurts.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">2</span>
-            <h3>Ask for help</h3>
-            <p>Ask God to help you release bitterness and to act with wisdom and honesty.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">3</span>
-            <h3>Take a next step</h3>
-            <p>Pray for the person, set a boundary if needed, and keep asking God for a free heart.</p>
-          </article>
+          
+    <article class="card page-guide-card">
+      <span class="track-pill">1</span>
+      <h3>Name the hurt</h3>
+      <p>Tell God what happened and why it still hurts.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">2</span>
+      <h3>Ask for help</h3>
+      <p>Ask God to help you release bitterness and to act with wisdom and honesty.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">3</span>
+      <h3>Take a next step</h3>
+      <p>Pray for the person, set a boundary if needed, and keep asking God for a free heart.</p>
+    </article>
+  
         </div>
         <div class="card page-guide-card">
           <h3>A simple example</h3>
           <p>God, this hurt me. Help me forgive, keep me from revenge, and lead me toward peace and wisdom. Amen.</p>
         </div>
-      </section>
-
-      <section class="section">
-        <div class="section-heading section-heading-wide">
-          <p class="eyebrow">For enemies</p>
-          <h2>How to pray for the people who oppose or hurt you.</h2>
-          <p>
-            Jesus tells his followers to pray for enemies, which means asking God for their good without pretending the hurt did not happen.
-          </p>
-        </div>
+    </section>
+  
+    <section class="section">
+      <div class="section-heading section-heading-wide">
+        <p class="eyebrow">For enemies</p>
+        <h2>How to pray for the people who oppose or hurt you.</h2>
+        <p>Jesus tells his followers to pray for enemies, which means asking God for their good without pretending the hurt did not happen.</p>
+      </div>
+      
         <div class="grid grid-3 page-guide-grid">
-          <article class="card page-guide-card">
-            <span class="track-pill">1</span>
-            <h3>Name the person honestly</h3>
-            <p>Bring the actual person or situation to God without hiding your anger or fear.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">2</span>
-            <h3>Ask for their good</h3>
-            <p>Pray for repentance, peace, wisdom, or whatever good would truly help them and others.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">3</span>
-            <h3>Guard your heart</h3>
-            <p>Ask God to keep you from revenge, hardening, or bitterness while he works.</p>
-          </article>
+          
+    <article class="card page-guide-card">
+      <span class="track-pill">1</span>
+      <h3>Name the person honestly</h3>
+      <p>Bring the actual person or situation to God without hiding your anger or fear.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">2</span>
+      <h3>Ask for their good</h3>
+      <p>Pray for repentance, peace, wisdom, or whatever good would truly help them and others.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">3</span>
+      <h3>Guard your heart</h3>
+      <p>Ask God to keep you from revenge, hardening, or bitterness while he works.</p>
+    </article>
+  
         </div>
         <div class="card page-guide-card">
           <h3>A simple example</h3>
           <p>Lord, help me not to harden my heart. Please do what is right in this person’s life, and keep me faithful, honest, and free from revenge. Amen.</p>
         </div>
-      </section>
-
-      <section class="section">
-        <div class="section-heading section-heading-wide">
-          <p class="eyebrow">Thanksgiving</p>
-          <h2>How to pray when you want to thank God.</h2>
-          <p>
-            Thanksgiving keeps prayer from becoming only a list of requests. It trains you to notice mercy and gift.
-          </p>
-        </div>
+    </section>
+  
+    <section class="section">
+      <div class="section-heading section-heading-wide">
+        <p class="eyebrow">Thanksgiving</p>
+        <h2>How to pray when you want to thank God.</h2>
+        <p>Thanksgiving keeps prayer from becoming only a list of requests. It trains you to notice mercy and gift.</p>
+      </div>
+      
         <div class="grid grid-3 page-guide-grid">
-          <article class="card page-guide-card">
-            <span class="track-pill">1</span>
-            <h3>Name the gift</h3>
-            <p>Thank God for one concrete thing: a meal, a person, a breath, or a piece of help.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">2</span>
-            <h3>Say why it matters</h3>
-            <p>Connect the gift to God's care instead of treating it as random luck.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">3</span>
-            <h3>Keep noticing</h3>
-            <p>Let gratitude become a habit during meals, walks, and the end of the day.</p>
-          </article>
+          
+    <article class="card page-guide-card">
+      <span class="track-pill">1</span>
+      <h3>Name the gift</h3>
+      <p>Thank God for one concrete thing: a meal, a person, a breath, or a piece of help.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">2</span>
+      <h3>Say why it matters</h3>
+      <p>Connect the gift to God&#39;s care instead of treating it as random luck.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">3</span>
+      <h3>Keep noticing</h3>
+      <p>Let gratitude become a habit during meals, walks, and the end of the day.</p>
+    </article>
+  
         </div>
         <div class="card page-guide-card">
           <h3>A simple example</h3>
           <p>God, thank you for this day, for this food, and for the people who care for me. Amen.</p>
         </div>
-      </section>
-
-      <section class="section">
-        <div class="section-heading section-heading-wide">
-          <p class="eyebrow">Praise</p>
-          <h2>How to pray when you want to worship God for who he is.</h2>
-          <p>
-            Praise is different from thanksgiving. Thanksgiving names gifts; praise names God's character, power, and goodness.
-          </p>
-        </div>
+    </section>
+  
+    <section class="section">
+      <div class="section-heading section-heading-wide">
+        <p class="eyebrow">Praise</p>
+        <h2>How to pray when you want to worship God for who he is.</h2>
+        <p>Praise is different from thanksgiving. Thanksgiving names gifts; praise names God&#39;s character, power, and goodness.</p>
+      </div>
+      
         <div class="grid grid-3 page-guide-grid">
-          <article class="card page-guide-card">
-            <span class="track-pill">1</span>
-            <h3>Name who God is</h3>
-            <p>Use words like holy, faithful, good, merciful, strong, or wise.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">2</span>
-            <h3>Adore before asking</h3>
-            <p>Let worship come first so your prayer is rooted in God, not just your need.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">3</span>
-            <h3>Use Scripture language</h3>
-            <p>Let Psalms and the Lord's Prayer give you words for wonder and reverence.</p>
-          </article>
+          
+    <article class="card page-guide-card">
+      <span class="track-pill">1</span>
+      <h3>Name who God is</h3>
+      <p>Use words like holy, faithful, good, merciful, strong, or wise.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">2</span>
+      <h3>Adore before asking</h3>
+      <p>Let worship come first so your prayer is rooted in God, not just your need.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">3</span>
+      <h3>Use Scripture language</h3>
+      <p>Let Psalms and the Lord&#39;s Prayer give you words for wonder and reverence.</p>
+    </article>
+  
         </div>
         <div class="card page-guide-card">
           <h3>A simple example</h3>
           <p>God, you are holy, faithful, and full of mercy. I worship you and trust your goodness today. Amen.</p>
         </div>
-      </section>
-
-      <section class="section">
-        <div class="section-heading section-heading-wide">
-          <p class="eyebrow">The Lord's Prayer</p>
-          <h2>How to pray the Lord's Prayer slowly and honestly.</h2>
-          <p>
-            Do not rush it. Let each line shape your attention: God first, then your needs, then forgiveness and protection.
-          </p>
-        </div>
+    </section>
+  
+    <section class="section">
+      <div class="section-heading section-heading-wide">
+        <p class="eyebrow">The Lord&#39;s Prayer</p>
+        <h2>How to pray the Lord&#39;s Prayer slowly and honestly.</h2>
+        <p>Do not rush it. Let each line shape your attention: God first, then your needs, then forgiveness and protection.</p>
+      </div>
+      
         <div class="grid grid-3 page-guide-grid">
-          <article class="card page-guide-card">
-            <span class="track-pill">1</span>
-            <h3>Begin with God</h3>
-            <p>Start with reverence for God's name and a desire for his kingdom.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">2</span>
-            <h3>Ask for daily needs</h3>
-            <p>Pray for bread, forgiveness, and help with temptation in plain words.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">3</span>
-            <h3>Repeat slowly</h3>
-            <p>Use the prayer as a pattern, then pause and add your own sentence where needed.</p>
-          </article>
+          
+    <article class="card page-guide-card">
+      <span class="track-pill">1</span>
+      <h3>Begin with God</h3>
+      <p>Start with reverence for God&#39;s name and a desire for his kingdom.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">2</span>
+      <h3>Ask for daily needs</h3>
+      <p>Pray for bread, forgiveness, and help with temptation in plain words.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">3</span>
+      <h3>Repeat slowly</h3>
+      <p>Use the prayer as a pattern, then pause and add your own sentence where needed.</p>
+    </article>
+  
         </div>
         <div class="card page-guide-card">
           <h3>A simple example</h3>
           <p>Read one line, pause, speak it again in your own words, and end with Amen.</p>
         </div>
-      </section>
-
-      <section class="section">
-        <div class="section-heading section-heading-wide">
-          <p class="eyebrow">Scripted prayer</p>
-          <h2>How to grow into fuller written prayers.</h2>
-          <p>
-            Some prayers are meant to be recited with more form. Scripted prayer can slow you down, teach you language, and help you pray when you want more than a one-sentence request.
-          </p>
-        </div>
+    </section>
+  
+    <section class="section">
+      <div class="section-heading section-heading-wide">
+        <p class="eyebrow">Scripted prayer</p>
+        <h2>How to grow into fuller written prayers.</h2>
+        <p>Some prayers are meant to be recited with more form. Scripted prayer can slow you down, teach you language, and help you pray when you want more than a one-sentence request.</p>
+      </div>
+      
         <div class="grid grid-3 page-guide-grid">
-          <article class="card page-guide-card">
-            <span class="track-pill">1</span>
-            <h3>Follow the shape</h3>
-            <p>Notice the order of praise, confession, thanksgiving, and request instead of rushing through the words.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">2</span>
-            <h3>Pray line by line</h3>
-            <p>Read each line slowly and let it become your prayer before moving to the next one.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">3</span>
-            <h3>Keep the words</h3>
-            <p>Memorize a few prayers that help you when your own words are thin or scattered.</p>
-          </article>
+          
+    <article class="card page-guide-card">
+      <span class="track-pill">1</span>
+      <h3>Follow the shape</h3>
+      <p>Notice the order of praise, confession, thanksgiving, and request instead of rushing through the words.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">2</span>
+      <h3>Pray line by line</h3>
+      <p>Read each line slowly and let it become your prayer before moving to the next one.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">3</span>
+      <h3>Keep the words</h3>
+      <p>Memorize a few prayers that help you when your own words are thin or scattered.</p>
+    </article>
+  
         </div>
         <div class="card page-guide-card">
           <h3>A simple example</h3>
           <p>Start with a short written prayer, read it aloud, pause after each sentence, and repeat it again the next day.</p>
         </div>
-      </section>
-
-      <section class="section">
-        <div class="section-heading section-heading-wide">
-          <p class="eyebrow">Psalm recitation</p>
-          <h2>How to pray by reciting Psalms more fully.</h2>
-          <p>
-            Psalms are not only for quick prompts. You can learn to pray whole portions aloud so the Bible itself shapes your voice and memory.
-          </p>
-        </div>
+    </section>
+  
+    <section class="section">
+      <div class="section-heading section-heading-wide">
+        <p class="eyebrow">Psalm recitation</p>
+        <h2>How to pray by reciting Psalms more fully.</h2>
+        <p>Psalms are not only for quick prompts. You can learn to pray whole portions aloud so the Bible itself shapes your voice and memory.</p>
+      </div>
+      
         <div class="grid grid-3 page-guide-grid">
-          <article class="card page-guide-card">
-            <span class="track-pill">1</span>
-            <h3>Read a larger chunk</h3>
-            <p>Take a Psalm in its own section, not just one verse, and let the flow of the prayer carry you.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">2</span>
-            <h3>Recite aloud</h3>
-            <p>Speak the Psalm slowly so the language, repetition, and movement stay in your mind.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">3</span>
-            <h3>Answer with Amen</h3>
-            <p>After the Psalm, pause and answer with one sentence of praise, lament, or trust.</p>
-          </article>
+          
+    <article class="card page-guide-card">
+      <span class="track-pill">1</span>
+      <h3>Read a larger chunk</h3>
+      <p>Take a Psalm in its own section, not just one verse, and let the flow of the prayer carry you.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">2</span>
+      <h3>Recite aloud</h3>
+      <p>Speak the Psalm slowly so the language, repetition, and movement stay in your mind.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">3</span>
+      <h3>Answer with Amen</h3>
+      <p>After the Psalm, pause and answer with one sentence of praise, lament, or trust.</p>
+    </article>
+  
         </div>
         <div class="card page-guide-card">
           <h3>A simple example</h3>
           <p>Read Psalm 23 aloud, pause after each line, and end by saying, Lord, be my shepherd today. Amen.</p>
         </div>
-      </section>
-
-      <section class="section">
-        <div class="section-heading section-heading-wide">
-          <p class="eyebrow">Liturgical prayer</p>
-          <h2>How to pray with a set form and a gathered church.</h2>
-          <p>
-            Liturgy gives you a prayer rhythm bigger than your own mood. It teaches you to pray with the church across time, not only in private moments.
-          </p>
-        </div>
+    </section>
+  
+    <section class="section">
+      <div class="section-heading section-heading-wide">
+        <p class="eyebrow">Liturgical prayer</p>
+        <h2>How to pray with a set form and a gathered church.</h2>
+        <p>Liturgy gives you a prayer rhythm bigger than your own mood. It teaches you to pray with the church across time, not only in private moments.</p>
+      </div>
+      
         <div class="grid grid-3 page-guide-grid">
-          <article class="card page-guide-card">
-            <span class="track-pill">1</span>
-            <h3>Follow the pattern</h3>
-            <p>Let the order of the service lead you through praise, confession, Scripture, prayer, and response.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">2</span>
-            <h3>Join the words</h3>
-            <p>Speak the shared prayer as your own instead of treating it like background text.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">3</span>
-            <h3>Carry it home</h3>
-            <p>Use the same shape later in the week so church prayer becomes part of daily life.</p>
-          </article>
+          
+    <article class="card page-guide-card">
+      <span class="track-pill">1</span>
+      <h3>Follow the pattern</h3>
+      <p>Let the order of the service lead you through praise, confession, Scripture, prayer, and response.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">2</span>
+      <h3>Join the words</h3>
+      <p>Speak the shared prayer as your own instead of treating it like background text.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">3</span>
+      <h3>Carry it home</h3>
+      <p>Use the same shape later in the week so church prayer becomes part of daily life.</p>
+    </article>
+  
         </div>
         <div class="card page-guide-card">
           <h3>A simple example</h3>
           <p>Use the service as written, listen for the repeated patterns, and let the gathered prayer teach you how to pray on your own.</p>
         </div>
-      </section>
-
-      <section class="section">
-        <div class="section-heading section-heading-wide">
-          <p class="eyebrow">Temptation</p>
-          <h2>How to pray when you feel pulled toward something you should avoid.</h2>
-          <p>
-            Temptation usually needs a quick prayer, a clear boundary, and a return to what is true before the moment gets bigger.
-          </p>
-        </div>
+    </section>
+  
+    <section class="section">
+      <div class="section-heading section-heading-wide">
+        <p class="eyebrow">Temptation</p>
+        <h2>How to pray when you feel pulled toward something you should avoid.</h2>
+        <p>Temptation usually needs a quick prayer, a clear boundary, and a return to what is true before the moment gets bigger.</p>
+      </div>
+      
         <div class="grid grid-3 page-guide-grid">
-          <article class="card page-guide-card">
-            <span class="track-pill">1</span>
-            <h3>Name it quickly</h3>
-            <p>Say what is tempting you instead of pretending it is harmless.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">2</span>
-            <h3>Ask for escape</h3>
-            <p>Pray for strength, a way out, and the willingness to take it.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">3</span>
-            <h3>Move your body</h3>
-            <p>Step away, put the device down, close the tab, or change the situation while you pray.</p>
-          </article>
+          
+    <article class="card page-guide-card">
+      <span class="track-pill">1</span>
+      <h3>Name it quickly</h3>
+      <p>Say what is tempting you instead of pretending it is harmless.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">2</span>
+      <h3>Ask for escape</h3>
+      <p>Pray for strength, a way out, and the willingness to take it.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">3</span>
+      <h3>Move your body</h3>
+      <p>Step away, put the device down, close the tab, or change the situation while you pray.</p>
+    </article>
+  
         </div>
         <div class="card page-guide-card">
           <h3>A simple example</h3>
           <p>God, I am being tempted right now. Give me strength, show me the way out, and help me choose what is good. Amen.</p>
         </div>
-      </section>
-
-      <section class="section">
-        <div class="section-heading section-heading-wide">
-          <p class="eyebrow">Breath prayer</p>
-          <h2>How to pray a very short prayer in one breath.</h2>
-          <p>
-            Breath prayers are useful when you are walking, waiting, or need a quick reminder that God is near.
-          </p>
-        </div>
+    </section>
+  
+    <section class="section">
+      <div class="section-heading section-heading-wide">
+        <p class="eyebrow">Breath prayer</p>
+        <h2>How to pray a very short prayer in one breath.</h2>
+        <p>Breath prayers are useful when you are walking, waiting, or need a quick reminder that God is near.</p>
+      </div>
+      
         <div class="grid grid-3 page-guide-grid">
-          <article class="card page-guide-card">
-            <span class="track-pill">1</span>
-            <h3>Choose a short phrase</h3>
-            <p>Use one phrase from Scripture or a simple request like, Lord Jesus, have mercy.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">2</span>
-            <h3>Repeat with breath</h3>
-            <p>Say the prayer as you breathe in and out, slowly and without forcing it.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">3</span>
-            <h3>Use it often</h3>
-            <p>Return to it during walks, errands, or anxious moments as a small anchor.</p>
-          </article>
+          
+    <article class="card page-guide-card">
+      <span class="track-pill">1</span>
+      <h3>Choose a short phrase</h3>
+      <p>Use one phrase from Scripture or a simple request like, Lord Jesus, have mercy.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">2</span>
+      <h3>Repeat with breath</h3>
+      <p>Say the prayer as you breathe in and out, slowly and without forcing it.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">3</span>
+      <h3>Use it often</h3>
+      <p>Return to it during walks, errands, or anxious moments as a small anchor.</p>
+    </article>
+  
         </div>
         <div class="card page-guide-card">
           <h3>A simple example</h3>
           <p>Lord Jesus, have mercy. Lord Jesus, have mercy.</p>
         </div>
-      </section>
-
-      <section class="section">
-        <div class="section-heading section-heading-wide">
-          <p class="eyebrow">Guidance</p>
-          <h2>How to pray when you need wisdom for a decision.</h2>
-          <p>
-            You do not always get instant clarity, but you can ask God for wisdom, wait, and keep choosing what is faithful.
-          </p>
-        </div>
+    </section>
+  
+    <section class="section">
+      <div class="section-heading section-heading-wide">
+        <p class="eyebrow">Guidance</p>
+        <h2>How to pray when you need wisdom for a decision.</h2>
+        <p>You do not always get instant clarity, but you can ask God for wisdom, wait, and keep choosing what is faithful.</p>
+      </div>
+      
         <div class="grid grid-3 page-guide-grid">
-          <article class="card page-guide-card">
-            <span class="track-pill">1</span>
-            <h3>Name the decision</h3>
-            <p>Tell God exactly what choice you are facing and why it matters.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">2</span>
-            <h3>Ask for wisdom</h3>
-            <p>Ask for clarity, patience, and the courage to do the right thing.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">3</span>
-            <h3>Wait and act</h3>
-            <p>Read Scripture, seek counsel if needed, and take the next faithful step.</p>
-          </article>
+          
+    <article class="card page-guide-card">
+      <span class="track-pill">1</span>
+      <h3>Name the decision</h3>
+      <p>Tell God exactly what choice you are facing and why it matters.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">2</span>
+      <h3>Ask for wisdom</h3>
+      <p>Ask for clarity, patience, and the courage to do the right thing.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">3</span>
+      <h3>Wait and act</h3>
+      <p>Read Scripture, seek counsel if needed, and take the next faithful step.</p>
+    </article>
+  
         </div>
         <div class="card page-guide-card">
           <h3>A simple example</h3>
           <p>God, I need wisdom about this decision. Show me what is true, help me trust you, and lead me in the next right step. Amen.</p>
         </div>
-      </section>
-
-      <section class="section">
-        <div class="section-heading section-heading-wide">
-          <p class="eyebrow">Silence</p>
-          <h2>How to pray by sitting quietly before God.</h2>
-          <p>
-            Prayer is not always many words. Sometimes it is attention, stillness, and a willingness to listen.
-          </p>
-        </div>
+    </section>
+  
+    <section class="section">
+      <div class="section-heading section-heading-wide">
+        <p class="eyebrow">Silence</p>
+        <h2>How to pray by sitting quietly before God.</h2>
+        <p>Prayer is not always many words. Sometimes it is attention, stillness, and a willingness to listen.</p>
+      </div>
+      
         <div class="grid grid-3 page-guide-grid">
-          <article class="card page-guide-card">
-            <span class="track-pill">1</span>
-            <h3>Set a short timer</h3>
-            <p>Take one or two minutes to sit still and stop trying to perform.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">2</span>
-            <h3>Turn attention to God</h3>
-            <p>Breathe slowly, notice distractions, and gently return your attention to God.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">3</span>
-            <h3>End with one sentence</h3>
-            <p>After the silence, speak one honest sentence of thanks, trust, or request.</p>
-          </article>
+          
+    <article class="card page-guide-card">
+      <span class="track-pill">1</span>
+      <h3>Set a short timer</h3>
+      <p>Take one or two minutes to sit still and stop trying to perform.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">2</span>
+      <h3>Turn attention to God</h3>
+      <p>Breathe slowly, notice distractions, and gently return your attention to God.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">3</span>
+      <h3>End with one sentence</h3>
+      <p>After the silence, speak one honest sentence of thanks, trust, or request.</p>
+    </article>
+  
         </div>
         <div class="card page-guide-card">
           <h3>A simple example</h3>
           <p>Lord, I am here. Help me listen, trust you, and rest in your care. Amen.</p>
         </div>
-      </section>
-
-      <section class="section">
-        <div class="section-heading section-heading-wide">
-          <p class="eyebrow">Prayer list</p>
-          <h2>How to keep a simple prayer list or journal.</h2>
-          <p>
-            Writing requests down helps you remember who and what you are praying for, and it lets you notice answers later.
-          </p>
-        </div>
+    </section>
+  
+    <section class="section">
+      <div class="section-heading section-heading-wide">
+        <p class="eyebrow">Prayer list</p>
+        <h2>How to keep a simple prayer list or journal.</h2>
+        <p>Writing requests down helps you remember who and what you are praying for, and it lets you notice answers later.</p>
+      </div>
+      
         <div class="grid grid-3 page-guide-grid">
-          <article class="card page-guide-card">
-            <span class="track-pill">1</span>
-            <h3>Write names and needs</h3>
-            <p>Keep a small list of people, decisions, hurts, and things you are waiting on.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">2</span>
-            <h3>Pray from the list</h3>
-            <p>Move through it slowly and keep the prayers short and specific.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">3</span>
-            <h3>Look back later</h3>
-            <p>Review the list to notice what changed, what remained, and where God provided help.</p>
-          </article>
+          
+    <article class="card page-guide-card">
+      <span class="track-pill">1</span>
+      <h3>Write names and needs</h3>
+      <p>Keep a small list of people, decisions, hurts, and things you are waiting on.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">2</span>
+      <h3>Pray from the list</h3>
+      <p>Move through it slowly and keep the prayers short and specific.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">3</span>
+      <h3>Look back later</h3>
+      <p>Review the list to notice what changed, what remained, and where God provided help.</p>
+    </article>
+  
         </div>
         <div class="card page-guide-card">
           <h3>A simple example</h3>
           <p>Friend: peace. Family: patience. Decision: wisdom. Body: healing. Thank God for what he has already done.</p>
         </div>
-      </section>
-
-      <section class="section">
-        <div class="section-heading section-heading-wide">
-          <p class="eyebrow">Work and study</p>
-          <h2>How to pray before work, school, or study.</h2>
-          <p>
-            Prayer can steady your mind before a task. Ask for focus, honesty, patience, and the right use of your time.
-          </p>
-        </div>
+    </section>
+  
+    <section class="section">
+      <div class="section-heading section-heading-wide">
+        <p class="eyebrow">Work and study</p>
+        <h2>How to pray before work, school, or study.</h2>
+        <p>Prayer can steady your mind before a task. Ask for focus, honesty, patience, and the right use of your time.</p>
+      </div>
+      
         <div class="grid grid-3 page-guide-grid">
-          <article class="card page-guide-card">
-            <span class="track-pill">1</span>
-            <h3>Ask for focus</h3>
-            <p>Pray for attention, clear thinking, and discipline before you begin.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">2</span>
-            <h3>Ask for integrity</h3>
-            <p>Ask God to help you do honest work, speak truth, and treat people well.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">3</span>
-            <h3>Pause during the day</h3>
-            <p>Use breaks, transitions, or deadlines as moments to pray again instead of pushing alone.</p>
-          </article>
+          
+    <article class="card page-guide-card">
+      <span class="track-pill">1</span>
+      <h3>Ask for focus</h3>
+      <p>Pray for attention, clear thinking, and discipline before you begin.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">2</span>
+      <h3>Ask for integrity</h3>
+      <p>Ask God to help you do honest work, speak truth, and treat people well.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">3</span>
+      <h3>Pause during the day</h3>
+      <p>Use breaks, transitions, or deadlines as moments to pray again instead of pushing alone.</p>
+    </article>
+  
         </div>
         <div class="card page-guide-card">
           <h3>A simple example</h3>
           <p>God, help me focus, work honestly, and use this time well. Give me patience with people and wisdom in what I do. Amen.</p>
         </div>
-      </section>
-
-      <section class="section">
-        <div class="section-heading section-heading-wide">
-          <p class="eyebrow">Family and home</p>
-          <h2>How to pray for your family, home, and daily relationships.</h2>
-          <p>
-            Home prayer is ordinary prayer for ordinary life: people you live with, care for, and see every day.
-          </p>
-        </div>
+    </section>
+  
+    <section class="section">
+      <div class="section-heading section-heading-wide">
+        <p class="eyebrow">Family and home</p>
+        <h2>How to pray for your family, home, and daily relationships.</h2>
+        <p>Home prayer is ordinary prayer for ordinary life: people you live with, care for, and see every day.</p>
+      </div>
+      
         <div class="grid grid-3 page-guide-grid">
-          <article class="card page-guide-card">
-            <span class="track-pill">1</span>
-            <h3>Name each person</h3>
-            <p>Pray for family members, roommates, neighbors, or people you live with.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">2</span>
-            <h3>Ask for specific help</h3>
-            <p>Pray for patience, safety, kindness, work, rest, and peace in the home.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">3</span>
-            <h3>Pray often, briefly</h3>
-            <p>Use meals, mornings, and bedtimes as regular moments to remember them before God.</p>
-          </article>
+          
+    <article class="card page-guide-card">
+      <span class="track-pill">1</span>
+      <h3>Name each person</h3>
+      <p>Pray for family members, roommates, neighbors, or people you live with.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">2</span>
+      <h3>Ask for specific help</h3>
+      <p>Pray for patience, safety, kindness, work, rest, and peace in the home.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">3</span>
+      <h3>Pray often, briefly</h3>
+      <p>Use meals, mornings, and bedtimes as regular moments to remember them before God.</p>
+    </article>
+  
         </div>
         <div class="card page-guide-card">
           <h3>A simple example</h3>
           <p>God, please bless my home. Give patience, peace, and kindness to the people I live with. Amen.</p>
         </div>
-      </section>
-
-      <section class="section">
-        <div class="section-heading section-heading-wide">
-          <p class="eyebrow">Travel and safety</p>
-          <h2>How to pray before a trip, commute, or errand.</h2>
-          <p>
-            Travel prayer can be brief and practical. Ask God for safety, alertness, and peace for the road or route ahead.
-          </p>
-        </div>
+    </section>
+  
+    <section class="section">
+      <div class="section-heading section-heading-wide">
+        <p class="eyebrow">Travel and safety</p>
+        <h2>How to pray before a trip, commute, or errand.</h2>
+        <p>Travel prayer can be brief and practical. Ask God for safety, alertness, and peace for the road or route ahead.</p>
+      </div>
+      
         <div class="grid grid-3 page-guide-grid">
-          <article class="card page-guide-card">
-            <span class="track-pill">1</span>
-            <h3>Name the route</h3>
-            <p>Pray for the specific trip, drive, flight, train ride, or walk you are about to take.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">2</span>
-            <h3>Ask for safety</h3>
-            <p>Pray for alertness, protection, and calm judgment for everyone involved.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">3</span>
-            <h3>Travel with trust</h3>
-            <p>Use the trip as a reminder to depend on God instead of anxiety or control.</p>
-          </article>
+          
+    <article class="card page-guide-card">
+      <span class="track-pill">1</span>
+      <h3>Name the route</h3>
+      <p>Pray for the specific trip, drive, flight, train ride, or walk you are about to take.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">2</span>
+      <h3>Ask for safety</h3>
+      <p>Pray for alertness, protection, and calm judgment for everyone involved.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">3</span>
+      <h3>Travel with trust</h3>
+      <p>Use the trip as a reminder to depend on God instead of anxiety or control.</p>
+    </article>
+  
         </div>
         <div class="card page-guide-card">
           <h3>A simple example</h3>
           <p>God, please keep us safe on this trip. Give us alertness, peace, and a good arrival. Amen.</p>
         </div>
-      </section>
-
-      <section class="section">
-        <div class="section-heading section-heading-wide">
-          <p class="eyebrow">Witness</p>
-          <h2>How to pray for people who do not yet know Jesus.</h2>
-          <p>
-            Prayer for witness is not pressure. It is asking God for open doors, courage, wisdom, and love so your life and words point to Christ well.
-          </p>
-        </div>
+    </section>
+  
+    <section class="section">
+      <div class="section-heading section-heading-wide">
+        <p class="eyebrow">Witness</p>
+        <h2>How to pray for people who do not yet know Jesus.</h2>
+        <p>Prayer for witness is not pressure. It is asking God for open doors, courage, wisdom, and love so your life and words point to Christ well.</p>
+      </div>
+      
         <div class="grid grid-3 page-guide-grid">
-          <article class="card page-guide-card">
-            <span class="track-pill">1</span>
-            <h3>Name the people</h3>
-            <p>Pray for friends, neighbors, coworkers, and family members by name, especially the ones you hope to speak with about faith.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">2</span>
-            <h3>Ask for open doors</h3>
-            <p>Pray for good timing, clarity, courage, and a soft heart when opportunities come up.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">3</span>
-            <h3>Pray for love</h3>
-            <p>Ask God to make you patient, truthful, and kind so your witness is shaped by Christ, not pressure or fear.</p>
-          </article>
+          
+    <article class="card page-guide-card">
+      <span class="track-pill">1</span>
+      <h3>Name the people</h3>
+      <p>Pray for friends, neighbors, coworkers, and family members by name, especially the ones you hope to speak with about faith.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">2</span>
+      <h3>Ask for open doors</h3>
+      <p>Pray for good timing, clarity, courage, and a soft heart when opportunities come up.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">3</span>
+      <h3>Pray for love</h3>
+      <p>Ask God to make you patient, truthful, and kind so your witness is shaped by Christ, not pressure or fear.</p>
+    </article>
+  
         </div>
         <div class="card page-guide-card">
           <h3>A simple example</h3>
           <p>Lord, help me love the people around me well. Open a door for honest conversation, give me courage to speak, and make my life point to Jesus. Amen.</p>
         </div>
-      </section>
-
-      <section class="section">
-        <div class="section-heading section-heading-wide">
-          <p class="eyebrow">Grief and suffering</p>
-          <h2>How to pray when life hurts.</h2>
-          <p>
-            When you are grieving, afraid, or worn down, prayer can be a lament: honest about pain, honest about God, and still reaching for hope.
-          </p>
-        </div>
+    </section>
+  
+    <section class="section">
+      <div class="section-heading section-heading-wide">
+        <p class="eyebrow">Grief and suffering</p>
+        <h2>How to pray when life hurts.</h2>
+        <p>When you are grieving, afraid, or worn down, prayer can be a lament: honest about pain, honest about God, and still reaching for hope.</p>
+      </div>
+      
         <div class="grid grid-3 page-guide-grid">
-          <article class="card page-guide-card">
-            <span class="track-pill">1</span>
-            <h3>Say what hurts</h3>
-            <p>Name the loss, fear, disappointment, or confusion without trying to make it sound nicer than it is.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">2</span>
-            <h3>Ask for help</h3>
-            <p>Pray for comfort, endurance, mercy, and the kind of presence that only God can give.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">3</span>
-            <h3>Hold onto hope</h3>
-            <p>Even a small sentence of trust can keep prayer alive when you do not have many words left.</p>
-          </article>
+          
+    <article class="card page-guide-card">
+      <span class="track-pill">1</span>
+      <h3>Say what hurts</h3>
+      <p>Name the loss, fear, disappointment, or confusion without trying to make it sound nicer than it is.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">2</span>
+      <h3>Ask for help</h3>
+      <p>Pray for comfort, endurance, mercy, and the kind of presence that only God can give.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">3</span>
+      <h3>Hold onto hope</h3>
+      <p>Even a small sentence of trust can keep prayer alive when you do not have many words left.</p>
+    </article>
+  
         </div>
         <div class="card page-guide-card">
           <h3>A simple example</h3>
           <p>Lord, this hurts, and I do not know what to do. Be near to me, carry me through this, and keep my hope in you. Amen.</p>
         </div>
-      </section>
-
-      <section class="section">
-        <div class="section-heading section-heading-wide">
-          <p class="eyebrow">Death and dying</p>
-          <h2>How to pray when someone is near death or has died.</h2>
-          <p>
-            Prayer in the face of death can be very simple: ask for mercy, ask for peace, and entrust the person to God’s care.
-          </p>
-        </div>
+    </section>
+  
+    <section class="section">
+      <div class="section-heading section-heading-wide">
+        <p class="eyebrow">Death and dying</p>
+        <h2>How to pray when someone is near death or has died.</h2>
+        <p>Prayer in the face of death can be very simple: ask for mercy, ask for peace, and entrust the person to God’s care.</p>
+      </div>
+      
         <div class="grid grid-3 page-guide-grid">
-          <article class="card page-guide-card">
-            <span class="track-pill">1</span>
-            <h3>Ask for mercy</h3>
-            <p>Pray for the person, for the family, and for God’s presence in the moment.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">2</span>
-            <h3>Ask for peace</h3>
-            <p>Pray that fear would lessen and that comfort would be near.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">3</span>
-            <h3>Entrust them to God</h3>
-            <p>Release what you cannot control and ask God to carry the person beyond what you can see.</p>
-          </article>
+          
+    <article class="card page-guide-card">
+      <span class="track-pill">1</span>
+      <h3>Ask for mercy</h3>
+      <p>Pray for the person, for the family, and for God’s presence in the moment.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">2</span>
+      <h3>Ask for peace</h3>
+      <p>Pray that fear would lessen and that comfort would be near.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">3</span>
+      <h3>Entrust them to God</h3>
+      <p>Release what you cannot control and ask God to carry the person beyond what you can see.</p>
+    </article>
+  
         </div>
         <div class="card page-guide-card">
           <h3>A simple example</h3>
           <p>Lord, have mercy. Give peace to this person and their family, and hold them in your care. Amen.</p>
         </div>
-      </section>
-
-      <section class="section">
-        <div class="section-heading section-heading-wide">
-          <p class="eyebrow">Meals and moments</p>
-          <h2>How to pray during meals, walks, and interruptions.</h2>
-          <p>
-            Prayer does not need a special room. Ordinary moments can become prayer when you pause and turn toward God.
-          </p>
-        </div>
+    </section>
+  
+    <section class="section">
+      <div class="section-heading section-heading-wide">
+        <p class="eyebrow">Meals and moments</p>
+        <h2>How to pray during meals, walks, and interruptions.</h2>
+        <p>Prayer does not need a special room. Ordinary moments can become prayer when you pause and turn toward God.</p>
+      </div>
+      
         <div class="grid grid-3 page-guide-grid">
-          <article class="card page-guide-card">
-            <span class="track-pill">1</span>
-            <h3>Before meals</h3>
-            <p>Thank God for the food and the people around you, then ask for blessing or peace.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">2</span>
-            <h3>During walks</h3>
-            <p>Use a few steps or a few minutes to pray one sentence at a time.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">3</span>
-            <h3>In interruptions</h3>
-            <p>When something surprises you, pause and say, help me, thank you, or have mercy.</p>
-          </article>
+          
+    <article class="card page-guide-card">
+      <span class="track-pill">1</span>
+      <h3>Before meals</h3>
+      <p>Thank God for the food and the people around you, then ask for blessing or peace.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">2</span>
+      <h3>During walks</h3>
+      <p>Use a few steps or a few minutes to pray one sentence at a time.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">3</span>
+      <h3>In interruptions</h3>
+      <p>When something surprises you, pause and say, help me, thank you, or have mercy.</p>
+    </article>
+  
         </div>
         <div class="card page-guide-card">
           <h3>A simple example</h3>
           <p>God, thank you for this meal. Bless the people here, and help me carry your peace into the next part of the day. Amen.</p>
         </div>
-      </section>
-
-      <section class="section">
-        <div class="section-heading section-heading-wide">
-          <p class="eyebrow">Addendum: Common Worship</p>
-          <h2>How to use the Book of Common Worship as a support, not the center.</h2>
-          <p>
-            Use written prayer books after you know the Bible-based basics. They can help you borrow words for worship, confession, thanksgiving, and intercession when you need structure.
-          </p>
-        </div>
+    </section>
+  
+    <section class="section">
+      <div class="section-heading section-heading-wide">
+        <p class="eyebrow">Addendum: Common Worship</p>
+        <h2>How to use the Book of Common Worship as a support, not the center.</h2>
+        <p>Use written prayer books after you know the Bible-based basics. They can help you borrow words for worship, confession, thanksgiving, and intercession when you need structure.</p>
+      </div>
+      
         <div class="grid grid-3 page-guide-grid">
-          <article class="card page-guide-card">
-            <span class="track-pill">1</span>
-            <h3>Start with Scripture</h3>
-            <p>Let the Bible and the Lord’s Prayer set the shape of your prayer life first.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">2</span>
-            <h3>Borrow the words</h3>
-            <p>Read the prayer book slowly and let it give you language when your own words run out.</p>
-          </article>
-          <article class="card page-guide-card">
-            <span class="track-pill">3</span>
-            <h3>Return to your own voice</h3>
-            <p>Add one honest sentence of your own so the prayer stays personal and alive.</p>
-          </article>
+          
+    <article class="card page-guide-card">
+      <span class="track-pill">1</span>
+      <h3>Start with Scripture</h3>
+      <p>Let the Bible and the Lord’s Prayer set the shape of your prayer life first.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">2</span>
+      <h3>Borrow the words</h3>
+      <p>Read the prayer book slowly and let it give you language when your own words run out.</p>
+    </article>
+  
+    <article class="card page-guide-card">
+      <span class="track-pill">3</span>
+      <h3>Return to your own voice</h3>
+      <p>Add one honest sentence of your own so the prayer stays personal and alive.</p>
+    </article>
+  
         </div>
         <div class="card page-guide-card">
           <h3>A simple example</h3>
           <p>Read one prayer from Common Worship, pause, add one sentence from your day, and end with Amen.</p>
         </div>
-      </section>
-    </main>
+    </section>
+        <!-- prayer-sections:end -->
+      </div>
+</main>
 
     <footer class="footer">
       <p>Built for GitHub Pages. Use this page to keep prayer and Bible reading together.</p>
     </footer>
 
+    <script type="module" src="./page-prayer.js?v=20260824-1"></script>
   </body>
 </html>
