@@ -1,15 +1,13 @@
 import { readdir } from 'node:fs/promises';
 import { readFile } from 'node:fs/promises';
 
-// Import-safety check: every module in the repo must be loadable in Node.
-// Entry modules guard their bootstrap behind `typeof document` checks, so
-// importing them here must stay side-effect free. roadmap.js is the one
-// exception: its dependencies (React, React Flow) resolve through the
-// roadmap.html import map against esm.sh, so Node cannot import it.
-const BROWSER_ONLY = new Set(['roadmap.js']);
+// roadmap.js resolves React/React Flow through an import map (browser-only).
+// audit.mjs and linkcheck.mjs are standalone scripts, not site modules;
+// linkcheck performs network requests so it must never run inside the suite.
+const EXCLUDED = new Set(['roadmap.js', 'audit.mjs', 'linkcheck.mjs']);
 
 const localModules = (await readdir(new URL('.', import.meta.url)))
-  .filter((name) => name.endsWith('.js') && !BROWSER_ONLY.has(name));
+  .filter((name) => name.endsWith('.js') && !EXCLUDED.has(name));
 
 if (localModules.length === 0) throw new Error('No JS modules found');
 

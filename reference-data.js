@@ -964,6 +964,14 @@ export const referenceData = {
       tags: ["prayer", "Psalms", "Jesus"],
     },
     {
+      title: "Prayer",
+      kicker: "Talking with God",
+      summary: "Speaking honestly to God: praise, thanks, confession, request, and listening.",
+      detail: "Prayer is direct address to God — no special performance required. The Bible shows short prayers and long ones, bold requests and quiet trust, and Jesus teaches his followers to pray simply (Matthew 6:9-13).",
+      start: "Start with one honest sentence, then use the Lord's Prayer or a Psalm when words run out.",
+      tags: ["prayer", "Lord's Prayer", "Psalms"],
+    },
+    {
       title: "Mediator",
       kicker: "One who stands between",
       summary: "Someone who represents and reconciles parties who are separated.",
@@ -18362,102 +18370,6 @@ export const referenceData = {
         {
           prompt: "What kind of story is Acts?",
           answer: "It is the story of the risen Jesus continuing his work through the Spirit and the church.",
-        },
-      ],
-    },
-    {
-      title: "Genesis Book Quiz",
-      kicker: "Book",
-      summary: "A whole-book check for Genesis as the opening of the Bible's story.",
-      detail: "This quiz helps a beginner see Genesis as more than a pile of origin stories. It introduces creation, fall, promise, covenant, patriarchs, blessing, family tension, and the move toward Exodus.",
-      start: "Take this after reading Genesis 1-50 or after a broad sweep through the opening story.",
-      tags: ["Genesis", "book", "beginnings"],
-      questions: [
-        {
-          prompt: "What big themes open Genesis?",
-          answer: "Creation, goodness, human vocation, temptation, sin, promise, and the start of God's rescue story.",
-        },
-        {
-          prompt: "Which promise to Abraham helps drive the rest of the Bible?",
-          answer: "God promises Abraham descendants, land, blessing, and a covenant relationship that will bless the nations.",
-        },
-        {
-          prompt: "How does Genesis end?",
-          answer: "It ends with Joseph and his family in Egypt, setting the stage for Exodus and Israel's slavery and rescue.",
-        },
-      ],
-    },
-    {
-      title: "Exodus Book Quiz",
-      kicker: "Book",
-      summary: "A whole-book check for Exodus as the Bible's great rescue story.",
-      detail: "This quiz helps a beginner see Exodus as the defining rescue memory of the Old Testament. It covers slavery, Moses, plagues, Passover, the sea, Sinai, covenant, and worship.",
-      start: "Take this after Genesis so the move from promise to rescue stays connected.",
-      tags: ["Exodus", "book", "rescue"],
-      questions: [
-        {
-          prompt: "What problem opens Exodus?",
-          answer: "Israel is enslaved in Egypt and cries out for rescue.",
-        },
-        {
-          prompt: "What central event shows God rescuing his people?",
-          answer: "The Exodus itself: God delivers Israel out of slavery through signs, judgment, and passage through the sea.",
-        },
-        {
-          prompt: "Why is Sinai important in Exodus?",
-          answer: "Sinai is where God gives covenant law and forms Israel as his people after rescue.",
-        },
-      ],
-    },
-    {
-      title: "Prayer and Approved Prayers Quiz",
-      kicker: "Prayer",
-      summary: "Checks whether a beginner can recognize Scripture-shaped prayer patterns and the main kinds of biblical prayer.",
-      detail: "Use this when someone needs help praying without sounding fake or getting lost. It focuses on the Lord's Prayer, Psalms, confession, lament, thanksgiving, request, and intercession.",
-      start: "Take this alongside the prayer panel and after reading Matthew 6:9-13 and a few Psalms.",
-      tags: ["prayer", "Psalms", "Jesus"],
-      questions: [
-        {
-          prompt: "What is a healthy starting point for beginner prayer?",
-          answer: "Honest words to God: gratitude, confession, request, and trust.",
-        },
-        {
-          prompt: "Which prayer did Jesus teach his disciples as a model?",
-          answer: "The Lord's Prayer.",
-        },
-        {
-          prompt: "What kinds of prayer are common and approved in the Bible?",
-          answer: "Praise, lament, confession, thanksgiving, request, and intercession.",
-        },
-        {
-          prompt: "Why are the Psalms useful for prayer?",
-          answer: "They give Scripture-shaped language for worship, grief, trust, repentance, and hope.",
-        },
-        {
-          prompt: "What is intercession?",
-          answer: "Praying on behalf of someone else.",
-        },
-      ],
-    },
-    {
-      title: "Gospel of John Book Quiz",
-      kicker: "Book",
-      summary: "A whole-book check for John's main claims about Jesus.",
-      detail: "This quiz helps a beginner see John's shape: Jesus as the Word, signs, belief, conflict, cross, resurrection, and restoration.",
-      start: "Take this after finishing the first seven-day John path.",
-      tags: ["John", "Gospel", "book"],
-      questions: [
-        {
-          prompt: "What is the main question John keeps putting in front of the reader?",
-          answer: "Who is Jesus, and what does it mean to believe in him?",
-        },
-        {
-          prompt: "Why are signs important in John?",
-          answer: "They reveal who Jesus is and invite people to trust him, but they also expose misunderstanding and divided responses.",
-        },
-        {
-          prompt: "How does John move from public signs to the cross and resurrection?",
-          answer: "The signs reveal Jesus' identity, conflict grows, Jesus teaches his disciples, then his death and resurrection reveal his mission most fully.",
         },
       ],
     },

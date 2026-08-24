@@ -52,6 +52,17 @@ The suite covers: module import safety, per-page entry wiring, canonical
 navigation/footer/skip-link presence, uniform cache-bust stamps, data shape
 checks, and HTTP 200s for every page.
 
+For deeper checks, `npm run audit` (or `make audit`) runs the full test suite
+plus `audit.mjs`, which covers internal link/anchor resolution, duplicate ids,
+module wiring (orphans), drawer topic reachability, glossary-term coverage,
+Bible canon order, quiz duplicate detection, resource group validity, roadmap
+prerequisite cycles, and accessibility spot checks. It is offline and
+deterministic.
+
+`npm run audit:links` checks every outbound URL against the live web. It needs
+network access, so it is not part of the test suite; run it when external
+resources change.
+
 ## Continuous Integration
 
 Pushes and pull requests run the same `npm test` suite through GitHub Actions. If that check fails,
