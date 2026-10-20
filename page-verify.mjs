@@ -71,6 +71,12 @@ for (const { file, title, entry } of pages) {
     throw new Error(`${file} asset links are missing a ?v=YYYYMMDD-N cache-bust stamp`);
   }
 
+  // Every page loads the shared topbar script (menu toggle + aria-current).
+  const topbarPrefix = file.includes('/') ? '../' : './';
+  if (!html.includes(`<script defer src="${topbarPrefix}topbar.js?v=`)) {
+    throw new Error(`${file} must load ${topbarPrefix}topbar.js as a deferred classic script`);
+  }
+
   // Shared chrome that every page must have.
   if (!html.includes('<a class="skip-link" href="#top">Skip to content</a>')) {
     throw new Error(`${file} is missing the skip link`);
