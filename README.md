@@ -18,11 +18,12 @@ before switching views.
 ## Project layout
 
 - `index.html`, `reference.html`, `roadmap.html`, `quizzes.html`, `quiz-study.html`, `quizzes/*.html`, `prayer.html`, `poetry.html`, `resources.html` — one HTML file per page. Shared chrome (topbar nav rows, footer, skip link) is duplicated on purpose so every page works without JavaScript; `page-verify.mjs` keeps those copies from drifting apart.
+- `topbar.js` — the only classic (non-module) script, loaded with `defer` by every page. It collapses both nav rows behind an accessible Menu button below 760px (Escape and outside clicks close it) and sets `aria-current="page"` on the link for the current page. Without JavaScript the full nav simply stays visible.
 - `page-*.js` — per-page entry scripts (`page-home.js`, `page-poetry.js`, `page-prayer.js`, `page-resources.js`). Each page loads only the feature modules it needs.
 - `prayer.html` ships its sections as static fallback markup inside `#prayer-sections`, wrapped in `<!-- prayer-sections:start/end -->` markers so the page works without JavaScript. `app-prayer.js` only renders client-side when that static copy is missing, and `page-verify.mjs` re-renders `prayer-data.js` in Node and fails if the static copy drifts. After editing prayer content, regenerate the block between the markers and bump the cache-bust stamp.
 - `app-*.js`, `reference*.js`, `quiz-study.js`, `roadmap.js` — feature modules and renderers.
 - `*-data.js` — pure content modules (resources, poetry, drawer topics, roadmap nodes, Bible books, …) with no DOM access.
-- `styles.css` — the single shared stylesheet; the table of contents comment at the top maps its sections.
+- `styles.css` — the single shared stylesheet; the table of contents comment at the top maps its sections. Colours are semantic tokens (`--bg`, `--surface`, `--text`, `--ink`, `--line`, …) defined on `:root`, with a `@media (prefers-color-scheme: dark)` block that remaps them, so the site follows the reader's OS theme.
 
 Cache busting: asset URLs carry a `?v=YYYYMMDD-N` stamp. Bump the stamp in the HTML files whenever JS or CSS changes (the tests assert the stamps stay uniform across pages; they intentionally do not hardcode the current value).
 
@@ -37,8 +38,8 @@ python3 -m http.server 8000
 If you prefer shortcuts, `make test` runs the verification suite and `make serve` starts the
 static server.
 
-The project pins Node 20 in `.nvmrc` and the `engines` field in `package.json`, so use that
-runtime for local verification when possible.
+The project pins Node 22 in `.nvmrc` (any Node 20+ works per the `engines` field in
+`package.json`). The test suite has no npm dependencies and no longer needs Python.
 
 ## Verify
 
@@ -49,8 +50,9 @@ npm test
 ```
 
 The suite covers: module import safety, per-page entry wiring, canonical
-navigation/footer/skip-link presence, uniform cache-bust stamps, data shape
-checks, and HTTP 200s for every page.
+navigation/footer/skip-link presence, the shared `topbar.js` script, uniform
+cache-bust stamps, data shape checks, and HTTP 200s for every page served by a
+built-in Node static server on a free port.
 
 For deeper checks, `npm run audit` (or `make audit`) runs the full test suite
 plus `audit.mjs`, which covers internal link/anchor resolution, duplicate ids,
@@ -65,8 +67,18 @@ resources change.
 
 ## Continuous Integration
 
-Pushes and pull requests run the same `npm test` suite through GitHub Actions. If that check fails,
-fix the local test suite first and then push again.
+Pushes and pull requests run `npm test` and the offline `node audit.mjs` through GitHub Actions
+(`.github/workflows/ci.yml`, Node 22). If that check fails, fix the local test suite first and then push again.
+
+## Accessibility and theming
+
+- Skip link, landmark `<main id="top">`, visible focus rings, and `prefers-reduced-motion` support on every page.
+- The topbar collapses into a Menu button on phones so the sticky header no longer covers half the screen.
+- Light and dark themes follow `prefers-color-scheme`; there is no manual toggle yet.
+
+## Screenshots
+
+_Placeholder: add screenshots of the home hub, reference browser, and roadmap (light and dark) here._
 
 ## Roadmap note
 

@@ -3,7 +3,7 @@
   "private": true,
   "type": "module",
   "engines": {
-    "node": ">=20 <21"
+    "node": ">=20"
   },
   "scripts": {
     "test": "node smoke-test.mjs && node page-verify.mjs && node data-verify.mjs && node http-smoke.mjs",
