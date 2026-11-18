@@ -2019,6 +2019,7 @@ h1 {
 }
 
 .footer a {
+  color: var(--text);
   text-decoration: underline;
   text-underline-offset: 2px;
 }
