@@ -2018,6 +2018,11 @@ h1 {
   font-size: 0.95rem;
 }
 
+.footer a {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
 .drawer-overlay {
   position: fixed;
   inset: 0;
