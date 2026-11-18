@@ -2,6 +2,8 @@
 
 Static GitHub Pages site for a beginner-friendly, comprehensive guide to Jesus, Christianity, the Bible, historical context, listening paths, and supplemental resources.
 
+**Live site:** https://techmore.github.io/0to1withJesus/
+
 ## Pages
 
 - `index.html` for the home hub and resource library
@@ -89,3 +91,5 @@ depends on the browser resolving those remote modules.
 ## Deploy
 
 Push to GitHub and enable GitHub Pages from the repository settings. The site is static and does not require a build step.
+
+Part of [Techmore](https://techmore.github.io/pages/repos/).
